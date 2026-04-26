@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:38:33.598Z",
-  "version": 1777232313598,
+  "updatedAt": "2026-04-26T19:38:35.628Z",
+  "version": 1777232315628,
   "standings": [
     {
       "rank": 1,
@@ -58,18 +58,18 @@
     },
     {
       "rank": 6,
-      "id": 15,
-      "name": "Les Loosers",
+      "id": 33,
+      "name": "Les zizigoto’s",
       "wins": 1,
       "losses": 0,
-      "pour": 7,
-      "contre": 1,
+      "pour": 11,
+      "contre": 7,
       "played": 1
     },
     {
       "rank": 7,
-      "id": 33,
-      "name": "Les zizigoto’s",
+      "id": 73,
+      "name": "furafique farke",
       "wins": 1,
       "losses": 0,
       "pour": 11,
@@ -678,6 +678,16 @@
     },
     {
       "rank": 68,
+      "id": 15,
+      "name": "Les Loosers",
+      "wins": 0,
+      "losses": 1,
+      "pour": 7,
+      "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 69,
       "id": 67,
       "name": "Les chrichri",
       "wins": 0,
@@ -687,7 +697,7 @@
       "played": 1
     },
     {
-      "rank": 69,
+      "rank": 70,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -697,23 +707,13 @@
       "played": 1
     },
     {
-      "rank": 70,
+      "rank": 71,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 0,
       "losses": 1,
       "pour": 5,
       "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 71,
-      "id": 73,
-      "name": "furafique farke",
-      "wins": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 7,
       "played": 1
     },
     {
@@ -794,7 +794,7 @@
       "planche": 7,
       "t1": "furafique farke",
       "t2": "Les Loosers",
-      "score1": "1",
+      "score1": "11",
       "score2": "7"
     },
     {
@@ -1063,7 +1063,7 @@
       "planche": 7,
       "t1": "furafique farke",
       "t2": "Les Loosers",
-      "score1": "1",
+      "score1": "11",
       "score2": "7"
     },
     {
