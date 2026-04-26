@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:19:23.762Z",
-  "version": 1777234763762,
+  "updatedAt": "2026-04-26T20:19:30.414Z",
+  "version": 1777234770414,
   "standings": [
     {
       "rank": 1,
@@ -528,6 +528,16 @@
     },
     {
       "rank": 53,
+      "id": 38,
+      "name": "Les voisins",
+      "wins": 1,
+      "losses": 2,
+      "pour": 26,
+      "contre": 31,
+      "played": 3
+    },
+    {
+      "rank": 54,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -537,7 +547,7 @@
       "played": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 1,
@@ -547,7 +557,7 @@
       "played": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -557,7 +567,7 @@
       "played": 3
     },
     {
-      "rank": 56,
+      "rank": 57,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -567,7 +577,7 @@
       "played": 3
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -577,7 +587,7 @@
       "played": 3
     },
     {
-      "rank": 58,
+      "rank": 59,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -587,7 +597,7 @@
       "played": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -597,7 +607,7 @@
       "played": 3
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -607,27 +617,7 @@
       "played": 3
     },
     {
-      "rank": 61,
-      "id": 38,
-      "name": "Les voisins",
-      "wins": 0,
-      "losses": 2,
-      "pour": 15,
-      "contre": 22,
-      "played": 2
-    },
-    {
       "rank": 62,
-      "id": 10,
-      "name": "Association Domi",
-      "wins": 0,
-      "losses": 2,
-      "pour": 14,
-      "contre": 22,
-      "played": 2
-    },
-    {
-      "rank": 63,
       "id": 40,
       "name": "Tamtam",
       "wins": 0,
@@ -637,7 +627,7 @@
       "played": 2
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 59,
       "name": "Les gâtés Nantais",
       "wins": 0,
@@ -645,6 +635,16 @@
       "pour": 14,
       "contre": 22,
       "played": 2
+    },
+    {
+      "rank": 64,
+      "id": 10,
+      "name": "Association Domi",
+      "wins": 0,
+      "losses": 3,
+      "pour": 23,
+      "contre": 33,
+      "played": 3
     },
     {
       "rank": 65,
@@ -969,8 +969,8 @@
       "planche": 32,
       "t1": "Les voisins",
       "t2": "Association Domi",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "9"
     },
     {
       "planche": 33,
@@ -1263,8 +1263,8 @@
       "planche": 32,
       "t1": "Les voisins",
       "t2": "Association Domi",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "9"
     },
     {
       "round": 3,
