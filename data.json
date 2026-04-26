@@ -3,31 +3,21 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:04:04.303Z",
-  "version": 1777233844303,
+  "updatedAt": "2026-04-26T20:17:25.680Z",
+  "version": 1777234645680,
   "standings": [
     {
       "rank": 1,
       "id": 41,
       "name": "Les salariés de USV",
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "pour": 22,
-      "contre": 5,
-      "played": 2
+      "pour": 33,
+      "contre": 10,
+      "played": 3
     },
     {
       "rank": 2,
-      "id": 1,
-      "name": "Pas d'inspi",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 6,
-      "played": 2
-    },
-    {
-      "rank": 3,
       "id": 46,
       "name": "Le réveil du carré",
       "wins": 2,
@@ -37,7 +27,7 @@
       "played": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": 62,
       "name": "Les patatosses",
       "wins": 2,
@@ -47,7 +37,7 @@
       "played": 2
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 2,
@@ -57,7 +47,7 @@
       "played": 2
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 2,
@@ -67,7 +57,7 @@
       "played": 2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": 53,
       "name": "SPA ma faute",
       "wins": 2,
@@ -77,7 +67,7 @@
       "played": 2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -85,6 +75,16 @@
       "pour": 21,
       "contre": 9,
       "played": 2
+    },
+    {
+      "rank": 8,
+      "id": 1,
+      "name": "Pas d'inspi",
+      "wins": 2,
+      "losses": 1,
+      "pour": 27,
+      "contre": 17,
+      "played": 3
     },
     {
       "rank": 9,
@@ -752,8 +752,8 @@
       "planche": 1,
       "t1": "Les salariés de USV",
       "t2": "Pas d'inspi",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "planche": 2,
@@ -1015,8 +1015,8 @@
       "planche": 1,
       "t1": "Les salariés de USV",
       "t2": "Pas d'inspi",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 3,
@@ -1898,381 +1898,5 @@
       "score1": "11",
       "score2": "9"
     }
-  ],
-  "notifications": {
-    "type": "classement",
-    "timestamp": 1777233844303,
-    "messages": [
-      {
-        "teamId": 1,
-        "teamName": "Pas d'inspi",
-        "text": "💔 Pas de bol cette fois. 2e avec 22 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 2,
-        "teamName": "P’titsBU",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 48e · 17 pts 📚"
-      },
-      {
-        "teamId": 3,
-        "teamName": "Les anonymes",
-        "text": "😅 Manche pas fofolle. 52e avec 12 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 4,
-        "teamName": "La grosse bite de JOJO",
-        "text": "😅 Manche pas fofolle. 30e avec 20 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 5,
-        "teamName": "Les p'tiots",
-        "text": "😅 Manche pas fofolle. 56e avec 11 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 6,
-        "teamName": "73 M",
-        "text": "😅 Manche pas fofolle. 34e avec 20 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 7,
-        "teamName": "Les sombres merdes",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 31e · 20 pts 📚"
-      },
-      {
-        "teamId": 8,
-        "teamName": "Jean Bat Family",
-        "text": "⚽ On a pris un palet dans la lucarne. 60e · 16 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 9,
-        "teamName": "Les Sorinièrois",
-        "text": "😅 Manche pas fofolle. 5e avec 15 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 10,
-        "teamName": "Association Domi",
-        "text": "💔 Pas de bol cette fois. 64e avec 14 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 11,
-        "teamName": "Les Antho",
-        "text": "💔 Pas de bol cette fois. 74e avec 4 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 12,
-        "teamName": "Les Métissés",
-        "text": "😅 Manche pas fofolle. 27e avec 16 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 13,
-        "teamName": "Team Laiton",
-        "text": "⚽ On a pris un palet dans la lucarne. 37e · 18 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 14,
-        "teamName": "Les Winners",
-        "text": "😅 Manche pas fofolle. 42e avec 12 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 15,
-        "teamName": "Les Loosers",
-        "text": "⚽ On a pris un palet dans la lucarne. 61e · 16 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 16,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 53e · 12 pts 📚"
-      },
-      {
-        "teamId": 17,
-        "teamName": "Juju et camtar",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 46e · 17 pts 📚"
-      },
-      {
-        "teamId": 18,
-        "teamName": "La clés de 10",
-        "text": "💔 Pas de bol cette fois. 44e avec 18 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 19,
-        "teamName": "Pistolet à Ô",
-        "text": "😅 Manche pas fofolle. 47e avec 13 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 20,
-        "teamName": "Les Dauphinois",
-        "text": "💔 Pas de bol cette fois. 57e avec 18 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 21,
-        "teamName": "Les Fouillons",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 13e · 22 pts 📚"
-      },
-      {
-        "teamId": 22,
-        "teamName": "MMA 0 tracas 0 blabla",
-        "text": "💔 Pas de bol cette fois. 9e avec 22 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Tif et Mario",
-        "text": "⚽ On a pris un palet dans la lucarne. 35e · 20 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Les pongistes",
-        "text": "⚽ On a pris un palet dans la lucarne. 20e · 20 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 25,
-        "teamName": "Duo du plomb",
-        "text": "😅 Manche pas fofolle. 68e avec 11 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 26,
-        "teamName": "MECABATI",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 15e · 22 pts 📚"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Les double A",
-        "text": "⚽ On a pris un palet dans la lucarne. 69e · 11 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 28,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 6e · 22 pts 📚"
-      },
-      {
-        "teamId": 29,
-        "teamName": "Le comptoir",
-        "text": "💔 Pas de bol cette fois. 29e avec 19 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 30,
-        "teamName": "Les fantomettes du sud",
-        "text": "😅 Manche pas fofolle. 28e avec 20 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 31,
-        "teamName": "Fc Patrick Fouchard",
-        "text": "😅 Manche pas fofolle. 38e avec 18 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 32,
-        "teamName": "LPH",
-        "text": "💔 Pas de bol cette fois. 54e avec 12 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 33,
-        "teamName": "Les zizigoto’s",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 10e · 22 pts 📚"
-      },
-      {
-        "teamId": 34,
-        "teamName": "Pas laid",
-        "text": "💔 Pas de bol cette fois. 25e avec 20 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 35,
-        "teamName": "Les frangins",
-        "text": "⚽ On a pris un palet dans la lucarne. 11e · 22 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 36,
-        "teamName": "Les plombés du SPA",
-        "text": "⚽ On a pris un palet dans la lucarne. 41e · 16 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 37,
-        "teamName": "Les merdes",
-        "text": "💔 Pas de bol cette fois. 19e avec 21 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 38,
-        "teamName": "Les voisins",
-        "text": "😅 Manche pas fofolle. 63e avec 15 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 39,
-        "teamName": "Classe 74",
-        "text": "⚽ On a pris un palet dans la lucarne. 32e · 20 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 40,
-        "teamName": "Tamtam",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 65e · 14 pts 📚"
-      },
-      {
-        "teamId": 41,
-        "teamName": "Les salariés de USV",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 1e · 22 pts 📚"
-      },
-      {
-        "teamId": 42,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 70e · 11 pts 📚"
-      },
-      {
-        "teamId": 43,
-        "teamName": "Les bronzés font du ski",
-        "text": "😅 Manche pas fofolle. 26e avec 20 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 44,
-        "teamName": "Delta",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 22e · 18 pts 📚"
-      },
-      {
-        "teamId": 45,
-        "teamName": "Les assoiffés",
-        "text": "😅 Manche pas fofolle. 71e avec 10 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 46,
-        "teamName": "Le réveil du carré",
-        "text": "💔 Pas de bol cette fois. 3e avec 22 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 47,
-        "teamName": "Lamineur",
-        "text": "😅 Manche pas fofolle. 24e avec 16 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 48,
-        "teamName": "SPA Magique",
-        "text": "💔 Pas de bol cette fois. 67e avec 12 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Pile ou face",
-        "text": "😅 Manche pas fofolle. 62e avec 16 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 50,
-        "teamName": "Les copains",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 58e · 17 pts 📚"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Les Bouesiens",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 59e · 17 pts 📚"
-      },
-      {
-        "teamId": 52,
-        "teamName": "Les beaux frères",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 55e · 12 pts 📚"
-      },
-      {
-        "teamId": 53,
-        "teamName": "SPA ma faute",
-        "text": "😅 Manche pas fofolle. 7e avec 22 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 54,
-        "teamName": "Les SPA Tator",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 33e · 20 pts 📚"
-      },
-      {
-        "teamId": 55,
-        "teamName": "SPA Sorcier",
-        "text": "⚽ On a pris un palet dans la lucarne. 40e · 19 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 56,
-        "teamName": "Ligérien",
-        "text": "⚽ On a pris un palet dans la lucarne. 36e · 20 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 57,
-        "teamName": "SPA passé loin",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 39e · 18 pts 📚"
-      },
-      {
-        "teamId": 58,
-        "teamName": "Eeeeeeeeee",
-        "text": "⚽ On a pris un palet dans la lucarne. 16e · 22 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les gâtés Nantais",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 66e · 14 pts 📚"
-      },
-      {
-        "teamId": 60,
-        "teamName": "N’importe jmen fou",
-        "text": "⚽ On a pris un palet dans la lucarne. 18e · 22 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 61,
-        "teamName": "PABIENS",
-        "text": "😅 Manche pas fofolle. 45e avec 17 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 62,
-        "teamName": "Les patatosses",
-        "text": "💔 Pas de bol cette fois. 4e avec 22 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 63,
-        "teamName": "Les pyramides maudites",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". 14e · 22 pts 📚"
-      },
-      {
-        "teamId": 64,
-        "teamName": "Les crottins",
-        "text": "💔 Pas de bol cette fois. 23e avec 18 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 65,
-        "teamName": "tout pour le show",
-        "text": "😅 Manche pas fofolle. 8e avec 21 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 66,
-        "teamName": "Les Diplomatico",
-        "text": "💔 Pas de bol cette fois. 21e avec 19 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les chrichri",
-        "text": "😅 Manche pas fofolle. 72e avec 3 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 68,
-        "teamName": "Pascal Obistro",
-        "text": "⚽ On a pris un palet dans la lucarne. 73e · 5 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 69,
-        "teamName": "Le Clos Martin",
-        "text": "💔 Pas de bol cette fois. 12e avec 22 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 70,
-        "teamName": "PatBrunne",
-        "text": "💔 Pas de bol cette fois. 43e avec 12 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 71,
-        "teamName": "Antoine et Yaya",
-        "text": "⚽ On a pris un palet dans la lucarne. 17e · 16 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 72,
-        "teamName": "Razmo et Rapido",
-        "text": "😅 Manche pas fofolle. 51e avec 13 pts. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 73,
-        "teamName": "furafique farke",
-        "text": "⚽ On a pris un palet dans la lucarne. 50e · 13 pts. Le coach dit \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 74,
-        "teamName": "Paté en Croûte",
-        "text": "💔 Pas de bol cette fois. 49e avec 16 pts. Un coup avec les vainqueurs et on revient plus forts 🍻"
-      }
-    ]
-  }
+  ]
 }
