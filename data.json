@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:38:27.206Z",
-  "version": 1777232307206,
+  "updatedAt": "2026-04-26T19:38:29.578Z",
+  "version": 1777232309578,
   "standings": [
     {
       "rank": 1,
@@ -38,6 +38,16 @@
     },
     {
       "rank": 4,
+      "id": 34,
+      "name": "Pas laid",
+      "wins": 1,
+      "losses": 0,
+      "pour": 11,
+      "contre": 5,
+      "played": 1
+    },
+    {
+      "rank": 5,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 1,
@@ -47,7 +57,7 @@
       "played": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 1,
@@ -57,19 +67,9 @@
       "played": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": 71,
       "name": "Antoine et Yaya",
-      "wins": 1,
-      "losses": 0,
-      "pour": 5,
-      "contre": 1,
-      "played": 1
-    },
-    {
-      "rank": 7,
-      "id": 74,
-      "name": "Paté en Croûte",
       "wins": 1,
       "losses": 0,
       "pour": 5,
@@ -688,16 +688,6 @@
     },
     {
       "rank": 69,
-      "id": 34,
-      "name": "Pas laid",
-      "wins": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 5,
-      "played": 1
-    },
-    {
-      "rank": 70,
       "id": 67,
       "name": "Les chrichri",
       "wins": 0,
@@ -707,9 +697,19 @@
       "played": 1
     },
     {
-      "rank": 71,
+      "rank": 70,
       "id": 68,
       "name": "Pascal Obistro",
+      "wins": 0,
+      "losses": 1,
+      "pour": 5,
+      "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 71,
+      "id": 74,
+      "name": "Paté en Croûte",
       "wins": 0,
       "losses": 1,
       "pour": 5,
@@ -787,7 +787,7 @@
       "planche": 6,
       "t1": "Pas laid",
       "t2": "Paté en Croûte",
-      "score1": "1",
+      "score1": "11",
       "score2": "5"
     },
     {
@@ -1055,7 +1055,7 @@
       "planche": 6,
       "t1": "Pas laid",
       "t2": "Paté en Croûte",
-      "score1": "1",
+      "score1": "11",
       "score2": "5"
     },
     {
