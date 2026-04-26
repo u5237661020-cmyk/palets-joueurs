@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:14.459Z",
-  "version": 1777234694459,
+  "updatedAt": "2026-04-26T20:18:17.931Z",
+  "version": 1777234697931,
   "standings": [
     {
       "rank": 1,
@@ -158,6 +158,16 @@
     },
     {
       "rank": 16,
+      "id": 43,
+      "name": "Les bronzés font du ski",
+      "wins": 2,
+      "losses": 1,
+      "pour": 31,
+      "contre": 25,
+      "played": 3
+    },
+    {
+      "rank": 17,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 2,
@@ -167,7 +177,7 @@
       "played": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -177,7 +187,7 @@
       "played": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -187,7 +197,7 @@
       "played": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -197,7 +207,7 @@
       "played": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -207,7 +217,7 @@
       "played": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -217,27 +227,7 @@
       "played": 3
     },
     {
-      "rank": 22,
-      "id": 34,
-      "name": "Pas laid",
-      "wins": 1,
-      "losses": 1,
-      "pour": 20,
-      "contre": 16,
-      "played": 2
-    },
-    {
       "rank": 23,
-      "id": 43,
-      "name": "Les bronzés font du ski",
-      "wins": 1,
-      "losses": 1,
-      "pour": 20,
-      "contre": 16,
-      "played": 2
-    },
-    {
-      "rank": 24,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -247,7 +237,7 @@
       "played": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": 30,
       "name": "Les fantomettes du sud",
       "wins": 1,
@@ -257,7 +247,7 @@
       "played": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -265,6 +255,16 @@
       "pour": 19,
       "contre": 16,
       "played": 2
+    },
+    {
+      "rank": 26,
+      "id": 34,
+      "name": "Pas laid",
+      "wins": 1,
+      "losses": 2,
+      "pour": 29,
+      "contre": 27,
+      "played": 3
     },
     {
       "rank": 27,
@@ -836,8 +836,8 @@
       "planche": 13,
       "t1": "Pas laid",
       "t2": "Les bronzés font du ski",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 14,
@@ -1111,8 +1111,8 @@
       "planche": 13,
       "t1": "Pas laid",
       "t2": "Les bronzés font du ski",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 3,
