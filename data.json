@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:19:35.923Z",
-  "version": 1777234775923,
+  "updatedAt": "2026-04-26T20:19:40.873Z",
+  "version": 1777234780873,
   "standings": [
     {
       "rank": 1,
@@ -578,6 +578,16 @@
     },
     {
       "rank": 58,
+      "id": 25,
+      "name": "Duo du plomb",
+      "wins": 1,
+      "losses": 2,
+      "pour": 22,
+      "contre": 31,
+      "played": 3
+    },
+    {
+      "rank": 59,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -587,7 +597,7 @@
       "played": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -597,7 +607,7 @@
       "played": 3
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -607,7 +617,7 @@
       "played": 3
     },
     {
-      "rank": 61,
+      "rank": 62,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -617,7 +627,7 @@
       "played": 3
     },
     {
-      "rank": 62,
+      "rank": 63,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -627,7 +637,7 @@
       "played": 3
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -635,16 +645,6 @@
       "pour": 23,
       "contre": 33,
       "played": 3
-    },
-    {
-      "rank": 64,
-      "id": 48,
-      "name": "SPA Magique",
-      "wins": 0,
-      "losses": 2,
-      "pour": 12,
-      "contre": 22,
-      "played": 2
     },
     {
       "rank": 65,
@@ -668,16 +668,6 @@
     },
     {
       "rank": 67,
-      "id": 25,
-      "name": "Duo du plomb",
-      "wins": 0,
-      "losses": 2,
-      "pour": 11,
-      "contre": 22,
-      "played": 2
-    },
-    {
-      "rank": 68,
       "id": 27,
       "name": "Les double A",
       "wins": 0,
@@ -687,7 +677,7 @@
       "played": 2
     },
     {
-      "rank": 69,
+      "rank": 68,
       "id": 42,
       "name": "Palet Laiton Coufféen",
       "wins": 0,
@@ -695,6 +685,16 @@
       "pour": 11,
       "contre": 22,
       "played": 2
+    },
+    {
+      "rank": 69,
+      "id": 48,
+      "name": "SPA Magique",
+      "wins": 0,
+      "losses": 3,
+      "pour": 21,
+      "contre": 33,
+      "played": 3
     },
     {
       "rank": 70,
@@ -983,8 +983,8 @@
       "planche": 34,
       "t1": "SPA Magique",
       "t2": "Duo du plomb",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 35,
@@ -1279,8 +1279,8 @@
       "planche": 34,
       "t1": "SPA Magique",
       "t2": "Duo du plomb",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 3,
