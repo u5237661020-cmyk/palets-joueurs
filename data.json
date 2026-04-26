@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:22:56.833Z",
-  "version": 1777234976833,
+  "updatedAt": "2026-04-26T20:23:03.749Z",
+  "version": 1777234983749,
   "standings": [
     {
       "rank": 1,
@@ -398,6 +398,26 @@
     },
     {
       "rank": 40,
+      "id": 59,
+      "name": "Les gâtés Nantais",
+      "wins": 2,
+      "losses": 2,
+      "pour": 36,
+      "contre": 38,
+      "played": 4
+    },
+    {
+      "rank": 41,
+      "id": 74,
+      "name": "Paté en Croûte",
+      "wins": 2,
+      "losses": 2,
+      "pour": 35,
+      "contre": 38,
+      "played": 4
+    },
+    {
+      "rank": 42,
       "id": 18,
       "name": "La clés de 10",
       "wins": 2,
@@ -407,7 +427,17 @@
       "played": 4
     },
     {
-      "rank": 41,
+      "rank": 43,
+      "id": 45,
+      "name": "Les assoiffés",
+      "wins": 2,
+      "losses": 2,
+      "pour": 32,
+      "contre": 36,
+      "played": 4
+    },
+    {
+      "rank": 44,
       "id": 30,
       "name": "Les fantomettes du sud",
       "wins": 2,
@@ -417,7 +447,7 @@
       "played": 4
     },
     {
-      "rank": 42,
+      "rank": 45,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 2,
@@ -427,7 +457,7 @@
       "played": 4
     },
     {
-      "rank": 43,
+      "rank": 46,
       "id": 73,
       "name": "furafique farke",
       "wins": 2,
@@ -437,7 +467,7 @@
       "played": 4
     },
     {
-      "rank": 44,
+      "rank": 47,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 2,
@@ -447,7 +477,7 @@
       "played": 4
     },
     {
-      "rank": 45,
+      "rank": 48,
       "id": 15,
       "name": "Les Loosers",
       "wins": 1,
@@ -457,7 +487,7 @@
       "played": 4
     },
     {
-      "rank": 46,
+      "rank": 49,
       "id": 20,
       "name": "Les Dauphinois",
       "wins": 1,
@@ -467,7 +497,7 @@
       "played": 4
     },
     {
-      "rank": 47,
+      "rank": 50,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -477,7 +507,7 @@
       "played": 4
     },
     {
-      "rank": 48,
+      "rank": 51,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -487,7 +517,7 @@
       "played": 4
     },
     {
-      "rank": 49,
+      "rank": 52,
       "id": 13,
       "name": "Team Laiton",
       "wins": 1,
@@ -497,7 +527,7 @@
       "played": 4
     },
     {
-      "rank": 50,
+      "rank": 53,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -507,47 +537,7 @@
       "played": 4
     },
     {
-      "rank": 51,
-      "id": 38,
-      "name": "Les voisins",
-      "wins": 1,
-      "losses": 2,
-      "pour": 26,
-      "contre": 31,
-      "played": 3
-    },
-    {
-      "rank": 52,
-      "id": 59,
-      "name": "Les gâtés Nantais",
-      "wins": 1,
-      "losses": 2,
-      "pour": 25,
-      "contre": 30,
-      "played": 3
-    },
-    {
-      "rank": 53,
-      "id": 36,
-      "name": "Les plombés du SPA",
-      "wins": 1,
-      "losses": 2,
-      "pour": 23,
-      "contre": 28,
-      "played": 3
-    },
-    {
       "rank": 54,
-      "id": 45,
-      "name": "Les assoiffés",
-      "wins": 1,
-      "losses": 2,
-      "pour": 21,
-      "contre": 27,
-      "played": 3
-    },
-    {
-      "rank": 55,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -557,27 +547,27 @@
       "played": 4
     },
     {
-      "rank": 56,
-      "id": 74,
-      "name": "Paté en Croûte",
+      "rank": 55,
+      "id": 36,
+      "name": "Les plombés du SPA",
       "wins": 1,
-      "losses": 2,
-      "pour": 24,
-      "contre": 31,
-      "played": 3
+      "losses": 3,
+      "pour": 32,
+      "contre": 39,
+      "played": 4
+    },
+    {
+      "rank": 56,
+      "id": 38,
+      "name": "Les voisins",
+      "wins": 1,
+      "losses": 3,
+      "pour": 34,
+      "contre": 42,
+      "played": 4
     },
     {
       "rank": 57,
-      "id": 27,
-      "name": "Les double A",
-      "wins": 1,
-      "losses": 2,
-      "pour": 22,
-      "contre": 29,
-      "played": 3
-    },
-    {
-      "rank": 58,
       "id": 24,
       "name": "Les pongistes",
       "wins": 1,
@@ -587,7 +577,7 @@
       "played": 4
     },
     {
-      "rank": 59,
+      "rank": 58,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -597,7 +587,7 @@
       "played": 3
     },
     {
-      "rank": 60,
+      "rank": 59,
       "id": 25,
       "name": "Duo du plomb",
       "wins": 1,
@@ -605,6 +595,16 @@
       "pour": 22,
       "contre": 31,
       "played": 3
+    },
+    {
+      "rank": 60,
+      "id": 27,
+      "name": "Les double A",
+      "wins": 1,
+      "losses": 3,
+      "pour": 29,
+      "contre": 40,
+      "played": 4
     },
     {
       "rank": 61,
@@ -934,22 +934,22 @@
       "planche": 27,
       "t1": "Les voisins",
       "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "planche": 28,
       "t1": "Les plombés du SPA",
       "t2": "Les assoiffés",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 29,
       "t1": "Paté en Croûte",
       "t2": "Les double A",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "7"
     },
     {
       "planche": 30,
@@ -1223,24 +1223,24 @@
       "planche": 27,
       "t1": "Les voisins",
       "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "round": 4,
       "planche": 28,
       "t1": "Les plombés du SPA",
       "t2": "Les assoiffés",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 4,
       "planche": 29,
       "t1": "Paté en Croûte",
       "t2": "Les double A",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "7"
     },
     {
       "round": 4,
