@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:57.228Z",
-  "version": 1777234737228,
+  "updatedAt": "2026-04-26T20:19:07.893Z",
+  "version": 1777234747893,
   "standings": [
     {
       "rank": 1,
@@ -298,6 +298,16 @@
     },
     {
       "rank": 30,
+      "id": 72,
+      "name": "Razmo et Rapido",
+      "wins": 2,
+      "losses": 1,
+      "pour": 24,
+      "contre": 23,
+      "played": 3
+    },
+    {
+      "rank": 31,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -307,7 +317,7 @@
       "played": 3
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": 18,
       "name": "La clés de 10",
       "wins": 2,
@@ -317,7 +327,7 @@
       "played": 3
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -327,7 +337,27 @@
       "played": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
+      "id": 73,
+      "name": "furafique farke",
+      "wins": 2,
+      "losses": 1,
+      "pour": 24,
+      "contre": 26,
+      "played": 3
+    },
+    {
+      "rank": 35,
+      "id": 16,
+      "name": "Jeanne d’arc Villemoisan",
+      "wins": 2,
+      "losses": 1,
+      "pour": 23,
+      "contre": 25,
+      "played": 3
+    },
+    {
+      "rank": 36,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -337,7 +367,7 @@
       "played": 3
     },
     {
-      "rank": 34,
+      "rank": 37,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -347,7 +377,7 @@
       "played": 3
     },
     {
-      "rank": 35,
+      "rank": 38,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -357,7 +387,7 @@
       "played": 3
     },
     {
-      "rank": 36,
+      "rank": 39,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -367,7 +397,7 @@
       "played": 3
     },
     {
-      "rank": 37,
+      "rank": 40,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -377,7 +407,7 @@
       "played": 3
     },
     {
-      "rank": 38,
+      "rank": 41,
       "id": 44,
       "name": "Delta",
       "wins": 1,
@@ -387,7 +417,7 @@
       "played": 3
     },
     {
-      "rank": 39,
+      "rank": 42,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -397,7 +427,7 @@
       "played": 3
     },
     {
-      "rank": 40,
+      "rank": 43,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -407,7 +437,7 @@
       "played": 3
     },
     {
-      "rank": 41,
+      "rank": 44,
       "id": 13,
       "name": "Team Laiton",
       "wins": 1,
@@ -417,7 +447,7 @@
       "played": 3
     },
     {
-      "rank": 42,
+      "rank": 45,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 1,
@@ -427,7 +457,7 @@
       "played": 3
     },
     {
-      "rank": 43,
+      "rank": 46,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -437,7 +467,7 @@
       "played": 3
     },
     {
-      "rank": 44,
+      "rank": 47,
       "id": 70,
       "name": "PatBrunne",
       "wins": 1,
@@ -447,7 +477,7 @@
       "played": 3
     },
     {
-      "rank": 45,
+      "rank": 48,
       "id": 24,
       "name": "Les pongistes",
       "wins": 1,
@@ -457,17 +487,7 @@
       "played": 3
     },
     {
-      "rank": 46,
-      "id": 74,
-      "name": "Paté en Croûte",
-      "wins": 1,
-      "losses": 1,
-      "pour": 16,
-      "contre": 20,
-      "played": 2
-    },
-    {
-      "rank": 47,
+      "rank": 49,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -477,57 +497,17 @@
       "played": 3
     },
     {
-      "rank": 48,
-      "id": 73,
-      "name": "furafique farke",
-      "wins": 1,
-      "losses": 1,
-      "pour": 13,
-      "contre": 18,
-      "played": 2
-    },
-    {
-      "rank": 49,
-      "id": 72,
-      "name": "Razmo et Rapido",
-      "wins": 1,
-      "losses": 1,
-      "pour": 13,
-      "contre": 20,
-      "played": 2
-    },
-    {
       "rank": 50,
-      "id": 3,
-      "name": "Les anonymes",
+      "id": 74,
+      "name": "Paté en Croûte",
       "wins": 1,
-      "losses": 1,
-      "pour": 12,
-      "contre": 20,
-      "played": 2
+      "losses": 2,
+      "pour": 24,
+      "contre": 31,
+      "played": 3
     },
     {
       "rank": 51,
-      "id": 16,
-      "name": "Jeanne d’arc Villemoisan",
-      "wins": 1,
-      "losses": 1,
-      "pour": 12,
-      "contre": 20,
-      "played": 2
-    },
-    {
-      "rank": 52,
-      "id": 32,
-      "name": "LPH",
-      "wins": 1,
-      "losses": 1,
-      "pour": 12,
-      "contre": 20,
-      "played": 2
-    },
-    {
-      "rank": 53,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -537,7 +517,7 @@
       "played": 2
     },
     {
-      "rank": 54,
+      "rank": 52,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -547,7 +527,7 @@
       "played": 3
     },
     {
-      "rank": 55,
+      "rank": 53,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 1,
@@ -557,12 +537,32 @@
       "played": 2
     },
     {
-      "rank": 56,
+      "rank": 54,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
       "losses": 2,
       "pour": 19,
+      "contre": 31,
+      "played": 3
+    },
+    {
+      "rank": 55,
+      "id": 32,
+      "name": "LPH",
+      "wins": 1,
+      "losses": 2,
+      "pour": 17,
+      "contre": 31,
+      "played": 3
+    },
+    {
+      "rank": 56,
+      "id": 3,
+      "name": "Les anonymes",
+      "wins": 1,
+      "losses": 2,
+      "pour": 15,
       "contre": 31,
       "played": 3
     },
@@ -920,22 +920,22 @@
       "planche": 25,
       "t1": "Paté en Croûte",
       "t2": "furafique farke",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "planche": 26,
       "t1": "Razmo et Rapido",
       "t2": "Les anonymes",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "3"
     },
     {
       "planche": 27,
       "t1": "Jeanne d’arc Villemoisan",
       "t2": "LPH",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "planche": 28,
@@ -1207,24 +1207,24 @@
       "planche": 25,
       "t1": "Paté en Croûte",
       "t2": "furafique farke",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "round": 3,
       "planche": 26,
       "t1": "Razmo et Rapido",
       "t2": "Les anonymes",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "3"
     },
     {
       "round": 3,
       "planche": 27,
       "t1": "Jeanne d’arc Villemoisan",
       "t2": "LPH",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 3,
