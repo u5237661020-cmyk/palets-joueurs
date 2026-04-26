@@ -6,8 +6,8 @@
   "phase": "final",
   "phaseLabel": "Phase finale",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T20:41:24.111Z",
-  "version": 1777236084111,
+  "updatedAt": "2026-04-26T20:41:43.192Z",
+  "version": 1777236103192,
   "standings": [
     {
       "rank": 1,
@@ -898,96 +898,7 @@
       "ga": -25
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "25ème/26ème PLACE",
-      "planche": "25ème/26ème PLACE",
-      "matchId": "classif_25",
-      "isFinal": true,
-      "t1": "Les Diplomatico",
-      "t2": "Lamineur",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "27ème/28ème PLACE",
-      "planche": "27ème/28ème PLACE",
-      "matchId": "classif_27",
-      "isFinal": true,
-      "t1": "Pas laid",
-      "t2": "Les Bouesiens",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "29ème/30ème PLACE",
-      "planche": "29ème/30ème PLACE",
-      "matchId": "classif_29",
-      "isFinal": true,
-      "t1": "Delta",
-      "t2": "Classe 74",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "31ème/32ème PLACE",
-      "planche": "31ème/32ème PLACE",
-      "matchId": "classif_31",
-      "isFinal": true,
-      "t1": "SPA passé loin",
-      "t2": "Ligérien",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "33ème/34ème PLACE",
-      "planche": "33ème/34ème PLACE",
-      "matchId": "classif_33",
-      "isFinal": true,
-      "t1": "Les sombres merdes",
-      "t2": "Les Winners",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "35ème/36ème PLACE",
-      "planche": "35ème/36ème PLACE",
-      "matchId": "classif_35",
-      "isFinal": true,
-      "t1": "PatBrunne",
-      "t2": "Les SPA Tator",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "37ème/38ème PLACE",
-      "planche": "37ème/38ème PLACE",
-      "matchId": "classif_37",
-      "isFinal": true,
-      "t1": "La grosse bite de JOJO",
-      "t2": "Les Fouillons",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "39ème/40ème PLACE",
-      "planche": "39ème/40ème PLACE",
-      "matchId": "classif_39",
-      "isFinal": true,
-      "t1": "Razmo et Rapido",
-      "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -1119,6 +1030,94 @@
       "isFinal": true,
       "t1": "Jeanne d’arc Villemoisan",
       "t2": "Eeeeeeeeee",
+      "score1": "11",
+      "score2": "6"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "25ème/26ème PLACE",
+      "planche": "25ème/26ème PLACE",
+      "matchId": "classif_25",
+      "isFinal": true,
+      "t1": "Les Diplomatico",
+      "t2": "Lamineur",
+      "score1": "7",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "27ème/28ème PLACE",
+      "planche": "27ème/28ème PLACE",
+      "matchId": "classif_27",
+      "isFinal": true,
+      "t1": "Pas laid",
+      "t2": "Les Bouesiens",
+      "score1": "11",
+      "score2": "4"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "29ème/30ème PLACE",
+      "planche": "29ème/30ème PLACE",
+      "matchId": "classif_29",
+      "isFinal": true,
+      "t1": "Delta",
+      "t2": "Classe 74",
+      "score1": "6",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "31ème/32ème PLACE",
+      "planche": "31ème/32ème PLACE",
+      "matchId": "classif_31",
+      "isFinal": true,
+      "t1": "SPA passé loin",
+      "t2": "Ligérien",
+      "score1": "7",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "33ème/34ème PLACE",
+      "planche": "33ème/34ème PLACE",
+      "matchId": "classif_33",
+      "isFinal": true,
+      "t1": "Les sombres merdes",
+      "t2": "Les Winners",
+      "score1": "11",
+      "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "35ème/36ème PLACE",
+      "planche": "35ème/36ème PLACE",
+      "matchId": "classif_35",
+      "isFinal": true,
+      "t1": "PatBrunne",
+      "t2": "Les SPA Tator",
+      "score1": "11",
+      "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "37ème/38ème PLACE",
+      "planche": "37ème/38ème PLACE",
+      "matchId": "classif_37",
+      "isFinal": true,
+      "t1": "La grosse bite de JOJO",
+      "t2": "Les Fouillons",
+      "score1": "11",
+      "score2": "2"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "39ème/40ème PLACE",
+      "planche": "39ème/40ème PLACE",
+      "matchId": "classif_39",
+      "isFinal": true,
+      "t1": "Razmo et Rapido",
+      "t2": "Les gâtés Nantais",
       "score1": "11",
       "score2": "6"
     },
