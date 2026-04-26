@@ -6,8 +6,8 @@
   "phase": "final",
   "phaseLabel": "Phase finale",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T20:38:32.272Z",
-  "version": 1777235912272,
+  "updatedAt": "2026-04-26T20:38:36.828Z",
+  "version": 1777235916828,
   "standings": [
     {
       "rank": 1,
@@ -901,17 +901,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "13ème/14ème PLACE",
-      "planche": "13ème/14ème PLACE",
-      "matchId": "classif_13",
-      "isFinal": true,
-      "t1": "PABIENS",
-      "t2": "Les Sorinièrois",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "15ème/16ème PLACE",
       "planche": "15ème/16ème PLACE",
       "matchId": "classif_15",
@@ -1306,6 +1295,17 @@
       "isFinal": true,
       "t1": "Le Clos Martin",
       "t2": "On est inscrit c'est déjà bien",
+      "score1": "6",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "13ème/14ème PLACE",
+      "planche": "13ème/14ème PLACE",
+      "matchId": "classif_13",
+      "isFinal": true,
+      "t1": "PABIENS",
+      "t2": "Les Sorinièrois",
       "score1": "6",
       "score2": "11"
     },
