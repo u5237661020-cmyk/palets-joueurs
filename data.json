@@ -3,63 +3,63 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:20:22.393Z",
-  "version": 1777234822393,
+  "updatedAt": "2026-04-26T20:21:24.277Z",
+  "version": 1777234884277,
   "standings": [
     {
       "rank": 1,
       "id": 41,
       "name": "Les salariés de USV",
-      "wins": 3,
+      "wins": 4,
       "losses": 0,
-      "pour": 33,
-      "contre": 10,
-      "played": 3
+      "pour": 44,
+      "contre": 20,
+      "played": 4
     },
     {
       "rank": 2,
-      "id": 53,
-      "name": "SPA ma faute",
-      "wins": 3,
+      "id": 46,
+      "name": "Le réveil du carré",
+      "wins": 4,
       "losses": 0,
-      "pour": 33,
-      "contre": 10,
-      "played": 3
+      "pour": 42,
+      "contre": 19,
+      "played": 4
     },
     {
       "rank": 3,
-      "id": 46,
-      "name": "Le réveil du carré",
-      "wins": 3,
+      "id": 22,
+      "name": "MMA 0 tracas 0 blabla",
+      "wins": 4,
       "losses": 0,
-      "pour": 33,
-      "contre": 15,
-      "played": 3
+      "pour": 42,
+      "contre": 26,
+      "played": 4
     },
     {
       "rank": 4,
-      "id": 26,
-      "name": "MECABATI",
+      "id": 53,
+      "name": "SPA ma faute",
       "wins": 3,
-      "losses": 0,
-      "pour": 33,
-      "contre": 16,
-      "played": 3
+      "losses": 1,
+      "pour": 43,
+      "contre": 21,
+      "played": 4
     },
     {
       "rank": 5,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 3,
-      "losses": 0,
-      "pour": 33,
-      "contre": 17,
-      "played": 3
+      "losses": 1,
+      "pour": 39,
+      "contre": 26,
+      "played": 4
     },
     {
       "rank": 6,
-      "id": 22,
-      "name": "MMA 0 tracas 0 blabla",
+      "id": 69,
+      "name": "Le Clos Martin",
       "wins": 3,
       "losses": 0,
       "pour": 33,
@@ -68,13 +68,13 @@
     },
     {
       "rank": 7,
-      "id": 69,
-      "name": "Le Clos Martin",
+      "id": 26,
+      "name": "MECABATI",
       "wins": 3,
-      "losses": 0,
-      "pour": 33,
-      "contre": 20,
-      "played": 3
+      "losses": 1,
+      "pour": 37,
+      "contre": 25,
+      "played": 4
     },
     {
       "rank": 8,
@@ -752,22 +752,22 @@
       "planche": 1,
       "t1": "Les salariés de USV",
       "t2": "SPA ma faute",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "10"
     },
     {
       "planche": 2,
       "t1": "Le réveil du carré",
       "t2": "MECABATI",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "4"
     },
     {
       "planche": 3,
       "t1": "On est inscrit c'est déjà bien",
       "t2": "MMA 0 tracas 0 blabla",
-      "score1": "",
-      "score2": ""
+      "score1": "6",
+      "score2": "9"
     },
     {
       "planche": 4,
@@ -1015,24 +1015,24 @@
       "planche": 1,
       "t1": "Les salariés de USV",
       "t2": "SPA ma faute",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "10"
     },
     {
       "round": 4,
       "planche": 2,
       "t1": "Le réveil du carré",
       "t2": "MECABATI",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "4"
     },
     {
       "round": 4,
       "planche": 3,
       "t1": "On est inscrit c'est déjà bien",
       "t2": "MMA 0 tracas 0 blabla",
-      "score1": "",
-      "score2": ""
+      "score1": "6",
+      "score2": "9"
     },
     {
       "round": 4,
@@ -2194,382 +2194,5 @@
       "score1": "11",
       "score2": "9"
     }
-  ],
-  "notifications": {
-    "type": "prochain",
-    "timestamp": 1777234822393,
-    "round": 4,
-    "messages": [
-      {
-        "teamId": 41,
-        "teamName": "Les salariés de USV",
-        "text": "⚽ Match couperet ! Planche 1 vs SPA ma faute. Comme un barrage de fin de saison, faut le gagner 🔥"
-      },
-      {
-        "teamId": 53,
-        "teamName": "SPA ma faute",
-        "text": "🏁 Dernier match du tournoi, planche 1 vs Les salariés de USV. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 46,
-        "teamName": "Le réveil du carré",
-        "text": "😌 Voilà la dernière manche. Planche 2 vs MECABATI. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 26,
-        "teamName": "MECABATI",
-        "text": "🏁 Dernier match du tournoi, planche 2 vs Le réveil du carré. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 28,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "😌 Voilà la dernière manche. Planche 3 vs MMA 0 tracas 0 blabla. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 22,
-        "teamName": "MMA 0 tracas 0 blabla",
-        "text": "👀 Ce match est IMPORTANT. Planche 3 vs On est inscrit c'est déjà bien. Podium en ligne de mire 🏆"
-      },
-      {
-        "teamId": 69,
-        "teamName": "Le Clos Martin",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 4 contre la noble lignée des N’importe jmen fou. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 60,
-        "teamName": "N’importe jmen fou",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 4 vs Le Clos Martin. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 63,
-        "teamName": "Les pyramides maudites",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 5 contre la noble lignée des Les merdes. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 37,
-        "teamName": "Les merdes",
-        "text": "😌 Voilà la dernière manche. Planche 5 vs Les pyramides maudites. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 66,
-        "teamName": "Les Diplomatico",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 6 vs Pas d'inspi. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 1,
-        "teamName": "Pas d'inspi",
-        "text": "🔥 ULTIME MANCHE ! Planche 6 vs Les Diplomatico. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 47,
-        "teamName": "Lamineur",
-        "text": "⚽ FINALE de championnat ! Planche 7 vs Les Sorinièrois. On a gardé le meilleur pour la fin. Allez Lamineur 💪"
-      },
-      {
-        "teamId": 9,
-        "teamName": "Les Sorinièrois",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 7 contre la noble lignée des Lamineur. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 62,
-        "teamName": "Les patatosses",
-        "text": "🏁 Dernier match du tournoi, planche 8 vs Les fantomettes du sud. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 30,
-        "teamName": "Les fantomettes du sud",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 8 contre la noble lignée des Les patatosses. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 61,
-        "teamName": "PABIENS",
-        "text": "🔥 ULTIME MANCHE ! Planche 9 vs Classe 74. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 39,
-        "teamName": "Classe 74",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 9 vs PABIENS. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 43,
-        "teamName": "Les bronzés font du ski",
-        "text": "🔥 ULTIME MANCHE ! Planche 10 vs Les Fouillons. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 21,
-        "teamName": "Les Fouillons",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 10 contre la noble lignée des Les bronzés font du ski. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 4,
-        "teamName": "La grosse bite de JOJO",
-        "text": "😌 Voilà la dernière manche. Planche 11 vs 73 M. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 6,
-        "teamName": "73 M",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 11 vs La grosse bite de JOJO. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 56,
-        "teamName": "Ligérien",
-        "text": "⚽ FINALE de championnat ! Planche 12 vs Les zizigoto’s. On a gardé le meilleur pour la fin. Allez Ligérien 💪"
-      },
-      {
-        "teamId": 33,
-        "teamName": "Les zizigoto’s",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 12 vs Ligérien. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 35,
-        "teamName": "Les frangins",
-        "text": "🏁 Dernier match du tournoi, planche 13 vs Les Winners. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 14,
-        "teamName": "Les Winners",
-        "text": "⚽ FINALE de championnat ! Planche 13 vs Les frangins. On a gardé le meilleur pour la fin. Allez Les Winners 💪"
-      },
-      {
-        "teamId": 31,
-        "teamName": "Fc Patrick Fouchard",
-        "text": "😌 Voilà la dernière manche. Planche 14 vs Pistolet à Ô. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 19,
-        "teamName": "Pistolet à Ô",
-        "text": "😌 Voilà la dernière manche. Planche 14 vs Fc Patrick Fouchard. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 55,
-        "teamName": "SPA Sorcier",
-        "text": "😌 Voilà la dernière manche. Planche 15 vs Razmo et Rapido. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 72,
-        "teamName": "Razmo et Rapido",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 15 contre la noble lignée des SPA Sorcier. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 65,
-        "teamName": "tout pour le show",
-        "text": "⚽ FINALE de championnat ! Planche 16 vs La clés de 10. On a gardé le meilleur pour la fin. Allez tout pour le show 💪"
-      },
-      {
-        "teamId": 18,
-        "teamName": "La clés de 10",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 16 contre la noble lignée des tout pour le show. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 71,
-        "teamName": "Antoine et Yaya",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 17 contre la noble lignée des furafique farke. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 73,
-        "teamName": "furafique farke",
-        "text": "⚽ FINALE de championnat ! Planche 17 vs Antoine et Yaya. On a gardé le meilleur pour la fin. Allez furafique farke 💪"
-      },
-      {
-        "teamId": 16,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🏁 Dernier match du tournoi, planche 18 vs Les p'tiots. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 5,
-        "teamName": "Les p'tiots",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 18 vs Jeanne d’arc Villemoisan. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 58,
-        "teamName": "Eeeeeeeeee",
-        "text": "🏁 Dernier match du tournoi, planche 19 vs Les Loosers. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 15,
-        "teamName": "Les Loosers",
-        "text": "🔥 ULTIME MANCHE ! Planche 19 vs Eeeeeeeeee. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 34,
-        "teamName": "Pas laid",
-        "text": "🏁 Dernier match du tournoi, planche 20 vs Le comptoir. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 29,
-        "teamName": "Le comptoir",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 20 vs Pas laid. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 64,
-        "teamName": "Les crottins",
-        "text": "⚽ FINALE de championnat ! Planche 21 vs Les Bouesiens. On a gardé le meilleur pour la fin. Allez Les crottins 💪"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Les Bouesiens",
-        "text": "🔥 ULTIME MANCHE ! Planche 21 vs Les crottins. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 12,
-        "teamName": "Les Métissés",
-        "text": "😌 Voilà la dernière manche. Planche 22 vs Delta. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 44,
-        "teamName": "Delta",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 22 contre la noble lignée des Les Métissés. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 54,
-        "teamName": "Les SPA Tator",
-        "text": "😌 Voilà la dernière manche. Planche 23 vs Les Dauphinois. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 20,
-        "teamName": "Les Dauphinois",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 23 contre la noble lignée des Les SPA Tator. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 7,
-        "teamName": "Les sombres merdes",
-        "text": "🏁 Dernier match du tournoi, planche 24 vs Team Laiton. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 13,
-        "teamName": "Team Laiton",
-        "text": "⚽ FINALE de championnat ! Planche 24 vs Les sombres merdes. On a gardé le meilleur pour la fin. Allez Team Laiton 💪"
-      },
-      {
-        "teamId": 57,
-        "teamName": "SPA passé loin",
-        "text": "🔥 ULTIME MANCHE ! Planche 25 vs Tif et Mario. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Tif et Mario",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 25 vs SPA passé loin. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 70,
-        "teamName": "PatBrunne",
-        "text": "🏁 Dernier match du tournoi, planche 26 vs Les pongistes. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Les pongistes",
-        "text": "🔥 ULTIME MANCHE ! Planche 26 vs PatBrunne. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 38,
-        "teamName": "Les voisins",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 27 vs Les gâtés Nantais. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les gâtés Nantais",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 27 contre la noble lignée des Les voisins. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 36,
-        "teamName": "Les plombés du SPA",
-        "text": "😌 Voilà la dernière manche. Planche 28 vs Les assoiffés. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 45,
-        "teamName": "Les assoiffés",
-        "text": "😌 Voilà la dernière manche. Planche 28 vs Les plombés du SPA. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 74,
-        "teamName": "Paté en Croûte",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 29 vs Les double A. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Les double A",
-        "text": "😌 Voilà la dernière manche. Planche 29 vs Paté en Croûte. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 2,
-        "teamName": "P’titsBU",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 30 contre la noble lignée des Duo du plomb. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 25,
-        "teamName": "Duo du plomb",
-        "text": "🏁 Dernier match du tournoi, planche 30 vs P’titsBU. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 17,
-        "teamName": "Juju et camtar",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 31 contre la noble lignée des Les beaux frères. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 52,
-        "teamName": "Les beaux frères",
-        "text": "🏁 Dernier match du tournoi, planche 31 vs Juju et camtar. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 32,
-        "teamName": "LPH",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 32 vs Les anonymes. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 3,
-        "teamName": "Les anonymes",
-        "text": "😌 Voilà la dernière manche. Planche 32 vs LPH. On profite, on lance, après c'est apéro géant 🍻"
-      },
-      {
-        "teamId": 11,
-        "teamName": "Les Antho",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 33 contre la noble lignée des Les copains. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 50,
-        "teamName": "Les copains",
-        "text": "🎯 DERNIÈRE MANCHE ! Planche 33 vs Les Antho. Tout se joue ici. Que la légende s'écrive 🥏"
-      },
-      {
-        "teamId": 10,
-        "teamName": "Association Domi",
-        "text": "🏁 Dernier match du tournoi, planche 34 vs Jean Bat Family. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 8,
-        "teamName": "Jean Bat Family",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 34 contre la noble lignée des Association Domi. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 40,
-        "teamName": "Tamtam",
-        "text": "⚽ FINALE de championnat ! Planche 35 vs SPA Magique. On a gardé le meilleur pour la fin. Allez Tamtam 💪"
-      },
-      {
-        "teamId": 48,
-        "teamName": "SPA Magique",
-        "text": "🔥 ULTIME MANCHE ! Planche 35 vs Tamtam. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 42,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "🔥 ULTIME MANCHE ! Planche 36 vs Pile ou face. Donnez tout. Et si vous mordez, on en reparle après 😏"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Pile ou face",
-        "text": "🏁 Dernier match du tournoi, planche 36 vs Palet Laiton Coufféen. Quoi qu'il arrive, autant finir en beauté 😉"
-      },
-      {
-        "teamId": 68,
-        "teamName": "Pascal Obistro",
-        "text": "⚔️ L'heure du dernier combat a sonné. Planche 37 contre la noble lignée des Les chrichri. Que votre palet soit votre épée 🗡️"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les chrichri",
-        "text": "🏁 Dernier match du tournoi, planche 37 vs Pascal Obistro. Quoi qu'il arrive, autant finir en beauté 😉"
-      }
-    ]
-  }
+  ]
 }
