@@ -6,8 +6,12 @@
   "phase": "qualifying",
   "phaseLabel": "Partie 1",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T21:11:24.922Z",
-  "version": 1777237884922,
+  "headerRoundLabel": "PARTIE",
+  "headerRoundValue": "1/5",
+  "finalProgress": null,
+  "rulesText": "",
+  "updatedAt": "2026-04-26T21:26:15.067Z",
+  "version": 1777238775067,
   "standings": [
     {
       "rank": 1,
@@ -999,8 +1003,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 1,
-      "t1": "Jérôme et Mickaël",
-      "t2": "Bouses premium",
+      "t1": "Chicots",
+      "t2": "Le comptoir",
       "score1": "",
       "score2": ""
     },
@@ -1008,8 +1012,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 2,
-      "t1": "Les Festi’papeche",
-      "t2": "Thomas et Ethan",
+      "t1": "Les SPA Tator",
+      "t2": "Le réveil du carré",
       "score1": "",
       "score2": ""
     },
@@ -1017,6 +1021,87 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 3,
+      "t1": "Fc Patrick Fouchard",
+      "t2": "Pas d'inspi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Les kéké",
+      "t2": "Les Festi’papeche",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "P’titsBU",
+      "t2": "Les salariés de USV",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "Les anonymes",
+      "t2": "Bouses premium",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Palet Laiton Coufféen",
+      "t2": "Delta",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Thomas et Ethan",
+      "t2": "Duo du plomb",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "Les copains",
+      "t2": "Les fantomettes du sud",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Jérôme et Mickaël",
+      "t2": "SPA ma faute",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "La grosse bite de JOJO",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
       "t1": "Roropit",
       "t2": "2F",
       "score1": "",
@@ -1025,90 +1110,9 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
-      "planche": 4,
-      "t1": "Chicots",
-      "t2": "Les kéké",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 5,
-      "t1": "Les anonymes",
-      "t2": "73 M",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 6,
-      "t1": "Les p'tiots",
-      "t2": "Jean Bat Family",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 7,
-      "t1": "Les sombres merdes",
-      "t2": "Pas d'inspi",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 8,
-      "t1": "P’titsBU",
-      "t2": "La grosse bite de JOJO",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 9,
-      "t1": "Juju et camtar",
-      "t2": "Les Métissés",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 10,
-      "t1": "Les Sorinièrois",
-      "t2": "Les Loosers",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 11,
-      "t1": "Pistolet à Ô",
-      "t2": "Les Antho",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 12,
-      "t1": "Team Laiton",
-      "t2": "Tif et Mario",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
       "planche": 13,
-      "t1": "Les Fouillons",
-      "t2": "MMA 0 tracas 0 blabla",
+      "t1": "Les assoiffés",
+      "t2": "SPA Sorcier",
       "score1": "",
       "score2": ""
     },
@@ -1116,8 +1120,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 14,
-      "t1": "Les Winners",
-      "t2": "Les pongistes",
+      "t1": "Les p'tiots",
+      "t2": "Les sombres merdes",
       "score1": "",
       "score2": ""
     },
@@ -1125,8 +1129,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 15,
-      "t1": "Jeanne d’arc Villemoisan",
-      "t2": "Les Dauphinois",
+      "t1": "73 M",
+      "t2": "Jean Bat Family",
       "score1": "",
       "score2": ""
     },
@@ -1134,8 +1138,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 16,
-      "t1": "La clés de 10",
-      "t2": "Association Domi",
+      "t1": "MMA 0 tracas 0 blabla",
+      "t2": "Les Sorinièrois",
       "score1": "",
       "score2": ""
     },
@@ -1143,8 +1147,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 17,
-      "t1": "Palet Laiton Coufféen",
-      "t2": "Les copains",
+      "t1": "Lamineur",
+      "t2": "Les bronzés font du ski",
       "score1": "",
       "score2": ""
     },
@@ -1152,8 +1156,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 18,
-      "t1": "MECABATI",
-      "t2": "On est inscrit c'est déjà bien",
+      "t1": "Les Antho",
+      "t2": "SPA Magique",
       "score1": "",
       "score2": ""
     },
@@ -1161,8 +1165,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 19,
-      "t1": "Duo du plomb",
-      "t2": "Les double A",
+      "t1": "MECABATI",
+      "t2": "LPH",
       "score1": "",
       "score2": ""
     },
@@ -1170,25 +1174,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 20,
-      "t1": "Fc Patrick Fouchard",
-      "t2": "Les salariés de USV",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 21,
       "t1": "Les Bouesiens",
-      "t2": "Delta",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 22,
-      "t1": "Les bronzés font du ski",
       "t2": "Pile ou face",
       "score1": "",
       "score2": ""
@@ -1196,9 +1182,27 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Ligérien",
+      "t2": "Les Métissés",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Association Domi",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 23,
-      "t1": "LPH",
-      "t2": "Le comptoir",
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Les Loosers",
       "score1": "",
       "score2": ""
     },
@@ -1206,8 +1210,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 24,
-      "t1": "Le réveil du carré",
-      "t2": "Les fantomettes du sud",
+      "t1": "Les Dauphinois",
+      "t2": "Les zizigoto’s",
       "score1": "",
       "score2": ""
     },
@@ -1215,8 +1219,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 25,
-      "t1": "Les assoiffés",
-      "t2": "Pas laid",
+      "t1": "Les Fouillons",
+      "t2": "Team Laiton",
       "score1": "",
       "score2": ""
     },
@@ -1224,8 +1228,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 26,
-      "t1": "Les zizigoto’s",
-      "t2": "Les beaux frères",
+      "t1": "Les beaux frères",
+      "t2": "Tif et Mario",
       "score1": "",
       "score2": ""
     },
@@ -1242,7 +1246,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 28,
-      "t1": "Lamineur",
+      "t1": "Les Winners",
       "t2": "Les merdes",
       "score1": "",
       "score2": ""
@@ -1251,16 +1255,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 29,
-      "t1": "Les SPA Tator",
-      "t2": "Les voisins",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 30,
-      "t1": "Classe 74",
+      "t1": "Les voisins",
       "t2": "Tamtam",
       "score1": "",
       "score2": ""
@@ -1268,9 +1263,18 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 30,
+      "t1": "Les pongistes",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 31,
-      "t1": "Ligérien",
-      "t2": "SPA Magique",
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Classe 74",
       "score1": "",
       "score2": ""
     },
@@ -1278,8 +1282,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 32,
-      "t1": "SPA Sorcier",
-      "t2": "SPA ma faute",
+      "t1": "La clés de 10",
+      "t2": "Juju et camtar",
       "score1": "",
       "score2": ""
     },
@@ -1287,8 +1291,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 33,
-      "t1": "PABIENS",
-      "t2": "Les pyramides maudites",
+      "t1": "Les gâtés Nantais",
+      "t2": "N’importe jmen fou",
       "score1": "",
       "score2": ""
     },
@@ -1296,8 +1300,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 34,
-      "t1": "Les patatosses",
-      "t2": "SPA passé loin",
+      "t1": "SPA passé loin",
+      "t2": "Eeeeeeeeee",
       "score1": "",
       "score2": ""
     },
@@ -1305,16 +1309,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 35,
-      "t1": "N’importe jmen fou",
-      "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 36,
-      "t1": "Eeeeeeeeee",
+      "t1": "Les pyramides maudites",
       "t2": "Les crottins",
       "score1": "",
       "score2": ""
@@ -1322,26 +1317,17 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 36,
+      "t1": "PABIENS",
+      "t2": "Les patatosses",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 37,
-      "t1": "Les Diplomatico",
-      "t2": "tout pour le show",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 38,
-      "t1": "Pascal Obistro",
-      "t2": "Les chrichri",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 39,
-      "t1": "Razmo et Rapido",
+      "t1": "Antoine et Yaya",
       "t2": "PatBrunne",
       "score1": "",
       "score2": ""
@@ -1349,9 +1335,27 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 38,
+      "t1": "Razmo et Rapido",
+      "t2": "Le Clos Martin",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 39,
+      "t1": "tout pour le show",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 40,
-      "t1": "Le Clos Martin",
-      "t2": "Antoine et Yaya",
+      "t1": "Les chrichri",
+      "t2": "Pascal Obistro",
       "score1": "",
       "score2": ""
     },
@@ -1359,8 +1363,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 41,
-      "t1": "Paté en Croûte",
-      "t2": "furafique farke",
+      "t1": "furafique farke",
+      "t2": "Paté en Croûte",
       "score1": "",
       "score2": ""
     }
@@ -1371,8 +1375,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 1,
-      "t1": "Jérôme et Mickaël",
-      "t2": "Bouses premium",
+      "t1": "Chicots",
+      "t2": "Le comptoir",
       "score1": "",
       "score2": ""
     },
@@ -1380,8 +1384,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 2,
-      "t1": "Les Festi’papeche",
-      "t2": "Thomas et Ethan",
+      "t1": "Les SPA Tator",
+      "t2": "Le réveil du carré",
       "score1": "",
       "score2": ""
     },
@@ -1389,6 +1393,87 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 3,
+      "t1": "Fc Patrick Fouchard",
+      "t2": "Pas d'inspi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Les kéké",
+      "t2": "Les Festi’papeche",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "P’titsBU",
+      "t2": "Les salariés de USV",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "Les anonymes",
+      "t2": "Bouses premium",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Palet Laiton Coufféen",
+      "t2": "Delta",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Thomas et Ethan",
+      "t2": "Duo du plomb",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "Les copains",
+      "t2": "Les fantomettes du sud",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Jérôme et Mickaël",
+      "t2": "SPA ma faute",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "La grosse bite de JOJO",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
       "t1": "Roropit",
       "t2": "2F",
       "score1": "",
@@ -1397,90 +1482,9 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
-      "planche": 4,
-      "t1": "Chicots",
-      "t2": "Les kéké",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 5,
-      "t1": "Les anonymes",
-      "t2": "73 M",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 6,
-      "t1": "Les p'tiots",
-      "t2": "Jean Bat Family",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 7,
-      "t1": "Les sombres merdes",
-      "t2": "Pas d'inspi",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 8,
-      "t1": "P’titsBU",
-      "t2": "La grosse bite de JOJO",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 9,
-      "t1": "Juju et camtar",
-      "t2": "Les Métissés",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 10,
-      "t1": "Les Sorinièrois",
-      "t2": "Les Loosers",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 11,
-      "t1": "Pistolet à Ô",
-      "t2": "Les Antho",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 12,
-      "t1": "Team Laiton",
-      "t2": "Tif et Mario",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
       "planche": 13,
-      "t1": "Les Fouillons",
-      "t2": "MMA 0 tracas 0 blabla",
+      "t1": "Les assoiffés",
+      "t2": "SPA Sorcier",
       "score1": "",
       "score2": ""
     },
@@ -1488,8 +1492,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 14,
-      "t1": "Les Winners",
-      "t2": "Les pongistes",
+      "t1": "Les p'tiots",
+      "t2": "Les sombres merdes",
       "score1": "",
       "score2": ""
     },
@@ -1497,8 +1501,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 15,
-      "t1": "Jeanne d’arc Villemoisan",
-      "t2": "Les Dauphinois",
+      "t1": "73 M",
+      "t2": "Jean Bat Family",
       "score1": "",
       "score2": ""
     },
@@ -1506,8 +1510,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 16,
-      "t1": "La clés de 10",
-      "t2": "Association Domi",
+      "t1": "MMA 0 tracas 0 blabla",
+      "t2": "Les Sorinièrois",
       "score1": "",
       "score2": ""
     },
@@ -1515,8 +1519,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 17,
-      "t1": "Palet Laiton Coufféen",
-      "t2": "Les copains",
+      "t1": "Lamineur",
+      "t2": "Les bronzés font du ski",
       "score1": "",
       "score2": ""
     },
@@ -1524,8 +1528,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 18,
-      "t1": "MECABATI",
-      "t2": "On est inscrit c'est déjà bien",
+      "t1": "Les Antho",
+      "t2": "SPA Magique",
       "score1": "",
       "score2": ""
     },
@@ -1533,8 +1537,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 19,
-      "t1": "Duo du plomb",
-      "t2": "Les double A",
+      "t1": "MECABATI",
+      "t2": "LPH",
       "score1": "",
       "score2": ""
     },
@@ -1542,25 +1546,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 20,
-      "t1": "Fc Patrick Fouchard",
-      "t2": "Les salariés de USV",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 21,
       "t1": "Les Bouesiens",
-      "t2": "Delta",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 22,
-      "t1": "Les bronzés font du ski",
       "t2": "Pile ou face",
       "score1": "",
       "score2": ""
@@ -1568,9 +1554,27 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Ligérien",
+      "t2": "Les Métissés",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Association Domi",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 23,
-      "t1": "LPH",
-      "t2": "Le comptoir",
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Les Loosers",
       "score1": "",
       "score2": ""
     },
@@ -1578,8 +1582,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 24,
-      "t1": "Le réveil du carré",
-      "t2": "Les fantomettes du sud",
+      "t1": "Les Dauphinois",
+      "t2": "Les zizigoto’s",
       "score1": "",
       "score2": ""
     },
@@ -1587,8 +1591,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 25,
-      "t1": "Les assoiffés",
-      "t2": "Pas laid",
+      "t1": "Les Fouillons",
+      "t2": "Team Laiton",
       "score1": "",
       "score2": ""
     },
@@ -1596,8 +1600,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 26,
-      "t1": "Les zizigoto’s",
-      "t2": "Les beaux frères",
+      "t1": "Les beaux frères",
+      "t2": "Tif et Mario",
       "score1": "",
       "score2": ""
     },
@@ -1614,7 +1618,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 28,
-      "t1": "Lamineur",
+      "t1": "Les Winners",
       "t2": "Les merdes",
       "score1": "",
       "score2": ""
@@ -1623,16 +1627,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 29,
-      "t1": "Les SPA Tator",
-      "t2": "Les voisins",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 30,
-      "t1": "Classe 74",
+      "t1": "Les voisins",
       "t2": "Tamtam",
       "score1": "",
       "score2": ""
@@ -1640,9 +1635,18 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 30,
+      "t1": "Les pongistes",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 31,
-      "t1": "Ligérien",
-      "t2": "SPA Magique",
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Classe 74",
       "score1": "",
       "score2": ""
     },
@@ -1650,8 +1654,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 32,
-      "t1": "SPA Sorcier",
-      "t2": "SPA ma faute",
+      "t1": "La clés de 10",
+      "t2": "Juju et camtar",
       "score1": "",
       "score2": ""
     },
@@ -1659,8 +1663,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 33,
-      "t1": "PABIENS",
-      "t2": "Les pyramides maudites",
+      "t1": "Les gâtés Nantais",
+      "t2": "N’importe jmen fou",
       "score1": "",
       "score2": ""
     },
@@ -1668,8 +1672,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 34,
-      "t1": "Les patatosses",
-      "t2": "SPA passé loin",
+      "t1": "SPA passé loin",
+      "t2": "Eeeeeeeeee",
       "score1": "",
       "score2": ""
     },
@@ -1677,16 +1681,7 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 35,
-      "t1": "N’importe jmen fou",
-      "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 36,
-      "t1": "Eeeeeeeeee",
+      "t1": "Les pyramides maudites",
       "t2": "Les crottins",
       "score1": "",
       "score2": ""
@@ -1694,26 +1689,17 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 36,
+      "t1": "PABIENS",
+      "t2": "Les patatosses",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 37,
-      "t1": "Les Diplomatico",
-      "t2": "tout pour le show",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 38,
-      "t1": "Pascal Obistro",
-      "t2": "Les chrichri",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 39,
-      "t1": "Razmo et Rapido",
+      "t1": "Antoine et Yaya",
       "t2": "PatBrunne",
       "score1": "",
       "score2": ""
@@ -1721,9 +1707,27 @@
     {
       "round": 1,
       "roundLabel": "Partie 1",
+      "planche": 38,
+      "t1": "Razmo et Rapido",
+      "t2": "Le Clos Martin",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 39,
+      "t1": "tout pour le show",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 40,
-      "t1": "Le Clos Martin",
-      "t2": "Antoine et Yaya",
+      "t1": "Les chrichri",
+      "t2": "Pascal Obistro",
       "score1": "",
       "score2": ""
     },
@@ -1731,426 +1735,426 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 41,
-      "t1": "Paté en Croûte",
-      "t2": "furafique farke",
+      "t1": "furafique farke",
+      "t2": "Paté en Croûte",
       "score1": "",
       "score2": ""
     }
   ],
   "notifications": {
-    "type": "prochain",
-    "timestamp": 1777237884921,
+    "type": "debut",
+    "timestamp": 1777238775065,
     "round": 1,
     "messages": [
       {
-        "teamId": 5,
-        "teamName": "Jérôme et Mickaël",
-        "text": "☕ Première partie, planche 1 vs Bouses premium. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "teamId": 1,
+        "teamName": "Les kéké",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 2,
         "teamName": "Bouses premium",
-        "text": "⚽ Coup d'envoi imminent ! Planche 1 vs Jérôme et Mickaël. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 3,
         "teamName": "Les Festi’papeche",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 2 contre Thomas et Ethan. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 6,
-        "teamName": "Thomas et Ethan",
-        "text": "🥊 Round 1 ! Dans le coin droit : Thomas et Ethan. Dans le coin gauche : Les Festi’papeche. Direction la planche 2. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 7,
-        "teamName": "Roropit",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 3 vs 2F. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 8,
-        "teamName": "2F",
-        "text": "⚽ Coup d'envoi imminent ! Planche 3 vs Roropit. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 4,
         "teamName": "Chicots",
-        "text": "🎯 Premier match en approche ! Planche 4 vs Les kéké. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 1,
-        "teamName": "Les kéké",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 4 vs Chicots. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 5,
+        "teamName": "Jérôme et Mickaël",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 11,
-        "teamName": "Les anonymes",
-        "text": "⚽ Coup d'envoi imminent ! Planche 5 vs 73 M. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 6,
+        "teamName": "Thomas et Ethan",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 14,
-        "teamName": "73 M",
-        "text": "☕ Première partie, planche 5 vs Les anonymes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "teamId": 7,
+        "teamName": "Roropit",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 13,
-        "teamName": "Les p'tiots",
-        "text": "🎯 Premier match en approche ! Planche 6 vs Jean Bat Family. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 16,
-        "teamName": "Jean Bat Family",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 6 vs Les p'tiots. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 15,
-        "teamName": "Les sombres merdes",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les sombres merdes. Dans le coin gauche : Pas d'inspi. Direction la planche 7. Que le meilleur gagne 🔔"
+        "teamId": 8,
+        "teamName": "2F",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 9,
         "teamName": "Pas d'inspi",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 7 contre Les sombres merdes. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 10,
         "teamName": "P’titsBU",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 8 vs La grosse bite de JOJO. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 11,
+        "teamName": "Les anonymes",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 12,
         "teamName": "La grosse bite de JOJO",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 8 contre P’titsBU. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 25,
-        "teamName": "Juju et camtar",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 9 vs Les Métissés. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 13,
+        "teamName": "Les p'tiots",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 20,
-        "teamName": "Les Métissés",
-        "text": "⚽ Coup d'envoi imminent ! Planche 9 vs Juju et camtar. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 14,
+        "teamName": "73 M",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Les sombres merdes",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 16,
+        "teamName": "Jean Bat Family",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 17,
         "teamName": "Les Sorinièrois",
-        "text": "⚽ Coup d'envoi imminent ! Planche 10 vs Les Loosers. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Les Loosers",
-        "text": "☕ Première partie, planche 10 vs Les Sorinièrois. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Pistolet à Ô",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 11 contre Les Antho. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 19,
-        "teamName": "Les Antho",
-        "text": "🎯 Premier match en approche ! Planche 11 vs Pistolet à Ô. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 21,
-        "teamName": "Team Laiton",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 12 contre Tif et Mario. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 31,
-        "teamName": "Tif et Mario",
-        "text": "🎯 Premier match en approche ! Planche 12 vs Team Laiton. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 29,
-        "teamName": "Les Fouillons",
-        "text": "☕ Première partie, planche 13 vs MMA 0 tracas 0 blabla. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 30,
-        "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 13 contre Les Fouillons. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 22,
-        "teamName": "Les Winners",
-        "text": "🎯 Premier match en approche ! Planche 14 vs Les pongistes. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 32,
-        "teamName": "Les pongistes",
-        "text": "☕ Première partie, planche 14 vs Les Winners. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🥊 Round 1 ! Dans le coin droit : Jeanne d’arc Villemoisan. Dans le coin gauche : Les Dauphinois. Direction la planche 15. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 28,
-        "teamName": "Les Dauphinois",
-        "text": "🎯 Premier match en approche ! Planche 15 vs Jeanne d’arc Villemoisan. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 26,
-        "teamName": "La clés de 10",
-        "text": "⚽ Coup d'envoi imminent ! Planche 16 vs Association Domi. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 18,
         "teamName": "Association Domi",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 16 contre La clés de 10. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 50,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "☕ Première partie, planche 17 vs Les copains. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "teamId": 19,
+        "teamName": "Les Antho",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 58,
-        "teamName": "Les copains",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 17 vs Palet Laiton Coufféen. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 20,
+        "teamName": "Les Métissés",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 34,
-        "teamName": "MECABATI",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 18 vs On est inscrit c'est déjà bien. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 21,
+        "teamName": "Team Laiton",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 36,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 18 contre MECABATI. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 22,
+        "teamName": "Les Winners",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Les Loosers",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Juju et camtar",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 26,
+        "teamName": "La clés de 10",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pistolet à Ô",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 28,
+        "teamName": "Les Dauphinois",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les Fouillons",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 30,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Tif et Mario",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 32,
+        "teamName": "Les pongistes",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 33,
         "teamName": "Duo du plomb",
-        "text": "🥊 Round 1 ! Dans le coin droit : Duo du plomb. Dans le coin gauche : Les double A. Direction la planche 19. Que le meilleur gagne 🔔"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 34,
+        "teamName": "MECABATI",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 35,
         "teamName": "Les double A",
-        "text": "⚽ Coup d'envoi imminent ! Planche 19 vs Duo du plomb. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 39,
-        "teamName": "Fc Patrick Fouchard",
-        "text": "🥊 Round 1 ! Dans le coin droit : Fc Patrick Fouchard. Dans le coin gauche : Les salariés de USV. Direction la planche 20. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Les salariés de USV",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 20 vs Fc Patrick Fouchard. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les Bouesiens",
-        "text": "⚽ Coup d'envoi imminent ! Planche 21 vs Delta. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 52,
-        "teamName": "Delta",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 21 vs Les Bouesiens. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Les bronzés font du ski",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les bronzés font du ski. Dans le coin gauche : Pile ou face. Direction la planche 22. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 57,
-        "teamName": "Pile ou face",
-        "text": "🥊 Round 1 ! Dans le coin droit : Pile ou face. Dans le coin gauche : Les bronzés font du ski. Direction la planche 22. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 40,
-        "teamName": "LPH",
-        "text": "🎯 Premier match en approche ! Planche 23 vs Le comptoir. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "teamId": 36,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 37,
         "teamName": "Le comptoir",
-        "text": "🎯 Premier match en approche ! Planche 23 vs LPH. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 54,
-        "teamName": "Le réveil du carré",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 24 contre Les fantomettes du sud. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 38,
         "teamName": "Les fantomettes du sud",
-        "text": "☕ Première partie, planche 24 vs Le réveil du carré. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 53,
-        "teamName": "Les assoiffés",
-        "text": "⚽ Coup d'envoi imminent ! Planche 25 vs Pas laid. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 39,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 42,
-        "teamName": "Pas laid",
-        "text": "🥊 Round 1 ! Dans le coin droit : Pas laid. Dans le coin gauche : Les assoiffés. Direction la planche 25. Que le meilleur gagne 🔔"
+        "teamId": 40,
+        "teamName": "LPH",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 41,
         "teamName": "Les zizigoto’s",
-        "text": "☕ Première partie, planche 26 vs Les beaux frères. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 60,
-        "teamName": "Les beaux frères",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les beaux frères. Dans le coin gauche : Les zizigoto’s. Direction la planche 26. Que le meilleur gagne 🔔"
+        "teamId": 42,
+        "teamName": "Pas laid",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 43,
         "teamName": "Les frangins",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 27 vs Les plombés du SPA. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 44,
         "teamName": "Les plombés du SPA",
-        "text": "⚽ Coup d'envoi imminent ! Planche 27 vs Les frangins. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 55,
-        "teamName": "Lamineur",
-        "text": "🎯 Premier match en approche ! Planche 28 vs Les merdes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 45,
         "teamName": "Les merdes",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 28 contre Lamineur. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 62,
-        "teamName": "Les SPA Tator",
-        "text": "⚽ Coup d'envoi imminent ! Planche 29 vs Les voisins. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 46,
         "teamName": "Les voisins",
-        "text": "🎯 Premier match en approche ! Planche 29 vs Les SPA Tator. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 47,
         "teamName": "Classe 74",
-        "text": "☕ Première partie, planche 30 vs Tamtam. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 48,
         "teamName": "Tamtam",
-        "text": "🥊 Round 1 ! Dans le coin droit : Tamtam. Dans le coin gauche : Classe 74. Direction la planche 30. Que le meilleur gagne 🔔"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 64,
-        "teamName": "Ligérien",
-        "text": "🎯 Premier match en approche ! Planche 31 vs SPA Magique. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "teamId": 49,
+        "teamName": "Les salariés de USV",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Les bronzés font du ski",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 52,
+        "teamName": "Delta",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les assoiffés",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 54,
+        "teamName": "Le réveil du carré",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Lamineur",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 56,
         "teamName": "SPA Magique",
-        "text": "☕ Première partie, planche 31 vs Ligérien. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 63,
-        "teamName": "SPA Sorcier",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 32 contre SPA ma faute. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 57,
+        "teamName": "Pile ou face",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "Les copains",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les Bouesiens",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Les beaux frères",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 61,
         "teamName": "SPA ma faute",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 32 vs SPA Sorcier. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 69,
-        "teamName": "PABIENS",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 33 contre Les pyramides maudites. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 62,
+        "teamName": "Les SPA Tator",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 71,
-        "teamName": "Les pyramides maudites",
-        "text": "⚽ Coup d'envoi imminent ! Planche 33 vs PABIENS. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 63,
+        "teamName": "SPA Sorcier",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 70,
-        "teamName": "Les patatosses",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 34 vs SPA passé loin. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 64,
+        "teamName": "Ligérien",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 65,
         "teamName": "SPA passé loin",
-        "text": "☕ Première partie, planche 34 vs Les patatosses. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 68,
-        "teamName": "N’importe jmen fou",
-        "text": "⚽ Coup d'envoi imminent ! Planche 35 vs Les gâtés Nantais. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les gâtés Nantais",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 35 vs N’importe jmen fou. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 66,
         "teamName": "Eeeeeeeeee",
-        "text": "🥊 Round 1 ! Dans le coin droit : Eeeeeeeeee. Dans le coin gauche : Les crottins. Direction la planche 36. Que le meilleur gagne 🔔"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les gâtés Nantais",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 68,
+        "teamName": "N’importe jmen fou",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 69,
+        "teamName": "PABIENS",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Les patatosses",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les pyramides maudites",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 72,
         "teamName": "Les crottins",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 36 contre Eeeeeeeeee. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 74,
-        "teamName": "Les Diplomatico",
-        "text": "☕ Première partie, planche 37 vs tout pour le show. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 73,
         "teamName": "tout pour le show",
-        "text": "🎯 Premier match en approche ! Planche 37 vs Les Diplomatico. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 76,
-        "teamName": "Pascal Obistro",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 38 vs Les chrichri. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 74,
+        "teamName": "Les Diplomatico",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 75,
         "teamName": "Les chrichri",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les chrichri. Dans le coin gauche : Pascal Obistro. Direction la planche 38. Que le meilleur gagne 🔔"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 80,
-        "teamName": "Razmo et Rapido",
-        "text": "⚽ Coup d'envoi imminent ! Planche 39 vs PatBrunne. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 78,
-        "teamName": "PatBrunne",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 39 contre Razmo et Rapido. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 76,
+        "teamName": "Pascal Obistro",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 77,
         "teamName": "Le Clos Martin",
-        "text": "⚽ Coup d'envoi imminent ! Planche 40 vs Antoine et Yaya. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 78,
+        "teamName": "PatBrunne",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 79,
         "teamName": "Antoine et Yaya",
-        "text": "🎯 Premier match en approche ! Planche 40 vs Le Clos Martin. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
-        "teamId": 82,
-        "teamName": "Paté en Croûte",
-        "text": "🎯 Premier match en approche ! Planche 41 vs furafique farke. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "teamId": 80,
+        "teamName": "Razmo et Rapido",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       },
       {
         "teamId": 81,
         "teamName": "furafique farke",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 41 contre Paté en Croûte. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Paté en Croûte",
+        "text": "💪 Les champions ne naissent pas champions, ils deviennent champions. Aujourd'hui c'est VOTRE jour. Sauf pour ceux qui finiront fanny, mais bon, on vous aime quand même 🥏"
       }
     ]
   }
