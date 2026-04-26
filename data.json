@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 2,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:56:02.728Z",
-  "version": 1777233362728,
+  "updatedAt": "2026-04-26T19:56:14.594Z",
+  "version": 1777233374594,
   "standings": [
     {
       "rank": 1,
@@ -258,6 +258,26 @@
     },
     {
       "rank": 26,
+      "id": 30,
+      "name": "Les fantomettes du sud",
+      "wins": 1,
+      "losses": 1,
+      "pour": 20,
+      "contre": 17,
+      "played": 2
+    },
+    {
+      "rank": 27,
+      "id": 29,
+      "name": "Le comptoir",
+      "wins": 1,
+      "losses": 1,
+      "pour": 19,
+      "contre": 16,
+      "played": 2
+    },
+    {
+      "rank": 28,
       "id": 4,
       "name": "La grosse bite de JOJO",
       "wins": 1,
@@ -267,7 +287,7 @@
       "played": 2
     },
     {
-      "rank": 27,
+      "rank": 29,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -277,7 +297,7 @@
       "played": 2
     },
     {
-      "rank": 28,
+      "rank": 30,
       "id": 39,
       "name": "Classe 74",
       "wins": 1,
@@ -287,7 +307,17 @@
       "played": 2
     },
     {
-      "rank": 29,
+      "rank": 31,
+      "id": 54,
+      "name": "Les SPA Tator",
+      "wins": 1,
+      "losses": 1,
+      "pour": 20,
+      "contre": 18,
+      "played": 2
+    },
+    {
+      "rank": 32,
       "id": 6,
       "name": "73 M",
       "wins": 1,
@@ -297,7 +327,7 @@
       "played": 2
     },
     {
-      "rank": 30,
+      "rank": 33,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -307,7 +337,7 @@
       "played": 2
     },
     {
-      "rank": 31,
+      "rank": 34,
       "id": 56,
       "name": "Ligérien",
       "wins": 1,
@@ -317,7 +347,7 @@
       "played": 2
     },
     {
-      "rank": 32,
+      "rank": 35,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 1,
@@ -327,7 +357,17 @@
       "played": 2
     },
     {
-      "rank": 33,
+      "rank": 36,
+      "id": 55,
+      "name": "SPA Sorcier",
+      "wins": 1,
+      "losses": 1,
+      "pour": 19,
+      "contre": 20,
+      "played": 2
+    },
+    {
+      "rank": 37,
       "id": 61,
       "name": "PABIENS",
       "wins": 1,
@@ -337,7 +377,7 @@
       "played": 2
     },
     {
-      "rank": 34,
+      "rank": 38,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -347,7 +387,7 @@
       "played": 2
     },
     {
-      "rank": 35,
+      "rank": 39,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 1,
@@ -357,7 +397,7 @@
       "played": 2
     },
     {
-      "rank": 36,
+      "rank": 40,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -367,7 +407,7 @@
       "played": 2
     },
     {
-      "rank": 37,
+      "rank": 41,
       "id": 73,
       "name": "furafique farke",
       "wins": 1,
@@ -377,7 +417,7 @@
       "played": 2
     },
     {
-      "rank": 38,
+      "rank": 42,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -387,7 +427,7 @@
       "played": 2
     },
     {
-      "rank": 39,
+      "rank": 43,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -397,7 +437,7 @@
       "played": 2
     },
     {
-      "rank": 40,
+      "rank": 44,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -407,7 +447,7 @@
       "played": 2
     },
     {
-      "rank": 41,
+      "rank": 45,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 1,
@@ -417,87 +457,7 @@
       "played": 2
     },
     {
-      "rank": 42,
-      "id": 30,
-      "name": "Les fantomettes du sud",
-      "wins": 0,
-      "losses": 1,
-      "pour": 9,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 43,
-      "id": 38,
-      "name": "Les voisins",
-      "wins": 0,
-      "losses": 1,
-      "pour": 9,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 44,
-      "id": 49,
-      "name": "Pile ou face",
-      "wins": 0,
-      "losses": 1,
-      "pour": 9,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 45,
-      "id": 54,
-      "name": "Les SPA Tator",
-      "wins": 0,
-      "losses": 1,
-      "pour": 9,
-      "contre": 11,
-      "played": 1
-    },
-    {
       "rank": 46,
-      "id": 59,
-      "name": "Les gâtés Nantais",
-      "wins": 0,
-      "losses": 1,
-      "pour": 9,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 47,
-      "id": 29,
-      "name": "Le comptoir",
-      "wins": 0,
-      "losses": 1,
-      "pour": 8,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 48,
-      "id": 50,
-      "name": "Les copains",
-      "wins": 0,
-      "losses": 1,
-      "pour": 8,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 49,
-      "id": 55,
-      "name": "SPA Sorcier",
-      "wins": 0,
-      "losses": 1,
-      "pour": 8,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 50,
       "id": 14,
       "name": "Les Winners",
       "wins": 0,
@@ -507,7 +467,7 @@
       "played": 1
     },
     {
-      "rank": 51,
+      "rank": 47,
       "id": 20,
       "name": "Les Dauphinois",
       "wins": 0,
@@ -517,7 +477,7 @@
       "played": 2
     },
     {
-      "rank": 52,
+      "rank": 48,
       "id": 8,
       "name": "Jean Bat Family",
       "wins": 0,
@@ -527,7 +487,7 @@
       "played": 1
     },
     {
-      "rank": 53,
+      "rank": 49,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -537,7 +497,7 @@
       "played": 1
     },
     {
-      "rank": 54,
+      "rank": 50,
       "id": 13,
       "name": "Team Laiton",
       "wins": 0,
@@ -547,7 +507,7 @@
       "played": 1
     },
     {
-      "rank": 55,
+      "rank": 51,
       "id": 15,
       "name": "Les Loosers",
       "wins": 0,
@@ -557,7 +517,7 @@
       "played": 1
     },
     {
-      "rank": 56,
+      "rank": 52,
       "id": 18,
       "name": "La clés de 10",
       "wins": 0,
@@ -567,7 +527,7 @@
       "played": 1
     },
     {
-      "rank": 57,
+      "rank": 53,
       "id": 40,
       "name": "Tamtam",
       "wins": 0,
@@ -577,7 +537,7 @@
       "played": 1
     },
     {
-      "rank": 58,
+      "rank": 54,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 0,
@@ -587,7 +547,7 @@
       "played": 1
     },
     {
-      "rank": 59,
+      "rank": 55,
       "id": 64,
       "name": "Les crottins",
       "wins": 0,
@@ -597,7 +557,7 @@
       "played": 1
     },
     {
-      "rank": 60,
+      "rank": 56,
       "id": 67,
       "name": "Les chrichri",
       "wins": 0,
@@ -607,7 +567,17 @@
       "played": 1
     },
     {
-      "rank": 61,
+      "rank": 57,
+      "id": 50,
+      "name": "Les copains",
+      "wins": 0,
+      "losses": 2,
+      "pour": 17,
+      "contre": 22,
+      "played": 2
+    },
+    {
+      "rank": 58,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -617,7 +587,17 @@
       "played": 2
     },
     {
-      "rank": 62,
+      "rank": 59,
+      "id": 49,
+      "name": "Pile ou face",
+      "wins": 0,
+      "losses": 2,
+      "pour": 16,
+      "contre": 22,
+      "played": 2
+    },
+    {
+      "rank": 60,
       "id": 25,
       "name": "Duo du plomb",
       "wins": 0,
@@ -627,7 +607,7 @@
       "played": 1
     },
     {
-      "rank": 63,
+      "rank": 61,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 0,
@@ -637,7 +617,7 @@
       "played": 1
     },
     {
-      "rank": 64,
+      "rank": 62,
       "id": 47,
       "name": "Lamineur",
       "wins": 0,
@@ -647,7 +627,7 @@
       "played": 1
     },
     {
-      "rank": 65,
+      "rank": 63,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -657,7 +637,7 @@
       "played": 1
     },
     {
-      "rank": 66,
+      "rank": 64,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 0,
@@ -665,6 +645,26 @@
       "pour": 5,
       "contre": 11,
       "played": 1
+    },
+    {
+      "rank": 65,
+      "id": 38,
+      "name": "Les voisins",
+      "wins": 0,
+      "losses": 2,
+      "pour": 15,
+      "contre": 22,
+      "played": 2
+    },
+    {
+      "rank": 66,
+      "id": 59,
+      "name": "Les gâtés Nantais",
+      "wins": 0,
+      "losses": 2,
+      "pour": 14,
+      "contre": 22,
+      "played": 2
     },
     {
       "rank": 67,
@@ -906,29 +906,29 @@
       "planche": 23,
       "t1": "Les fantomettes du sud",
       "t2": "Les voisins",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "planche": 24,
       "t1": "Pile ou face",
       "t2": "Les SPA Tator",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 25,
       "t1": "Les gâtés Nantais",
       "t2": "Le comptoir",
-      "score1": "",
-      "score2": ""
+      "score1": "5",
+      "score2": "11"
     },
     {
       "planche": 26,
       "t1": "Les copains",
       "t2": "SPA Sorcier",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 27,
@@ -1191,32 +1191,32 @@
       "planche": 23,
       "t1": "Les fantomettes du sud",
       "t2": "Les voisins",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "round": 2,
       "planche": 24,
       "t1": "Pile ou face",
       "t2": "Les SPA Tator",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 2,
       "planche": 25,
       "t1": "Les gâtés Nantais",
       "t2": "Le comptoir",
-      "score1": "",
-      "score2": ""
+      "score1": "5",
+      "score2": "11"
     },
     {
       "round": 2,
       "planche": 26,
       "t1": "Les copains",
       "t2": "SPA Sorcier",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 2,
