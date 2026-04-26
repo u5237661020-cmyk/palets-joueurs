@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 2,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:56:46.481Z",
-  "version": 1777233406481,
+  "updatedAt": "2026-04-26T19:56:49.770Z",
+  "version": 1777233409770,
   "standings": [
     {
       "rank": 1,
@@ -528,6 +528,16 @@
     },
     {
       "rank": 53,
+      "id": 16,
+      "name": "Jeanne d’arc Villemoisan",
+      "wins": 1,
+      "losses": 1,
+      "pour": 12,
+      "contre": 20,
+      "played": 2
+    },
+    {
+      "rank": 54,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -537,7 +547,7 @@
       "played": 2
     },
     {
-      "rank": 54,
+      "rank": 55,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -547,7 +557,7 @@
       "played": 2
     },
     {
-      "rank": 55,
+      "rank": 56,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 1,
@@ -557,7 +567,7 @@
       "played": 2
     },
     {
-      "rank": 56,
+      "rank": 57,
       "id": 20,
       "name": "Les Dauphinois",
       "wins": 0,
@@ -567,7 +577,7 @@
       "played": 2
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -577,7 +587,7 @@
       "played": 2
     },
     {
-      "rank": 58,
+      "rank": 59,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -587,7 +597,7 @@
       "played": 2
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": 8,
       "name": "Jean Bat Family",
       "wins": 0,
@@ -597,7 +607,7 @@
       "played": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": 15,
       "name": "Les Loosers",
       "wins": 0,
@@ -607,7 +617,7 @@
       "played": 2
     },
     {
-      "rank": 61,
+      "rank": 62,
       "id": 49,
       "name": "Pile ou face",
       "wins": 0,
@@ -617,7 +627,7 @@
       "played": 2
     },
     {
-      "rank": 62,
+      "rank": 63,
       "id": 38,
       "name": "Les voisins",
       "wins": 0,
@@ -627,7 +637,7 @@
       "played": 2
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -637,7 +647,7 @@
       "played": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "id": 40,
       "name": "Tamtam",
       "wins": 0,
@@ -647,7 +657,7 @@
       "played": 2
     },
     {
-      "rank": 65,
+      "rank": 66,
       "id": 59,
       "name": "Les gâtés Nantais",
       "wins": 0,
@@ -657,7 +667,7 @@
       "played": 2
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": 48,
       "name": "SPA Magique",
       "wins": 0,
@@ -667,27 +677,7 @@
       "played": 2
     },
     {
-      "rank": 67,
-      "id": 16,
-      "name": "Jeanne d’arc Villemoisan",
-      "wins": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 11,
-      "played": 1
-    },
-    {
       "rank": 68,
-      "id": 45,
-      "name": "Les assoiffés",
-      "wins": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 69,
       "id": 25,
       "name": "Duo du plomb",
       "wins": 0,
@@ -697,7 +687,7 @@
       "played": 2
     },
     {
-      "rank": 70,
+      "rank": 69,
       "id": 27,
       "name": "Les double A",
       "wins": 0,
@@ -707,12 +697,22 @@
       "played": 2
     },
     {
-      "rank": 71,
+      "rank": 70,
       "id": 42,
       "name": "Palet Laiton Coufféen",
       "wins": 0,
       "losses": 2,
       "pour": 11,
+      "contre": 22,
+      "played": 2
+    },
+    {
+      "rank": 71,
+      "id": 45,
+      "name": "Les assoiffés",
+      "wins": 0,
+      "losses": 2,
+      "pour": 10,
       "contre": 22,
       "played": 2
     },
@@ -1004,8 +1004,8 @@
       "planche": 37,
       "t1": "Jeanne d’arc Villemoisan",
       "t2": "Les assoiffés",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "9"
     }
   ],
   "nextMatches": [],
@@ -1303,8 +1303,8 @@
       "planche": 37,
       "t1": "Jeanne d’arc Villemoisan",
       "t2": "Les assoiffés",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "9"
     },
     {
       "round": 1,
