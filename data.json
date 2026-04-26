@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:21:51.031Z",
-  "version": 1777234911031,
+  "updatedAt": "2026-04-26T20:22:05.276Z",
+  "version": 1777234925276,
   "standings": [
     {
       "rank": 1,
@@ -98,6 +98,16 @@
     },
     {
       "rank": 10,
+      "id": 43,
+      "name": "Les bronzés font du ski",
+      "wins": 3,
+      "losses": 1,
+      "pour": 42,
+      "contre": 31,
+      "played": 4
+    },
+    {
+      "rank": 11,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 3,
@@ -107,7 +117,7 @@
       "played": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 3,
@@ -117,7 +127,17 @@
       "played": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "id": 61,
+      "name": "PABIENS",
+      "wins": 3,
+      "losses": 1,
+      "pour": 39,
+      "contre": 28,
+      "played": 4
+    },
+    {
+      "rank": 14,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 3,
@@ -127,7 +147,17 @@
       "played": 4
     },
     {
-      "rank": 13,
+      "rank": 15,
+      "id": 6,
+      "name": "73 M",
+      "wins": 3,
+      "losses": 1,
+      "pour": 42,
+      "contre": 34,
+      "played": 4
+    },
+    {
+      "rank": 16,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 3,
@@ -137,7 +167,17 @@
       "played": 4
     },
     {
-      "rank": 14,
+      "rank": 17,
+      "id": 33,
+      "name": "Les zizigoto’s",
+      "wins": 3,
+      "losses": 1,
+      "pour": 39,
+      "contre": 34,
+      "played": 4
+    },
+    {
+      "rank": 18,
       "id": 66,
       "name": "Les Diplomatico",
       "wins": 2,
@@ -147,7 +187,7 @@
       "played": 4
     },
     {
-      "rank": 15,
+      "rank": 19,
       "id": 47,
       "name": "Lamineur",
       "wins": 2,
@@ -157,87 +197,7 @@
       "played": 4
     },
     {
-      "rank": 16,
-      "id": 61,
-      "name": "PABIENS",
-      "wins": 2,
-      "losses": 1,
-      "pour": 28,
-      "contre": 21,
-      "played": 3
-    },
-    {
-      "rank": 17,
-      "id": 39,
-      "name": "Classe 74",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 25,
-      "played": 3
-    },
-    {
-      "rank": 18,
-      "id": 43,
-      "name": "Les bronzés font du ski",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 25,
-      "played": 3
-    },
-    {
-      "rank": 19,
-      "id": 21,
-      "name": "Les Fouillons",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 26,
-      "played": 3
-    },
-    {
       "rank": 20,
-      "id": 4,
-      "name": "La grosse bite de JOJO",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 27,
-      "played": 3
-    },
-    {
-      "rank": 21,
-      "id": 6,
-      "name": "73 M",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 27,
-      "played": 3
-    },
-    {
-      "rank": 22,
-      "id": 56,
-      "name": "Ligérien",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 28,
-      "played": 3
-    },
-    {
-      "rank": 23,
-      "id": 33,
-      "name": "Les zizigoto’s",
-      "wins": 2,
-      "losses": 1,
-      "pour": 28,
-      "contre": 25,
-      "played": 3
-    },
-    {
-      "rank": 24,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -247,7 +207,7 @@
       "played": 3
     },
     {
-      "rank": 25,
+      "rank": 21,
       "id": 14,
       "name": "Les Winners",
       "wins": 2,
@@ -257,7 +217,17 @@
       "played": 3
     },
     {
-      "rank": 26,
+      "rank": 22,
+      "id": 39,
+      "name": "Classe 74",
+      "wins": 2,
+      "losses": 2,
+      "pour": 38,
+      "contre": 36,
+      "played": 4
+    },
+    {
+      "rank": 23,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 2,
@@ -267,7 +237,7 @@
       "played": 3
     },
     {
-      "rank": 27,
+      "rank": 24,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 2,
@@ -277,7 +247,17 @@
       "played": 3
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "id": 56,
+      "name": "Ligérien",
+      "wins": 2,
+      "losses": 2,
+      "pour": 40,
+      "contre": 39,
+      "played": 4
+    },
+    {
+      "rank": 26,
       "id": 55,
       "name": "SPA Sorcier",
       "wins": 2,
@@ -287,7 +267,7 @@
       "played": 3
     },
     {
-      "rank": 29,
+      "rank": 27,
       "id": 72,
       "name": "Razmo et Rapido",
       "wins": 2,
@@ -297,7 +277,7 @@
       "played": 3
     },
     {
-      "rank": 30,
+      "rank": 28,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -305,6 +285,26 @@
       "pour": 21,
       "contre": 20,
       "played": 3
+    },
+    {
+      "rank": 29,
+      "id": 4,
+      "name": "La grosse bite de JOJO",
+      "wins": 2,
+      "losses": 2,
+      "pour": 38,
+      "contre": 38,
+      "played": 4
+    },
+    {
+      "rank": 30,
+      "id": 21,
+      "name": "Les Fouillons",
+      "wins": 2,
+      "losses": 2,
+      "pour": 37,
+      "contre": 37,
+      "played": 4
     },
     {
       "rank": 31,
@@ -808,29 +808,29 @@
       "planche": 9,
       "t1": "PABIENS",
       "t2": "Classe 74",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "7"
     },
     {
       "planche": 10,
       "t1": "Les bronzés font du ski",
       "t2": "Les Fouillons",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "planche": 11,
       "t1": "La grosse bite de JOJO",
       "t2": "73 M",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 12,
       "t1": "Ligérien",
       "t2": "Les zizigoto’s",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 13,
@@ -1079,32 +1079,32 @@
       "planche": 9,
       "t1": "PABIENS",
       "t2": "Classe 74",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "7"
     },
     {
       "round": 4,
       "planche": 10,
       "t1": "Les bronzés font du ski",
       "t2": "Les Fouillons",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "round": 4,
       "planche": 11,
       "t1": "La grosse bite de JOJO",
       "t2": "73 M",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 4,
       "planche": 12,
       "t1": "Ligérien",
       "t2": "Les zizigoto’s",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 4,
