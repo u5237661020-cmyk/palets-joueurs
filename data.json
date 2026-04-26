@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:06.544Z",
-  "version": 1777234686544,
+  "updatedAt": "2026-04-26T20:18:10.928Z",
+  "version": 1777234690928,
   "standings": [
     {
       "rank": 1,
@@ -108,6 +108,16 @@
     },
     {
       "rank": 11,
+      "id": 66,
+      "name": "Les Diplomatico",
+      "wins": 2,
+      "losses": 1,
+      "pour": 30,
+      "contre": 18,
+      "played": 3
+    },
+    {
+      "rank": 12,
       "id": 1,
       "name": "Pas d'inspi",
       "wins": 2,
@@ -117,7 +127,7 @@
       "played": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 2,
@@ -127,7 +137,7 @@
       "played": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": 62,
       "name": "Les patatosses",
       "wins": 2,
@@ -137,7 +147,7 @@
       "played": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 2,
@@ -147,7 +157,7 @@
       "played": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -157,7 +167,7 @@
       "played": 3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -167,7 +177,7 @@
       "played": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -177,7 +187,7 @@
       "played": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -187,7 +197,7 @@
       "played": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -197,27 +207,7 @@
       "played": 3
     },
     {
-      "rank": 20,
-      "id": 66,
-      "name": "Les Diplomatico",
-      "wins": 1,
-      "losses": 1,
-      "pour": 19,
-      "contre": 13,
-      "played": 2
-    },
-    {
       "rank": 21,
-      "id": 44,
-      "name": "Delta",
-      "wins": 1,
-      "losses": 1,
-      "pour": 18,
-      "contre": 12,
-      "played": 2
-    },
-    {
-      "rank": 22,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -227,7 +217,7 @@
       "played": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": 47,
       "name": "Lamineur",
       "wins": 1,
@@ -237,7 +227,7 @@
       "played": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -247,7 +237,7 @@
       "played": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": 43,
       "name": "Les bronzés font du ski",
       "wins": 1,
@@ -257,7 +247,7 @@
       "played": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -267,7 +257,7 @@
       "played": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 30,
       "name": "Les fantomettes du sud",
       "wins": 1,
@@ -277,7 +267,7 @@
       "played": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -287,7 +277,7 @@
       "played": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 4,
       "name": "La grosse bite de JOJO",
       "wins": 1,
@@ -297,7 +287,7 @@
       "played": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -307,7 +297,7 @@
       "played": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 39,
       "name": "Classe 74",
       "wins": 1,
@@ -317,7 +307,7 @@
       "played": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -327,7 +317,7 @@
       "played": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 6,
       "name": "73 M",
       "wins": 1,
@@ -335,6 +325,16 @@
       "pour": 20,
       "contre": 19,
       "played": 2
+    },
+    {
+      "rank": 33,
+      "id": 44,
+      "name": "Delta",
+      "wins": 1,
+      "losses": 2,
+      "pour": 23,
+      "contre": 23,
+      "played": 3
     },
     {
       "rank": 34,
@@ -822,8 +822,8 @@
       "planche": 11,
       "t1": "Les Diplomatico",
       "t2": "Delta",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "planche": 12,
@@ -1095,8 +1095,8 @@
       "planche": 11,
       "t1": "Les Diplomatico",
       "t2": "Delta",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 3,
