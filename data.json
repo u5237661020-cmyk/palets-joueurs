@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:17:31.440Z",
-  "version": 1777234651440,
+  "updatedAt": "2026-04-26T20:17:36.921Z",
+  "version": 1777234656921,
   "standings": [
     {
       "rank": 1,
@@ -28,26 +28,16 @@
     },
     {
       "rank": 3,
-      "id": 9,
-      "name": "Les Sorinièrois",
-      "wins": 2,
+      "id": 28,
+      "name": "On est inscrit c'est déjà bien",
+      "wins": 3,
       "losses": 0,
-      "pour": 15,
-      "contre": 2,
-      "played": 2
+      "pour": 33,
+      "contre": 17,
+      "played": 3
     },
     {
       "rank": 4,
-      "id": 28,
-      "name": "On est inscrit c'est déjà bien",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 10,
-      "played": 2
-    },
-    {
-      "rank": 5,
       "id": 53,
       "name": "SPA ma faute",
       "wins": 2,
@@ -57,7 +47,7 @@
       "played": 2
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -67,13 +57,23 @@
       "played": 2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": 1,
       "name": "Pas d'inspi",
       "wins": 2,
       "losses": 1,
       "pour": 27,
       "contre": 17,
+      "played": 3
+    },
+    {
+      "rank": 7,
+      "id": 9,
+      "name": "Les Sorinièrois",
+      "wins": 2,
+      "losses": 1,
+      "pour": 22,
+      "contre": 13,
       "played": 3
     },
     {
@@ -766,8 +766,8 @@
       "planche": 3,
       "t1": "Les Sorinièrois",
       "t2": "On est inscrit c'est déjà bien",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 4,
@@ -1031,8 +1031,8 @@
       "planche": 3,
       "t1": "Les Sorinièrois",
       "t2": "On est inscrit c'est déjà bien",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 3,
