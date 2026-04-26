@@ -6,8 +6,8 @@
   "phase": "final",
   "phaseLabel": "Phase finale",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T20:38:28.861Z",
-  "version": 1777235908861,
+  "updatedAt": "2026-04-26T20:38:32.272Z",
+  "version": 1777235912272,
   "standings": [
     {
       "rank": 1,
@@ -901,17 +901,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "11ème/12ème PLACE",
-      "planche": "11ème/12ème PLACE",
-      "matchId": "classif_11",
-      "isFinal": true,
-      "t1": "Le Clos Martin",
-      "t2": "On est inscrit c'est déjà bien",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "13ème/14ème PLACE",
       "planche": "13ème/14ème PLACE",
       "matchId": "classif_13",
@@ -1308,6 +1297,17 @@
       "t2": "Les bronzés font du ski",
       "score1": "11",
       "score2": "6"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "11ème/12ème PLACE",
+      "planche": "11ème/12ème PLACE",
+      "matchId": "classif_11",
+      "isFinal": true,
+      "t1": "Le Clos Martin",
+      "t2": "On est inscrit c'est déjà bien",
+      "score1": "6",
+      "score2": "11"
     },
     {
       "round": 4,
