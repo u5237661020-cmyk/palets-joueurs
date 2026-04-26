@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:19:17.668Z",
-  "version": 1777231157668,
+  "updatedAt": "2026-04-26T19:19:20.378Z",
+  "version": 1777231160378,
   "standings": [
     {
       "rank": 1,
@@ -20,11 +20,11 @@
       "rank": 2,
       "id": 2,
       "name": "P’titsBU",
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
+      "pour": 11,
+      "contre": 10,
+      "played": 1
     },
     {
       "rank": 3,
@@ -498,16 +498,6 @@
     },
     {
       "rank": 50,
-      "id": 51,
-      "name": "Les Bouesiens",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 51,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 0,
@@ -517,7 +507,7 @@
       "played": 0
     },
     {
-      "rank": 52,
+      "rank": 51,
       "id": 53,
       "name": "SPA ma faute",
       "wins": 0,
@@ -527,7 +517,7 @@
       "played": 0
     },
     {
-      "rank": 53,
+      "rank": 52,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 0,
@@ -537,7 +527,7 @@
       "played": 0
     },
     {
-      "rank": 54,
+      "rank": 53,
       "id": 55,
       "name": "SPA Sorcier",
       "wins": 0,
@@ -547,7 +537,7 @@
       "played": 0
     },
     {
-      "rank": 55,
+      "rank": 54,
       "id": 56,
       "name": "Ligérien",
       "wins": 0,
@@ -557,7 +547,7 @@
       "played": 0
     },
     {
-      "rank": 56,
+      "rank": 55,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 0,
@@ -567,7 +557,7 @@
       "played": 0
     },
     {
-      "rank": 57,
+      "rank": 56,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 0,
@@ -577,7 +567,7 @@
       "played": 0
     },
     {
-      "rank": 58,
+      "rank": 57,
       "id": 59,
       "name": "Les gâtés Nantais",
       "wins": 0,
@@ -587,7 +577,7 @@
       "played": 0
     },
     {
-      "rank": 59,
+      "rank": 58,
       "id": 60,
       "name": "N’importe jmen fou",
       "wins": 0,
@@ -597,7 +587,7 @@
       "played": 0
     },
     {
-      "rank": 60,
+      "rank": 59,
       "id": 61,
       "name": "PABIENS",
       "wins": 0,
@@ -607,7 +597,7 @@
       "played": 0
     },
     {
-      "rank": 61,
+      "rank": 60,
       "id": 62,
       "name": "Les patatosses",
       "wins": 0,
@@ -617,7 +607,7 @@
       "played": 0
     },
     {
-      "rank": 62,
+      "rank": 61,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 0,
@@ -627,7 +617,7 @@
       "played": 0
     },
     {
-      "rank": 63,
+      "rank": 62,
       "id": 64,
       "name": "Les crottins",
       "wins": 0,
@@ -637,7 +627,7 @@
       "played": 0
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 65,
       "name": "tout pour le show",
       "wins": 0,
@@ -647,7 +637,7 @@
       "played": 0
     },
     {
-      "rank": 65,
+      "rank": 64,
       "id": 66,
       "name": "Les Diplomatico",
       "wins": 0,
@@ -657,7 +647,7 @@
       "played": 0
     },
     {
-      "rank": 66,
+      "rank": 65,
       "id": 67,
       "name": "Les chrichri",
       "wins": 0,
@@ -667,7 +657,7 @@
       "played": 0
     },
     {
-      "rank": 67,
+      "rank": 66,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -677,7 +667,7 @@
       "played": 0
     },
     {
-      "rank": 68,
+      "rank": 67,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 0,
@@ -687,7 +677,7 @@
       "played": 0
     },
     {
-      "rank": 69,
+      "rank": 68,
       "id": 70,
       "name": "PatBrunne",
       "wins": 0,
@@ -697,7 +687,7 @@
       "played": 0
     },
     {
-      "rank": 70,
+      "rank": 69,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 0,
@@ -707,7 +697,7 @@
       "played": 0
     },
     {
-      "rank": 71,
+      "rank": 70,
       "id": 72,
       "name": "Razmo et Rapido",
       "wins": 0,
@@ -717,7 +707,7 @@
       "played": 0
     },
     {
-      "rank": 72,
+      "rank": 71,
       "id": 73,
       "name": "furafique farke",
       "wins": 0,
@@ -727,7 +717,7 @@
       "played": 0
     },
     {
-      "rank": 73,
+      "rank": 72,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 0,
@@ -735,6 +725,16 @@
       "pour": 0,
       "contre": 0,
       "played": 0
+    },
+    {
+      "rank": 73,
+      "id": 51,
+      "name": "Les Bouesiens",
+      "wins": 0,
+      "losses": 1,
+      "pour": 10,
+      "contre": 11,
+      "played": 1
     },
     {
       "rank": 74,
@@ -899,8 +899,8 @@
       "planche": 22,
       "t1": "Les Bouesiens",
       "t2": "P’titsBU",
-      "score1": "",
-      "score2": ""
+      "score1": "10",
+      "score2": "11"
     },
     {
       "planche": 23,
@@ -1183,8 +1183,8 @@
       "planche": 22,
       "t1": "Les Bouesiens",
       "t2": "P’titsBU",
-      "score1": "",
-      "score2": ""
+      "score1": "10",
+      "score2": "11"
     },
     {
       "round": 1,
