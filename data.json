@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:38:29.578Z",
-  "version": 1777232309578,
+  "updatedAt": "2026-04-26T19:38:33.598Z",
+  "version": 1777232313598,
   "standings": [
     {
       "rank": 1,
@@ -58,6 +58,16 @@
     },
     {
       "rank": 6,
+      "id": 15,
+      "name": "Les Loosers",
+      "wins": 1,
+      "losses": 0,
+      "pour": 7,
+      "contre": 1,
+      "played": 1
+    },
+    {
+      "rank": 7,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 1,
@@ -67,7 +77,7 @@
       "played": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 1,
@@ -77,7 +87,7 @@
       "played": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -87,7 +97,7 @@
       "played": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -97,7 +107,7 @@
       "played": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 1,
@@ -107,7 +117,7 @@
       "played": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": 4,
       "name": "La grosse bite de JOJO",
       "wins": 0,
@@ -117,7 +127,7 @@
       "played": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": 6,
       "name": "73 M",
       "wins": 0,
@@ -127,7 +137,7 @@
       "played": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 0,
@@ -137,7 +147,7 @@
       "played": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": 8,
       "name": "Jean Bat Family",
       "wins": 0,
@@ -147,7 +157,7 @@
       "played": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 0,
@@ -157,7 +167,7 @@
       "played": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -167,7 +177,7 @@
       "played": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 11,
       "name": "Les Antho",
       "wins": 0,
@@ -177,7 +187,7 @@
       "played": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 12,
       "name": "Les Métissés",
       "wins": 0,
@@ -187,19 +197,9 @@
       "played": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 14,
       "name": "Les Winners",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 20,
-      "id": 15,
-      "name": "Les Loosers",
       "wins": 0,
       "losses": 0,
       "pour": 0,
@@ -638,16 +638,6 @@
     },
     {
       "rank": 64,
-      "id": 73,
-      "name": "furafique farke",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 65,
       "id": 37,
       "name": "Les merdes",
       "wins": 0,
@@ -657,7 +647,7 @@
       "played": 1
     },
     {
-      "rank": 66,
+      "rank": 65,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -667,7 +657,7 @@
       "played": 1
     },
     {
-      "rank": 67,
+      "rank": 66,
       "id": 38,
       "name": "Les voisins",
       "wins": 0,
@@ -677,7 +667,7 @@
       "played": 1
     },
     {
-      "rank": 68,
+      "rank": 67,
       "id": 13,
       "name": "Team Laiton",
       "wins": 0,
@@ -687,7 +677,7 @@
       "played": 1
     },
     {
-      "rank": 69,
+      "rank": 68,
       "id": 67,
       "name": "Les chrichri",
       "wins": 0,
@@ -697,7 +687,7 @@
       "played": 1
     },
     {
-      "rank": 70,
+      "rank": 69,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -707,13 +697,23 @@
       "played": 1
     },
     {
-      "rank": 71,
+      "rank": 70,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 0,
       "losses": 1,
       "pour": 5,
       "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 71,
+      "id": 73,
+      "name": "furafique farke",
+      "wins": 0,
+      "losses": 1,
+      "pour": 1,
+      "contre": 7,
       "played": 1
     },
     {
@@ -794,8 +794,8 @@
       "planche": 7,
       "t1": "furafique farke",
       "t2": "Les Loosers",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "7"
     },
     {
       "planche": 8,
@@ -1063,8 +1063,8 @@
       "planche": 7,
       "t1": "furafique farke",
       "t2": "Les Loosers",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "7"
     },
     {
       "round": 1,
