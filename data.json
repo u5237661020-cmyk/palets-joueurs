@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:21.968Z",
-  "version": 1777234701968,
+  "updatedAt": "2026-04-26T20:18:25.642Z",
+  "version": 1777234705642,
   "standings": [
     {
       "rank": 1,
@@ -188,6 +188,16 @@
     },
     {
       "rank": 19,
+      "id": 4,
+      "name": "La grosse bite de JOJO",
+      "wins": 2,
+      "losses": 1,
+      "pour": 31,
+      "contre": 27,
+      "played": 3
+    },
+    {
+      "rank": 20,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -197,7 +207,7 @@
       "played": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -207,7 +217,7 @@
       "played": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -217,7 +227,7 @@
       "played": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -227,7 +237,7 @@
       "played": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -235,16 +245,6 @@
       "pour": 22,
       "contre": 27,
       "played": 3
-    },
-    {
-      "rank": 24,
-      "id": 29,
-      "name": "Le comptoir",
-      "wins": 1,
-      "losses": 1,
-      "pour": 19,
-      "contre": 16,
-      "played": 2
     },
     {
       "rank": 25,
@@ -258,16 +258,6 @@
     },
     {
       "rank": 26,
-      "id": 4,
-      "name": "La grosse bite de JOJO",
-      "wins": 1,
-      "losses": 1,
-      "pour": 20,
-      "contre": 18,
-      "played": 2
-    },
-    {
-      "rank": 27,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -277,7 +267,7 @@
       "played": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 39,
       "name": "Classe 74",
       "wins": 1,
@@ -287,7 +277,7 @@
       "played": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -295,6 +285,16 @@
       "pour": 20,
       "contre": 18,
       "played": 2
+    },
+    {
+      "rank": 29,
+      "id": 29,
+      "name": "Le comptoir",
+      "wins": 1,
+      "losses": 2,
+      "pour": 28,
+      "contre": 27,
+      "played": 3
     },
     {
       "rank": 30,
@@ -850,8 +850,8 @@
       "planche": 15,
       "t1": "Le comptoir",
       "t2": "La grosse bite de JOJO",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 16,
@@ -1127,8 +1127,8 @@
       "planche": 15,
       "t1": "Le comptoir",
       "t2": "La grosse bite de JOJO",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 3,
