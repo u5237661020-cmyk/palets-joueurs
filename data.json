@@ -6,8 +6,8 @@
   "phase": "final",
   "phaseLabel": "Phase finale",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T20:41:43.192Z",
-  "version": 1777236103192,
+  "updatedAt": "2026-04-26T20:42:04.774Z",
+  "version": 1777236124774,
   "standings": [
     {
       "rank": 1,
@@ -898,7 +898,30 @@
       "ga": -25
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": "finale",
+      "roundLabel": "FINALE",
+      "planche": "FINALE",
+      "matchId": "finale",
+      "isFinal": true,
+      "t1": "Les salariés de USV",
+      "t2": "Le réveil du carré",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "N’importe jmen fou",
+      "t2": "MMA 0 tracas 0 blabla",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
   "history": [
     {
@@ -2640,5 +2663,32 @@
       "score1": "11",
       "score2": "9"
     }
-  ]
+  ],
+  "notifications": {
+    "type": "finale",
+    "timestamp": 1777236124773,
+    "round": 4,
+    "messages": [
+      {
+        "teamId": 41,
+        "teamName": "Les salariés de USV",
+        "text": "🎙️ La tension monte ! FINALE : Les salariés de USV vs Le réveil du carré. Le podium se décide maintenant 🔥"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Le réveil du carré",
+        "text": "⚽ Temps additionnel version palet ! FINALE vs Les salariés de USV. On ne lâche rien jusqu'au dernier lancer 💪"
+      },
+      {
+        "teamId": 60,
+        "teamName": "N’importe jmen fou",
+        "text": "⚽ Temps additionnel version palet ! PETITE FINALE vs MMA 0 tracas 0 blabla. On ne lâche rien jusqu'au dernier lancer 💪"
+      },
+      {
+        "teamId": 22,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "⚡ Match couperet ! PETITE FINALE contre N’importe jmen fou. On respire, on vise le maître, et on joue la gagne 🥏"
+      }
+    ]
+  }
 }
