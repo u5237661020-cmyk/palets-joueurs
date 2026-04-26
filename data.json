@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:40.482Z",
-  "version": 1777234720482,
+  "updatedAt": "2026-04-26T20:18:47.158Z",
+  "version": 1777234727158,
   "standings": [
     {
       "rank": 1,
@@ -248,6 +248,16 @@
     },
     {
       "rank": 25,
+      "id": 14,
+      "name": "Les Winners",
+      "wins": 2,
+      "losses": 1,
+      "pour": 23,
+      "contre": 20,
+      "played": 3
+    },
+    {
+      "rank": 26,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 2,
@@ -257,7 +267,17 @@
       "played": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
+      "id": 55,
+      "name": "SPA Sorcier",
+      "wins": 2,
+      "losses": 1,
+      "pour": 30,
+      "contre": 29,
+      "played": 3
+    },
+    {
+      "rank": 28,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -267,7 +287,7 @@
       "played": 3
     },
     {
-      "rank": 27,
+      "rank": 29,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -277,7 +297,7 @@
       "played": 3
     },
     {
-      "rank": 28,
+      "rank": 30,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -287,7 +307,7 @@
       "played": 3
     },
     {
-      "rank": 29,
+      "rank": 31,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -297,7 +317,7 @@
       "played": 3
     },
     {
-      "rank": 30,
+      "rank": 32,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -307,7 +327,7 @@
       "played": 3
     },
     {
-      "rank": 31,
+      "rank": 33,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -317,7 +337,7 @@
       "played": 3
     },
     {
-      "rank": 32,
+      "rank": 34,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -327,7 +347,7 @@
       "played": 3
     },
     {
-      "rank": 33,
+      "rank": 35,
       "id": 44,
       "name": "Delta",
       "wins": 1,
@@ -337,17 +357,7 @@
       "played": 3
     },
     {
-      "rank": 34,
-      "id": 57,
-      "name": "SPA passé loin",
-      "wins": 1,
-      "losses": 1,
-      "pour": 18,
-      "contre": 18,
-      "played": 2
-    },
-    {
-      "rank": 35,
+      "rank": 36,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -357,37 +367,7 @@
       "played": 3
     },
     {
-      "rank": 36,
-      "id": 55,
-      "name": "SPA Sorcier",
-      "wins": 1,
-      "losses": 1,
-      "pour": 19,
-      "contre": 20,
-      "played": 2
-    },
-    {
       "rank": 37,
-      "id": 36,
-      "name": "Les plombés du SPA",
-      "wins": 1,
-      "losses": 1,
-      "pour": 16,
-      "contre": 17,
-      "played": 2
-    },
-    {
-      "rank": 38,
-      "id": 14,
-      "name": "Les Winners",
-      "wins": 1,
-      "losses": 1,
-      "pour": 12,
-      "contre": 13,
-      "played": 2
-    },
-    {
-      "rank": 39,
       "id": 70,
       "name": "PatBrunne",
       "wins": 1,
@@ -397,7 +377,7 @@
       "played": 2
     },
     {
-      "rank": 40,
+      "rank": 38,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -407,7 +387,7 @@
       "played": 3
     },
     {
-      "rank": 41,
+      "rank": 39,
       "id": 13,
       "name": "Team Laiton",
       "wins": 1,
@@ -417,7 +397,17 @@
       "played": 3
     },
     {
-      "rank": 42,
+      "rank": 40,
+      "id": 57,
+      "name": "SPA passé loin",
+      "wins": 1,
+      "losses": 2,
+      "pour": 27,
+      "contre": 29,
+      "played": 3
+    },
+    {
+      "rank": 41,
       "id": 18,
       "name": "La clés de 10",
       "wins": 1,
@@ -427,7 +417,7 @@
       "played": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": 61,
       "name": "PABIENS",
       "wins": 1,
@@ -437,7 +427,7 @@
       "played": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -447,7 +437,7 @@
       "played": 3
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -457,7 +447,7 @@
       "played": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 1,
@@ -467,7 +457,7 @@
       "played": 2
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": 24,
       "name": "Les pongistes",
       "wins": 1,
@@ -477,7 +467,7 @@
       "played": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -487,7 +477,7 @@
       "played": 2
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 1,
@@ -495,6 +485,16 @@
       "pour": 16,
       "contre": 20,
       "played": 2
+    },
+    {
+      "rank": 49,
+      "id": 36,
+      "name": "Les plombés du SPA",
+      "wins": 1,
+      "losses": 2,
+      "pour": 23,
+      "contre": 28,
+      "played": 3
     },
     {
       "rank": 50,
@@ -885,15 +885,15 @@
       "planche": 20,
       "t1": "SPA passé loin",
       "t2": "SPA Sorcier",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 21,
       "t1": "Les plombés du SPA",
       "t2": "Les Winners",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 22,
@@ -1167,16 +1167,16 @@
       "planche": 20,
       "t1": "SPA passé loin",
       "t2": "SPA Sorcier",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 3,
       "planche": 21,
       "t1": "Les plombés du SPA",
       "t2": "Les Winners",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 3,
