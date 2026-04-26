@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:50:47.786Z",
-  "version": 1777233047786,
+  "updatedAt": "2026-04-26T19:50:55.911Z",
+  "version": 1777233055911,
   "standings": [
     {
       "rank": 1,
@@ -128,6 +128,16 @@
     },
     {
       "rank": 13,
+      "id": 26,
+      "name": "MECABATI",
+      "wins": 1,
+      "losses": 0,
+      "pour": 11,
+      "contre": 7,
+      "played": 1
+    },
+    {
+      "rank": 14,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 1,
@@ -137,7 +147,7 @@
       "played": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": 39,
       "name": "Classe 74",
       "wins": 1,
@@ -147,7 +157,7 @@
       "played": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": 73,
       "name": "furafique farke",
       "wins": 1,
@@ -157,7 +167,7 @@
       "played": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 1,
@@ -167,7 +177,7 @@
       "played": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 6,
       "name": "73 M",
       "wins": 1,
@@ -177,7 +187,17 @@
       "played": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "id": 22,
+      "name": "MMA 0 tracas 0 blabla",
+      "wins": 1,
+      "losses": 0,
+      "pour": 11,
+      "contre": 8,
+      "played": 1
+    },
+    {
+      "rank": 20,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 1,
@@ -187,7 +207,7 @@
       "played": 1
     },
     {
-      "rank": 19,
+      "rank": 21,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -197,7 +217,7 @@
       "played": 1
     },
     {
-      "rank": 20,
+      "rank": 22,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -207,7 +227,17 @@
       "played": 1
     },
     {
-      "rank": 21,
+      "rank": 23,
+      "id": 53,
+      "name": "SPA ma faute",
+      "wins": 1,
+      "losses": 0,
+      "pour": 11,
+      "contre": 9,
+      "played": 1
+    },
+    {
+      "rank": 24,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -217,7 +247,7 @@
       "played": 1
     },
     {
-      "rank": 22,
+      "rank": 25,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 1,
@@ -227,27 +257,7 @@
       "played": 1
     },
     {
-      "rank": 23,
-      "id": 7,
-      "name": "Les sombres merdes",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 24,
-      "id": 8,
-      "name": "Jean Bat Family",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 0,
@@ -257,7 +267,7 @@
       "played": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": 18,
       "name": "La clés de 10",
       "wins": 0,
@@ -267,7 +277,7 @@
       "played": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 0,
@@ -277,7 +287,7 @@
       "played": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": 20,
       "name": "Les Dauphinois",
       "wins": 0,
@@ -287,19 +297,9 @@
       "played": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": 21,
       "name": "Les Fouillons",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 30,
-      "id": 22,
-      "name": "MMA 0 tracas 0 blabla",
       "wins": 0,
       "losses": 0,
       "pour": 0,
@@ -338,16 +338,6 @@
     },
     {
       "rank": 34,
-      "id": 26,
-      "name": "MECABATI",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 35,
       "id": 27,
       "name": "Les double A",
       "wins": 0,
@@ -357,7 +347,7 @@
       "played": 0
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 0,
@@ -367,7 +357,7 @@
       "played": 0
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": 29,
       "name": "Le comptoir",
       "wins": 0,
@@ -377,7 +367,7 @@
       "played": 0
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": 30,
       "name": "Les fantomettes du sud",
       "wins": 0,
@@ -387,7 +377,7 @@
       "played": 0
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 0,
@@ -397,7 +387,7 @@
       "played": 0
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": 32,
       "name": "LPH",
       "wins": 0,
@@ -407,17 +397,7 @@
       "played": 0
     },
     {
-      "rank": 41,
-      "id": 53,
-      "name": "SPA ma faute",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 42,
+      "rank": 40,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 0,
@@ -427,17 +407,7 @@
       "played": 0
     },
     {
-      "rank": 43,
-      "id": 55,
-      "name": "SPA Sorcier",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 44,
+      "rank": 41,
       "id": 56,
       "name": "Ligérien",
       "wins": 0,
@@ -447,7 +417,7 @@
       "played": 0
     },
     {
-      "rank": 45,
+      "rank": 42,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 0,
@@ -457,7 +427,7 @@
       "played": 0
     },
     {
-      "rank": 46,
+      "rank": 43,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 0,
@@ -467,7 +437,7 @@
       "played": 0
     },
     {
-      "rank": 47,
+      "rank": 44,
       "id": 59,
       "name": "Les gâtés Nantais",
       "wins": 0,
@@ -477,7 +447,7 @@
       "played": 0
     },
     {
-      "rank": 48,
+      "rank": 45,
       "id": 60,
       "name": "N’importe jmen fou",
       "wins": 0,
@@ -487,7 +457,7 @@
       "played": 0
     },
     {
-      "rank": 49,
+      "rank": 46,
       "id": 61,
       "name": "PABIENS",
       "wins": 0,
@@ -497,7 +467,7 @@
       "played": 0
     },
     {
-      "rank": 50,
+      "rank": 47,
       "id": 62,
       "name": "Les patatosses",
       "wins": 0,
@@ -507,7 +477,7 @@
       "played": 0
     },
     {
-      "rank": 51,
+      "rank": 48,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 0,
@@ -517,7 +487,7 @@
       "played": 0
     },
     {
-      "rank": 52,
+      "rank": 49,
       "id": 64,
       "name": "Les crottins",
       "wins": 0,
@@ -527,7 +497,7 @@
       "played": 0
     },
     {
-      "rank": 53,
+      "rank": 50,
       "id": 37,
       "name": "Les merdes",
       "wins": 0,
@@ -537,7 +507,7 @@
       "played": 1
     },
     {
-      "rank": 54,
+      "rank": 51,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -547,7 +517,17 @@
       "played": 1
     },
     {
-      "rank": 55,
+      "rank": 52,
+      "id": 7,
+      "name": "Les sombres merdes",
+      "wins": 0,
+      "losses": 1,
+      "pour": 9,
+      "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 53,
       "id": 38,
       "name": "Les voisins",
       "wins": 0,
@@ -557,7 +537,7 @@
       "played": 1
     },
     {
-      "rank": 56,
+      "rank": 54,
       "id": 49,
       "name": "Pile ou face",
       "wins": 0,
@@ -567,7 +547,7 @@
       "played": 1
     },
     {
-      "rank": 57,
+      "rank": 55,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -577,13 +557,33 @@
       "played": 1
     },
     {
-      "rank": 58,
+      "rank": 56,
+      "id": 55,
+      "name": "SPA Sorcier",
+      "wins": 0,
+      "losses": 1,
+      "pour": 8,
+      "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 57,
       "id": 14,
       "name": "Les Winners",
       "wins": 0,
       "losses": 1,
       "pour": 1,
       "contre": 4,
+      "played": 1
+    },
+    {
+      "rank": 58,
+      "id": 8,
+      "name": "Jean Bat Family",
+      "wins": 0,
+      "losses": 1,
+      "pour": 7,
+      "contre": 11,
       "played": 1
     },
     {
@@ -906,22 +906,22 @@
       "planche": 23,
       "t1": "Les sombres merdes",
       "t2": "SPA ma faute",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 24,
       "t1": "Jean Bat Family",
       "t2": "MECABATI",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 25,
       "t1": "MMA 0 tracas 0 blabla",
       "t2": "SPA Sorcier",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "8"
     },
     {
       "planche": 26,
@@ -1191,24 +1191,24 @@
       "planche": 23,
       "t1": "Les sombres merdes",
       "t2": "SPA ma faute",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 1,
       "planche": 24,
       "t1": "Jean Bat Family",
       "t2": "MECABATI",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 1,
       "planche": 25,
       "t1": "MMA 0 tracas 0 blabla",
       "t2": "SPA Sorcier",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "8"
     },
     {
       "round": 1,
