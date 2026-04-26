@@ -3,17 +3,17 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T18:16:09.295Z",
+  "updatedAt": "2026-04-26T18:16:39.361Z",
   "standings": [
     {
       "rank": 1,
       "id": 1,
       "name": "Pas d'inspi",
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
+      "pour": 11,
+      "contre": 1,
+      "played": 1
     },
     {
       "rank": 2,
@@ -157,16 +157,6 @@
     },
     {
       "rank": 16,
-      "id": 16,
-      "name": "Jeanne d’arc Villemoisan",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 17,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 0,
@@ -176,7 +166,7 @@
       "played": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": 18,
       "name": "La clés de 10",
       "wins": 0,
@@ -186,7 +176,7 @@
       "played": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 0,
@@ -196,7 +186,7 @@
       "played": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": 20,
       "name": "Les Dauphinois",
       "wins": 0,
@@ -206,7 +196,7 @@
       "played": 0
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 0,
@@ -216,7 +206,7 @@
       "played": 0
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": 22,
       "name": "MMA 0 tracas 0 blabla",
       "wins": 0,
@@ -226,7 +216,7 @@
       "played": 0
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 0,
@@ -236,7 +226,7 @@
       "played": 0
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": 24,
       "name": "Les pongistes",
       "wins": 0,
@@ -246,7 +236,7 @@
       "played": 0
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": 25,
       "name": "Duo du plomb",
       "wins": 0,
@@ -256,7 +246,7 @@
       "played": 0
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 26,
       "name": "MECABATI",
       "wins": 0,
@@ -266,7 +256,7 @@
       "played": 0
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 27,
       "name": "Les double A",
       "wins": 0,
@@ -276,7 +266,7 @@
       "played": 0
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 0,
@@ -286,7 +276,7 @@
       "played": 0
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 29,
       "name": "Le comptoir",
       "wins": 0,
@@ -296,7 +286,7 @@
       "played": 0
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 30,
       "name": "Les fantomettes du sud",
       "wins": 0,
@@ -306,7 +296,7 @@
       "played": 0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 0,
@@ -316,7 +306,7 @@
       "played": 0
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 32,
       "name": "LPH",
       "wins": 0,
@@ -326,7 +316,7 @@
       "played": 0
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 0,
@@ -336,7 +326,7 @@
       "played": 0
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": 34,
       "name": "Pas laid",
       "wins": 0,
@@ -346,7 +336,7 @@
       "played": 0
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": 35,
       "name": "Les frangins",
       "wins": 0,
@@ -356,7 +346,7 @@
       "played": 0
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 0,
@@ -366,7 +356,7 @@
       "played": 0
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": 37,
       "name": "Les merdes",
       "wins": 0,
@@ -376,7 +366,7 @@
       "played": 0
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": 38,
       "name": "Les voisins",
       "wins": 0,
@@ -386,7 +376,7 @@
       "played": 0
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": 39,
       "name": "Classe 74",
       "wins": 0,
@@ -396,7 +386,7 @@
       "played": 0
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": 40,
       "name": "Tamtam",
       "wins": 0,
@@ -406,7 +396,7 @@
       "played": 0
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": 41,
       "name": "Les salariés de USV",
       "wins": 0,
@@ -416,7 +406,7 @@
       "played": 0
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": 42,
       "name": "Palet Laiton Coufféen",
       "wins": 0,
@@ -426,7 +416,7 @@
       "played": 0
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": 43,
       "name": "Les bronzés font du ski",
       "wins": 0,
@@ -436,7 +426,7 @@
       "played": 0
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": 44,
       "name": "Delta",
       "wins": 0,
@@ -446,7 +436,7 @@
       "played": 0
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": 45,
       "name": "Les assoiffés",
       "wins": 0,
@@ -456,7 +446,7 @@
       "played": 0
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": 46,
       "name": "Le réveil du carré",
       "wins": 0,
@@ -466,7 +456,7 @@
       "played": 0
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": 47,
       "name": "Lamineur",
       "wins": 0,
@@ -476,7 +466,7 @@
       "played": 0
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": 48,
       "name": "SPA Magique",
       "wins": 0,
@@ -486,7 +476,7 @@
       "played": 0
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": 49,
       "name": "Pile ou face",
       "wins": 0,
@@ -496,7 +486,7 @@
       "played": 0
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -506,7 +496,7 @@
       "played": 0
     },
     {
-      "rank": 51,
+      "rank": 50,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -516,7 +506,7 @@
       "played": 0
     },
     {
-      "rank": 52,
+      "rank": 51,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 0,
@@ -526,7 +516,7 @@
       "played": 0
     },
     {
-      "rank": 53,
+      "rank": 52,
       "id": 53,
       "name": "SPA ma faute",
       "wins": 0,
@@ -536,7 +526,7 @@
       "played": 0
     },
     {
-      "rank": 54,
+      "rank": 53,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 0,
@@ -546,7 +536,7 @@
       "played": 0
     },
     {
-      "rank": 55,
+      "rank": 54,
       "id": 55,
       "name": "SPA Sorcier",
       "wins": 0,
@@ -556,7 +546,7 @@
       "played": 0
     },
     {
-      "rank": 56,
+      "rank": 55,
       "id": 56,
       "name": "Ligérien",
       "wins": 0,
@@ -566,7 +556,7 @@
       "played": 0
     },
     {
-      "rank": 57,
+      "rank": 56,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 0,
@@ -576,7 +566,7 @@
       "played": 0
     },
     {
-      "rank": 58,
+      "rank": 57,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 0,
@@ -586,7 +576,7 @@
       "played": 0
     },
     {
-      "rank": 59,
+      "rank": 58,
       "id": 59,
       "name": "Les gâtés Nantais",
       "wins": 0,
@@ -596,7 +586,7 @@
       "played": 0
     },
     {
-      "rank": 60,
+      "rank": 59,
       "id": 60,
       "name": "N’importe jmen fou",
       "wins": 0,
@@ -606,7 +596,7 @@
       "played": 0
     },
     {
-      "rank": 61,
+      "rank": 60,
       "id": 61,
       "name": "PABIENS",
       "wins": 0,
@@ -616,7 +606,7 @@
       "played": 0
     },
     {
-      "rank": 62,
+      "rank": 61,
       "id": 62,
       "name": "Les patatosses",
       "wins": 0,
@@ -626,7 +616,7 @@
       "played": 0
     },
     {
-      "rank": 63,
+      "rank": 62,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 0,
@@ -636,7 +626,7 @@
       "played": 0
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 64,
       "name": "Les crottins",
       "wins": 0,
@@ -646,7 +636,7 @@
       "played": 0
     },
     {
-      "rank": 65,
+      "rank": 64,
       "id": 65,
       "name": "tout pour le show",
       "wins": 0,
@@ -656,7 +646,7 @@
       "played": 0
     },
     {
-      "rank": 66,
+      "rank": 65,
       "id": 66,
       "name": "Les Diplomatico",
       "wins": 0,
@@ -666,7 +656,7 @@
       "played": 0
     },
     {
-      "rank": 67,
+      "rank": 66,
       "id": 67,
       "name": "Les chrichri",
       "wins": 0,
@@ -676,7 +666,7 @@
       "played": 0
     },
     {
-      "rank": 68,
+      "rank": 67,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -686,7 +676,7 @@
       "played": 0
     },
     {
-      "rank": 69,
+      "rank": 68,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 0,
@@ -696,7 +686,7 @@
       "played": 0
     },
     {
-      "rank": 70,
+      "rank": 69,
       "id": 70,
       "name": "PatBrunne",
       "wins": 0,
@@ -706,7 +696,7 @@
       "played": 0
     },
     {
-      "rank": 71,
+      "rank": 70,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 0,
@@ -716,7 +706,7 @@
       "played": 0
     },
     {
-      "rank": 72,
+      "rank": 71,
       "id": 72,
       "name": "Razmo et Rapido",
       "wins": 0,
@@ -726,7 +716,7 @@
       "played": 0
     },
     {
-      "rank": 73,
+      "rank": 72,
       "id": 73,
       "name": "furafique farke",
       "wins": 0,
@@ -736,7 +726,7 @@
       "played": 0
     },
     {
-      "rank": 74,
+      "rank": 73,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 0,
@@ -744,6 +734,16 @@
       "pour": 0,
       "contre": 0,
       "played": 0
+    },
+    {
+      "rank": 74,
+      "id": 16,
+      "name": "Jeanne d’arc Villemoisan",
+      "wins": 0,
+      "losses": 1,
+      "pour": 1,
+      "contre": 11,
+      "played": 1
     }
   ],
   "currentMatches": [
@@ -821,8 +821,8 @@
       "planche": 11,
       "t1": "Pas d'inspi",
       "t2": "Jeanne d’arc Villemoisan",
-      "score1": "1",
-      "score2": ""
+      "score1": "11",
+      "score2": "1"
     },
     {
       "planche": 12,
@@ -1094,8 +1094,8 @@
       "planche": 11,
       "t1": "Pas d'inspi",
       "t2": "Jeanne d’arc Villemoisan",
-      "score1": "1",
-      "score2": ""
+      "score1": "11",
+      "score2": "1"
     },
     {
       "round": 1,
