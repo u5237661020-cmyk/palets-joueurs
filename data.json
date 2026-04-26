@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:57:49.109Z",
-  "version": 1777233469109,
+  "updatedAt": "2026-04-26T20:02:11.701Z",
+  "version": 1777233731701,
   "standings": [
     {
       "rank": 1,
@@ -1901,378 +1901,377 @@
   ],
   "notifications": {
     "type": "prochain",
-    "timestamp": 1777233469108,
-    "round": 3,
+    "timestamp": 1777233731701,
     "messages": [
       {
         "teamId": 41,
         "teamName": "Les salariés de USV",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 1 vs Pas d'inspi. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Pas d'inspi. Lieu : planche 1. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 1,
         "teamName": "Pas d'inspi",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 1 vs Les salariés de USV. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les salariés de USV. Lieu : planche 1. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 46,
         "teamName": "Le réveil du carré",
-        "text": "👀 Ce match est IMPORTANT. Planche 2 vs Les patatosses. Podium en ligne de mire 🏆"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les patatosses. Lieu : planche 2. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 62,
         "teamName": "Les patatosses",
-        "text": "⚡ Ce match compte DOUBLE niveau enjeu ! Planche 2 vs Le réveil du carré. Une victoire et le podium se rapproche 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Le réveil du carré. Lieu : planche 2. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 9,
         "teamName": "Les Sorinièrois",
-        "text": "🎯 M-1 avant la finale. Planche 3 vs On est inscrit c'est déjà bien. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : On est inscrit c'est déjà bien. Lieu : planche 3. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 28,
         "teamName": "On est inscrit c'est déjà bien",
-        "text": "👀 Ce match est IMPORTANT. Planche 3 vs Les Sorinièrois. Podium en ligne de mire 🏆"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Sorinièrois. Lieu : planche 3. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 53,
         "teamName": "SPA ma faute",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 4 vs tout pour le show. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : tout pour le show. Lieu : planche 4. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 65,
         "teamName": "tout pour le show",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 4 vs SPA ma faute. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : SPA ma faute. Lieu : planche 4. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 22,
         "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🎯 M-1 avant la finale. Planche 5 vs Les zizigoto’s. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les zizigoto’s. Lieu : planche 5. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 33,
         "teamName": "Les zizigoto’s",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 5 vs MMA 0 tracas 0 blabla. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : MMA 0 tracas 0 blabla. Lieu : planche 5. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 35,
         "teamName": "Les frangins",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 6 vs Le Clos Martin. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Le Clos Martin. Lieu : planche 6. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 69,
         "teamName": "Le Clos Martin",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 6 vs Les frangins. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les frangins. Lieu : planche 6. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 21,
         "teamName": "Les Fouillons",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 7 vs Les pyramides maudites. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les pyramides maudites. Lieu : planche 7. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 63,
         "teamName": "Les pyramides maudites",
-        "text": "🎯 M-1 avant la finale. Planche 7 vs Les Fouillons. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Fouillons. Lieu : planche 7. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 26,
         "teamName": "MECABATI",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 8 vs Eeeeeeeeee. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Eeeeeeeeee. Lieu : planche 8. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 58,
         "teamName": "Eeeeeeeeee",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 8 vs MECABATI. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : MECABATI. Lieu : planche 8. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 71,
         "teamName": "Antoine et Yaya",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 9 vs N’importe jmen fou. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : N’importe jmen fou. Lieu : planche 9. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 60,
         "teamName": "N’importe jmen fou",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 9 vs Antoine et Yaya. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Antoine et Yaya. Lieu : planche 9. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 37,
         "teamName": "Les merdes",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 10 vs Les pongistes. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les pongistes. Lieu : planche 10. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 24,
         "teamName": "Les pongistes",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 10 vs Les merdes. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les merdes. Lieu : planche 10. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 66,
         "teamName": "Les Diplomatico",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 11 vs Delta. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Delta. Lieu : planche 11. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 44,
         "teamName": "Delta",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 11 vs Les Diplomatico. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Diplomatico. Lieu : planche 11. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 64,
         "teamName": "Les crottins",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 12 vs Lamineur. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Lamineur. Lieu : planche 12. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 47,
         "teamName": "Lamineur",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 12 vs Les crottins. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les crottins. Lieu : planche 12. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 34,
         "teamName": "Pas laid",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 13 vs Les bronzés font du ski. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les bronzés font du ski. Lieu : planche 13. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 43,
         "teamName": "Les bronzés font du ski",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 13 vs Pas laid. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Pas laid. Lieu : planche 13. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 12,
         "teamName": "Les Métissés",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 14 vs Les fantomettes du sud. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les fantomettes du sud. Lieu : planche 14. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 30,
         "teamName": "Les fantomettes du sud",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 14 vs Les Métissés. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Métissés. Lieu : planche 14. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 29,
         "teamName": "Le comptoir",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 15 vs La grosse bite de JOJO. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : La grosse bite de JOJO. Lieu : planche 15. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 4,
         "teamName": "La grosse bite de JOJO",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 15 vs Le comptoir. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Le comptoir. Lieu : planche 15. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 7,
         "teamName": "Les sombres merdes",
-        "text": "🎯 M-1 avant la finale. Planche 16 vs Classe 74. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Classe 74. Lieu : planche 16. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 39,
         "teamName": "Classe 74",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 16 vs Les sombres merdes. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les sombres merdes. Lieu : planche 16. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 54,
         "teamName": "Les SPA Tator",
-        "text": "🎯 M-1 avant la finale. Planche 17 vs 73 M. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : 73 M. Lieu : planche 17. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 6,
         "teamName": "73 M",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 17 vs Les SPA Tator. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les SPA Tator. Lieu : planche 17. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 23,
         "teamName": "Tif et Mario",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 18 vs Ligérien. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Ligérien. Lieu : planche 18. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 56,
         "teamName": "Ligérien",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 18 vs Tif et Mario. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Tif et Mario. Lieu : planche 18. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 13,
         "teamName": "Team Laiton",
-        "text": "🎯 M-1 avant la finale. Planche 19 vs Fc Patrick Fouchard. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Fc Patrick Fouchard. Lieu : planche 19. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 31,
         "teamName": "Fc Patrick Fouchard",
-        "text": "🎯 M-1 avant la finale. Planche 19 vs Team Laiton. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Team Laiton. Lieu : planche 19. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 57,
         "teamName": "SPA passé loin",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 20 vs SPA Sorcier. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : SPA Sorcier. Lieu : planche 20. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 55,
         "teamName": "SPA Sorcier",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 20 vs SPA passé loin. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : SPA passé loin. Lieu : planche 20. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 36,
         "teamName": "Les plombés du SPA",
-        "text": "🎯 M-1 avant la finale. Planche 21 vs Les Winners. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Winners. Lieu : planche 21. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 14,
         "teamName": "Les Winners",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 21 vs Les plombés du SPA. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les plombés du SPA. Lieu : planche 21. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 70,
         "teamName": "PatBrunne",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 22 vs La clés de 10. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : La clés de 10. Lieu : planche 22. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 18,
         "teamName": "La clés de 10",
-        "text": "🎯 M-1 avant la finale. Planche 22 vs PatBrunne. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : PatBrunne. Lieu : planche 22. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 61,
         "teamName": "PABIENS",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 23 vs Juju et camtar. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Juju et camtar. Lieu : planche 23. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 17,
         "teamName": "Juju et camtar",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 23 vs PABIENS. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : PABIENS. Lieu : planche 23. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 19,
         "teamName": "Pistolet à Ô",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 24 vs P’titsBU. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : P’titsBU. Lieu : planche 24. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 2,
         "teamName": "P’titsBU",
-        "text": "🎯 M-1 avant la finale. Planche 24 vs Pistolet à Ô. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Pistolet à Ô. Lieu : planche 24. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 74,
         "teamName": "Paté en Croûte",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 25 vs furafique farke. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : furafique farke. Lieu : planche 25. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 73,
         "teamName": "furafique farke",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 25 vs Paté en Croûte. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Paté en Croûte. Lieu : planche 25. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 72,
         "teamName": "Razmo et Rapido",
-        "text": "🎯 M-1 avant la finale. Planche 26 vs Les anonymes. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les anonymes. Lieu : planche 26. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 3,
         "teamName": "Les anonymes",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 26 vs Razmo et Rapido. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Razmo et Rapido. Lieu : planche 26. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 16,
         "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 27 vs LPH. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : LPH. Lieu : planche 27. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 32,
         "teamName": "LPH",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 27 vs Jeanne d’arc Villemoisan. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Jeanne d’arc Villemoisan. Lieu : planche 27. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 52,
         "teamName": "Les beaux frères",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 28 vs Les p'tiots. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les p'tiots. Lieu : planche 28. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 5,
         "teamName": "Les p'tiots",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 28 vs Les beaux frères. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les beaux frères. Lieu : planche 28. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 20,
         "teamName": "Les Dauphinois",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 29 vs Les copains. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les copains. Lieu : planche 29. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 50,
         "teamName": "Les copains",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 29 vs Les Dauphinois. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Dauphinois. Lieu : planche 29. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 51,
         "teamName": "Les Bouesiens",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 30 vs Jean Bat Family. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Jean Bat Family. Lieu : planche 30. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 8,
         "teamName": "Jean Bat Family",
-        "text": "⚽ Avant-dernier match avant la fin du championnat ! Planche 30 vs Les Bouesiens. C'est le moment de prendre des points 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Bouesiens. Lieu : planche 30. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 15,
         "teamName": "Les Loosers",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 31 vs Pile ou face. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Pile ou face. Lieu : planche 31. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 49,
         "teamName": "Pile ou face",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 31 vs Les Loosers. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Loosers. Lieu : planche 31. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 38,
         "teamName": "Les voisins",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 32 vs Association Domi. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Association Domi. Lieu : planche 32. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 10,
         "teamName": "Association Domi",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 32 vs Les voisins. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les voisins. Lieu : planche 32. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 40,
         "teamName": "Tamtam",
-        "text": "🎯 M-1 avant la finale. Planche 33 vs Les gâtés Nantais. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les gâtés Nantais. Lieu : planche 33. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 59,
         "teamName": "Les gâtés Nantais",
-        "text": "🎯 M-1 avant la finale. Planche 33 vs Tamtam. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Tamtam. Lieu : planche 33. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 48,
         "teamName": "SPA Magique",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 34 vs Duo du plomb. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Duo du plomb. Lieu : planche 34. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 25,
         "teamName": "Duo du plomb",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 34 vs SPA Magique. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : SPA Magique. Lieu : planche 34. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 27,
         "teamName": "Les double A",
-        "text": "🎯 M-1 avant la finale. Planche 35 vs Palet Laiton Coufféen. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Palet Laiton Coufféen. Lieu : planche 35. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 42,
         "teamName": "Palet Laiton Coufféen",
-        "text": "⚡ Ça sent la fin ! Avant-dernière manche, planche 35 vs Les double A. Sortez vos meilleurs carreaux 🎯"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les double A. Lieu : planche 35. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 45,
         "teamName": "Les assoiffés",
-        "text": "🎯 M-1 avant la finale. Planche 36 vs Les chrichri. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les chrichri. Lieu : planche 36. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 67,
         "teamName": "Les chrichri",
-        "text": "🔥 Avant-dernière ligne droite ! Planche 36 vs Les assoiffés. Les boissons attendront 🥏"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les assoiffés. Lieu : planche 36. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 68,
         "teamName": "Pascal Obistro",
-        "text": "🎯 M-1 avant la finale. Planche 37 vs Les Antho. Le podium se dessine 👀"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Antho. Lieu : planche 37. Préparation : sandwich + boisson. GO 🕹️"
       },
       {
         "teamId": 11,
         "teamName": "Les Antho",
-        "text": "🎬 Le tournoi se joue maintenant ! Planche 37 vs Pascal Obistro. Plus le moment de paletter mollo 💪"
+        "text": "🎮 Niveau suivant débloqué ! Boss : Pascal Obistro. Lieu : planche 37. Préparation : sandwich + boisson. GO 🕹️"
       }
     ]
   }
