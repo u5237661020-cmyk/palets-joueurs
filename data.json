@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:17.931Z",
-  "version": 1777234697931,
+  "updatedAt": "2026-04-26T20:18:21.968Z",
+  "version": 1777234701968,
   "standings": [
     {
       "rank": 1,
@@ -158,6 +158,16 @@
     },
     {
       "rank": 16,
+      "id": 30,
+      "name": "Les fantomettes du sud",
+      "wins": 2,
+      "losses": 1,
+      "pour": 31,
+      "contre": 24,
+      "played": 3
+    },
+    {
+      "rank": 17,
       "id": 43,
       "name": "Les bronzés font du ski",
       "wins": 2,
@@ -167,7 +177,7 @@
       "played": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 2,
@@ -177,7 +187,7 @@
       "played": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -187,7 +197,7 @@
       "played": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -197,7 +207,7 @@
       "played": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -207,7 +217,7 @@
       "played": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -217,7 +227,7 @@
       "played": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -227,27 +237,7 @@
       "played": 3
     },
     {
-      "rank": 23,
-      "id": 12,
-      "name": "Les Métissés",
-      "wins": 1,
-      "losses": 1,
-      "pour": 16,
-      "contre": 12,
-      "played": 2
-    },
-    {
       "rank": 24,
-      "id": 30,
-      "name": "Les fantomettes du sud",
-      "wins": 1,
-      "losses": 1,
-      "pour": 20,
-      "contre": 17,
-      "played": 2
-    },
-    {
-      "rank": 25,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -257,7 +247,7 @@
       "played": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -267,7 +257,7 @@
       "played": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 4,
       "name": "La grosse bite de JOJO",
       "wins": 1,
@@ -277,7 +267,7 @@
       "played": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -287,7 +277,7 @@
       "played": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 39,
       "name": "Classe 74",
       "wins": 1,
@@ -297,7 +287,7 @@
       "played": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -307,7 +297,7 @@
       "played": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -317,7 +307,7 @@
       "played": 3
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 6,
       "name": "73 M",
       "wins": 1,
@@ -325,6 +315,16 @@
       "pour": 20,
       "contre": 19,
       "played": 2
+    },
+    {
+      "rank": 32,
+      "id": 12,
+      "name": "Les Métissés",
+      "wins": 1,
+      "losses": 2,
+      "pour": 23,
+      "contre": 23,
+      "played": 3
     },
     {
       "rank": 33,
@@ -843,8 +843,8 @@
       "planche": 14,
       "t1": "Les Métissés",
       "t2": "Les fantomettes du sud",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 15,
@@ -1119,8 +1119,8 @@
       "planche": 14,
       "t1": "Les Métissés",
       "t2": "Les fantomettes du sud",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 3,
