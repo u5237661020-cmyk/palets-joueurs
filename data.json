@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:19:30.414Z",
-  "version": 1777234770414,
+  "updatedAt": "2026-04-26T20:19:35.923Z",
+  "version": 1777234775923,
   "standings": [
     {
       "rank": 1,
@@ -538,6 +538,16 @@
     },
     {
       "rank": 54,
+      "id": 59,
+      "name": "Les gâtés Nantais",
+      "wins": 1,
+      "losses": 2,
+      "pour": 25,
+      "contre": 30,
+      "played": 3
+    },
+    {
+      "rank": 55,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -547,7 +557,7 @@
       "played": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 1,
@@ -557,7 +567,7 @@
       "played": 3
     },
     {
-      "rank": 56,
+      "rank": 57,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -567,7 +577,7 @@
       "played": 3
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -577,7 +587,7 @@
       "played": 3
     },
     {
-      "rank": 58,
+      "rank": 59,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -587,7 +597,7 @@
       "played": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -597,7 +607,7 @@
       "played": 3
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -607,7 +617,7 @@
       "played": 3
     },
     {
-      "rank": 61,
+      "rank": 62,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -617,27 +627,7 @@
       "played": 3
     },
     {
-      "rank": 62,
-      "id": 40,
-      "name": "Tamtam",
-      "wins": 0,
-      "losses": 2,
-      "pour": 14,
-      "contre": 22,
-      "played": 2
-    },
-    {
       "rank": 63,
-      "id": 59,
-      "name": "Les gâtés Nantais",
-      "wins": 0,
-      "losses": 2,
-      "pour": 14,
-      "contre": 22,
-      "played": 2
-    },
-    {
-      "rank": 64,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -647,7 +637,7 @@
       "played": 3
     },
     {
-      "rank": 65,
+      "rank": 64,
       "id": 48,
       "name": "SPA Magique",
       "wins": 0,
@@ -657,9 +647,19 @@
       "played": 2
     },
     {
-      "rank": 66,
+      "rank": 65,
       "id": 8,
       "name": "Jean Bat Family",
+      "wins": 0,
+      "losses": 3,
+      "pour": 22,
+      "contre": 33,
+      "played": 3
+    },
+    {
+      "rank": 66,
+      "id": 40,
+      "name": "Tamtam",
       "wins": 0,
       "losses": 3,
       "pour": 22,
@@ -976,8 +976,8 @@
       "planche": 33,
       "t1": "Tamtam",
       "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "planche": 34,
@@ -1271,8 +1271,8 @@
       "planche": 33,
       "t1": "Tamtam",
       "t2": "Les gâtés Nantais",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "round": 3,
