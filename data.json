@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:21:24.277Z",
-  "version": 1777234884277,
+  "updatedAt": "2026-04-26T20:21:28.508Z",
+  "version": 1777234888508,
   "standings": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "name": "MMA 0 tracas 0 blabla",
       "wins": 4,
       "losses": 0,
-      "pour": 42,
+      "pour": 44,
       "contre": 26,
       "played": 4
     },
@@ -48,16 +48,6 @@
     },
     {
       "rank": 5,
-      "id": 28,
-      "name": "On est inscrit c'est déjà bien",
-      "wins": 3,
-      "losses": 1,
-      "pour": 39,
-      "contre": 26,
-      "played": 4
-    },
-    {
-      "rank": 6,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 3,
@@ -67,13 +57,23 @@
       "played": 3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": 26,
       "name": "MECABATI",
       "wins": 3,
       "losses": 1,
       "pour": 37,
       "contre": 25,
+      "played": 4
+    },
+    {
+      "rank": 7,
+      "id": 28,
+      "name": "On est inscrit c'est déjà bien",
+      "wins": 3,
+      "losses": 1,
+      "pour": 39,
+      "contre": 28,
       "played": 4
     },
     {
@@ -767,7 +767,7 @@
       "t1": "On est inscrit c'est déjà bien",
       "t2": "MMA 0 tracas 0 blabla",
       "score1": "6",
-      "score2": "9"
+      "score2": "11"
     },
     {
       "planche": 4,
@@ -1032,7 +1032,7 @@
       "t1": "On est inscrit c'est déjà bien",
       "t2": "MMA 0 tracas 0 blabla",
       "score1": "6",
-      "score2": "9"
+      "score2": "11"
     },
     {
       "round": 4,
