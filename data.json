@@ -6,8 +6,8 @@
   "phase": "qualifying",
   "phaseLabel": "Partie 1",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T21:11:19.220Z",
-  "version": 1777237879220,
+  "updatedAt": "2026-04-26T21:11:24.922Z",
+  "version": 1777237884922,
   "standings": [
     {
       "rank": 1,
@@ -1736,5 +1736,422 @@
       "score1": "",
       "score2": ""
     }
-  ]
+  ],
+  "notifications": {
+    "type": "prochain",
+    "timestamp": 1777237884921,
+    "round": 1,
+    "messages": [
+      {
+        "teamId": 5,
+        "teamName": "Jérôme et Mickaël",
+        "text": "☕ Première partie, planche 1 vs Bouses premium. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 2,
+        "teamName": "Bouses premium",
+        "text": "⚽ Coup d'envoi imminent ! Planche 1 vs Jérôme et Mickaël. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les Festi’papeche",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 2 contre Thomas et Ethan. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Thomas et Ethan",
+        "text": "🥊 Round 1 ! Dans le coin droit : Thomas et Ethan. Dans le coin gauche : Les Festi’papeche. Direction la planche 2. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 7,
+        "teamName": "Roropit",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 3 vs 2F. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 8,
+        "teamName": "2F",
+        "text": "⚽ Coup d'envoi imminent ! Planche 3 vs Roropit. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Chicots",
+        "text": "🎯 Premier match en approche ! Planche 4 vs Les kéké. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 1,
+        "teamName": "Les kéké",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 4 vs Chicots. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 11,
+        "teamName": "Les anonymes",
+        "text": "⚽ Coup d'envoi imminent ! Planche 5 vs 73 M. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 14,
+        "teamName": "73 M",
+        "text": "☕ Première partie, planche 5 vs Les anonymes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les p'tiots",
+        "text": "🎯 Premier match en approche ! Planche 6 vs Jean Bat Family. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 16,
+        "teamName": "Jean Bat Family",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 6 vs Les p'tiots. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Les sombres merdes",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les sombres merdes. Dans le coin gauche : Pas d'inspi. Direction la planche 7. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 9,
+        "teamName": "Pas d'inspi",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 7 contre Les sombres merdes. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 10,
+        "teamName": "P’titsBU",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 8 vs La grosse bite de JOJO. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 12,
+        "teamName": "La grosse bite de JOJO",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 8 contre P’titsBU. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Juju et camtar",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 9 vs Les Métissés. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Les Métissés",
+        "text": "⚽ Coup d'envoi imminent ! Planche 9 vs Juju et camtar. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Les Sorinièrois",
+        "text": "⚽ Coup d'envoi imminent ! Planche 10 vs Les Loosers. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Les Loosers",
+        "text": "☕ Première partie, planche 10 vs Les Sorinièrois. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pistolet à Ô",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 11 contre Les Antho. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les Antho",
+        "text": "🎯 Premier match en approche ! Planche 11 vs Pistolet à Ô. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Team Laiton",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 12 contre Tif et Mario. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Tif et Mario",
+        "text": "🎯 Premier match en approche ! Planche 12 vs Team Laiton. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les Fouillons",
+        "text": "☕ Première partie, planche 13 vs MMA 0 tracas 0 blabla. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 30,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 13 contre Les Fouillons. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Les Winners",
+        "text": "🎯 Premier match en approche ! Planche 14 vs Les pongistes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 32,
+        "teamName": "Les pongistes",
+        "text": "☕ Première partie, planche 14 vs Les Winners. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🥊 Round 1 ! Dans le coin droit : Jeanne d’arc Villemoisan. Dans le coin gauche : Les Dauphinois. Direction la planche 15. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 28,
+        "teamName": "Les Dauphinois",
+        "text": "🎯 Premier match en approche ! Planche 15 vs Jeanne d’arc Villemoisan. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 26,
+        "teamName": "La clés de 10",
+        "text": "⚽ Coup d'envoi imminent ! Planche 16 vs Association Domi. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Association Domi",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 16 contre La clés de 10. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "☕ Première partie, planche 17 vs Les copains. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "Les copains",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 17 vs Palet Laiton Coufféen. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 34,
+        "teamName": "MECABATI",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 18 vs On est inscrit c'est déjà bien. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 36,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 18 contre MECABATI. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Duo du plomb",
+        "text": "🥊 Round 1 ! Dans le coin droit : Duo du plomb. Dans le coin gauche : Les double A. Direction la planche 19. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les double A",
+        "text": "⚽ Coup d'envoi imminent ! Planche 19 vs Duo du plomb. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "🥊 Round 1 ! Dans le coin droit : Fc Patrick Fouchard. Dans le coin gauche : Les salariés de USV. Direction la planche 20. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Les salariés de USV",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 20 vs Fc Patrick Fouchard. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les Bouesiens",
+        "text": "⚽ Coup d'envoi imminent ! Planche 21 vs Delta. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 52,
+        "teamName": "Delta",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 21 vs Les Bouesiens. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Les bronzés font du ski",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les bronzés font du ski. Dans le coin gauche : Pile ou face. Direction la planche 22. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Pile ou face",
+        "text": "🥊 Round 1 ! Dans le coin droit : Pile ou face. Dans le coin gauche : Les bronzés font du ski. Direction la planche 22. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 40,
+        "teamName": "LPH",
+        "text": "🎯 Premier match en approche ! Planche 23 vs Le comptoir. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Le comptoir",
+        "text": "🎯 Premier match en approche ! Planche 23 vs LPH. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 54,
+        "teamName": "Le réveil du carré",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 24 contre Les fantomettes du sud. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les fantomettes du sud",
+        "text": "☕ Première partie, planche 24 vs Le réveil du carré. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les assoiffés",
+        "text": "⚽ Coup d'envoi imminent ! Planche 25 vs Pas laid. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Pas laid",
+        "text": "🥊 Round 1 ! Dans le coin droit : Pas laid. Dans le coin gauche : Les assoiffés. Direction la planche 25. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les zizigoto’s",
+        "text": "☕ Première partie, planche 26 vs Les beaux frères. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Les beaux frères",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les beaux frères. Dans le coin gauche : Les zizigoto’s. Direction la planche 26. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Les frangins",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 27 vs Les plombés du SPA. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 44,
+        "teamName": "Les plombés du SPA",
+        "text": "⚽ Coup d'envoi imminent ! Planche 27 vs Les frangins. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Lamineur",
+        "text": "🎯 Premier match en approche ! Planche 28 vs Les merdes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Les merdes",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 28 contre Lamineur. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les SPA Tator",
+        "text": "⚽ Coup d'envoi imminent ! Planche 29 vs Les voisins. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les voisins",
+        "text": "🎯 Premier match en approche ! Planche 29 vs Les SPA Tator. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Classe 74",
+        "text": "☕ Première partie, planche 30 vs Tamtam. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 48,
+        "teamName": "Tamtam",
+        "text": "🥊 Round 1 ! Dans le coin droit : Tamtam. Dans le coin gauche : Classe 74. Direction la planche 30. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Ligérien",
+        "text": "🎯 Premier match en approche ! Planche 31 vs SPA Magique. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 56,
+        "teamName": "SPA Magique",
+        "text": "☕ Première partie, planche 31 vs Ligérien. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 63,
+        "teamName": "SPA Sorcier",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 32 contre SPA ma faute. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 61,
+        "teamName": "SPA ma faute",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 32 vs SPA Sorcier. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 69,
+        "teamName": "PABIENS",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 33 contre Les pyramides maudites. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les pyramides maudites",
+        "text": "⚽ Coup d'envoi imminent ! Planche 33 vs PABIENS. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Les patatosses",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 34 vs SPA passé loin. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 65,
+        "teamName": "SPA passé loin",
+        "text": "☕ Première partie, planche 34 vs Les patatosses. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 68,
+        "teamName": "N’importe jmen fou",
+        "text": "⚽ Coup d'envoi imminent ! Planche 35 vs Les gâtés Nantais. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les gâtés Nantais",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 35 vs N’importe jmen fou. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Eeeeeeeeee",
+        "text": "🥊 Round 1 ! Dans le coin droit : Eeeeeeeeee. Dans le coin gauche : Les crottins. Direction la planche 36. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Les crottins",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 36 contre Eeeeeeeeee. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 74,
+        "teamName": "Les Diplomatico",
+        "text": "☕ Première partie, planche 37 vs tout pour le show. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 73,
+        "teamName": "tout pour le show",
+        "text": "🎯 Premier match en approche ! Planche 37 vs Les Diplomatico. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Pascal Obistro",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 38 vs Les chrichri. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Les chrichri",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les chrichri. Dans le coin gauche : Pascal Obistro. Direction la planche 38. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Razmo et Rapido",
+        "text": "⚽ Coup d'envoi imminent ! Planche 39 vs PatBrunne. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 78,
+        "teamName": "PatBrunne",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 39 contre Razmo et Rapido. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Le Clos Martin",
+        "text": "⚽ Coup d'envoi imminent ! Planche 40 vs Antoine et Yaya. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 79,
+        "teamName": "Antoine et Yaya",
+        "text": "🎯 Premier match en approche ! Planche 40 vs Le Clos Martin. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Paté en Croûte",
+        "text": "🎯 Premier match en approche ! Planche 41 vs furafique farke. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 81,
+        "teamName": "furafique farke",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 41 contre Paté en Croûte. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      }
+    ]
+  }
 }
