@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:23:22.246Z",
-  "version": 1777235002246,
+  "updatedAt": "2026-04-26T20:23:27.341Z",
+  "version": 1777235007341,
   "standings": [
     {
       "rank": 1,
@@ -668,6 +668,16 @@
     },
     {
       "rank": 67,
+      "id": 67,
+      "name": "Les chrichri",
+      "wins": 1,
+      "losses": 3,
+      "pour": 19,
+      "contre": 33,
+      "played": 4
+    },
+    {
+      "rank": 68,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -677,7 +687,7 @@
       "played": 4
     },
     {
-      "rank": 68,
+      "rank": 69,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -687,7 +697,7 @@
       "played": 4
     },
     {
-      "rank": 69,
+      "rank": 70,
       "id": 11,
       "name": "Les Antho",
       "wins": 1,
@@ -697,7 +707,7 @@
       "played": 4
     },
     {
-      "rank": 70,
+      "rank": 71,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -707,32 +717,22 @@
       "played": 4
     },
     {
-      "rank": 71,
-      "id": 68,
-      "name": "Pascal Obistro",
-      "wins": 0,
-      "losses": 3,
-      "pour": 14,
-      "contre": 33,
-      "played": 3
-    },
-    {
       "rank": 72,
-      "id": 67,
-      "name": "Les chrichri",
-      "wins": 0,
-      "losses": 3,
-      "pour": 8,
-      "contre": 27,
-      "played": 3
-    },
-    {
-      "rank": 73,
       "id": 48,
       "name": "SPA Magique",
       "wins": 0,
       "losses": 4,
       "pour": 23,
+      "contre": 44,
+      "played": 4
+    },
+    {
+      "rank": 73,
+      "id": 68,
+      "name": "Pascal Obistro",
+      "wins": 0,
+      "losses": 4,
+      "pour": 20,
       "contre": 44,
       "played": 4
     },
@@ -1004,8 +1004,8 @@
       "planche": 37,
       "t1": "Pascal Obistro",
       "t2": "Les chrichri",
-      "score1": "",
-      "score2": ""
+      "score1": "6",
+      "score2": "11"
     }
   ],
   "nextMatches": [],
@@ -1303,8 +1303,8 @@
       "planche": 37,
       "t1": "Pascal Obistro",
       "t2": "Les chrichri",
-      "score1": "",
-      "score2": ""
+      "score1": "6",
+      "score2": "11"
     },
     {
       "round": 3,
