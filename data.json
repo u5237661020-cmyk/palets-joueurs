@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:23:03.749Z",
-  "version": 1777234983749,
+  "updatedAt": "2026-04-26T20:23:07.089Z",
+  "version": 1777234987089,
   "standings": [
     {
       "rank": 1,
@@ -428,6 +428,16 @@
     },
     {
       "rank": 43,
+      "id": 25,
+      "name": "Duo du plomb",
+      "wins": 2,
+      "losses": 2,
+      "pour": 33,
+      "contre": 37,
+      "played": 4
+    },
+    {
+      "rank": 44,
       "id": 45,
       "name": "Les assoiffés",
       "wins": 2,
@@ -437,7 +447,7 @@
       "played": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": 30,
       "name": "Les fantomettes du sud",
       "wins": 2,
@@ -447,7 +457,7 @@
       "played": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 2,
@@ -457,7 +467,7 @@
       "played": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": 73,
       "name": "furafique farke",
       "wins": 2,
@@ -467,7 +477,7 @@
       "played": 4
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 2,
@@ -477,7 +487,7 @@
       "played": 4
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": 15,
       "name": "Les Loosers",
       "wins": 1,
@@ -487,7 +497,7 @@
       "played": 4
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": 20,
       "name": "Les Dauphinois",
       "wins": 1,
@@ -497,7 +507,7 @@
       "played": 4
     },
     {
-      "rank": 50,
+      "rank": 51,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -507,7 +517,7 @@
       "played": 4
     },
     {
-      "rank": 51,
+      "rank": 52,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -517,7 +527,7 @@
       "played": 4
     },
     {
-      "rank": 52,
+      "rank": 53,
       "id": 13,
       "name": "Team Laiton",
       "wins": 1,
@@ -527,7 +537,7 @@
       "played": 4
     },
     {
-      "rank": 53,
+      "rank": 54,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -537,7 +547,7 @@
       "played": 4
     },
     {
-      "rank": 54,
+      "rank": 55,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -547,7 +557,7 @@
       "played": 4
     },
     {
-      "rank": 55,
+      "rank": 56,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -557,7 +567,7 @@
       "played": 4
     },
     {
-      "rank": 56,
+      "rank": 57,
       "id": 38,
       "name": "Les voisins",
       "wins": 1,
@@ -567,7 +577,7 @@
       "played": 4
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": 24,
       "name": "Les pongistes",
       "wins": 1,
@@ -577,27 +587,7 @@
       "played": 4
     },
     {
-      "rank": 58,
-      "id": 2,
-      "name": "P’titsBU",
-      "wins": 1,
-      "losses": 2,
-      "pour": 23,
-      "contre": 32,
-      "played": 3
-    },
-    {
       "rank": 59,
-      "id": 25,
-      "name": "Duo du plomb",
-      "wins": 1,
-      "losses": 2,
-      "pour": 22,
-      "contre": 31,
-      "played": 3
-    },
-    {
-      "rank": 60,
       "id": 27,
       "name": "Les double A",
       "wins": 1,
@@ -607,7 +597,7 @@
       "played": 4
     },
     {
-      "rank": 61,
+      "rank": 60,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -617,7 +607,7 @@
       "played": 3
     },
     {
-      "rank": 62,
+      "rank": 61,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -625,6 +615,16 @@
       "pour": 18,
       "contre": 31,
       "played": 3
+    },
+    {
+      "rank": 62,
+      "id": 2,
+      "name": "P’titsBU",
+      "wins": 1,
+      "losses": 3,
+      "pour": 29,
+      "contre": 43,
+      "played": 4
     },
     {
       "rank": 63,
@@ -955,8 +955,8 @@
       "planche": 30,
       "t1": "P’titsBU",
       "t2": "Duo du plomb",
-      "score1": "",
-      "score2": ""
+      "score1": "6",
+      "score2": "11"
     },
     {
       "planche": 31,
@@ -1247,8 +1247,8 @@
       "planche": 30,
       "t1": "P’titsBU",
       "t2": "Duo du plomb",
-      "score1": "",
-      "score2": ""
+      "score1": "6",
+      "score2": "11"
     },
     {
       "round": 4,
