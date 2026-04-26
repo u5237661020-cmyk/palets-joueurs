@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:34:04.112Z",
-  "version": 1777232044112,
+  "updatedAt": "2026-04-26T19:34:06.340Z",
+  "version": 1777232046340,
   "standings": [
     {
       "rank": 1,
@@ -18,16 +18,6 @@
     },
     {
       "rank": 2,
-      "id": 5,
-      "name": "Les p'tiots",
-      "wins": 1,
-      "losses": 0,
-      "pour": 11,
-      "contre": 1,
-      "played": 1
-    },
-    {
-      "rank": 3,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -37,9 +27,19 @@
       "played": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": 2,
       "name": "P’titsBU",
+      "wins": 1,
+      "losses": 0,
+      "pour": 11,
+      "contre": 10,
+      "played": 1
+    },
+    {
+      "rank": 4,
+      "id": 5,
+      "name": "Les p'tiots",
       "wins": 1,
       "losses": 0,
       "pour": 11,
@@ -708,6 +708,16 @@
     },
     {
       "rank": 71,
+      "id": 37,
+      "name": "Les merdes",
+      "wins": 0,
+      "losses": 1,
+      "pour": 10,
+      "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 72,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -717,7 +727,7 @@
       "played": 1
     },
     {
-      "rank": 72,
+      "rank": 73,
       "id": 38,
       "name": "Les voisins",
       "wins": 0,
@@ -727,19 +737,9 @@
       "played": 1
     },
     {
-      "rank": 73,
+      "rank": 74,
       "id": 16,
       "name": "Jeanne d’arc Villemoisan",
-      "wins": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 11,
-      "played": 1
-    },
-    {
-      "rank": 74,
-      "id": 37,
-      "name": "Les merdes",
       "wins": 0,
       "losses": 1,
       "pour": 1,
@@ -843,7 +843,7 @@
       "planche": 14,
       "t1": "Les merdes",
       "t2": "Les p'tiots",
-      "score1": "1",
+      "score1": "10",
       "score2": "11"
     },
     {
@@ -1119,7 +1119,7 @@
       "planche": 14,
       "t1": "Les merdes",
       "t2": "Les p'tiots",
-      "score1": "1",
+      "score1": "10",
       "score2": "11"
     },
     {
