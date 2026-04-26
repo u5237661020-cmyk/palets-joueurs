@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:34:00.365Z",
-  "version": 1777232040365,
+  "updatedAt": "2026-04-26T19:34:04.112Z",
+  "version": 1777232044112,
   "standings": [
     {
       "rank": 1,
@@ -18,11 +18,11 @@
     },
     {
       "rank": 2,
-      "id": 37,
-      "name": "Les merdes",
+      "id": 5,
+      "name": "Les p'tiots",
       "wins": 1,
       "losses": 0,
-      "pour": 10,
+      "pour": 11,
       "contre": 1,
       "played": 1
     },
@@ -728,18 +728,18 @@
     },
     {
       "rank": 73,
-      "id": 5,
-      "name": "Les p'tiots",
+      "id": 16,
+      "name": "Jeanne d’arc Villemoisan",
       "wins": 0,
       "losses": 1,
       "pour": 1,
-      "contre": 10,
+      "contre": 11,
       "played": 1
     },
     {
       "rank": 74,
-      "id": 16,
-      "name": "Jeanne d’arc Villemoisan",
+      "id": 37,
+      "name": "Les merdes",
       "wins": 0,
       "losses": 1,
       "pour": 1,
@@ -843,8 +843,8 @@
       "planche": 14,
       "t1": "Les merdes",
       "t2": "Les p'tiots",
-      "score1": "10",
-      "score2": "1"
+      "score1": "1",
+      "score2": "11"
     },
     {
       "planche": 15,
@@ -1119,8 +1119,8 @@
       "planche": 14,
       "t1": "Les merdes",
       "t2": "Les p'tiots",
-      "score1": "10",
-      "score2": "1"
+      "score1": "1",
+      "score2": "11"
     },
     {
       "round": 1,
