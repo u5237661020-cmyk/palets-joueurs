@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 1,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:51:31.145Z",
-  "version": 1777233091145,
+  "updatedAt": "2026-04-26T19:51:35.085Z",
+  "version": 1777233095085,
   "standings": [
     {
       "rank": 1,
@@ -268,6 +268,16 @@
     },
     {
       "rank": 27,
+      "id": 17,
+      "name": "Juju et camtar",
+      "wins": 1,
+      "losses": 0,
+      "pour": 11,
+      "contre": 9,
+      "played": 1
+    },
+    {
+      "rank": 28,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 1,
@@ -277,7 +287,7 @@
       "played": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 1,
@@ -287,7 +297,7 @@
       "played": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -297,7 +307,7 @@
       "played": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -307,7 +317,7 @@
       "played": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": 53,
       "name": "SPA ma faute",
       "wins": 1,
@@ -317,7 +327,7 @@
       "played": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": 56,
       "name": "Ligérien",
       "wins": 1,
@@ -327,7 +337,7 @@
       "played": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": 60,
       "name": "N’importe jmen fou",
       "wins": 1,
@@ -337,7 +347,7 @@
       "played": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 1,
@@ -347,7 +357,7 @@
       "played": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -357,7 +367,7 @@
       "played": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": 5,
       "name": "Les p'tiots",
       "wins": 1,
@@ -367,27 +377,7 @@
       "played": 1
     },
     {
-      "rank": 37,
-      "id": 17,
-      "name": "Juju et camtar",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
       "rank": 38,
-      "id": 20,
-      "name": "Les Dauphinois",
-      "wins": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0
-    },
-    {
-      "rank": 39,
       "id": 37,
       "name": "Les merdes",
       "wins": 0,
@@ -397,7 +387,7 @@
       "played": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": 51,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -407,9 +397,19 @@
       "played": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": 7,
       "name": "Les sombres merdes",
+      "wins": 0,
+      "losses": 1,
+      "pour": 9,
+      "contre": 11,
+      "played": 1
+    },
+    {
+      "rank": 41,
+      "id": 20,
+      "name": "Les Dauphinois",
       "wins": 0,
       "losses": 1,
       "pour": 9,
@@ -1004,8 +1004,8 @@
       "planche": 37,
       "t1": "Juju et camtar",
       "t2": "Les Dauphinois",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "9"
     }
   ],
   "nextMatches": [],
@@ -1303,8 +1303,8 @@
       "planche": 37,
       "t1": "Juju et camtar",
       "t2": "Les Dauphinois",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "9"
     }
   ]
 }
