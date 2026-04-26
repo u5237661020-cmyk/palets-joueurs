@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:21:42.277Z",
-  "version": 1777234902277,
+  "updatedAt": "2026-04-26T20:21:51.031Z",
+  "version": 1777234911031,
   "standings": [
     {
       "rank": 1,
@@ -68,16 +68,26 @@
     },
     {
       "rank": 7,
-      "id": 66,
-      "name": "Les Diplomatico",
+      "id": 62,
+      "name": "Les patatosses",
       "wins": 3,
       "losses": 1,
       "pour": 39,
-      "contre": 26,
+      "contre": 20,
       "played": 4
     },
     {
       "rank": 8,
+      "id": 1,
+      "name": "Pas d'inspi",
+      "wins": 3,
+      "losses": 1,
+      "pour": 38,
+      "contre": 26,
+      "played": 4
+    },
+    {
+      "rank": 9,
       "id": 26,
       "name": "MECABATI",
       "wins": 3,
@@ -87,7 +97,7 @@
       "played": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 3,
@@ -97,7 +107,7 @@
       "played": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 3,
@@ -107,7 +117,17 @@
       "played": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "id": 9,
+      "name": "Les Sorinièrois",
+      "wins": 3,
+      "losses": 1,
+      "pour": 33,
+      "contre": 23,
+      "played": 4
+    },
+    {
+      "rank": 13,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 3,
@@ -117,57 +137,27 @@
       "played": 4
     },
     {
-      "rank": 12,
-      "id": 1,
-      "name": "Pas d'inspi",
+      "rank": 14,
+      "id": 66,
+      "name": "Les Diplomatico",
       "wins": 2,
       "losses": 2,
-      "pour": 35,
-      "contre": 26,
+      "pour": 39,
+      "contre": 29,
       "played": 4
     },
     {
-      "rank": 13,
+      "rank": 15,
       "id": 47,
       "name": "Lamineur",
       "wins": 2,
-      "losses": 1,
-      "pour": 27,
-      "contre": 18,
-      "played": 3
-    },
-    {
-      "rank": 14,
-      "id": 9,
-      "name": "Les Sorinièrois",
-      "wins": 2,
-      "losses": 1,
-      "pour": 22,
-      "contre": 13,
-      "played": 3
-    },
-    {
-      "rank": 15,
-      "id": 62,
-      "name": "Les patatosses",
-      "wins": 2,
-      "losses": 1,
-      "pour": 28,
-      "contre": 20,
-      "played": 3
+      "losses": 2,
+      "pour": 37,
+      "contre": 29,
+      "played": 4
     },
     {
       "rank": 16,
-      "id": 30,
-      "name": "Les fantomettes du sud",
-      "wins": 2,
-      "losses": 1,
-      "pour": 31,
-      "contre": 24,
-      "played": 3
-    },
-    {
-      "rank": 17,
       "id": 61,
       "name": "PABIENS",
       "wins": 2,
@@ -177,7 +167,7 @@
       "played": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": 39,
       "name": "Classe 74",
       "wins": 2,
@@ -187,7 +177,7 @@
       "played": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": 43,
       "name": "Les bronzés font du ski",
       "wins": 2,
@@ -197,7 +187,7 @@
       "played": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 2,
@@ -207,7 +197,7 @@
       "played": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": 4,
       "name": "La grosse bite de JOJO",
       "wins": 2,
@@ -217,7 +207,7 @@
       "played": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": 6,
       "name": "73 M",
       "wins": 2,
@@ -227,7 +217,7 @@
       "played": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": 56,
       "name": "Ligérien",
       "wins": 2,
@@ -237,7 +227,7 @@
       "played": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -247,7 +237,7 @@
       "played": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -257,7 +247,7 @@
       "played": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 14,
       "name": "Les Winners",
       "wins": 2,
@@ -267,7 +257,7 @@
       "played": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 2,
@@ -277,7 +267,7 @@
       "played": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 2,
@@ -287,7 +277,7 @@
       "played": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 55,
       "name": "SPA Sorcier",
       "wins": 2,
@@ -297,7 +287,7 @@
       "played": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 72,
       "name": "Razmo et Rapido",
       "wins": 2,
@@ -307,7 +297,7 @@
       "played": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -317,7 +307,7 @@
       "played": 3
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 18,
       "name": "La clés de 10",
       "wins": 2,
@@ -327,7 +317,7 @@
       "played": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -337,7 +327,7 @@
       "played": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": 73,
       "name": "furafique farke",
       "wins": 2,
@@ -347,7 +337,7 @@
       "played": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": 16,
       "name": "Jeanne d’arc Villemoisan",
       "wins": 2,
@@ -355,6 +345,16 @@
       "pour": 23,
       "contre": 25,
       "played": 3
+    },
+    {
+      "rank": 35,
+      "id": 30,
+      "name": "Les fantomettes du sud",
+      "wins": 2,
+      "losses": 2,
+      "pour": 31,
+      "contre": 35,
+      "played": 4
     },
     {
       "rank": 36,
@@ -788,21 +788,21 @@
       "t1": "Les Diplomatico",
       "t2": "Pas d'inspi",
       "score1": "9",
-      "score2": "8"
+      "score2": "11"
     },
     {
       "planche": 7,
       "t1": "Lamineur",
       "t2": "Les Sorinièrois",
-      "score1": "",
-      "score2": ""
+      "score1": "10",
+      "score2": "11"
     },
     {
       "planche": 8,
       "t1": "Les patatosses",
       "t2": "Les fantomettes du sud",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "0"
     },
     {
       "planche": 9,
@@ -1056,23 +1056,23 @@
       "t1": "Les Diplomatico",
       "t2": "Pas d'inspi",
       "score1": "9",
-      "score2": "8"
+      "score2": "11"
     },
     {
       "round": 4,
       "planche": 7,
       "t1": "Lamineur",
       "t2": "Les Sorinièrois",
-      "score1": "",
-      "score2": ""
+      "score1": "10",
+      "score2": "11"
     },
     {
       "round": 4,
       "planche": 8,
       "t1": "Les patatosses",
       "t2": "Les fantomettes du sud",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "0"
     },
     {
       "round": 4,
