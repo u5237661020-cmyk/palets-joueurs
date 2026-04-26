@@ -1,10 +1,10 @@
 {
   "tournoi": "Tournoi de Palets RSG",
   "date": "2026-04-30",
-  "round": 3,
+  "round": 4,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:19:58.148Z",
-  "version": 1777234798148,
+  "updatedAt": "2026-04-26T20:19:59.552Z",
+  "version": 1777234799552,
   "standings": [
     {
       "rank": 1,
@@ -747,267 +747,7 @@
       "played": 3
     }
   ],
-  "currentMatches": [
-    {
-      "planche": 1,
-      "t1": "Les salariés de USV",
-      "t2": "Pas d'inspi",
-      "score1": "11",
-      "score2": "5"
-    },
-    {
-      "planche": 2,
-      "t1": "Le réveil du carré",
-      "t2": "Les patatosses",
-      "score1": "11",
-      "score2": "6"
-    },
-    {
-      "planche": 3,
-      "t1": "Les Sorinièrois",
-      "t2": "On est inscrit c'est déjà bien",
-      "score1": "7",
-      "score2": "11"
-    },
-    {
-      "planche": 4,
-      "t1": "SPA ma faute",
-      "t2": "tout pour le show",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "planche": 5,
-      "t1": "MMA 0 tracas 0 blabla",
-      "t2": "Les zizigoto’s",
-      "score1": "11",
-      "score2": "6"
-    },
-    {
-      "planche": 6,
-      "t1": "Les frangins",
-      "t2": "Le Clos Martin",
-      "score1": "6",
-      "score2": "11"
-    },
-    {
-      "planche": 7,
-      "t1": "Les Fouillons",
-      "t2": "Les pyramides maudites",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 8,
-      "t1": "MECABATI",
-      "t2": "Eeeeeeeeee",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "planche": 9,
-      "t1": "Antoine et Yaya",
-      "t2": "N’importe jmen fou",
-      "score1": "5",
-      "score2": "11"
-    },
-    {
-      "planche": 10,
-      "t1": "Les merdes",
-      "t2": "Les pongistes",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "planche": 11,
-      "t1": "Les Diplomatico",
-      "t2": "Delta",
-      "score1": "11",
-      "score2": "5"
-    },
-    {
-      "planche": 12,
-      "t1": "Les crottins",
-      "t2": "Lamineur",
-      "score1": "7",
-      "score2": "11"
-    },
-    {
-      "planche": 13,
-      "t1": "Pas laid",
-      "t2": "Les bronzés font du ski",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 14,
-      "t1": "Les Métissés",
-      "t2": "Les fantomettes du sud",
-      "score1": "7",
-      "score2": "11"
-    },
-    {
-      "planche": 15,
-      "t1": "Le comptoir",
-      "t2": "La grosse bite de JOJO",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 16,
-      "t1": "Les sombres merdes",
-      "t2": "Classe 74",
-      "score1": "7",
-      "score2": "11"
-    },
-    {
-      "planche": 17,
-      "t1": "Les SPA Tator",
-      "t2": "73 M",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "planche": 18,
-      "t1": "Tif et Mario",
-      "t2": "Ligérien",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "planche": 19,
-      "t1": "Team Laiton",
-      "t2": "Fc Patrick Fouchard",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 20,
-      "t1": "SPA passé loin",
-      "t2": "SPA Sorcier",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 21,
-      "t1": "Les plombés du SPA",
-      "t2": "Les Winners",
-      "score1": "7",
-      "score2": "11"
-    },
-    {
-      "planche": 22,
-      "t1": "PatBrunne",
-      "t2": "La clés de 10",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 23,
-      "t1": "PABIENS",
-      "t2": "Juju et camtar",
-      "score1": "11",
-      "score2": "2"
-    },
-    {
-      "planche": 24,
-      "t1": "Pistolet à Ô",
-      "t2": "P’titsBU",
-      "score1": "11",
-      "score2": "6"
-    },
-    {
-      "planche": 25,
-      "t1": "Paté en Croûte",
-      "t2": "furafique farke",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "planche": 26,
-      "t1": "Razmo et Rapido",
-      "t2": "Les anonymes",
-      "score1": "11",
-      "score2": "3"
-    },
-    {
-      "planche": 27,
-      "t1": "Jeanne d’arc Villemoisan",
-      "t2": "LPH",
-      "score1": "11",
-      "score2": "5"
-    },
-    {
-      "planche": 28,
-      "t1": "Les beaux frères",
-      "t2": "Les p'tiots",
-      "score1": "6",
-      "score2": "11"
-    },
-    {
-      "planche": 29,
-      "t1": "Les Dauphinois",
-      "t2": "Les copains",
-      "score1": "11",
-      "score2": "9"
-    },
-    {
-      "planche": 30,
-      "t1": "Les Bouesiens",
-      "t2": "Jean Bat Family",
-      "score1": "11",
-      "score2": "6"
-    },
-    {
-      "planche": 31,
-      "t1": "Les Loosers",
-      "t2": "Pile ou face",
-      "score1": "11",
-      "score2": "2"
-    },
-    {
-      "planche": 32,
-      "t1": "Les voisins",
-      "t2": "Association Domi",
-      "score1": "11",
-      "score2": "9"
-    },
-    {
-      "planche": 33,
-      "t1": "Tamtam",
-      "t2": "Les gâtés Nantais",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "planche": 34,
-      "t1": "SPA Magique",
-      "t2": "Duo du plomb",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "planche": 35,
-      "t1": "Les double A",
-      "t2": "Palet Laiton Coufféen",
-      "score1": "11",
-      "score2": "7"
-    },
-    {
-      "planche": 36,
-      "t1": "Les assoiffés",
-      "t2": "Les chrichri",
-      "score1": "11",
-      "score2": "5"
-    },
-    {
-      "planche": 37,
-      "t1": "Pascal Obistro",
-      "t2": "Les Antho",
-      "score1": "9",
-      "score2": "11"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -1898,5 +1638,382 @@
       "score1": "11",
       "score2": "9"
     }
-  ]
+  ],
+  "notifications": {
+    "type": "classement",
+    "timestamp": 1777234799552,
+    "round": 3,
+    "messages": [
+      {
+        "teamId": 1,
+        "teamName": "Pas d'inspi",
+        "text": "🤷 Ça arrive aux meilleurs. 12e avec 27 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
+      },
+      {
+        "teamId": 2,
+        "teamName": "P’titsBU",
+        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 59e avec 23 points 📚"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les anonymes",
+        "text": "🥅 On a pris un palet dans la lucarne. 64e avec 15 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
+      },
+      {
+        "teamId": 4,
+        "teamName": "La grosse bite de JOJO",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 21e avec 31 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les p'tiots",
+        "text": "🚂 Le train de la remontée est en marche ! 36e avec 22 points. Prochain arrêt : podium ? 🚂"
+      },
+      {
+        "teamId": 6,
+        "teamName": "73 M",
+        "text": "🎟️ Maintien assuré, et même mieux ! 22e avec 31 points. On vise l'Europe maintenant ? 🌍"
+      },
+      {
+        "teamId": 7,
+        "teamName": "Les sombres merdes",
+        "text": "💔 Pas de bol cette fois. 47e avec 27 points. On boit un coup avec les vainqueurs et on revient plus forts 🍻"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Jean Bat Family",
+        "text": "⚽ Défaite à domicile, ça pique. 68e avec 22 points. Mais la saison est longue, on relève la tête ! 💪"
+      },
+      {
+        "teamId": 9,
+        "teamName": "Les Sorinièrois",
+        "text": "😅 C'était un échauffement disons. 14e avec 22 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Association Domi",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 67e avec 23 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 11,
+        "teamName": "Les Antho",
+        "text": "⚖️ Match super accroché ! 65e avec 15 points. Vous faites monter la tension dramatique 🍬"
+      },
+      {
+        "teamId": 12,
+        "teamName": "Les Métissés",
+        "text": "🥅 On a pris un palet dans la lucarne. 43e avec 23 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Team Laiton",
+        "text": "⚽ Match digne d'un derby ! 48e avec 27 points. Aussi serré qu'un Ancenis-Saint-Géréon 🔥"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Les Winners",
+        "text": "🚂 Le train de la remontée est en marche ! 26e avec 23 points. Prochain arrêt : podium ? 🚂"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Les Loosers",
+        "text": "🌱 Ça pousse ! 38e avec 27 points. Une victoire après l'autre, on construit 🥏"
+      },
+      {
+        "teamId": 16,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🎟️ Maintien assuré, et même mieux ! 35e avec 23 points. On vise l'Europe maintenant ? 🌍"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Juju et camtar",
+        "text": "🤷 Ça arrive aux meilleurs. 61e avec 19 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
+      },
+      {
+        "teamId": 18,
+        "teamName": "La clés de 10",
+        "text": "🎢 Quel match ! 32e avec 29 points. Crise cardiaque collective évitée de peu ❤️"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Pistolet à Ô",
+        "text": "🔥 Bien joué ! 28e avec 24 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Les Dauphinois",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 46e avec 29 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Fouillons",
+        "text": "🎢 Quel match ! 20e avec 31 points. Crise cardiaque collective évitée de peu ❤️"
+      },
+      {
+        "teamId": 22,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🚂 Le train de la remontée est en marche ! 6e avec 33 points. Prochain arrêt : podium ? 🚂"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Tif et Mario",
+        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 50e avec 28 points 📚"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Les pongistes",
+        "text": "🫠 13-0… on appelle ça un nettoyage par le vide. 52e avec 20 points. Petit coup au bar et on oublie 🍻"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Duo du plomb",
+        "text": "🎢 Quel match ! 60e avec 22 points. Crise cardiaque collective évitée de peu ❤️"
+      },
+      {
+        "teamId": 26,
+        "teamName": "MECABATI",
+        "text": "🎟️ Maintien assuré, et même mieux ! 4e avec 33 points. On vise l'Europe maintenant ? 🌍"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Les double A",
+        "text": "🚂 Le train de la remontée est en marche ! 58e avec 22 points. Prochain arrêt : podium ? 🚂"
+      },
+      {
+        "teamId": 28,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🎯 Et une de plus ! 5e avec 33 points. Le palet vous obéit, c'est beau 🍻"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Le comptoir",
+        "text": "⚽ Match digne d'un derby ! 40e avec 28 points. Aussi serré qu'un Ancenis-Saint-Géréon 🔥"
+      },
+      {
+        "teamId": 30,
+        "teamName": "Les fantomettes du sud",
+        "text": "🚂 Le train de la remontée est en marche ! 16e avec 31 points. Prochain arrêt : podium ? 🚂"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 27e avec 29 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 32,
+        "teamName": "LPH",
+        "text": "😅 C'était un échauffement disons. 63e avec 17 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les zizigoto’s",
+        "text": "💔 Pas de bol cette fois. 24e avec 28 points. On boit un coup avec les vainqueurs et on revient plus forts 🍻"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Pas laid",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 39e avec 29 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les frangins",
+        "text": "😅 C'était un échauffement disons. 25e avec 28 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Les plombés du SPA",
+        "text": "⚽ Défaite à domicile, ça pique. 55e avec 23 points. Mais la saison est longue, on relève la tête ! 💪"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les merdes",
+        "text": "🎯 Et une de plus ! 10e avec 32 points. Le palet vous obéit, c'est beau 🍻"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les voisins",
+        "text": "⚖️ Match super accroché ! 53e avec 26 points. Vous faites monter la tension dramatique 🍬"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Classe 74",
+        "text": "🚂 Le train de la remontée est en marche ! 18e avec 31 points. Prochain arrêt : podium ? 🚂"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Tamtam",
+        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 69e avec 22 points. La prochaine on les a 💪"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les salariés de USV",
+        "text": "⚽ Tête en haut du classement ! 1e avec 33 points. Vous jouez le titre 🏆"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🥅 On a pris un palet dans la lucarne. 71e avec 18 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Les bronzés font du ski",
+        "text": "⚖️ Match super accroché ! 19e avec 31 points. Vous faites monter la tension dramatique 🍬"
+      },
+      {
+        "teamId": 44,
+        "teamName": "Delta",
+        "text": "⚽ Défaite à domicile, ça pique. 44e avec 23 points. Mais la saison est longue, on relève la tête ! 💪"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Les assoiffés",
+        "text": "🌱 Ça pousse ! 56e avec 21 points. Une victoire après l'autre, on construit 🥏"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Le réveil du carré",
+        "text": "🔥 INARRÊTABLES ! 3e avec 33 points. À ce stade c'est plus du palet, c'est de l'art 🎨"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Lamineur",
+        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 13e avec 27 points. Les 3 points sont dans la poche 💪"
+      },
+      {
+        "teamId": 48,
+        "teamName": "SPA Magique",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 70e avec 21 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Pile ou face",
+        "text": "😅 C'était un échauffement disons. 72e avec 18 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les copains",
+        "text": "😰 Ouf, ça s'est joué à un palet près ! 66e avec 26 points. Le suspense version palet 💆"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Les Bouesiens",
+        "text": "🎯 Et une de plus ! 42e avec 28 points. Le palet vous obéit, c'est beau 🍻"
+      },
+      {
+        "teamId": 52,
+        "teamName": "Les beaux frères",
+        "text": "🤷 Ça arrive aux meilleurs. 62e avec 18 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
+      },
+      {
+        "teamId": 53,
+        "teamName": "SPA ma faute",
+        "text": "🔥 INARRÊTABLES ! 2e avec 33 points. À ce stade c'est plus du palet, c'est de l'art 🎨"
+      },
+      {
+        "teamId": 54,
+        "teamName": "Les SPA Tator",
+        "text": "🤷 Ça arrive aux meilleurs. 45e avec 28 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
+      },
+      {
+        "teamId": 55,
+        "teamName": "SPA Sorcier",
+        "text": "⚖️ Match super accroché ! 29e avec 30 points. Vous faites monter la tension dramatique 🍬"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Ligérien",
+        "text": "🔥 Bien joué ! 23e avec 31 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
+      },
+      {
+        "teamId": 57,
+        "teamName": "SPA passé loin",
+        "text": "⚖️ Match super accroché ! 49e avec 27 points. Vous faites monter la tension dramatique 🍬"
+      },
+      {
+        "teamId": 58,
+        "teamName": "Eeeeeeeeee",
+        "text": "😱 Le mot interdit a été prononcé : F-A-N-N-Y. 37e avec 22 points. C'est qu'une mauvaise mène à passer 💪"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les gâtés Nantais",
+        "text": "🎯 Et une de plus ! 54e avec 25 points. Le palet vous obéit, c'est beau 🍻"
+      },
+      {
+        "teamId": 60,
+        "teamName": "N’importe jmen fou",
+        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 8e avec 33 points. Les 3 points sont dans la poche 💪"
+      },
+      {
+        "teamId": 61,
+        "teamName": "PABIENS",
+        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 17e avec 28 points. Les 3 points sont dans la poche 💪"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les patatosses",
+        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 15e avec 28 points. La prochaine on les a 💪"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les pyramides maudites",
+        "text": "🎢 Quel match ! 9e avec 33 points. Crise cardiaque collective évitée de peu ❤️"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les crottins",
+        "text": "💔 Pas de bol cette fois. 41e avec 25 points. On boit un coup avec les vainqueurs et on revient plus forts 🍻"
+      },
+      {
+        "teamId": 65,
+        "teamName": "tout pour le show",
+        "text": "🫠 13-0… on appelle ça un nettoyage par le vide. 31e avec 21 points. Petit coup au bar et on oublie 🍻"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Les Diplomatico",
+        "text": "🔥 Bien joué ! 11e avec 30 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les chrichri",
+        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 74e avec 8 points. La prochaine on les a 💪"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Pascal Obistro",
+        "text": "⚽ Match digne d'un derby ! 73e avec 14 points. Aussi serré qu'un Ancenis-Saint-Géréon 🔥"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Le Clos Martin",
+        "text": "🔥 Bien joué ! 7e avec 33 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
+      },
+      {
+        "teamId": 70,
+        "teamName": "PatBrunne",
+        "text": "⚽ Match digne d'un derby ! 51e avec 21 points. Aussi serré qu'un Ancenis-Saint-Géréon 🔥"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Antoine et Yaya",
+        "text": "🤷 Ça arrive aux meilleurs. 33e avec 21 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Razmo et Rapido",
+        "text": "🎯 Et une de plus ! 30e avec 24 points. Le palet vous obéit, c'est beau 🍻"
+      },
+      {
+        "teamId": 73,
+        "teamName": "furafique farke",
+        "text": "🎟️ Maintien assuré, et même mieux ! 34e avec 24 points. On vise l'Europe maintenant ? 🌍"
+      },
+      {
+        "teamId": 74,
+        "teamName": "Paté en Croûte",
+        "text": "🥅 On a pris un palet dans la lucarne. 57e avec 24 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
+      }
+    ]
+  }
 }
