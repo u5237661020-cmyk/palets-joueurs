@@ -6,8 +6,8 @@
   "phase": "final",
   "phaseLabel": "Phase finale",
   "finalComplete": false,
-  "updatedAt": "2026-04-26T20:38:36.828Z",
-  "version": 1777235916828,
+  "updatedAt": "2026-04-26T20:38:40.545Z",
+  "version": 1777235920545,
   "standings": [
     {
       "rank": 1,
@@ -901,17 +901,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "15ème/16ème PLACE",
-      "planche": "15ème/16ème PLACE",
-      "matchId": "classif_15",
-      "isFinal": true,
-      "t1": "73 M",
-      "t2": "Fc Patrick Fouchard",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "17ème/18ème PLACE",
       "planche": "17ème/18ème PLACE",
       "matchId": "classif_17",
@@ -1307,6 +1296,17 @@
       "t1": "PABIENS",
       "t2": "Les Sorinièrois",
       "score1": "6",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "15ème/16ème PLACE",
+      "planche": "15ème/16ème PLACE",
+      "matchId": "classif_15",
+      "isFinal": true,
+      "t1": "73 M",
+      "t2": "Fc Patrick Fouchard",
+      "score1": "9",
       "score2": "11"
     },
     {
