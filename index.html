@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Palets RSG">
+<meta name="theme-color" content="#eab308">
+<title>Tournoi Palet RSG</title>
+<!-- PWA Manifest inline -->
+<link rel="manifest" href="data:application/json;charset=utf-8,%7B%22name%22%3A%20%22Tournoi%20Palet%20RSG%22%2C%20%22short_name%22%3A%20%22Palets%20RSG%22%2C%20%22start_url%22%3A%20%22.%2F%22%2C%20%22display%22%3A%20%22standalone%22%2C%20%22background_color%22%3A%20%22%23eab308%22%2C%20%22theme_color%22%3A%20%22%23eab308%22%2C%20%22icons%22%3A%20%5B%7B%22src%22%3A%20%22data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSI5NiIgZmlsbD0iI2VhYjMwOCIvPgo8cmVjdCB4PSIxMiIgeT0iMTIiIHdpZHRoPSI0ODgiIGhlaWdodD0iNDg4IiByeD0iODYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzExMSIgc3Ryb2tlLXdpZHRoPSI4Ii8%2BCjxyZWN0IHg9IjI0IiB5PSIyNCIgd2lkdGg9IjQ2NCIgaGVpZ2h0PSI0NjQiIHJ4PSI3OCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTExIiBzdHJva2Utd2lkdGg9IjMiLz4KPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE4NSIgcng9Ijk1IiByeT0iOTUiIGZpbGw9IiMxMTEiLz4KPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE4NSIgcng9Ijg4IiByeT0iODgiIGZpbGw9IiNjOTkyMGEiLz4KPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE4NSIgcng9IjgwIiByeT0iODAiIGZpbGw9IiMxMTEiLz4KPGVsbGlwc2UgY3g9IjE4OCIgY3k9IjE3NiIgcng9IjQ0IiByeT0iMjAiIGZpbGw9IiNjOTkyMGEiIG9wYWNpdHk9IjAuNSIvPgo8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxODUiIHI9IjIyIiBmaWxsPSIjYzk5MjBhIi8%2BCjxjaXJjbGUgY3g9IjIwMCIgY3k9IjE4NSIgcj0iMTQiIGZpbGw9IiMxMTEiLz4KPGxpbmUgeDE9IjExMCIgeTE9IjE4NSIgeDI9IjcwIiB5Mj0iMTg1IiBzdHJva2U9IiNjOTkyMGEiIHN0cm9rZS13aWR0aD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC43Ii8%2BCjxsaW5lIHgxPSIxMDciIHkxPSIyMTAiIHgyPSI2NSIgeTI9IjIyMiIgc3Ryb2tlPSIjYzk5MjBhIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC41Ii8%2BCjxsaW5lIHgxPSIxMDciIHkxPSIxNjAiIHgyPSI2NSIgeTI9IjE0OCIgc3Ryb2tlPSIjYzk5MjBhIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC41Ii8%2BCjxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxNjUiIHJ4PSI4MCIgcnk9IjgwIiBmaWxsPSIjMTExIi8%2BCjxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxNjUiIHJ4PSI3NCIgcnk9Ijc0IiBmaWxsPSIjYzk5MjBhIi8%2BCjxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxNjUiIHJ4PSI2NiIgcnk9IjY2IiBmaWxsPSIjMTExIi8%2BCjxlbGxpcHNlIGN4PSIzNTAiIGN5PSIxNTgiIHJ4PSIzNiIgcnk9IjE2IiBmaWxsPSIjYzk5MjBhIiBvcGFjaXR5PSIwLjUiLz4KPGNpcmNsZSBjeD0iMzYwIiBjeT0iMTY1IiByPSIxOCIgZmlsbD0iI2M5OTIwYSIvPgo8Y2lyY2xlIGN4PSIzNjAiIGN5PSIxNjUiIHI9IjExIiBmaWxsPSIjMTExIi8%2BCjxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzMDUiIHJ4PSI3MiIgcnk9IjcyIiBmaWxsPSIjMTExIi8%2BCjxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzMDUiIHJ4PSI2NiIgcnk9IjY2IiBmaWxsPSIjYzk5MjBhIi8%2BCjxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzMDUiIHJ4PSI1OCIgcnk9IjU4IiBmaWxsPSIjMTExIi8%2BCjxlbGxpcHNlIGN4PSIyNDciIGN5PSIyOTgiIHJ4PSIzMiIgcnk9IjE0IiBmaWxsPSIjYzk5MjBhIiBvcGFjaXR5PSIwLjQ1Ii8%2BCjxjaXJjbGUgY3g9IjI1NiIgY3k9IjMwNSIgcj0iMTYiIGZpbGw9IiNjOTkyMGEiLz4KPGNpcmNsZSBjeD0iMjU2IiBjeT0iMzA1IiByPSIxMCIgZmlsbD0iIzExMSIvPgo8dGV4dCB4PSIyNTYiIHk9IjQzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIEJsYWNrLCBJbXBhY3QsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtc2l6ZT0iNzIiIGZpbGw9IiMxMTEiIGxldHRlci1zcGFjaW5nPSI0Ij5SU0c8L3RleHQ%2BCjx0ZXh0IHg9IjI1NiIgeT0iNDcwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMjIiIGZpbGw9IiMxMTEiIGxldHRlci1zcGFjaW5nPSI1Ij5UT1VSTk9JIFBBTEVUPC90ZXh0Pgo8L3N2Zz4%3D%22%2C%20%22sizes%22%3A%20%22512x512%22%2C%20%22type%22%3A%20%22image%2Fsvg%2Bxml%22%2C%20%22purpose%22%3A%20%22any%20maskable%22%7D%5D%7D">
+<meta name="apple-mobile-web-app-title" content="Palets RSG">
+<link rel="apple-touch-icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSI5NiIgZmlsbD0iI2VhYjMwOCIvPgo8cmVjdCB4PSIxMiIgeT0iMTIiIHdpZHRoPSI0ODgiIGhlaWdodD0iNDg4IiByeD0iODYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzExMSIgc3Ryb2tlLXdpZHRoPSI4Ii8+CjxyZWN0IHg9IjI0IiB5PSIyNCIgd2lkdGg9IjQ2NCIgaGVpZ2h0PSI0NjQiIHJ4PSI3OCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTExIiBzdHJva2Utd2lkdGg9IjMiLz4KPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE4NSIgcng9Ijk1IiByeT0iOTUiIGZpbGw9IiMxMTEiLz4KPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE4NSIgcng9Ijg4IiByeT0iODgiIGZpbGw9IiNjOTkyMGEiLz4KPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE4NSIgcng9IjgwIiByeT0iODAiIGZpbGw9IiMxMTEiLz4KPGVsbGlwc2UgY3g9IjE4OCIgY3k9IjE3NiIgcng9IjQ0IiByeT0iMjAiIGZpbGw9IiNjOTkyMGEiIG9wYWNpdHk9IjAuNSIvPgo8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxODUiIHI9IjIyIiBmaWxsPSIjYzk5MjBhIi8+CjxjaXJjbGUgY3g9IjIwMCIgY3k9IjE4NSIgcj0iMTQiIGZpbGw9IiMxMTEiLz4KPGxpbmUgeDE9IjExMCIgeTE9IjE4NSIgeDI9IjcwIiB5Mj0iMTg1IiBzdHJva2U9IiNjOTkyMGEiIHN0cm9rZS13aWR0aD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC43Ii8+CjxsaW5lIHgxPSIxMDciIHkxPSIyMTAiIHgyPSI2NSIgeTI9IjIyMiIgc3Ryb2tlPSIjYzk5MjBhIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC41Ii8+CjxsaW5lIHgxPSIxMDciIHkxPSIxNjAiIHgyPSI2NSIgeTI9IjE0OCIgc3Ryb2tlPSIjYzk5MjBhIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC41Ii8+CjxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxNjUiIHJ4PSI4MCIgcnk9IjgwIiBmaWxsPSIjMTExIi8+CjxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxNjUiIHJ4PSI3NCIgcnk9Ijc0IiBmaWxsPSIjYzk5MjBhIi8+CjxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxNjUiIHJ4PSI2NiIgcnk9IjY2IiBmaWxsPSIjMTExIi8+CjxlbGxpcHNlIGN4PSIzNTAiIGN5PSIxNTgiIHJ4PSIzNiIgcnk9IjE2IiBmaWxsPSIjYzk5MjBhIiBvcGFjaXR5PSIwLjUiLz4KPGNpcmNsZSBjeD0iMzYwIiBjeT0iMTY1IiByPSIxOCIgZmlsbD0iI2M5OTIwYSIvPgo8Y2lyY2xlIGN4PSIzNjAiIGN5PSIxNjUiIHI9IjExIiBmaWxsPSIjMTExIi8+CjxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzMDUiIHJ4PSI3MiIgcnk9IjcyIiBmaWxsPSIjMTExIi8+CjxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzMDUiIHJ4PSI2NiIgcnk9IjY2IiBmaWxsPSIjYzk5MjBhIi8+CjxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzMDUiIHJ4PSI1OCIgcnk9IjU4IiBmaWxsPSIjMTExIi8+CjxlbGxpcHNlIGN4PSIyNDciIGN5PSIyOTgiIHJ4PSIzMiIgcnk9IjE0IiBmaWxsPSIjYzk5MjBhIiBvcGFjaXR5PSIwLjQ1Ii8+CjxjaXJjbGUgY3g9IjI1NiIgY3k9IjMwNSIgcj0iMTYiIGZpbGw9IiNjOTkyMGEiLz4KPGNpcmNsZSBjeD0iMjU2IiBjeT0iMzA1IiByPSIxMCIgZmlsbD0iIzExMSIvPgo8dGV4dCB4PSIyNTYiIHk9IjQzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIEJsYWNrLCBJbXBhY3QsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtc2l6ZT0iNzIiIGZpbGw9IiMxMTEiIGxldHRlci1zcGFjaW5nPSI0Ij5SU0c8L3RleHQ+Cjx0ZXh0IHg9IjI1NiIgeT0iNDcwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMjIiIGZpbGw9IiMxMTEiIGxldHRlci1zcGFjaW5nPSI1Ij5UT1VSTk9JIFBBTEVUPC90ZXh0Pgo8L3N2Zz4=">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#090e18;color:#e2eaff;font-family:'Barlow Condensed','Arial Narrow',Arial,sans-serif;min-height:100vh;overflow-x:hidden}
+.gf{font-family:'Bebas Neue',Impact,cursive}
+nav{background:#0e1828;border-bottom:2px solid #eab30833;display:flex;position:sticky;top:0;z-index:100}
+nav button{flex:1;background:none;border:none;color:#4a7090;padding:12px 4px;cursor:pointer;font-family:'Bebas Neue',Impact,cursive;font-size:14px;letter-spacing:.05em;border-bottom:3px solid transparent;transition:all .2s}
+nav button.active{color:#eab308;border-bottom-color:#eab308}
+.card{background:#172438;border:1px solid #1e3a5a;border-radius:12px;padding:14px;margin-bottom:10px}
+.card-my{background:#172438;border:2px solid #eab30866;border-radius:12px;padding:14px;margin-bottom:10px}
+.badge{display:inline-block;background:#22c55e22;color:#22c55e;border:1px solid #22c55e44;border-radius:5px;padding:2px 9px;font-size:12px;font-weight:600}
+.badge-gold{background:#eab30822;color:#eab308;border:1px solid #eab30844;border-radius:5px;padding:3px 10px;font-size:13px;font-weight:600;font-family:'Bebas Neue',cursive}
+.badge-blue{background:#3b82f622;color:#3b82f6;border:1px solid #3b82f644;border-radius:5px;padding:3px 10px;font-size:13px;font-weight:600;font-family:'Bebas Neue',cursive}
+.badge-me{background:#a855f722;color:#a855f7;border:1px solid #a855f744;border-radius:5px;padding:2px 9px;font-size:12px;font-weight:600}
+table{width:100%;border-collapse:collapse}
+td,th{padding:8px 6px;font-family:'Barlow Condensed',sans-serif;font-size:14px;border-bottom:1px solid #1e3a5a22}
+th{font-size:11px;color:#4a7090;text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid #1e3a5a}
+tr.me td{background:#a855f711!important}
+tr.rank1 td{background:#eab30811!important}
+tr.rank2 td{background:#9ca3af11!important}
+tr.rank3 td{background:#92400e11!important}
+.btn{display:block;background:#eab308;color:#000;border:none;border-radius:9px;padding:12px 18px;font-family:'Bebas Neue',cursive;font-size:16px;cursor:pointer;width:100%;margin-bottom:8px;text-align:center}
+.btn-pur{background:#a855f7;color:#fff}
+.input{background:#0e1828;border:1px solid #1e3a5a;border-radius:8px;color:#e2eaff;padding:10px 12px;font-size:15px;font-family:'Barlow Condensed',sans-serif;outline:none;width:100%}
+.empty{text-align:center;padding:40px 20px;color:#4a7090;font-size:15px;line-height:2}
+#refresh-btn{position:fixed;bottom:18px;right:18px;background:#eab308;color:#000;border:none;border-radius:50%;width:52px;height:52px;font-size:22px;cursor:pointer;box-shadow:0 4px 16px #0008;z-index:200}
+.spinner{display:inline-block;width:14px;height:14px;border:2px solid #4a709066;border-top-color:#eab308;border-radius:50%;animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.fade{animation:fadeIn .2s ease}
+.vs-row{display:flex;align-items:center;gap:8px;margin-top:8px}
+.team-box{flex:1;background:#0c1830;border-radius:8px;padding:10px 12px;text-align:center;font-family:'Bebas Neue',cursive;font-size:17px;line-height:1.2}
+.team-box.me{border:2px solid #a855f7;background:#1a0d2e}
+.notif-bar{background:#a855f722;border:1px solid #a855f744;border-radius:10px;padding:12px 14px;margin-bottom:10px;display:flex;align-items:center;gap:12px;font-size:13px}
+#team-picker{display:none;position:fixed;inset:0;background:#090e18;z-index:500;overflow-y:auto;padding:20px}
+</style>
+</head>
+<body>
+
+<div id="team-picker">
+  <div style="max-width:500px;margin:0 auto">
+    <div class="gf" style="color:#eab308;font-size:28px;margin-bottom:4px">CHOISIR MON EQUIPE</div>
+    <div style="color:#4a7090;font-size:13px;margin-bottom:16px">Mémorisée sur votre téléphone. Notifications à chaque nouveau match.</div>
+    <input id="team-search" class="input" placeholder="Rechercher mon équipe..." oninput="filterTeams(this.value)" style="margin-bottom:12px"/>
+    <div id="team-list" style="display:flex;flex-direction:column;gap:8px"></div>
+    <button class="btn" style="margin-top:16px;background:#172438;color:#e2eaff;border:1px solid #1e3a5a" onclick="closePicker()">Continuer sans équipe</button>
+  </div>
+</div>
+
+<div style="background:linear-gradient(135deg,#0e1828,#132030);border-bottom:2px solid #eab30844;padding:12px 16px;display:flex;align-items:center;justify-content:space-between">
+  <div>
+    <div class="gf" style="color:#eab308;font-size:20px;line-height:1" id="h-name">Tournoi de Palets</div>
+    <div style="color:#4a7090;font-size:11px;margin-top:2px" id="h-info">Chargement...</div>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px">
+    <div style="background:#eab30822;border:1px solid #eab30844;border-radius:8px;padding:4px 10px;text-align:center">
+      <div style="font-size:9px;color:#4a7090;text-transform:uppercase">Partie</div>
+      <div class="gf" style="color:#eab308;font-size:20px;line-height:1" id="h-round">-</div>
+    </div>
+    <button onclick="openPicker()" style="background:#172438;border:1px solid #1e3a5a;border-radius:8px;padding:6px 10px;color:#e2eaff;font-family:'Bebas Neue',cursive;font-size:12px;cursor:pointer" id="my-team-btn">MON EQUIPE</button>
+  </div>
+</div>
+
+<nav>
+  <button class="active" onclick="showTab('my')" id="tab-my">⭐ MON MATCH</button>
+  <button onclick="showTab('matchs')" id="tab-matchs">⚔️ MATCHS</button>
+  <button onclick="showTab('classement')" id="tab-classement">🏆 CLASSEMENT</button>
+</nav>
+
+<div id="content" style="padding:12px 12px 80px;max-width:600px;margin:0 auto"></div>
+<button id="refresh-btn" onclick="manualRefresh()">🔄</button>
+
+<script>
+// Récupérer le bin ID depuis l'URL
+const params = new URLSearchParams(window.location.search);
+const DATA_URL = 'https://u5237661020-cmyk.github.io/palets-joueurs/data.json';
+
+let data = null;
+let myTeam = localStorage.getItem('palets-my-team') || null;
+let myTeamName = localStorage.getItem('palets-my-team-name') || null;
+let currentTab = 'my';
+let lastMatchKey = localStorage.getItem('palets-last-match') || null;
+let lastNotifId = null; // Reset à chaque chargement - on remontre les notifs récentes
+let notifGranted = ('Notification' in window) && Notification.permission === 'granted';
+
+window.addEventListener('load', () => {
+  if(myTeam) updateMyTeamBtn();
+  // L'application joueurs lit directement le fichier data.json publié sur GitHub Pages.
+  loadData().then(() => {
+    if(!myTeam && data && data.standings && data.standings.length > 0) {
+      setTimeout(() => openPicker(), 300);
+    }
+  });
+  setInterval(loadData, 90000);
+});
+
+async function loadData(){
+  const el = document.getElementById('content');
+  const cached = localStorage.getItem('palets-data-cache');
+  if(cached && !data){
+    try{ data=JSON.parse(cached); updateHeader(); render(); checkNotifMessages(); }
+    catch(e){ localStorage.removeItem('palets-data-cache'); }
+  }
+  try{
+    const r = await fetch(DATA_URL+'?_='+Date.now(), {cache:'no-store'});
+    if(!r.ok){ if(!data) el.innerHTML='<div class="empty">⚠️ Erreur '+r.status+'<br>Réessayez dans quelques secondes</div>'; return; }
+    const fresh = await r.json();
+    if(!fresh||typeof fresh!=='object'){ if(!data) el.innerHTML='<div class="empty">⏳ En attente des données...</div>'; return; }
+    const changed = JSON.stringify(fresh)!==JSON.stringify(data);
+    data=fresh;
+    try{ localStorage.setItem('palets-data-cache',JSON.stringify(fresh)); }catch(e){}
+    updateHeader();
+    if(changed||!el.children.length) render();
+    if(changed) checkNotification();
+    checkNotifMessages();
+    if(!myTeam&&fresh.standings?.length>0) setTimeout(()=>openPicker(),400);
+  }catch(e){
+    if(!data) el.innerHTML='<div class="empty">⚠️ Impossible de charger<br><small style="color:#4a7090">'+e.message+'</small><br><br><button class="btn" style="max-width:200px;margin:12px auto" onclick="localStorage.clear();location.reload()">🔄 Réinitialiser</button></div>';
+  }
+}
+async function manualRefresh(){
+  const btn = document.getElementById('refresh-btn');
+  btn.innerHTML = '<span class="spinner"></span>';
+  btn.disabled = true;
+  await loadData();
+  setTimeout(()=>{ btn.innerHTML='🔄'; btn.disabled=false; }, 600);
+}
+
+function updateHeader(){
+  if(!data) return;
+  document.getElementById('h-name').textContent = data.tournoi || 'Tournoi de Palets';
+  const upd = data.updatedAt ? new Date(data.updatedAt).toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'}) : '-';
+  document.getElementById('h-info').textContent = (data.standings?.length||0)+' équipes · '+data.totalRounds+' parties · '+upd;
+  document.getElementById('h-round').textContent = (data.round||'-')+'/'+(data.totalRounds||'-');
+}
+
+async function requestNotif(){
+  if(!('Notification' in window)) return false;
+  if(Notification.permission==='granted'){ notifGranted=true; render(); return true; }
+  if(Notification.permission==='denied'){ tryResetNotif(); return false; }
+  const p = await Notification.requestPermission();
+  notifGranted = p === 'granted';
+  render(); return notifGranted;
+}
+
+function disableNotif(){
+  // On ne peut pas vraiment désactiver programmatiquement
+  // On propose d'ouvrir les réglages
+  tryResetNotif();
+}
+
+function tryResetNotif(){
+  const isSafariIOS = /iphone|ipad/i.test(navigator.userAgent);
+  const isStandalone = window.navigator.standalone || window.matchMedia('(display-mode: standalone)').matches;
+  const existing = document.getElementById('notif-modal');
+  if(existing) existing.remove();
+  const modal = document.createElement('div');
+  modal.id = 'notif-modal';
+  modal.style.cssText = 'position:fixed;inset:0;background:#000c;z-index:2000;display:flex;align-items:center;justify-content:center;padding:16px';
+
+  let steps = '';
+  if(isSafariIOS){
+    steps = `<div style="background:#0e1828;border-radius:10px;padding:12px;font-size:13px;line-height:2.1;color:#e2eaff">
+      1. Ouvrir <strong style="color:#eab308">Réglages iPhone</strong><br>
+      2. Faire défiler jusqu'à <strong style="color:#eab308">Safari</strong><br>
+      3. <strong style="color:#eab308">Notifications</strong><br>
+      4. Chercher ce site → <strong style="color:#22c55e">Autoriser</strong>
+    </div>`;
+  } else if(isStandalone){
+    steps = `<div style="background:#22c55e11;border:1px solid #22c55e44;border-radius:8px;padding:8px 10px;font-size:12px;color:#22c55e;margin-bottom:10px">
+      💡 Depuis l'appli installée, cliquer sur <strong>Ouvrir dans le navigateur</strong> ci-dessus
+    </div>
+    <div style="background:#0e1828;border-radius:10px;padding:12px;font-size:13px;line-height:2.2;color:#e2eaff;margin-bottom:10px">
+      1. Cliquer <strong style="color:#eab308">⋮ menu</strong> en haut à droite<br>
+      2. <strong style="color:#eab308">Ouvrir dans le navigateur</strong><br>
+      3. Cliquer sur <strong style="color:#eab308">ⓘ</strong> (icône info) dans la barre<br>
+      4. <strong style="color:#eab308">Paramètres du site</strong><br>
+      5. Notifications → <strong style="color:#22c55e">Autoriser</strong><br>
+      6. Revenir sur l'appli ✅
+    </div>
+    <button onclick="window.open('https://u5237661020-cmyk.github.io/palets-joueurs/','_blank');document.getElementById('notif-modal').remove()"
+      style="background:#3b82f6;color:#fff;border:none;border-radius:8px;padding:11px;width:100%;font-family:'Bebas Neue',cursive;font-size:15px;cursor:pointer;margin-bottom:8px">
+      🌐 OUVRIR DANS LE NAVIGATEUR
+    </button>`;
+  } else {
+    steps = `<div style="background:#0e1828;border-radius:10px;padding:12px;font-size:13px;line-height:2.2;color:#e2eaff">
+      1. Cliquer sur <strong style="color:#eab308">ⓘ</strong> dans la barre d'adresse<br>
+      2. <strong style="color:#eab308">Paramètres du site</strong><br>
+      3. Notifications → <strong style="color:#22c55e">Autoriser</strong><br>
+      4. Recharger la page ✅
+    </div>`;
+  }
+
+  modal.innerHTML = `<div style="background:#172438;border:2px solid #eab30866;border-radius:14px;padding:18px;max-width:400px;width:100%">
+    <div style="font-family:'Bebas Neue',cursive;color:#eab308;font-size:20px;margin-bottom:12px">🔔 ACTIVER LES NOTIFICATIONS</div>
+    ${steps}
+    <button onclick="document.getElementById('notif-modal').remove()"
+      style="background:#eab308;color:#000;border:none;border-radius:8px;padding:12px;width:100%;font-family:'Bebas Neue',cursive;font-size:16px;cursor:pointer;margin-top:8px">
+      FERMER
+    </button>
+  </div>`;
+  document.body.appendChild(modal);
+}
+
+function sendNotif(title, body){
+  if(!notifGranted) return;
+  try{ const n=new Notification(title,{body,tag:'palets-match'}); setTimeout(()=>n.close(),8000); }catch(e){}
+}
+
+function checkNotification(){
+  if(!myTeamName || !data) return;
+  const m = getCurrentMyMatch();
+  if(m){ const k='p'+data.round+'-'+m.planche; if(k!==lastMatchKey){ lastMatchKey=k; localStorage.setItem('palets-last-match',k); sendNotif('Nouveau match — '+myTeamName,'Partie '+data.round+' · Planche '+m.planche+' vs '+(m.t1===myTeamName?m.t2:m.t1)); } }
+  const n = getNextMyMatch();
+  if(n){ const k='next-p'+(parseInt(data.round)+1)+'-'+n.planche; if(k!==lastMatchKey){ lastMatchKey=k; localStorage.setItem('palets-last-match',k); sendNotif('Prochain match — '+myTeamName,'Partie '+(parseInt(data.round)+1)+' · Planche '+n.planche+' vs '+(n.t1===myTeamName?n.t2:n.t1)); } }
+}
+
+function checkNotifMessages(){
+  if(!data || !data.notifications){ return; }
+  console.log('[Notif] données notif trouvées:', data.notifications.type, data.notifications.timestamp);
+  const notif = data.notifications;
+  const notifKey = notif.timestamp + '_' + notif.type;
+  if(notifKey === lastNotifId) return; // Déjà vue
+  lastNotifId = notifKey;
+  // localStorage.setItem('palets-last-notif', notifKey); // Désactivé pour re-montrer à chaque session
+  // Trouver le message de cette équipe
+  // teamId peut être number ou string selon la source
+  const myMsg = notif.messages?.find(m => String(m.teamId) === String(myTeam));
+  if(!myMsg){
+    console.log('[Notif] Pas de message pour équipe', myTeam, '- messages disponibles:', notif.messages?.map(m=>m.teamId));
+    return;
+  }
+  // Afficher bannière in-app
+  showNotifBanner(myMsg.text, myMsg.long, notif.type);
+  // Notification push si accordée
+  if(notifGranted){
+    const titles = {
+      debut: '🎉 Tournoi RSG — Ça commence !',
+      prochain: '🥏 Prochain match',
+      classement: '📊 Classement mis à jour',
+      fin: '👋 Tournoi terminé !'
+    };
+    sendNotif(titles[notif.type] || '🥏 RSG', myMsg.text.substring(0, 100));
+  }
+}
+
+function showNotifBanner(text, longText, type){
+  const existing = document.getElementById('notif-rsg-banner');
+  if(existing) existing.remove();
+  const colors = {debut:'#22c55e', prochain:'#3b82f6', classement:'#a855f7', fin:'#eab308'};
+  const col = colors[type] || '#eab308';
+  const banner = document.createElement('div');
+  banner.id = 'notif-rsg-banner';
+  banner.style.cssText = 'position:fixed;top:0;left:0;right:0;z-index:3000;background:#0e1828;border-bottom:3px solid '+col+';padding:0;box-shadow:0 4px 20px #000c;animation:slideDown .3s ease';
+  // Ajouter animation CSS si pas déjà là
+  if(!document.getElementById('notif-style')){
+    const style = document.createElement('style');
+    style.id = 'notif-style';
+    style.textContent = '@keyframes slideDown{from{transform:translateY(-100%)}to{transform:translateY(0)}}';
+    document.head.appendChild(style);
+  }
+  const colMap = {debut:'#22c55e', prochain:'#3b82f6', classement:'#a855f7', fin:'#eab308'};
+  const bgMap = {debut:'#052e16', prochain:'#0c1a3a', classement:'#2e1065', fin:'#422006'};
+  const bannerCol = colMap[type] || '#eab308';
+  const bannerBg = bgMap[type] || '#0e1828';
+  banner.style.cssText = 'position:fixed;top:0;left:0;right:0;z-index:3000;background:'+bannerBg+';border-bottom:3px solid '+bannerCol+';padding:0;box-shadow:0 4px 20px #000c;animation:slideDown .3s ease';
+  banner.innerHTML = `
+    <div style="padding:14px 16px;max-width:600px;margin:0 auto">
+      <div style="display:flex;align-items:flex-start;gap:10px">
+        <div style="flex:1;font-family:'Barlow Condensed',sans-serif;font-size:15px;color:#f1f5f9;line-height:1.7">${text}</div>
+        <button onclick="document.getElementById('notif-rsg-banner').remove()" style="background:rgba(255,255,255,0.1);border:none;color:#fff;font-size:16px;cursor:pointer;flex-shrink:0;padding:4px 8px;border-radius:6px;margin-top:-2px">✕</button>
+      </div>
+      ${longText ? `<div style="margin-top:10px;padding:10px;background:rgba(0,0,0,0.3);border-radius:8px;font-size:13px;color:#cbd5e1;line-height:1.8;white-space:pre-line">${longText}</div>` : ''}
+    </div>
+  `;
+  document.body.prepend(banner);
+  // Auto-fermeture après 15s sauf si longText
+  if(!longText) setTimeout(()=>{ const b=document.getElementById('notif-rsg-banner'); if(b)b.remove(); }, 15000);
+}
+
+function getCurrentMyMatch(){ return (data?.currentMatches||[]).find(m=>m.t1===myTeamName||m.t2===myTeamName); }
+function getNextMyMatch(){ return (data?.nextMatches||[]).find(m=>m.t1===myTeamName||m.t2===myTeamName); }
+
+function openPicker(){
+  if(!data?.standings?.length) return;
+  document.getElementById('team-picker').style.display='block';
+  renderTeamList(data.standings);
+  document.getElementById('team-search').value='';
+}
+function closePicker(){ document.getElementById('team-picker').style.display='none'; render(); }
+function filterTeams(q){ if(!data) return; renderTeamList(q?data.standings.filter(t=>t.name.toLowerCase().includes(q.toLowerCase())):data.standings); }
+function renderTeamList(teams){
+  const listEl = document.getElementById('team-list');
+  listEl.innerHTML = '';
+  teams.forEach(t => {
+    const div = document.createElement('div');
+    const isMe = String(t.id) === myTeam;
+    div.style.cssText = 'background:'+(isMe?'#2a1a4a':'#172438')+';border:1px solid '+(isMe?'#a855f7':'#1e3a5a')+';border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;align-items:center;gap:12px';
+    const ga = t.pour - t.contre;
+    div.innerHTML = '<span style="font-family:Bebas Neue,cursive;color:#eab308;font-size:20px;min-width:32px">'+String(t.rank).padStart(2,'0')+'</span>'
+      +'<div><div style="font-family:Bebas Neue,cursive;font-size:18px;color:'+(isMe?'#a855f7':'#e2eaff')+'">'+t.name+'</div>'
+      +'<div style="font-size:12px;color:#4a7090">'+t.wins+'V · '+t.losses+'D · GA '+(ga>0?'+':'')+ga+'</div></div>'
+      +(isMe?'<span class="badge-me" style="margin-left:auto">Mon équipe</span>':'');
+    div.addEventListener('click', function(){ selectTeam(String(t.id), t.name); });
+    listEl.appendChild(div);
+  });
+}
+function selectTeam(id, name){ myTeam=String(id); myTeamName=name; localStorage.setItem('palets-my-team',myTeam); localStorage.setItem('palets-my-team-name',myTeamName); updateMyTeamBtn(); closePicker(); showTab('my'); requestNotif(); }
+function updateMyTeamBtn(){ const btn=document.getElementById('my-team-btn'); if(myTeamName){ btn.textContent=myTeamName.substring(0,12)+(myTeamName.length>12?'...':''); btn.style.color='#a855f7'; btn.style.borderColor='#a855f744'; } }
+
+function showTab(tab){ currentTab=tab; document.querySelectorAll('nav button').forEach(b=>b.classList.remove('active')); document.getElementById('tab-'+tab)?.classList.add('active'); render(); }
+
+function render(){
+  const el=document.getElementById('content');
+  el.classList.remove('fade'); void el.offsetWidth; el.classList.add('fade');
+  if(!data){ el.innerHTML='<div class="empty">📡<br>Chargement...</div>'; return; }
+  if(currentTab==='my') renderMy();
+  else if(currentTab==='matchs') renderMatchs();
+  else renderClassement();
+}
+
+function renderMy(){
+  const el=document.getElementById('content');
+  if(!myTeam||!myTeamName){
+    el.innerHTML=`<div class="empty"><div style="font-size:40px;margin-bottom:12px">⭐</div><div class="gf" style="color:#eab308;font-size:22px;margin-bottom:8px">CHOISIR MON EQUIPE</div><div style="margin-bottom:20px">Sélectionnez votre équipe pour voir vos matchs et recevoir des notifications.</div><button class="btn" style="max-width:280px;margin:0 auto" onclick="openPicker()">Choisir mon équipe</button></div>`;
+    return;
+  }
+  const myMatch=getCurrentMyMatch(), nextMatch=getNextMyMatch();
+  const myS=data?.standings?.find(t=>String(t.id)===myTeam);
+
+  let h=`<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;flex-wrap:wrap;gap:8px">
+    <div class="gf" style="color:#a855f7;font-size:20px">${myTeamName}</div>
+    <button onclick="openPicker()" style="background:#172438;border:1px solid #1e3a5a;border-radius:7px;padding:5px 10px;color:#4a7090;font-size:12px;cursor:pointer">Changer</button>
+  </div>`;
+
+  // Notifications
+  if(!('Notification' in window)){
+    h+=`<div style="background:#4a709022;border:1px solid #4a709044;border-radius:8px;padding:7px 10px;margin-bottom:8px;font-size:11px;color:#4a7090">🔕 Notifications non supportées</div>`;
+  } else if(Notification.permission==='granted'){
+    h+=`<div style="background:#22c55e11;border:1px solid #22c55e33;border-radius:8px;padding:7px 10px;margin-bottom:8px;font-size:12px;color:#22c55e;display:flex;align-items:center;gap:8px">
+      <span>🔔</span><div style="flex:1"><strong>Notifications activées</strong></div>
+      <button onclick="disableNotif()" style="background:#172438;border:1px solid #ef444466;border-radius:6px;padding:4px 8px;color:#ef4444;font-family:'Bebas Neue',cursive;font-size:11px;cursor:pointer">DÉSACTIVER</button>
+    </div>`;
+  } else if(Notification.permission==='denied'){
+    h+=`<div style="background:#ef444411;border:1px solid #ef444433;border-radius:8px;padding:7px 10px;margin-bottom:8px;font-size:12px;display:flex;align-items:center;gap:8px">
+      <span>🔕</span><div style="flex:1;color:#ef4444">Notifications bloquées</div>
+      <button onclick="tryResetNotif()" style="background:#eab308;color:#000;border:none;border-radius:6px;padding:4px 8px;font-family:'Bebas Neue',cursive;font-size:11px;cursor:pointer">ACTIVER</button>
+    </div>`;
+  } else {
+    h+=`<div class="notif-bar" style="margin-bottom:8px"><span style="font-size:20px">🔔</span>
+      <div style="flex:1"><div style="color:#a855f7;font-weight:700;font-size:13px">Activer les notifications</div></div>
+      <button onclick="requestNotif()" style="background:#a855f7;border:none;border-radius:7px;padding:6px 12px;color:#fff;font-family:'Bebas Neue',cursive;font-size:13px;cursor:pointer">ACTIVER</button>
+    </div>`;
+  }
+
+  // ── MATCH EN COURS ou PROCHAIN MATCH (fond jaune) ──
+  if(myMatch){
+    const isT1=myMatch.t1===myTeamName,opp=isT1?myMatch.t2:myMatch.t1;
+    const myScore=isT1?myMatch.score1:myMatch.score2,oppScore=isT1?myMatch.score2:myMatch.score1;
+    const hasScore=(myScore!==''&&myScore!=null)||(oppScore!==''&&oppScore!=null);
+    h+=`<div style="background:#eab308;border-radius:12px;padding:14px;margin-bottom:8px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+        <span style="font-family:'Bebas Neue',cursive;font-size:15px;color:#111;letter-spacing:1px">⚔️ MATCH EN COURS · P${data.round} · PLANCHE ${myMatch.planche}</span>
+        ${hasScore?`<span style="background:#111;color:#eab308;border-radius:5px;padding:3px 10px;font-family:'Bebas Neue',cursive;font-size:18px">${myScore} — ${oppScore}</span>`:'<span style="font-size:11px;color:#7a5800">En cours...</span>'}
+      </div>
+      <div style="display:flex;align-items:center;gap:8px">
+        <div style="flex:1;background:#111;border-radius:8px;padding:10px;text-align:center;font-family:'Bebas Neue',cursive;font-size:17px;color:#eab308;border:2px solid #eab308">${myTeamName}</div>
+        <div style="color:#111;font-family:'Bebas Neue',cursive;font-size:16px;font-weight:900">VS</div>
+        <div style="flex:1;background:#111;border-radius:8px;padding:10px;text-align:center;font-family:'Bebas Neue',cursive;font-size:17px;color:#e2eaff">${opp}</div>
+      </div>
+    </div>`;
+  } else if(nextMatch){
+    const isT1=nextMatch.t1===myTeamName,opp=isT1?nextMatch.t2:nextMatch.t1;
+    h+=`<div style="background:#eab308;border-radius:12px;padding:14px;margin-bottom:8px">
+      <div style="margin-bottom:10px">
+        <span style="font-family:'Bebas Neue',cursive;font-size:15px;color:#111;letter-spacing:1px">🎯 PROCHAIN MATCH · P${parseInt(data.round)+1} · PLANCHE ${nextMatch.planche}</span>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px">
+        <div style="flex:1;background:#111;border-radius:8px;padding:10px;text-align:center;font-family:'Bebas Neue',cursive;font-size:17px;color:#eab308;border:2px solid #eab308">${myTeamName}</div>
+        <div style="color:#111;font-family:'Bebas Neue',cursive;font-size:16px;font-weight:900">VS</div>
+        <div style="flex:1;background:#111;border-radius:8px;padding:10px;text-align:center;font-family:'Bebas Neue',cursive;font-size:17px;color:#e2eaff">${opp}</div>
+      </div>
+    </div>`;
+  } else if(data && data.round >= data.totalRounds){
+    h+=`<div style="background:#eab308;border-radius:12px;padding:16px;margin-bottom:8px;text-align:center">
+      <div style="font-family:'Bebas Neue',cursive;font-size:22px;color:#111">🏆 TOURNOI TERMINÉ !</div>
+    </div>`;
+  }
+
+  // ── CLASSEMENT PERSO compact ──
+  if(myS){
+    const ga=myS.pour-myS.contre;
+    h+=`<div class="card" style="padding:10px 14px;margin-bottom:8px;display:flex;align-items:center;gap:12px">
+      <div style="text-align:center;min-width:44px">
+        <div class="gf" style="color:#eab308;font-size:32px;line-height:1">${myS.rank}</div>
+        <div style="font-size:9px;color:#4a7090;text-transform:uppercase">Rang</div>
+      </div>
+      <div style="display:flex;gap:14px;flex-wrap:wrap">
+        ${[['V',myS.wins,'#22c55e'],['D',myS.losses,'#ef4444'],['Pts+',myS.pour,'#e2eaff'],['Pts-',myS.contre,'#4a7090'],['G.A.',ga>0?'+'+ga:ga,ga>=0?'#22c55e':'#ef4444']].map(([l,v,col])=>`<div style="text-align:center"><div class="gf" style="color:${col};font-size:20px">${v}</div><div style="font-size:9px;color:#4a7090">${l}</div></div>`).join('')}
+      </div>
+    </div>`;
+  }
+
+  // ── HISTORIQUE DES MATCHS (du plus récent au plus ancien, hors match en cours) ──
+  const allHistory = (data.history||[]).filter(m=>m.t1===myTeamName||m.t2===myTeamName);
+  // Si match en cours sans score, l'exclure de l'historique (déjà affiché en jaune)
+  // Si match en cours avec score, l'inclure dans l'historique
+  const currentHasScore = myMatch && (myMatch.score1!==''||myMatch.score2!=='');
+  const historyToShow = myMatch && !currentHasScore
+    ? allHistory.filter(m=>m.round < data.round)
+    : allHistory;
+
+  if(historyToShow.length > 0){
+    h+=`<div style="font-family:'Bebas Neue',cursive;color:#4a7090;font-size:12px;letter-spacing:.1em;margin:10px 0 6px;padding-left:2px">PARTIES PRÉCÉDENTES</div>`;
+    historyToShow.forEach(m=>{
+      const isT1=m.t1===myTeamName,opp=isT1?m.t2:m.t1;
+      const myScore=isT1?m.score1:m.score2,oppScore=isT1?m.score2:m.score1;
+      const hasScore=myScore!==''&&myScore!=null;
+      const won=hasScore&&parseFloat(myScore)>parseFloat(oppScore);
+      const lost=hasScore&&parseFloat(myScore)<parseFloat(oppScore);
+      h+=`<div class="card" style="border-color:${won?'#22c55e44':lost?'#ef444444':'#1e3a5a'};padding:10px 12px;margin-bottom:6px">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:5px">
+          <span style="font-family:'Bebas Neue',cursive;font-size:13px;color:#4a7090">PARTIE ${m.round} · PLANCHE ${m.planche}</span>
+          ${hasScore?`<span style="font-family:'Bebas Neue',cursive;font-size:18px;color:${won?'#22c55e':lost?'#ef4444':'#e2eaff'}">${myScore} — ${oppScore}</span>`:'<span style="font-size:11px;color:#4a7090">—</span>'}
+        </div>
+        <div style="display:flex;align-items:center;gap:6px">
+          <div style="flex:1;font-family:'Bebas Neue',cursive;font-size:15px;color:#a855f7">${myTeamName}</div>
+          <div style="color:#4a7090;font-size:11px;flex-shrink:0">vs</div>
+          <div style="flex:1;text-align:right;font-family:'Bebas Neue',cursive;font-size:15px;color:#e2eaff">${opp}</div>
+        </div>
+      </div>`;
+    });
+  }
+
+  el.innerHTML = h;
+}
+
+
+function renderMatchs(){
+  const matches=data?.currentMatches||[];
+  if(!matches.length){ document.getElementById('content').innerHTML='<div class="empty">🎲<br>Le tirage n\'a pas encore été effectué.</div>'; return; }
+  let h=`<div class="gf" style="color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${data.round} — MATCHS EN COURS</div>`;
+  matches.sort((a,b)=>a.planche-b.planche).forEach(m=>{
+    const isMe=m.t1===myTeamName||m.t2===myTeamName,hasScore=m.score1!==''&&m.score1!=null||m.score2!==''&&m.score2!=null;
+    h+=`<div class="${isMe?'card-my':'card'}"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><span class="badge-gold">PLANCHE ${m.planche}</span>${isMe?'<span class="badge-me">Mon équipe</span>':''}${hasScore?`<span class="badge" style="font-size:18px;font-family:'Bebas Neue',cursive;padding:3px 14px;letter-spacing:2px">${m.score1} — ${m.score2}</span>`:'<span style="font-size:11px;color:#4a7090">En cours</span>'}</div><div class="vs-row"><div class="team-box ${m.t1===myTeamName?'me':''}">${m.t1}</div><div style="color:#eab308;font-family:'Bebas Neue',cursive;font-size:16px;flex-shrink:0">VS</div><div class="team-box ${m.t2===myTeamName?'me':''}">${m.t2}</div></div></div>`;
+  });
+  document.getElementById('content').innerHTML=h;
+}
+
+function renderClassement(){
+  const st=data?.standings||[];
+  if(!st.length){ document.getElementById('content').innerHTML='<div class="empty">🏆<br>Classement disponible après la première partie.</div>'; return; }
+  const medal=['🥇','🥈','🥉'];
+  let h='<div class="card" style="padding:0;overflow:hidden"><table><thead><tr><th style="width:36px">Rg</th><th style="text-align:left">Équipe</th><th>V</th><th>D</th><th>G.A.</th></tr></thead><tbody>';
+  st.forEach((t,i)=>{
+    const ga=t.pour-t.contre,isMe=String(t.id)===myTeam,rc=i===0?'rank1':i===1?'rank2':i===2?'rank3':'';
+    h+=`<tr class="${rc}${isMe?' me':''}"><td style="text-align:center;font-family:'Bebas Neue',cursive;font-size:16px;color:#eab308">${medal[i]||t.rank}</td><td style="font-weight:700${isMe?';color:#a855f7':''}">${t.name}${isMe?' <span class="badge-me" style="font-size:10px">Moi</span>':''}</td><td style="text-align:center;color:#22c55e;font-weight:700">${t.wins}</td><td style="text-align:center;color:#ef4444">${t.losses}</td><td style="text-align:center;color:${ga>=0?'#22c55e':'#ef4444'}">${ga>0?'+'+ga:ga}</td></tr>`;
+  });
+  h+='</tbody></table></div>';
+  document.getElementById('content').innerHTML=h;
+}
+
+function renderProchains(){
+  const matches=data?.nextMatches||[];
+  if(!matches.length){ document.getElementById('content').innerHTML='<div class="empty">🎯<br>Prochains matchs disponibles après le tirage.</div>'; return; }
+  let h=`<div class="gf" style="color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${parseInt(data.round)+1} — PROCHAINS MATCHS</div>`;
+  matches.sort((a,b)=>a.planche-b.planche).forEach(m=>{
+    const isMe=m.t1===myTeamName||m.t2===myTeamName;
+    h+=`<div class="${isMe?'card-my':'card'}"><div style="margin-bottom:8px;display:flex;justify-content:space-between;align-items:center"><span class="badge-blue">PLANCHE ${m.planche}</span>${isMe?'<span class="badge-me">Mon équipe</span>':''}</div><div class="vs-row"><div class="team-box ${m.t1===myTeamName?'me':''}">${m.t1}</div><div style="color:#3b82f6;font-family:'Bebas Neue',cursive;font-size:16px;flex-shrink:0">VS</div><div class="team-box ${m.t2===myTeamName?'me':''}">${m.t2}</div></div></div>`;
+  });
+  document.getElementById('content').innerHTML=h;
+}
+</script>
+
+<script>
+// ── Service Worker pour PWA installable ──
+if('serviceWorker' in navigator){
+  const swCode = `
+    self.addEventListener('install', e => self.skipWaiting());
+    self.addEventListener('activate', e => clients.claim());
+    self.addEventListener('fetch', e => {
+      if(e.request.url.includes('u5237661020-cmyk.github.io') || e.request.url.includes('data.json')){
+        e.respondWith(fetch(e.request).catch(()=>caches.match(e.request)));
+      }
+    });
+  `;
+  const blob = new Blob([swCode], {type:'application/javascript'});
+  const swUrl = URL.createObjectURL(blob);
+  navigator.serviceWorker.register(swUrl).catch(()=>{});
+}
+
+// ── Bannière installation PWA (Android Chrome) ──
+let deferredPrompt = null;
+
+// Détecter iOS Safari
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+const isInStandaloneMode = window.navigator.standalone === true;
+const isAndroid = /android/i.test(navigator.userAgent);
+
+const installBar = document.createElement('div');
+installBar.id = 'install-bar';
+installBar.style.cssText = 'display:none;position:fixed;bottom:80px;left:12px;right:12px;background:#172438;border:1px solid #eab30866;border-radius:12px;padding:12px 16px;z-index:300;box-shadow:0 4px 20px #000a';
+document.body.appendChild(installBar);
+
+function showInstallBar(content){
+  installBar.innerHTML = content;
+  installBar.style.display = 'block';
+  setTimeout(()=>{ installBar.style.display='none'; }, 15000);
+}
+
+// iOS : afficher instructions manuelles après 3s si pas installé
+if(isIOS && !isInStandaloneMode){
+  // Afficher bannière iOS à chaque ouverture (pas seulement 1 fois)
+  // Car les joueurs ont besoin des instructions pour installer
+  setTimeout(()=>{
+    installBar.style.cssText = 'display:block;position:fixed;bottom:0;left:0;right:0;background:linear-gradient(135deg,#0e1828,#172438);border-top:3px solid #eab308;padding:16px;z-index:1000;box-shadow:0 -4px 20px #000c';
+    installBar.innerHTML = `
+      <div style="max-width:500px;margin:0 auto">
+        <div style="font-family:'Bebas Neue',cursive;color:#eab308;font-size:18px;margin-bottom:8px;text-align:center">
+          📲 INSTALLER L'APPLI PALETS RSG
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;justify-content:center;margin-bottom:10px">
+          <div style="background:#172438;border:1px solid #1e3a5a;border-radius:8px;padding:8px 14px;text-align:center;flex:1;font-size:13px;color:#e2eaff;line-height:1.7">
+            1️⃣ Appuyer sur<br><strong style="color:#eab308">⎋ Partager</strong><br>en bas de l'écran
+          </div>
+          <div style="color:#4a7090;font-size:20px">→</div>
+          <div style="background:#172438;border:1px solid #1e3a5a;border-radius:8px;padding:8px 14px;text-align:center;flex:1;font-size:13px;color:#e2eaff;line-height:1.7">
+            2️⃣ Choisir<br><strong style="color:#eab308">"Sur l'écran<br>d'accueil"</strong>
+          </div>
+          <div style="color:#4a7090;font-size:20px">→</div>
+          <div style="background:#172438;border:1px solid #1e3a5a;border-radius:8px;padding:8px 14px;text-align:center;flex:1;font-size:13px;color:#e2eaff;line-height:1.7">
+            3️⃣ Appuyer<br><strong style="color:#22c55e">"Ajouter"</strong><br>✅ Installé !
+          </div>
+        </div>
+        <button onclick="installBar.style.display='none'" style="display:block;width:100%;background:#eab308;color:#000;border:none;border-radius:8px;padding:10px;font-family:'Bebas Neue',cursive;font-size:16px;cursor:pointer">
+          J'AI COMPRIS — FERMER
+        </button>
+      </div>
+    `;
+  }, 2000);
+}
+
+// Android : bannière native
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault();
+  deferredPrompt = e;
+  showInstallBar(`
+    <div style="display:flex;align-items:center;gap:12px">
+      <div style="font-size:28px">🥏</div>
+      <div style="flex:1">
+        <div style="font-family:'Bebas Neue',cursive;color:#eab308;font-size:16px">INSTALLER L'APPLI</div>
+        <div style="font-size:12px;color:#4a7090">Accès rapide depuis l'écran d'accueil</div>
+      </div>
+      <button id="install-btn" style="background:#eab308;color:#000;border:none;border-radius:8px;padding:8px 14px;font-family:'Bebas Neue',cursive;font-size:14px;cursor:pointer">INSTALLER</button>
+      <button onclick="installBar.style.display='none'" style="background:none;border:none;color:#4a7090;font-size:20px;cursor:pointer;padding:4px">✕</button>
+    </div>
+  `);
+  document.getElementById('install-btn')?.addEventListener('click', async () => {
+    if(!deferredPrompt) return;
+    deferredPrompt.prompt();
+    const {outcome} = await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    installBar.style.display = 'none';
+  });
+});
+
+window.addEventListener('appinstalled', () => { installBar.style.display='none'; });
+</script>
+</body>
+</html>
