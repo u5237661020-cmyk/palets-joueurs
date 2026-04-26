@@ -3,11 +3,41 @@
   "date": "2026-04-30",
   "round": 2,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T19:54:40.736Z",
-  "version": 1777233280736,
+  "updatedAt": "2026-04-26T19:55:02.438Z",
+  "version": 1777233302438,
   "standings": [
     {
       "rank": 1,
+      "id": 1,
+      "name": "Pas d'inspi",
+      "wins": 2,
+      "losses": 0,
+      "pour": 22,
+      "contre": 6,
+      "played": 2
+    },
+    {
+      "rank": 2,
+      "id": 46,
+      "name": "Le réveil du carré",
+      "wins": 2,
+      "losses": 0,
+      "pour": 22,
+      "contre": 9,
+      "played": 2
+    },
+    {
+      "rank": 3,
+      "id": 65,
+      "name": "tout pour le show",
+      "wins": 2,
+      "losses": 0,
+      "pour": 21,
+      "contre": 9,
+      "played": 2
+    },
+    {
+      "rank": 4,
       "id": 37,
       "name": "Les merdes",
       "wins": 1,
@@ -17,67 +47,7 @@
       "played": 2
     },
     {
-      "rank": 2,
-      "id": 1,
-      "name": "Pas d'inspi",
-      "wins": 1,
-      "losses": 0,
-      "pour": 11,
-      "contre": 1,
-      "played": 1
-    },
-    {
-      "rank": 3,
-      "id": 12,
-      "name": "Les Métissés",
-      "wins": 1,
-      "losses": 0,
-      "pour": 11,
-      "contre": 1,
-      "played": 1
-    },
-    {
-      "rank": 4,
-      "id": 44,
-      "name": "Delta",
-      "wins": 1,
-      "losses": 0,
-      "pour": 11,
-      "contre": 1,
-      "played": 1
-    },
-    {
       "rank": 5,
-      "id": 46,
-      "name": "Le réveil du carré",
-      "wins": 1,
-      "losses": 0,
-      "pour": 11,
-      "contre": 2,
-      "played": 1
-    },
-    {
-      "rank": 6,
-      "id": 66,
-      "name": "Les Diplomatico",
-      "wins": 1,
-      "losses": 0,
-      "pour": 11,
-      "contre": 2,
-      "played": 1
-    },
-    {
-      "rank": 7,
-      "id": 65,
-      "name": "tout pour le show",
-      "wins": 1,
-      "losses": 0,
-      "pour": 10,
-      "contre": 1,
-      "played": 1
-    },
-    {
-      "rank": 8,
       "id": 41,
       "name": "Les salariés de USV",
       "wins": 1,
@@ -87,7 +57,27 @@
       "played": 1
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "id": 66,
+      "name": "Les Diplomatico",
+      "wins": 1,
+      "losses": 1,
+      "pour": 19,
+      "contre": 13,
+      "played": 2
+    },
+    {
+      "rank": 7,
+      "id": 44,
+      "name": "Delta",
+      "wins": 1,
+      "losses": 1,
+      "pour": 18,
+      "contre": 12,
+      "played": 2
+    },
+    {
+      "rank": 8,
       "id": 19,
       "name": "Pistolet à Ô",
       "wins": 1,
@@ -97,7 +87,7 @@
       "played": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -107,7 +97,7 @@
       "played": 1
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": 35,
       "name": "Les frangins",
       "wins": 1,
@@ -117,7 +107,7 @@
       "played": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": 43,
       "name": "Les bronzés font du ski",
       "wins": 1,
@@ -127,7 +117,7 @@
       "played": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 1,
@@ -135,6 +125,16 @@
       "pour": 11,
       "contre": 5,
       "played": 1
+    },
+    {
+      "rank": 13,
+      "id": 12,
+      "name": "Les Métissés",
+      "wins": 1,
+      "losses": 1,
+      "pour": 16,
+      "contre": 12,
+      "played": 2
     },
     {
       "rank": 14,
@@ -752,22 +752,22 @@
       "planche": 1,
       "t1": "Pas d'inspi",
       "t2": "Les Métissés",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "planche": 2,
       "t1": "Delta",
       "t2": "Le réveil du carré",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 3,
       "t1": "Les Diplomatico",
       "t2": "tout pour le show",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "planche": 4,
@@ -1015,24 +1015,24 @@
       "planche": 1,
       "t1": "Pas d'inspi",
       "t2": "Les Métissés",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 2,
       "planche": 2,
       "t1": "Delta",
       "t2": "Le réveil du carré",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 2,
       "planche": 3,
       "t1": "Les Diplomatico",
       "t2": "tout pour le show",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "11"
     },
     {
       "round": 2,
