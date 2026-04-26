@@ -4,70 +4,70 @@
   "round": 4,
   "totalRounds": 4,
   "phase": "final",
-  "phaseLabel": "Phase finale",
-  "finalComplete": false,
-  "updatedAt": "2026-04-26T20:42:21.722Z",
-  "version": 1777236141722,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
+  "updatedAt": "2026-04-26T20:42:23.728Z",
+  "version": 1777236143728,
   "standings": [
     {
       "rank": 1,
       "id": 41,
       "name": "Les salariés de USV",
-      "wins": 4,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
-      "pour": 44,
-      "contre": 20,
-      "played": 4,
-      "ga": 24
+      "pour": 66,
+      "contre": 32,
+      "played": 6,
+      "ga": 34
     },
     {
       "rank": 2,
       "id": 46,
       "name": "Le réveil du carré",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
-      "losses": 0,
-      "pour": 42,
-      "contre": 19,
-      "played": 4,
-      "ga": 23
+      "losses": 1,
+      "pour": 62,
+      "contre": 40,
+      "played": 6,
+      "ga": 22
     },
     {
       "rank": 3,
+      "id": 60,
+      "name": "N’importe jmen fou",
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "pour": 52,
+      "contre": 44,
+      "played": 6,
+      "ga": 8
+    },
+    {
+      "rank": 4,
       "id": 22,
       "name": "MMA 0 tracas 0 blabla",
       "wins": 4,
       "draws": 0,
-      "losses": 0,
-      "pour": 44,
-      "contre": 26,
-      "played": 4,
-      "ga": 18
-    },
-    {
-      "rank": 4,
-      "id": 60,
-      "name": "N’importe jmen fou",
-      "wins": 4,
-      "draws": 0,
-      "losses": 0,
-      "pour": 44,
-      "contre": 32,
-      "played": 4,
-      "ga": 12
+      "losses": 2,
+      "pour": 55,
+      "contre": 42,
+      "played": 6,
+      "ga": 13
     },
     {
       "rank": 5,
       "id": 37,
       "name": "Les merdes",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 1,
-      "pour": 43,
-      "contre": 18,
-      "played": 4,
-      "ga": 25
+      "pour": 54,
+      "contre": 20,
+      "played": 5,
+      "ga": 34
     },
     {
       "rank": 6,
@@ -75,23 +75,23 @@
       "name": "SPA ma faute",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 43,
-      "contre": 21,
-      "played": 4,
-      "ga": 22
+      "losses": 2,
+      "pour": 45,
+      "contre": 32,
+      "played": 5,
+      "ga": 13
     },
     {
       "rank": 7,
       "id": 62,
       "name": "Les patatosses",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 1,
-      "pour": 39,
-      "contre": 20,
-      "played": 4,
-      "ga": 19
+      "pour": 50,
+      "contre": 23,
+      "played": 5,
+      "ga": 27
     },
     {
       "rank": 8,
@@ -99,23 +99,23 @@
       "name": "Pas d'inspi",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 38,
-      "contre": 26,
-      "played": 4,
-      "ga": 12
+      "losses": 2,
+      "pour": 41,
+      "contre": 37,
+      "played": 5,
+      "ga": 4
     },
     {
       "rank": 9,
       "id": 26,
       "name": "MECABATI",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 1,
-      "pour": 37,
-      "contre": 25,
-      "played": 4,
-      "ga": 12
+      "pour": 48,
+      "contre": 31,
+      "played": 5,
+      "ga": 17
     },
     {
       "rank": 10,
@@ -123,143 +123,143 @@
       "name": "Les bronzés font du ski",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 42,
-      "contre": 31,
-      "played": 4,
-      "ga": 11
+      "losses": 2,
+      "pour": 48,
+      "contre": 42,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 11,
+      "id": 28,
+      "name": "On est inscrit c'est déjà bien",
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "pour": 50,
+      "contre": 34,
+      "played": 5,
+      "ga": 16
+    },
+    {
+      "rank": 12,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 42,
-      "contre": 31,
-      "played": 4,
-      "ga": 11
-    },
-    {
-      "rank": 12,
-      "id": 28,
-      "name": "On est inscrit c'est déjà bien",
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "pour": 39,
-      "contre": 28,
-      "played": 4,
-      "ga": 11
+      "losses": 2,
+      "pour": 48,
+      "contre": 42,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 13,
+      "id": 9,
+      "name": "Les Sorinièrois",
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "pour": 44,
+      "contre": 29,
+      "played": 5,
+      "ga": 15
+    },
+    {
+      "rank": 14,
       "id": 61,
       "name": "PABIENS",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 39,
-      "contre": 28,
-      "played": 4,
-      "ga": 11
-    },
-    {
-      "rank": 14,
-      "id": 9,
-      "name": "Les Sorinièrois",
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "pour": 33,
-      "contre": 23,
-      "played": 4,
-      "ga": 10
+      "losses": 2,
+      "pour": 45,
+      "contre": 39,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 15,
+      "id": 31,
+      "name": "Fc Patrick Fouchard",
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "pour": 51,
+      "contre": 41,
+      "played": 5,
+      "ga": 10
+    },
+    {
+      "rank": 16,
       "id": 6,
       "name": "73 M",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 42,
-      "contre": 34,
-      "played": 4,
-      "ga": 8
-    },
-    {
-      "rank": 16,
-      "id": 31,
-      "name": "Fc Patrick Fouchard",
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "pour": 40,
-      "contre": 32,
-      "played": 4,
-      "ga": 8
+      "losses": 2,
+      "pour": 51,
+      "contre": 45,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 17,
+      "id": 33,
+      "name": "Les zizigoto’s",
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "pour": 50,
+      "contre": 41,
+      "played": 5,
+      "ga": 9
+    },
+    {
+      "rank": 18,
       "id": 63,
       "name": "Les pyramides maudites",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 40,
-      "contre": 35,
-      "played": 4,
-      "ga": 5
-    },
-    {
-      "rank": 18,
-      "id": 33,
-      "name": "Les zizigoto’s",
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "pour": 39,
-      "contre": 34,
-      "played": 4,
-      "ga": 5
+      "losses": 2,
+      "pour": 47,
+      "contre": 46,
+      "played": 5,
+      "ga": 1
     },
     {
       "rank": 19,
+      "id": 65,
+      "name": "tout pour le show",
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "pour": 43,
+      "contre": 32,
+      "played": 5,
+      "ga": 11
+    },
+    {
+      "rank": 20,
       "id": 35,
       "name": "Les frangins",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 39,
-      "contre": 34,
-      "played": 4,
-      "ga": 5
-    },
-    {
-      "rank": 20,
-      "id": 65,
-      "name": "tout pour le show",
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "pour": 32,
-      "contre": 27,
-      "played": 4,
-      "ga": 5
+      "losses": 2,
+      "pour": 44,
+      "contre": 45,
+      "played": 5,
+      "ga": -1
     },
     {
       "rank": 21,
       "id": 71,
       "name": "Antoine et Yaya",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 1,
-      "pour": 32,
-      "contre": 27,
-      "played": 4,
-      "ga": 5
+      "pour": 43,
+      "contre": 29,
+      "played": 5,
+      "ga": 14
     },
     {
       "rank": 22,
@@ -267,23 +267,23 @@
       "name": "SPA Sorcier",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 41,
-      "contre": 38,
-      "played": 4,
-      "ga": 3
+      "losses": 2,
+      "pour": 43,
+      "contre": 49,
+      "played": 5,
+      "ga": -6
     },
     {
       "rank": 23,
       "id": 16,
       "name": "Jeanne d’arc Villemoisan",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 1,
-      "pour": 34,
-      "contre": 33,
-      "played": 4,
-      "ga": 1
+      "pour": 45,
+      "contre": 39,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 24,
@@ -291,47 +291,47 @@
       "name": "Eeeeeeeeee",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 33,
-      "contre": 34,
-      "played": 4,
-      "ga": -1
+      "losses": 2,
+      "pour": 39,
+      "contre": 45,
+      "played": 5,
+      "ga": -6
     },
     {
       "rank": 25,
+      "id": 47,
+      "name": "Lamineur",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 48,
+      "contre": 36,
+      "played": 5,
+      "ga": 12
+    },
+    {
+      "rank": 26,
       "id": 66,
       "name": "Les Diplomatico",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 39,
-      "contre": 29,
-      "played": 4,
-      "ga": 10
-    },
-    {
-      "rank": 26,
-      "id": 47,
-      "name": "Lamineur",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 37,
-      "contre": 29,
-      "played": 4,
-      "ga": 8
+      "losses": 3,
+      "pour": 46,
+      "contre": 40,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 27,
       "id": 34,
       "name": "Pas laid",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 40,
-      "contre": 34,
-      "played": 4,
-      "ga": 6
+      "pour": 51,
+      "contre": 38,
+      "played": 5,
+      "ga": 13
     },
     {
       "rank": 28,
@@ -339,71 +339,71 @@
       "name": "Les Bouesiens",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 39,
-      "contre": 33,
-      "played": 4,
-      "ga": 6
+      "losses": 3,
+      "pour": 43,
+      "contre": 44,
+      "played": 5,
+      "ga": -1
     },
     {
       "rank": 29,
+      "id": 39,
+      "name": "Classe 74",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 49,
+      "contre": 42,
+      "played": 5,
+      "ga": 7
+    },
+    {
+      "rank": 30,
       "id": 44,
       "name": "Delta",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 34,
-      "contre": 30,
-      "played": 4,
-      "ga": 4
-    },
-    {
-      "rank": 30,
-      "id": 39,
-      "name": "Classe 74",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 38,
-      "contre": 36,
-      "played": 4,
-      "ga": 2
+      "losses": 3,
+      "pour": 40,
+      "contre": 41,
+      "played": 5,
+      "ga": -1
     },
     {
       "rank": 31,
+      "id": 56,
+      "name": "Ligérien",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 51,
+      "contre": 46,
+      "played": 5,
+      "ga": 5
+    },
+    {
+      "rank": 32,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 38,
-      "contre": 36,
-      "played": 4,
-      "ga": 2
-    },
-    {
-      "rank": 32,
-      "id": 56,
-      "name": "Ligérien",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 40,
-      "contre": 39,
-      "played": 4,
-      "ga": 1
+      "losses": 3,
+      "pour": 45,
+      "contre": 47,
+      "played": 5,
+      "ga": -2
     },
     {
       "rank": 33,
       "id": 7,
       "name": "Les sombres merdes",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 38,
-      "contre": 37,
-      "played": 4,
-      "ga": 1
+      "pour": 49,
+      "contre": 47,
+      "played": 5,
+      "ga": 2
     },
     {
       "rank": 34,
@@ -411,23 +411,23 @@
       "name": "Les Winners",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 32,
-      "contre": 31,
-      "played": 4,
-      "ga": 1
+      "losses": 3,
+      "pour": 42,
+      "contre": 42,
+      "played": 5,
+      "ga": 0
     },
     {
       "rank": 35,
       "id": 70,
       "name": "PatBrunne",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 32,
-      "contre": 31,
-      "played": 4,
-      "ga": 1
+      "pour": 43,
+      "contre": 41,
+      "played": 5,
+      "ga": 2
     },
     {
       "rank": 36,
@@ -435,23 +435,23 @@
       "name": "Les SPA Tator",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 39,
-      "contre": 39,
-      "played": 4,
-      "ga": 0
+      "losses": 3,
+      "pour": 49,
+      "contre": 50,
+      "played": 5,
+      "ga": -1
     },
     {
       "rank": 37,
       "id": 4,
       "name": "La grosse bite de JOJO",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 38,
-      "contre": 38,
-      "played": 4,
-      "ga": 0
+      "pour": 49,
+      "contre": 40,
+      "played": 5,
+      "ga": 9
     },
     {
       "rank": 38,
@@ -459,23 +459,23 @@
       "name": "Les Fouillons",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 37,
-      "contre": 37,
-      "played": 4,
-      "ga": 0
+      "losses": 3,
+      "pour": 39,
+      "contre": 48,
+      "played": 5,
+      "ga": -9
     },
     {
       "rank": 39,
       "id": 72,
       "name": "Razmo et Rapido",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 33,
-      "contre": 34,
-      "played": 4,
-      "ga": -1
+      "pour": 44,
+      "contre": 40,
+      "played": 5,
+      "ga": 4
     },
     {
       "rank": 40,
@@ -483,23 +483,23 @@
       "name": "Les gâtés Nantais",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 36,
-      "contre": 38,
-      "played": 4,
-      "ga": -2
+      "losses": 3,
+      "pour": 42,
+      "contre": 49,
+      "played": 5,
+      "ga": -7
     },
     {
       "rank": 41,
       "id": 74,
       "name": "Paté en Croûte",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 35,
-      "contre": 38,
-      "played": 4,
-      "ga": -3
+      "pour": 46,
+      "contre": 40,
+      "played": 5,
+      "ga": 6
     },
     {
       "rank": 42,
@@ -507,47 +507,47 @@
       "name": "La clés de 10",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 36,
-      "contre": 40,
-      "played": 4,
-      "ga": -4
+      "losses": 3,
+      "pour": 38,
+      "contre": 51,
+      "played": 5,
+      "ga": -13
     },
     {
       "rank": 43,
+      "id": 45,
+      "name": "Les assoiffés",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 43,
+      "contre": 43,
+      "played": 5,
+      "ga": 0
+    },
+    {
+      "rank": 44,
       "id": 25,
       "name": "Duo du plomb",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 33,
-      "contre": 37,
-      "played": 4,
-      "ga": -4
-    },
-    {
-      "rank": 44,
-      "id": 45,
-      "name": "Les assoiffés",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 32,
-      "contre": 36,
-      "played": 4,
-      "ga": -4
+      "losses": 3,
+      "pour": 40,
+      "contre": 48,
+      "played": 5,
+      "ga": -8
     },
     {
       "rank": 45,
       "id": 30,
       "name": "Les fantomettes du sud",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 31,
-      "contre": 35,
-      "played": 4,
-      "ga": -4
+      "pour": 42,
+      "contre": 43,
+      "played": 5,
+      "ga": -1
     },
     {
       "rank": 46,
@@ -555,95 +555,95 @@
       "name": "Pistolet à Ô",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 29,
-      "contre": 33,
-      "played": 4,
-      "ga": -4
+      "losses": 3,
+      "pour": 37,
+      "contre": 44,
+      "played": 5,
+      "ga": -7
     },
     {
       "rank": 47,
+      "id": 5,
+      "name": "Les p'tiots",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 41,
+      "contre": 46,
+      "played": 5,
+      "ga": -5
+    },
+    {
+      "rank": 48,
       "id": 73,
       "name": "furafique farke",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 30,
-      "contre": 37,
-      "played": 4,
-      "ga": -7
-    },
-    {
-      "rank": 48,
-      "id": 5,
-      "name": "Les p'tiots",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 30,
-      "contre": 38,
-      "played": 4,
-      "ga": -8
+      "losses": 3,
+      "pour": 38,
+      "contre": 48,
+      "played": 5,
+      "ga": -10
     },
     {
       "rank": 49,
+      "id": 3,
+      "name": "Les anonymes",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 37,
+      "contre": 44,
+      "played": 5,
+      "ga": -7
+    },
+    {
+      "rank": 50,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 29,
-      "contre": 38,
-      "played": 4,
-      "ga": -9
-    },
-    {
-      "rank": 50,
-      "id": 3,
-      "name": "Les anonymes",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 26,
-      "contre": 40,
-      "played": 4,
-      "ga": -14
+      "losses": 3,
+      "pour": 33,
+      "contre": 49,
+      "played": 5,
+      "ga": -16
     },
     {
       "rank": 51,
+      "id": 15,
+      "name": "Les Loosers",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 45,
+      "contre": 38,
+      "played": 5,
+      "ga": 7
+    },
+    {
+      "rank": 52,
       "id": 50,
       "name": "Les copains",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 37,
-      "contre": 38,
-      "played": 4,
-      "ga": -1
-    },
-    {
-      "rank": 52,
-      "id": 15,
-      "name": "Les Loosers",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 34,
-      "contre": 35,
-      "played": 4,
-      "ga": -1
+      "losses": 4,
+      "pour": 40,
+      "contre": 49,
+      "played": 5,
+      "ga": -9
     },
     {
       "rank": 53,
       "id": 40,
       "name": "Tamtam",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "pour": 33,
-      "contre": 35,
-      "played": 4,
-      "ga": -2
+      "pour": 44,
+      "contre": 37,
+      "played": 5,
+      "ga": 7
     },
     {
       "rank": 54,
@@ -651,23 +651,23 @@
       "name": "Les Dauphinois",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 39,
-      "contre": 42,
-      "played": 4,
-      "ga": -3
+      "losses": 4,
+      "pour": 41,
+      "contre": 53,
+      "played": 5,
+      "ga": -12
     },
     {
       "rank": 55,
       "id": 29,
       "name": "Le comptoir",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "pour": 35,
-      "contre": 38,
-      "played": 4,
-      "ga": -3
+      "pour": 46,
+      "contre": 48,
+      "played": 5,
+      "ga": -2
     },
     {
       "rank": 56,
@@ -675,47 +675,47 @@
       "name": "Jean Bat Family",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 33,
-      "contre": 37,
-      "played": 4,
-      "ga": -4
+      "losses": 4,
+      "pour": 43,
+      "contre": 48,
+      "played": 5,
+      "ga": -5
     },
     {
       "rank": 57,
+      "id": 13,
+      "name": "Team Laiton",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 46,
+      "contre": 46,
+      "played": 5,
+      "ga": 0
+    },
+    {
+      "rank": 58,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 30,
-      "contre": 34,
-      "played": 4,
-      "ga": -4
-    },
-    {
-      "rank": 58,
-      "id": 13,
-      "name": "Team Laiton",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 35,
-      "contre": 40,
-      "played": 4,
-      "ga": -5
+      "losses": 4,
+      "pour": 36,
+      "contre": 45,
+      "played": 5,
+      "ga": -9
     },
     {
       "rank": 59,
       "id": 64,
       "name": "Les crottins",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "pour": 30,
-      "contre": 35,
-      "played": 4,
-      "ga": -5
+      "pour": 41,
+      "contre": 37,
+      "played": 5,
+      "ga": 4
     },
     {
       "rank": 60,
@@ -723,47 +723,47 @@
       "name": "Palet Laiton Coufféen",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 29,
-      "contre": 34,
-      "played": 4,
-      "ga": -5
+      "losses": 4,
+      "pour": 31,
+      "contre": 45,
+      "played": 5,
+      "ga": -14
     },
     {
       "rank": 61,
+      "id": 36,
+      "name": "Les plombés du SPA",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 43,
+      "contre": 45,
+      "played": 5,
+      "ga": -2
+    },
+    {
+      "rank": 62,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 35,
-      "contre": 42,
-      "played": 4,
-      "ga": -7
-    },
-    {
-      "rank": 62,
-      "id": 36,
-      "name": "Les plombés du SPA",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 32,
-      "contre": 39,
-      "played": 4,
-      "ga": -7
+      "losses": 4,
+      "pour": 41,
+      "contre": 53,
+      "played": 5,
+      "ga": -12
     },
     {
       "rank": 63,
       "id": 38,
       "name": "Les voisins",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "pour": 34,
-      "contre": 42,
-      "played": 4,
-      "ga": -8
+      "pour": 45,
+      "contre": 46,
+      "played": 5,
+      "ga": -1
     },
     {
       "rank": 64,
@@ -771,23 +771,23 @@
       "name": "Les pongistes",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 27,
-      "contre": 35,
-      "played": 4,
-      "ga": -8
+      "losses": 4,
+      "pour": 31,
+      "contre": 46,
+      "played": 5,
+      "ga": -15
     },
     {
       "rank": 65,
       "id": 27,
       "name": "Les double A",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "pour": 29,
-      "contre": 40,
-      "played": 4,
-      "ga": -11
+      "pour": 40,
+      "contre": 49,
+      "played": 5,
+      "ga": -9
     },
     {
       "rank": 66,
@@ -795,71 +795,71 @@
       "name": "P’titsBU",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 29,
-      "contre": 43,
-      "played": 4,
-      "ga": -14
+      "losses": 4,
+      "pour": 38,
+      "contre": 54,
+      "played": 5,
+      "ga": -16
     },
     {
       "rank": 67,
+      "id": 17,
+      "name": "Juju et camtar",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 37,
+      "contre": 47,
+      "played": 5,
+      "ga": -10
+    },
+    {
+      "rank": 68,
       "id": 67,
       "name": "Les chrichri",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 19,
-      "contre": 33,
-      "played": 4,
-      "ga": -14
-    },
-    {
-      "rank": 68,
-      "id": 17,
-      "name": "Juju et camtar",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 26,
-      "contre": 42,
-      "played": 4,
-      "ga": -16
+      "losses": 4,
+      "pour": 24,
+      "contre": 44,
+      "played": 5,
+      "ga": -20
     },
     {
       "rank": 69,
+      "id": 11,
+      "name": "Les Antho",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 31,
+      "contre": 51,
+      "played": 5,
+      "ga": -20
+    },
+    {
+      "rank": 70,
       "id": 32,
       "name": "LPH",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 26,
-      "contre": 42,
-      "played": 4,
-      "ga": -16
-    },
-    {
-      "rank": 70,
-      "id": 11,
-      "name": "Les Antho",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 20,
-      "contre": 42,
-      "played": 4,
-      "ga": -22
+      "losses": 4,
+      "pour": 35,
+      "contre": 53,
+      "played": 5,
+      "ga": -18
     },
     {
       "rank": 71,
       "id": 10,
       "name": "Association Domi",
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 4,
-      "pour": 27,
-      "contre": 44,
-      "played": 4,
-      "ga": -17
+      "pour": 38,
+      "contre": 53,
+      "played": 5,
+      "ga": -15
     },
     {
       "rank": 72,
@@ -867,23 +867,23 @@
       "name": "SPA Magique",
       "wins": 0,
       "draws": 0,
-      "losses": 4,
-      "pour": 23,
-      "contre": 44,
-      "played": 4,
-      "ga": -21
+      "losses": 5,
+      "pour": 32,
+      "contre": 55,
+      "played": 5,
+      "ga": -23
     },
     {
       "rank": 73,
       "id": 68,
       "name": "Pascal Obistro",
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 4,
-      "pour": 20,
-      "contre": 44,
-      "played": 4,
-      "ga": -24
+      "pour": 31,
+      "contre": 46,
+      "played": 5,
+      "ga": -15
     },
     {
       "rank": 74,
@@ -891,26 +891,14 @@
       "name": "Pile ou face",
       "wins": 0,
       "draws": 0,
-      "losses": 4,
-      "pour": 19,
-      "contre": 44,
-      "played": 4,
-      "ga": -25
+      "losses": 5,
+      "pour": 21,
+      "contre": 55,
+      "played": 5,
+      "ga": -34
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "N’importe jmen fou",
-      "t2": "MMA 0 tracas 0 blabla",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -945,6 +933,17 @@
       "t2": "Le réveil du carré",
       "score1": "11",
       "score2": "9"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "N’importe jmen fou",
+      "t2": "MMA 0 tracas 0 blabla",
+      "score1": "5",
+      "score2": "1"
     },
     {
       "round": "finale",
@@ -2663,5 +2662,456 @@
       "score1": "11",
       "score2": "9"
     }
-  ]
+  ],
+  "notifications": {
+    "type": "fin",
+    "timestamp": 1777236143728,
+    "round": 4,
+    "messages": [
+      {
+        "teamId": 1,
+        "teamName": "Pas d'inspi",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 2,
+        "teamName": "P’titsBU",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les anonymes",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 4,
+        "teamName": "La grosse bite de JOJO",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les p'tiots",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 6,
+        "teamName": "73 M",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 7,
+        "teamName": "Les sombres merdes",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Jean Bat Family",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 9,
+        "teamName": "Les Sorinièrois",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Association Domi",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 11,
+        "teamName": "Les Antho",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 12,
+        "teamName": "Les Métissés",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Team Laiton",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Les Winners",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Les Loosers",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 16,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Juju et camtar",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 18,
+        "teamName": "La clés de 10",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Pistolet à Ô",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Les Dauphinois",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Fouillons",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 22,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Tif et Mario",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Les pongistes",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Duo du plomb",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 26,
+        "teamName": "MECABATI",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Les double A",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 28,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Le comptoir",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 30,
+        "teamName": "Les fantomettes du sud",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 32,
+        "teamName": "LPH",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les zizigoto’s",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Pas laid",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les frangins",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Les plombés du SPA",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les merdes",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les voisins",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Classe 74",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Tamtam",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les salariés de USV",
+        "text": "⚽ Champions de Saint-Géréon… mais champions quand même ! 🏆 BRAVO !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Les bronzés font du ski",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 44,
+        "teamName": "Delta",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Les assoiffés",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Le réveil du carré",
+        "text": "🥈 Vice-champions ! À un palet près, vous étiez tout en haut. Sacré parcours 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Lamineur",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 48,
+        "teamName": "SPA Magique",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Pile ou face",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les copains",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Les Bouesiens",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 52,
+        "teamName": "Les beaux frères",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 53,
+        "teamName": "SPA ma faute",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 54,
+        "teamName": "Les SPA Tator",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 55,
+        "teamName": "SPA Sorcier",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Ligérien",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 57,
+        "teamName": "SPA passé loin",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 58,
+        "teamName": "Eeeeeeeeee",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les gâtés Nantais",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 60,
+        "teamName": "N’importe jmen fou",
+        "text": "🥉 Bronze qui brille ! Du beau jeu, du fair-play, du palet propre 🍺",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 61,
+        "teamName": "PABIENS",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les patatosses",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les pyramides maudites",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les crottins",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 65,
+        "teamName": "tout pour le show",
+        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💙 Le bar vous attend !",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Les Diplomatico",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les chrichri",
+        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Pascal Obistro",
+        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💙",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Le Clos Martin",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 70,
+        "teamName": "PatBrunne",
+        "text": "🥏 C'est plié ! Beaucoup de fun, on reste boire un coup ? 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Antoine et Yaya",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Razmo et Rapido",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 73,
+        "teamName": "furafique farke",
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). Débrief au bar ?",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      },
+      {
+        "teamId": 74,
+        "teamName": "Paté en Croûte",
+        "text": "👋 Tournoi terminé ! On se retrouve au bar pour la suite 🍻",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\n🍔 Bar et restauration encore ouverts — sandwichs, frites, grillades, confiseries, boissons avec ou sans alcool. Pas de raison de partir tout de suite !\n\n💙 Au RSG, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi.\n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole ? Venez nous voir au bar ou contactez le club. On vous accueille à bras ouverts !\n\n⚽ À l'année prochaine, et merci d'avoir fait vivre ce tournoi avec nous 👋"
+      }
+    ]
+  }
 }
