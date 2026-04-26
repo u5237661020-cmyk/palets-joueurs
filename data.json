@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:17:50.634Z",
-  "version": 1777234670634,
+  "updatedAt": "2026-04-26T20:17:57.782Z",
+  "version": 1777234677782,
   "standings": [
     {
       "rank": 1,
@@ -38,6 +38,16 @@
     },
     {
       "rank": 4,
+      "id": 26,
+      "name": "MECABATI",
+      "wins": 3,
+      "losses": 0,
+      "pour": 33,
+      "contre": 16,
+      "played": 3
+    },
+    {
+      "rank": 5,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 3,
@@ -47,7 +57,7 @@
       "played": 3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": 22,
       "name": "MMA 0 tracas 0 blabla",
       "wins": 3,
@@ -57,7 +67,7 @@
       "played": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": 69,
       "name": "Le Clos Martin",
       "wins": 3,
@@ -67,7 +77,17 @@
       "played": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "id": 63,
+      "name": "Les pyramides maudites",
+      "wins": 3,
+      "losses": 0,
+      "pour": 33,
+      "contre": 24,
+      "played": 3
+    },
+    {
+      "rank": 9,
       "id": 1,
       "name": "Pas d'inspi",
       "wins": 2,
@@ -77,7 +97,7 @@
       "played": 3
     },
     {
-      "rank": 8,
+      "rank": 10,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 2,
@@ -87,7 +107,7 @@
       "played": 3
     },
     {
-      "rank": 9,
+      "rank": 11,
       "id": 62,
       "name": "Les patatosses",
       "wins": 2,
@@ -97,47 +117,7 @@
       "played": 3
     },
     {
-      "rank": 10,
-      "id": 21,
-      "name": "Les Fouillons",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 15,
-      "played": 2
-    },
-    {
-      "rank": 11,
-      "id": 63,
-      "name": "Les pyramides maudites",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 15,
-      "played": 2
-    },
-    {
       "rank": 12,
-      "id": 26,
-      "name": "MECABATI",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 16,
-      "played": 2
-    },
-    {
-      "rank": 13,
-      "id": 58,
-      "name": "Eeeeeeeeee",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 16,
-      "played": 2
-    },
-    {
-      "rank": 14,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -147,7 +127,17 @@
       "played": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "id": 21,
+      "name": "Les Fouillons",
+      "wins": 2,
+      "losses": 1,
+      "pour": 31,
+      "contre": 26,
+      "played": 3
+    },
+    {
+      "rank": 14,
       "id": 60,
       "name": "N’importe jmen fou",
       "wins": 2,
@@ -157,7 +147,7 @@
       "played": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -167,7 +157,7 @@
       "played": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -177,13 +167,23 @@
       "played": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
       "losses": 1,
       "pour": 21,
       "contre": 20,
+      "played": 3
+    },
+    {
+      "rank": 18,
+      "id": 58,
+      "name": "Eeeeeeeeee",
+      "wins": 2,
+      "losses": 1,
+      "pour": 22,
+      "contre": 27,
       "played": 3
     },
     {
@@ -794,15 +794,15 @@
       "planche": 7,
       "t1": "Les Fouillons",
       "t2": "Les pyramides maudites",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "planche": 8,
       "t1": "MECABATI",
       "t2": "Eeeeeeeeee",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "0"
     },
     {
       "planche": 9,
@@ -1063,16 +1063,16 @@
       "planche": 7,
       "t1": "Les Fouillons",
       "t2": "Les pyramides maudites",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 3,
       "planche": 8,
       "t1": "MECABATI",
       "t2": "Eeeeeeeeee",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "0"
     },
     {
       "round": 3,
