@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:19:51.873Z",
-  "version": 1777234791873,
+  "updatedAt": "2026-04-26T20:19:58.148Z",
+  "version": 1777234798148,
   "standings": [
     {
       "rank": 1,
@@ -648,6 +648,16 @@
     },
     {
       "rank": 65,
+      "id": 11,
+      "name": "Les Antho",
+      "wins": 1,
+      "losses": 2,
+      "pour": 15,
+      "contre": 31,
+      "played": 3
+    },
+    {
+      "rank": 66,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -657,7 +667,7 @@
       "played": 3
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -667,7 +677,7 @@
       "played": 3
     },
     {
-      "rank": 67,
+      "rank": 68,
       "id": 8,
       "name": "Jean Bat Family",
       "wins": 0,
@@ -677,7 +687,7 @@
       "played": 3
     },
     {
-      "rank": 68,
+      "rank": 69,
       "id": 40,
       "name": "Tamtam",
       "wins": 0,
@@ -687,7 +697,7 @@
       "played": 3
     },
     {
-      "rank": 69,
+      "rank": 70,
       "id": 48,
       "name": "SPA Magique",
       "wins": 0,
@@ -697,7 +707,7 @@
       "played": 3
     },
     {
-      "rank": 70,
+      "rank": 71,
       "id": 42,
       "name": "Palet Laiton Coufféen",
       "wins": 0,
@@ -707,7 +717,7 @@
       "played": 3
     },
     {
-      "rank": 71,
+      "rank": 72,
       "id": 49,
       "name": "Pile ou face",
       "wins": 0,
@@ -717,24 +727,14 @@
       "played": 3
     },
     {
-      "rank": 72,
+      "rank": 73,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
-      "losses": 2,
-      "pour": 5,
-      "contre": 22,
-      "played": 2
-    },
-    {
-      "rank": 73,
-      "id": 11,
-      "name": "Les Antho",
-      "wins": 0,
-      "losses": 2,
-      "pour": 4,
-      "contre": 22,
-      "played": 2
+      "losses": 3,
+      "pour": 14,
+      "contre": 33,
+      "played": 3
     },
     {
       "rank": 74,
@@ -1004,8 +1004,8 @@
       "planche": 37,
       "t1": "Pascal Obistro",
       "t2": "Les Antho",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     }
   ],
   "nextMatches": [],
@@ -1303,8 +1303,8 @@
       "planche": 37,
       "t1": "Pascal Obistro",
       "t2": "Les Antho",
-      "score1": "",
-      "score2": ""
+      "score1": "9",
+      "score2": "11"
     },
     {
       "round": 2,
