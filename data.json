@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:17:25.680Z",
-  "version": 1777234645680,
+  "updatedAt": "2026-04-26T20:17:31.440Z",
+  "version": 1777234651440,
   "standings": [
     {
       "rank": 1,
@@ -20,24 +20,14 @@
       "rank": 2,
       "id": 46,
       "name": "Le réveil du carré",
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "pour": 22,
-      "contre": 9,
-      "played": 2
+      "pour": 33,
+      "contre": 15,
+      "played": 3
     },
     {
       "rank": 3,
-      "id": 62,
-      "name": "Les patatosses",
-      "wins": 2,
-      "losses": 0,
-      "pour": 22,
-      "contre": 9,
-      "played": 2
-    },
-    {
-      "rank": 4,
       "id": 9,
       "name": "Les Sorinièrois",
       "wins": 2,
@@ -47,7 +37,7 @@
       "played": 2
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": 28,
       "name": "On est inscrit c'est déjà bien",
       "wins": 2,
@@ -57,7 +47,7 @@
       "played": 2
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 53,
       "name": "SPA ma faute",
       "wins": 2,
@@ -67,7 +57,7 @@
       "played": 2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -77,13 +67,23 @@
       "played": 2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": 1,
       "name": "Pas d'inspi",
       "wins": 2,
       "losses": 1,
       "pour": 27,
       "contre": 17,
+      "played": 3
+    },
+    {
+      "rank": 8,
+      "id": 62,
+      "name": "Les patatosses",
+      "wins": 2,
+      "losses": 1,
+      "pour": 28,
+      "contre": 20,
       "played": 3
     },
     {
@@ -759,8 +759,8 @@
       "planche": 2,
       "t1": "Le réveil du carré",
       "t2": "Les patatosses",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "planche": 3,
@@ -1023,8 +1023,8 @@
       "planche": 2,
       "t1": "Le réveil du carré",
       "t2": "Les patatosses",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "round": 3,
