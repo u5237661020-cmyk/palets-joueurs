@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:19:46.104Z",
-  "version": 1777234786104,
+  "updatedAt": "2026-04-26T20:19:51.873Z",
+  "version": 1777234791873,
   "standings": [
     {
       "rank": 1,
@@ -558,6 +558,16 @@
     },
     {
       "rank": 56,
+      "id": 45,
+      "name": "Les assoiffés",
+      "wins": 1,
+      "losses": 2,
+      "pour": 21,
+      "contre": 27,
+      "played": 3
+    },
+    {
+      "rank": 57,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 1,
@@ -567,7 +577,7 @@
       "played": 3
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": 27,
       "name": "Les double A",
       "wins": 1,
@@ -577,7 +587,7 @@
       "played": 3
     },
     {
-      "rank": 58,
+      "rank": 59,
       "id": 2,
       "name": "P’titsBU",
       "wins": 1,
@@ -587,7 +597,7 @@
       "played": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": 25,
       "name": "Duo du plomb",
       "wins": 1,
@@ -597,7 +607,7 @@
       "played": 3
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": 17,
       "name": "Juju et camtar",
       "wins": 1,
@@ -607,7 +617,7 @@
       "played": 3
     },
     {
-      "rank": 61,
+      "rank": 62,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -617,7 +627,7 @@
       "played": 3
     },
     {
-      "rank": 62,
+      "rank": 63,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -627,7 +637,7 @@
       "played": 3
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -637,7 +647,7 @@
       "played": 3
     },
     {
-      "rank": 64,
+      "rank": 65,
       "id": 50,
       "name": "Les copains",
       "wins": 0,
@@ -647,7 +657,7 @@
       "played": 3
     },
     {
-      "rank": 65,
+      "rank": 66,
       "id": 10,
       "name": "Association Domi",
       "wins": 0,
@@ -657,7 +667,7 @@
       "played": 3
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": 8,
       "name": "Jean Bat Family",
       "wins": 0,
@@ -667,7 +677,7 @@
       "played": 3
     },
     {
-      "rank": 67,
+      "rank": 68,
       "id": 40,
       "name": "Tamtam",
       "wins": 0,
@@ -677,7 +687,7 @@
       "played": 3
     },
     {
-      "rank": 68,
+      "rank": 69,
       "id": 48,
       "name": "SPA Magique",
       "wins": 0,
@@ -687,27 +697,7 @@
       "played": 3
     },
     {
-      "rank": 69,
-      "id": 45,
-      "name": "Les assoiffés",
-      "wins": 0,
-      "losses": 2,
-      "pour": 10,
-      "contre": 22,
-      "played": 2
-    },
-    {
       "rank": 70,
-      "id": 67,
-      "name": "Les chrichri",
-      "wins": 0,
-      "losses": 2,
-      "pour": 3,
-      "contre": 16,
-      "played": 2
-    },
-    {
-      "rank": 71,
       "id": 42,
       "name": "Palet Laiton Coufféen",
       "wins": 0,
@@ -717,7 +707,7 @@
       "played": 3
     },
     {
-      "rank": 72,
+      "rank": 71,
       "id": 49,
       "name": "Pile ou face",
       "wins": 0,
@@ -727,7 +717,7 @@
       "played": 3
     },
     {
-      "rank": 73,
+      "rank": 72,
       "id": 68,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -737,7 +727,7 @@
       "played": 2
     },
     {
-      "rank": 74,
+      "rank": 73,
       "id": 11,
       "name": "Les Antho",
       "wins": 0,
@@ -745,6 +735,16 @@
       "pour": 4,
       "contre": 22,
       "played": 2
+    },
+    {
+      "rank": 74,
+      "id": 67,
+      "name": "Les chrichri",
+      "wins": 0,
+      "losses": 3,
+      "pour": 8,
+      "contre": 27,
+      "played": 3
     }
   ],
   "currentMatches": [
@@ -997,8 +997,8 @@
       "planche": 36,
       "t1": "Les assoiffés",
       "t2": "Les chrichri",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "planche": 37,
@@ -1295,8 +1295,8 @@
       "planche": 36,
       "t1": "Les assoiffés",
       "t2": "Les chrichri",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 3,
