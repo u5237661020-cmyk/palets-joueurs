@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:25.642Z",
-  "version": 1777234705642,
+  "updatedAt": "2026-04-26T20:18:30.303Z",
+  "version": 1777234710303,
   "standings": [
     {
       "rank": 1,
@@ -168,6 +168,16 @@
     },
     {
       "rank": 17,
+      "id": 39,
+      "name": "Classe 74",
+      "wins": 2,
+      "losses": 1,
+      "pour": 31,
+      "contre": 25,
+      "played": 3
+    },
+    {
+      "rank": 18,
       "id": 43,
       "name": "Les bronzés font du ski",
       "wins": 2,
@@ -177,7 +187,7 @@
       "played": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 21,
       "name": "Les Fouillons",
       "wins": 2,
@@ -187,7 +197,7 @@
       "played": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 4,
       "name": "La grosse bite de JOJO",
       "wins": 2,
@@ -197,7 +207,7 @@
       "played": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": 33,
       "name": "Les zizigoto’s",
       "wins": 2,
@@ -207,7 +217,7 @@
       "played": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": 35,
       "name": "Les frangins",
       "wins": 2,
@@ -217,7 +227,7 @@
       "played": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -227,7 +237,7 @@
       "played": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -237,7 +247,7 @@
       "played": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -247,7 +257,7 @@
       "played": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -257,27 +267,7 @@
       "played": 3
     },
     {
-      "rank": 26,
-      "id": 7,
-      "name": "Les sombres merdes",
-      "wins": 1,
-      "losses": 1,
-      "pour": 20,
-      "contre": 18,
-      "played": 2
-    },
-    {
       "rank": 27,
-      "id": 39,
-      "name": "Classe 74",
-      "wins": 1,
-      "losses": 1,
-      "pour": 20,
-      "contre": 18,
-      "played": 2
-    },
-    {
-      "rank": 28,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -287,7 +277,7 @@
       "played": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -297,7 +287,7 @@
       "played": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -307,7 +297,7 @@
       "played": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 6,
       "name": "73 M",
       "wins": 1,
@@ -317,7 +307,7 @@
       "played": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -327,7 +317,7 @@
       "played": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 44,
       "name": "Delta",
       "wins": 1,
@@ -337,7 +327,7 @@
       "played": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -347,7 +337,7 @@
       "played": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": 56,
       "name": "Ligérien",
       "wins": 1,
@@ -357,7 +347,7 @@
       "played": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": 13,
       "name": "Team Laiton",
       "wins": 1,
@@ -367,7 +357,7 @@
       "played": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": 31,
       "name": "Fc Patrick Fouchard",
       "wins": 1,
@@ -377,7 +367,7 @@
       "played": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 1,
@@ -387,7 +377,7 @@
       "played": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": 55,
       "name": "SPA Sorcier",
       "wins": 1,
@@ -397,7 +387,7 @@
       "played": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -407,7 +397,7 @@
       "played": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": 14,
       "name": "Les Winners",
       "wins": 1,
@@ -417,7 +407,7 @@
       "played": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": 70,
       "name": "PatBrunne",
       "wins": 1,
@@ -425,6 +415,16 @@
       "pour": 12,
       "contre": 13,
       "played": 2
+    },
+    {
+      "rank": 42,
+      "id": 7,
+      "name": "Les sombres merdes",
+      "wins": 1,
+      "losses": 2,
+      "pour": 27,
+      "contre": 29,
+      "played": 3
     },
     {
       "rank": 43,
@@ -857,8 +857,8 @@
       "planche": 16,
       "t1": "Les sombres merdes",
       "t2": "Classe 74",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "planche": 17,
@@ -1135,8 +1135,8 @@
       "planche": 16,
       "t1": "Les sombres merdes",
       "t2": "Classe 74",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     },
     {
       "round": 3,
