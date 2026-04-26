@@ -3,8 +3,8 @@
   "date": "2026-04-30",
   "round": 3,
   "totalRounds": 4,
-  "updatedAt": "2026-04-26T20:18:53.881Z",
-  "version": 1777234733881,
+  "updatedAt": "2026-04-26T20:18:57.228Z",
+  "version": 1777234737228,
   "standings": [
     {
       "rank": 1,
@@ -278,6 +278,16 @@
     },
     {
       "rank": 28,
+      "id": 19,
+      "name": "Pistolet à Ô",
+      "wins": 2,
+      "losses": 1,
+      "pour": 24,
+      "contre": 22,
+      "played": 3
+    },
+    {
+      "rank": 29,
       "id": 55,
       "name": "SPA Sorcier",
       "wins": 2,
@@ -287,7 +297,7 @@
       "played": 3
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": 65,
       "name": "tout pour le show",
       "wins": 2,
@@ -297,7 +307,7 @@
       "played": 3
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": 18,
       "name": "La clés de 10",
       "wins": 2,
@@ -307,7 +317,7 @@
       "played": 3
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": 71,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -317,7 +327,7 @@
       "played": 3
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": 58,
       "name": "Eeeeeeeeee",
       "wins": 2,
@@ -327,7 +337,7 @@
       "played": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": 34,
       "name": "Pas laid",
       "wins": 1,
@@ -337,7 +347,7 @@
       "played": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": 29,
       "name": "Le comptoir",
       "wins": 1,
@@ -347,7 +357,7 @@
       "played": 3
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": 64,
       "name": "Les crottins",
       "wins": 1,
@@ -357,7 +367,7 @@
       "played": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": 12,
       "name": "Les Métissés",
       "wins": 1,
@@ -367,7 +377,7 @@
       "played": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": 44,
       "name": "Delta",
       "wins": 1,
@@ -377,7 +387,7 @@
       "played": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": 54,
       "name": "Les SPA Tator",
       "wins": 1,
@@ -387,7 +397,7 @@
       "played": 3
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": 7,
       "name": "Les sombres merdes",
       "wins": 1,
@@ -397,7 +407,7 @@
       "played": 3
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": 13,
       "name": "Team Laiton",
       "wins": 1,
@@ -407,7 +417,7 @@
       "played": 3
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": 57,
       "name": "SPA passé loin",
       "wins": 1,
@@ -417,7 +427,7 @@
       "played": 3
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": 23,
       "name": "Tif et Mario",
       "wins": 1,
@@ -427,7 +437,7 @@
       "played": 3
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": 70,
       "name": "PatBrunne",
       "wins": 1,
@@ -435,16 +445,6 @@
       "pour": 21,
       "contre": 24,
       "played": 3
-    },
-    {
-      "rank": 44,
-      "id": 19,
-      "name": "Pistolet à Ô",
-      "wins": 1,
-      "losses": 1,
-      "pour": 13,
-      "contre": 16,
-      "played": 2
     },
     {
       "rank": 45,
@@ -458,16 +458,6 @@
     },
     {
       "rank": 46,
-      "id": 2,
-      "name": "P’titsBU",
-      "wins": 1,
-      "losses": 1,
-      "pour": 17,
-      "contre": 21,
-      "played": 2
-    },
-    {
-      "rank": 47,
       "id": 74,
       "name": "Paté en Croûte",
       "wins": 1,
@@ -477,7 +467,7 @@
       "played": 2
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": 36,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -487,7 +477,7 @@
       "played": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": 73,
       "name": "furafique farke",
       "wins": 1,
@@ -497,7 +487,7 @@
       "played": 2
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": 72,
       "name": "Razmo et Rapido",
       "wins": 1,
@@ -507,7 +497,7 @@
       "played": 2
     },
     {
-      "rank": 51,
+      "rank": 50,
       "id": 3,
       "name": "Les anonymes",
       "wins": 1,
@@ -517,7 +507,7 @@
       "played": 2
     },
     {
-      "rank": 52,
+      "rank": 51,
       "id": 16,
       "name": "Jeanne d’arc Villemoisan",
       "wins": 1,
@@ -527,7 +517,7 @@
       "played": 2
     },
     {
-      "rank": 53,
+      "rank": 52,
       "id": 32,
       "name": "LPH",
       "wins": 1,
@@ -537,7 +527,7 @@
       "played": 2
     },
     {
-      "rank": 54,
+      "rank": 53,
       "id": 52,
       "name": "Les beaux frères",
       "wins": 1,
@@ -545,6 +535,16 @@
       "pour": 12,
       "contre": 20,
       "played": 2
+    },
+    {
+      "rank": 54,
+      "id": 2,
+      "name": "P’titsBU",
+      "wins": 1,
+      "losses": 2,
+      "pour": 23,
+      "contre": 32,
+      "played": 3
     },
     {
       "rank": 55,
@@ -913,8 +913,8 @@
       "planche": 24,
       "t1": "Pistolet à Ô",
       "t2": "P’titsBU",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "planche": 25,
@@ -1199,8 +1199,8 @@
       "planche": 24,
       "t1": "Pistolet à Ô",
       "t2": "P’titsBU",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "round": 3,
