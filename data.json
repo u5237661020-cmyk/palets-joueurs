@@ -10,8 +10,8 @@
   "headerRoundValue": "4/6",
   "finalProgress": null,
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T21:00:48.787Z",
-  "version": 1777582848787,
+  "updatedAt": "2026-04-30T21:03:21.621Z",
+  "version": 1777583001621,
   "standings": [
     {
       "rank": 1,
@@ -987,6 +987,18 @@
     },
     {
       "rank": 82,
+      "id": 31,
+      "name": "Les p'tiots",
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "pour": 22,
+      "contre": 34,
+      "played": 4,
+      "ga": -12
+    },
+    {
+      "rank": 83,
       "id": 65,
       "name": "Classe 74",
       "wins": 1,
@@ -998,7 +1010,7 @@
       "ga": -12
     },
     {
-      "rank": 83,
+      "rank": 84,
       "id": 81,
       "name": "SPA Sorcier",
       "wins": 1,
@@ -1010,7 +1022,7 @@
       "ga": -12
     },
     {
-      "rank": 84,
+      "rank": 85,
       "id": 14,
       "name": "Geant double prince",
       "wins": 1,
@@ -1022,7 +1034,7 @@
       "ga": -13
     },
     {
-      "rank": 85,
+      "rank": 86,
       "id": 44,
       "name": "La clés de 10",
       "wins": 1,
@@ -1034,7 +1046,7 @@
       "ga": -13
     },
     {
-      "rank": 86,
+      "rank": 87,
       "id": 87,
       "name": "PABIENS",
       "wins": 1,
@@ -1046,7 +1058,7 @@
       "ga": -14
     },
     {
-      "rank": 87,
+      "rank": 88,
       "id": 4,
       "name": "Bas les pattes",
       "wins": 1,
@@ -1058,7 +1070,7 @@
       "ga": -14
     },
     {
-      "rank": 88,
+      "rank": 89,
       "id": 63,
       "name": "Les merdes",
       "wins": 1,
@@ -1070,7 +1082,7 @@
       "ga": -16
     },
     {
-      "rank": 89,
+      "rank": 90,
       "id": 40,
       "name": "Les Winners",
       "wins": 1,
@@ -1082,7 +1094,7 @@
       "ga": -16
     },
     {
-      "rank": 90,
+      "rank": 91,
       "id": 24,
       "name": "Thomas et Ethan",
       "wins": 1,
@@ -1094,7 +1106,7 @@
       "ga": -21
     },
     {
-      "rank": 91,
+      "rank": 92,
       "id": 66,
       "name": "Tamtam",
       "wins": 0,
@@ -1106,7 +1118,7 @@
       "ga": -16
     },
     {
-      "rank": 92,
+      "rank": 93,
       "id": 89,
       "name": "Les pyramides maudites",
       "wins": 0,
@@ -1118,7 +1130,7 @@
       "ga": -16
     },
     {
-      "rank": 93,
+      "rank": 94,
       "id": 93,
       "name": "Les chrichri",
       "wins": 0,
@@ -1130,7 +1142,7 @@
       "ga": -21
     },
     {
-      "rank": 94,
+      "rank": 95,
       "id": 94,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -1140,18 +1152,6 @@
       "contre": 33,
       "played": 3,
       "ga": -21
-    },
-    {
-      "rank": 95,
-      "id": 31,
-      "name": "Les p'tiots",
-      "wins": 0,
-      "draws": 0,
-      "losses": 3,
-      "pour": 11,
-      "contre": 33,
-      "played": 3,
-      "ga": -22
     },
     {
       "rank": 96,
@@ -1179,18 +1179,6 @@
     },
     {
       "rank": 98,
-      "id": 38,
-      "name": "Les Métissés",
-      "wins": 0,
-      "draws": 0,
-      "losses": 3,
-      "pour": 6,
-      "contre": 33,
-      "played": 3,
-      "ga": -27
-    },
-    {
-      "rank": 99,
       "id": 2,
       "name": "C’l’aventure",
       "wins": 0,
@@ -1202,7 +1190,7 @@
       "ga": -29
     },
     {
-      "rank": 100,
+      "rank": 99,
       "id": 56,
       "name": "Les fantomettes du sud",
       "wins": 0,
@@ -1212,6 +1200,18 @@
       "contre": 33,
       "played": 3,
       "ga": -30
+    },
+    {
+      "rank": 100,
+      "id": 38,
+      "name": "Les Métissés",
+      "wins": 0,
+      "draws": 0,
+      "losses": 4,
+      "pour": 7,
+      "contre": 44,
+      "played": 4,
+      "ga": -37
     }
   ],
   "currentMatches": [
@@ -1653,8 +1653,8 @@
       "planche": 49,
       "t1": "Les p'tiots",
       "t2": "Les Métissés",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "1"
     },
     {
       "round": 4,
@@ -2106,8 +2106,8 @@
       "planche": 49,
       "t1": "Les p'tiots",
       "t2": "Les Métissés",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "1"
     },
     {
       "round": 4,
