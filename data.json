@@ -10,8 +10,8 @@
   "headerRoundValue": "5/6",
   "finalProgress": null,
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T22:19:18.564Z",
-  "version": 1777587558564,
+  "updatedAt": "2026-04-30T22:20:19.138Z",
+  "version": 1777587619138,
   "standings": [
     {
       "rank": 1,
@@ -543,6 +543,18 @@
     },
     {
       "rank": 45,
+      "id": 60,
+      "name": "Pas laid",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 38,
+      "contre": 40,
+      "played": 5,
+      "ga": -2
+    },
+    {
+      "rank": 46,
       "id": 63,
       "name": "Les merdes",
       "wins": 3,
@@ -554,7 +566,7 @@
       "ga": -2
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": 96,
       "name": "PatBrunne",
       "wins": 3,
@@ -566,7 +578,7 @@
       "ga": -3
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": 72,
       "name": "Le réveil du carré",
       "wins": 3,
@@ -578,7 +590,7 @@
       "ga": -5
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": 39,
       "name": "Team Laiton",
       "wins": 3,
@@ -590,7 +602,7 @@
       "ga": -5
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": 48,
       "name": "MMA 0 tracas 0 blabla",
       "wins": 2,
@@ -602,7 +614,7 @@
       "ga": 5
     },
     {
-      "rank": 50,
+      "rank": 51,
       "id": 64,
       "name": "Les voisins",
       "wins": 2,
@@ -614,7 +626,7 @@
       "ga": 5
     },
     {
-      "rank": 51,
+      "rank": 52,
       "id": 25,
       "name": "Roropit",
       "wins": 2,
@@ -626,7 +638,7 @@
       "ga": 4
     },
     {
-      "rank": 52,
+      "rank": 53,
       "id": 97,
       "name": "Antoine et Yaya",
       "wins": 2,
@@ -638,7 +650,7 @@
       "ga": 3
     },
     {
-      "rank": 53,
+      "rank": 54,
       "id": 53,
       "name": "Les double A",
       "wins": 2,
@@ -650,7 +662,7 @@
       "ga": 2
     },
     {
-      "rank": 54,
+      "rank": 55,
       "id": 41,
       "name": "Les Loosers",
       "wins": 2,
@@ -662,7 +674,7 @@
       "ga": 2
     },
     {
-      "rank": 55,
+      "rank": 56,
       "id": 82,
       "name": "Ligérien",
       "wins": 2,
@@ -674,7 +686,7 @@
       "ga": 1
     },
     {
-      "rank": 56,
+      "rank": 57,
       "id": 6,
       "name": "Fc Cochonnerie",
       "wins": 2,
@@ -686,7 +698,7 @@
       "ga": 1
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": 32,
       "name": "73 M",
       "wins": 2,
@@ -698,7 +710,7 @@
       "ga": -2
     },
     {
-      "rank": 58,
+      "rank": 59,
       "id": 1,
       "name": "fc Vlp",
       "wins": 2,
@@ -710,7 +722,7 @@
       "ga": -3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": 5,
       "name": "Les Cuss",
       "wins": 2,
@@ -722,7 +734,7 @@
       "ga": -4
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": 17,
       "name": "Café crème",
       "wins": 2,
@@ -734,7 +746,7 @@
       "ga": -5
     },
     {
-      "rank": 61,
+      "rank": 62,
       "id": 81,
       "name": "SPA Sorcier",
       "wins": 2,
@@ -746,7 +758,7 @@
       "ga": -5
     },
     {
-      "rank": 62,
+      "rank": 63,
       "id": 88,
       "name": "Les patatosses",
       "wins": 2,
@@ -758,7 +770,7 @@
       "ga": -5
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": 87,
       "name": "PABIENS",
       "wins": 2,
@@ -770,7 +782,7 @@
       "ga": -5
     },
     {
-      "rank": 64,
+      "rank": 65,
       "id": 8,
       "name": "Roméo et Juliette",
       "wins": 2,
@@ -782,7 +794,7 @@
       "ga": -6
     },
     {
-      "rank": 65,
+      "rank": 66,
       "id": 23,
       "name": "Jérôme et Mickaël",
       "wins": 2,
@@ -794,7 +806,7 @@
       "ga": -6
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": 70,
       "name": "Delta",
       "wins": 2,
@@ -806,7 +818,7 @@
       "ga": -7
     },
     {
-      "rank": 67,
+      "rank": 68,
       "id": 42,
       "name": "Jeanne d’arc Villemoisan",
       "wins": 2,
@@ -815,18 +827,6 @@
       "pour": 36,
       "contre": 44,
       "played": 5,
-      "ga": -8
-    },
-    {
-      "rank": 68,
-      "id": 60,
-      "name": "Pas laid",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 27,
-      "contre": 35,
-      "played": 4,
       "ga": -8
     },
     {
@@ -843,18 +843,6 @@
     },
     {
       "rank": 70,
-      "id": 4,
-      "name": "Bas les pattes",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 29,
-      "contre": 38,
-      "played": 4,
-      "ga": -9
-    },
-    {
-      "rank": 71,
       "id": 95,
       "name": "Le Clos Martin",
       "wins": 2,
@@ -866,7 +854,7 @@
       "ga": -9
     },
     {
-      "rank": 72,
+      "rank": 71,
       "id": 45,
       "name": "Pistolet à Ô",
       "wins": 2,
@@ -878,7 +866,7 @@
       "ga": -11
     },
     {
-      "rank": 73,
+      "rank": 72,
       "id": 98,
       "name": "Razmo et Rapido",
       "wins": 2,
@@ -890,7 +878,7 @@
       "ga": -11
     },
     {
-      "rank": 74,
+      "rank": 73,
       "id": 71,
       "name": "Les assoiffés",
       "wins": 2,
@@ -902,7 +890,7 @@
       "ga": -12
     },
     {
-      "rank": 75,
+      "rank": 74,
       "id": 90,
       "name": "Les crottins",
       "wins": 2,
@@ -914,7 +902,7 @@
       "ga": -12
     },
     {
-      "rank": 76,
+      "rank": 75,
       "id": 65,
       "name": "Classe 74",
       "wins": 2,
@@ -924,6 +912,18 @@
       "contre": 45,
       "played": 5,
       "ga": -14
+    },
+    {
+      "rank": 76,
+      "id": 4,
+      "name": "Bas les pattes",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 34,
+      "contre": 49,
+      "played": 5,
+      "ga": -15
     },
     {
       "rank": 77,
@@ -1518,8 +1518,8 @@
       "planche": 34,
       "t1": "Pas laid",
       "t2": "Bas les pattes",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 5,
@@ -1971,8 +1971,8 @@
       "planche": 34,
       "t1": "Pas laid",
       "t2": "Bas les pattes",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "5"
     },
     {
       "round": 5,
