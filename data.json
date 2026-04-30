@@ -10,8 +10,8 @@
   "headerRoundValue": "2/6",
   "finalProgress": null,
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T19:30:54.090Z",
-  "version": 1777577454090,
+  "updatedAt": "2026-04-30T19:31:07.423Z",
+  "version": 1777577467423,
   "standings": [
     {
       "rank": 1,
@@ -195,6 +195,18 @@
     },
     {
       "rank": 16,
+      "id": 25,
+      "name": "Roropit",
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "pour": 22,
+      "contre": 10,
+      "played": 2,
+      "ga": 12
+    },
+    {
+      "rank": 17,
       "id": 47,
       "name": "Les Fouillons",
       "wins": 2,
@@ -206,7 +218,7 @@
       "ga": 12
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 72,
       "name": "Le réveil du carré",
       "wins": 2,
@@ -218,7 +230,7 @@
       "ga": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 8,
       "name": "Roméo et Juliette",
       "wins": 1,
@@ -230,7 +242,7 @@
       "ga": 11
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 9,
       "name": "LesZartistes",
       "wins": 1,
@@ -242,7 +254,7 @@
       "ga": 11
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": 59,
       "name": "Les zizigoto’s",
       "wins": 1,
@@ -254,7 +266,7 @@
       "ga": 10
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": 62,
       "name": "Les plombés du SPA",
       "wins": 1,
@@ -266,7 +278,7 @@
       "ga": 10
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": 3,
       "name": "Les caouins",
       "wins": 1,
@@ -278,7 +290,7 @@
       "ga": 7
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": 78,
       "name": "Les beaux frères",
       "wins": 1,
@@ -290,7 +302,7 @@
       "ga": 7
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": 30,
       "name": "Les petites bites",
       "wins": 1,
@@ -302,31 +314,7 @@
       "ga": 7
     },
     {
-      "rank": 25,
-      "id": 25,
-      "name": "Roropit",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 11,
-      "contre": 4,
-      "played": 1,
-      "ga": 7
-    },
-    {
       "rank": 26,
-      "id": 27,
-      "name": "Pas d'inspi",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 11,
-      "contre": 4,
-      "played": 1,
-      "ga": 7
-    },
-    {
-      "rank": 27,
       "id": 41,
       "name": "Les Loosers",
       "wins": 1,
@@ -338,7 +326,7 @@
       "ga": 6
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 39,
       "name": "Team Laiton",
       "wins": 1,
@@ -350,7 +338,7 @@
       "ga": 6
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 42,
       "name": "Jeanne d’arc Villemoisan",
       "wins": 1,
@@ -362,7 +350,7 @@
       "ga": 6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 51,
       "name": "Duo du plomb",
       "wins": 1,
@@ -374,7 +362,7 @@
       "ga": 5
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 68,
       "name": "Palet Laiton Coufféen",
       "wins": 1,
@@ -386,7 +374,7 @@
       "ga": 5
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 76,
       "name": "Les copains",
       "wins": 1,
@@ -398,7 +386,7 @@
       "ga": 5
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 18,
       "name": "Les zoukettes",
       "wins": 1,
@@ -410,7 +398,7 @@
       "ga": 4
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": 84,
       "name": "Eeeeeeeeee",
       "wins": 1,
@@ -422,7 +410,7 @@
       "ga": 4
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": 82,
       "name": "Ligérien",
       "wins": 1,
@@ -434,7 +422,7 @@
       "ga": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": 53,
       "name": "Les double A",
       "wins": 1,
@@ -446,7 +434,7 @@
       "ga": 3
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": 88,
       "name": "Les patatosses",
       "wins": 1,
@@ -458,7 +446,7 @@
       "ga": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": 87,
       "name": "PABIENS",
       "wins": 1,
@@ -470,7 +458,7 @@
       "ga": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": 12,
       "name": "RCG",
       "wins": 1,
@@ -482,7 +470,7 @@
       "ga": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": 46,
       "name": "Les Dauphinois",
       "wins": 1,
@@ -494,7 +482,7 @@
       "ga": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": 54,
       "name": "On est inscrit c'est déjà bien",
       "wins": 1,
@@ -506,9 +494,21 @@
       "ga": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": 6,
       "name": "Fc Cochonnerie",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 17,
+      "contre": 15,
+      "played": 2,
+      "ga": 2
+    },
+    {
+      "rank": 42,
+      "id": 27,
+      "name": "Pas d'inspi",
       "wins": 1,
       "draws": 0,
       "losses": 1,
@@ -1338,8 +1338,8 @@
       "planche": 14,
       "t1": "Roropit",
       "t2": "Pas d'inspi",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "round": 2,
@@ -1791,8 +1791,8 @@
       "planche": 14,
       "t1": "Roropit",
       "t2": "Pas d'inspi",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "6"
     },
     {
       "round": 2,
