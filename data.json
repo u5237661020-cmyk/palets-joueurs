@@ -10,8 +10,8 @@
   "headerRoundValue": "1/6",
   "finalProgress": null,
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T16:58:13.033Z",
-  "version": 1777568293033,
+  "updatedAt": "2026-04-30T16:58:17.260Z",
+  "version": 1777568297260,
   "standings": [
     {
       "rank": 1,
@@ -2120,509 +2120,508 @@
     }
   ],
   "notifications": {
-    "type": "prochain",
-    "timestamp": 1777568293033,
-    "round": 1,
+    "type": "debut",
+    "timestamp": 1777568297258,
     "messages": [
       {
-        "teamId": 66,
-        "teamName": "Tamtam",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 1 contre Palet Laiton Coufféen. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 68,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "☕ Première partie, planche 1 vs Tamtam. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 70,
-        "teamName": "Delta",
-        "text": "🎯 Premier match en approche ! Planche 2 vs C’l’aventure. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 2,
         "teamName": "C’l’aventure",
-        "text": "☕ Première partie, planche 2 vs Delta. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 3,
         "teamName": "Les caouins",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les caouins. Dans le coin gauche : Classe 74. Direction la planche 3. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 65,
-        "teamName": "Classe 74",
-        "text": "⚽ Coup d'envoi imminent ! Planche 3 vs Les caouins. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les salariés de USV",
-        "text": "🎯 Premier match en approche ! Planche 4 vs fc Vlp. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 1,
-        "teamName": "fc Vlp",
-        "text": "🎯 Premier match en approche ! Planche 4 vs Les salariés de USV. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 71,
-        "teamName": "Les assoiffés",
-        "text": "☕ Première partie, planche 5 vs Les bronzés font du ski. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 69,
-        "teamName": "Les bronzés font du ski",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les bronzés font du ski. Dans le coin gauche : Les assoiffés. Direction la planche 5. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 72,
-        "teamName": "Le réveil du carré",
-        "text": "🥊 Round 1 ! Dans le coin droit : Le réveil du carré. Dans le coin gauche : Pile ou face. Direction la planche 6. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 75,
-        "teamName": "Pile ou face",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 6 contre Le réveil du carré. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 74,
-        "teamName": "SPA Magique",
-        "text": "⚽ Coup d'envoi imminent ! Planche 7 vs Bas les pattes. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 4,
         "teamName": "Bas les pattes",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 7 vs SPA Magique. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 6,
-        "teamName": "Fc Cochonnerie",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 8 contre merguez united. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 7,
-        "teamName": "merguez united",
-        "text": "🎯 Premier match en approche ! Planche 8 vs Fc Cochonnerie. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 5,
         "teamName": "Les Cuss",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 9 contre Roméo et Juliette. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 8,
         "teamName": "Roméo et Juliette",
-        "text": "🥊 Round 1 ! Dans le coin droit : Roméo et Juliette. Dans le coin gauche : Les Cuss. Direction la planche 9. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 73,
-        "teamName": "Lamineur",
-        "text": "⚽ Coup d'envoi imminent ! Planche 10 vs LesZartistes. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 9,
         "teamName": "LesZartistes",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 10 vs Lamineur. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 76,
-        "teamName": "Les copains",
-        "text": "☕ Première partie, planche 11 vs SPA ma faute. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 79,
-        "teamName": "SPA ma faute",
-        "text": "⚽ Coup d'envoi imminent ! Planche 11 vs Les copains. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 12,
-        "teamName": "RCG",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 12 vs Demain brillant. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 10,
         "teamName": "Demain brillant",
-        "text": "☕ Première partie, planche 12 vs RCG. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 78,
-        "teamName": "Les beaux frères",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 13 vs La force tranquille. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 11,
         "teamName": "La force tranquille",
-        "text": "🥊 Round 1 ! Dans le coin droit : La force tranquille. Dans le coin gauche : Les beaux frères. Direction la planche 13. Que le meilleur gagne 🔔"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 77,
-        "teamName": "Les Bouesiens",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les Bouesiens. Dans le coin gauche : Geant double prince. Direction la planche 14. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 14,
-        "teamName": "Geant double prince",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 14 contre Les Bouesiens. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 80,
-        "teamName": "Les SPA Tator",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les SPA Tator. Dans le coin gauche : Les pyramides maudites. Direction la planche 15. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 89,
-        "teamName": "Les pyramides maudites",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 15 contre Les SPA Tator. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 85,
-        "teamName": "Les gâtés Nantais",
-        "text": "☕ Première partie, planche 16 vs tout pour le show. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 91,
-        "teamName": "tout pour le show",
-        "text": "⚽ Coup d'envoi imminent ! Planche 16 vs Les gâtés Nantais. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 13,
         "teamName": "Les dégarnis",
-        "text": "⚽ Coup d'envoi imminent ! Planche 17 vs N’importe jmen fou. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 86,
-        "teamName": "N’importe jmen fou",
-        "text": "🥊 Round 1 ! Dans le coin droit : N’importe jmen fou. Dans le coin gauche : Les dégarnis. Direction la planche 17. Que le meilleur gagne 🔔"
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 15,
         "teamName": "Wazé",
-        "text": "🎯 Premier match en approche ! Planche 18 vs As saint qui tienne. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 16,
         "teamName": "As saint qui tienne",
-        "text": "☕ Première partie, planche 18 vs Wazé. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Thomas et Ethan",
-        "text": "🎯 Premier match en approche ! Planche 19 vs Les zoukettes. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 18,
-        "teamName": "Les zoukettes",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 19 vs Thomas et Ethan. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 22,
-        "teamName": "Chicots",
-        "text": "⚽ Coup d'envoi imminent ! Planche 20 vs Café crème. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 17,
         "teamName": "Café crème",
-        "text": "🥊 Round 1 ! Dans le coin droit : Café crème. Dans le coin gauche : Chicots. Direction la planche 20. Que le meilleur gagne 🔔"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 21,
-        "teamName": "Les Festi’papeche",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 21 vs Les patatosses. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 88,
-        "teamName": "Les patatosses",
-        "text": "⚽ Coup d'envoi imminent ! Planche 21 vs Les Festi’papeche. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 83,
-        "teamName": "SPA passé loin",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 22 contre Jérôme et Mickaël. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Jérôme et Mickaël",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 22 contre SPA passé loin. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 19,
         "teamName": "Les kéké",
-        "text": "⚽ Coup d'envoi imminent ! Planche 23 vs Bouses premium. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 20,
         "teamName": "Bouses premium",
-        "text": "🥊 Round 1 ! Dans le coin droit : Bouses premium. Dans le coin gauche : Les kéké. Direction la planche 23. Que le meilleur gagne 🔔"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 82,
-        "teamName": "Ligérien",
-        "text": "⚽ Coup d'envoi imminent ! Planche 24 vs Roropit. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 25,
         "teamName": "Roropit",
-        "text": "☕ Première partie, planche 24 vs Ligérien. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 87,
-        "teamName": "PABIENS",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 25 vs Pas d'inspi. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Pas d'inspi",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 25 vs PABIENS. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 28,
-        "teamName": "P’titsBU",
-        "text": "⚽ Coup d'envoi imminent ! Planche 26 vs 2F. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 26,
         "teamName": "2F",
-        "text": "🥊 Round 1 ! Dans le coin droit : 2F. Dans le coin gauche : P’titsBU. Direction la planche 26. Que le meilleur gagne 🔔"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 30,
-        "teamName": "Les grosses bites",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 27 vs Les anonymes. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 29,
         "teamName": "Les anonymes",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 27 contre Les grosses bites. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 30,
+        "teamName": "Les grosses bites",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 31,
         "teamName": "Les p'tiots",
-        "text": "⚽ Coup d'envoi imminent ! Planche 28 vs 73 M. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 32,
         "teamName": "73 M",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 28 contre Les p'tiots. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 81,
-        "teamName": "SPA Sorcier",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 29 vs Eeeeeeeeee. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 84,
-        "teamName": "Eeeeeeeeee",
-        "text": "🎯 Premier match en approche ! Planche 29 vs SPA Sorcier. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 50,
-        "teamName": "Les pongistes",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 30 contre Association Domi. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 36,
-        "teamName": "Association Domi",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 30 vs Les pongistes. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 92,
-        "teamName": "Les Diplomatico",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 31 contre Les Sorinièrois. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 35,
-        "teamName": "Les Sorinièrois",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les Sorinièrois. Dans le coin gauche : Les Diplomatico. Direction la planche 31. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 90,
-        "teamName": "Les crottins",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 32 vs Fc Patrick Fouchard. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 57,
-        "teamName": "Fc Patrick Fouchard",
-        "text": "🎯 Premier match en approche ! Planche 32 vs Les crottins. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 34,
-        "teamName": "Jean Bat Family",
-        "text": "☕ Première partie, planche 33 vs On est inscrit c'est déjà bien. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 54,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 33 vs Jean Bat Family. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 94,
-        "teamName": "Pascal Obistro",
-        "text": "☕ Première partie, planche 34 vs Duo du plomb. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Duo du plomb",
-        "text": "🎯 Premier match en approche ! Planche 34 vs Pascal Obistro. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 93,
-        "teamName": "Les chrichri",
-        "text": "🎯 Premier match en approche ! Planche 35 vs Tif et Mario. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Tif et Mario",
-        "text": "☕ Première partie, planche 35 vs Les chrichri. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 96,
-        "teamName": "PatBrunne",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 36 vs Le Clos Martin. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 95,
-        "teamName": "Le Clos Martin",
-        "text": "🥊 Round 1 ! Dans le coin droit : Le Clos Martin. Dans le coin gauche : PatBrunne. Direction la planche 36. Que le meilleur gagne 🔔"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 33,
         "teamName": "Les sombres merdes",
-        "text": "🎯 Premier match en approche ! Planche 37 vs Les Winners. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 40,
-        "teamName": "Les Winners",
-        "text": "⚽ Coup d'envoi imminent ! Planche 37 vs Les sombres merdes. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 98,
-        "teamName": "Razmo et Rapido",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 38 contre Team Laiton. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 39,
-        "teamName": "Team Laiton",
-        "text": "🎯 Premier match en approche ! Planche 38 vs Razmo et Rapido. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 53,
-        "teamName": "Les double A",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les double A. Dans le coin gauche : Les zizigoto’s. Direction la planche 39. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les zizigoto’s",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les zizigoto’s. Dans le coin gauche : Les double A. Direction la planche 39. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 100,
-        "teamName": "Paté en Croûte",
-        "text": "☕ Première partie, planche 40 vs furafique farke. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 99,
-        "teamName": "furafique farke",
-        "text": "🎯 Premier match en approche ! Planche 40 vs Paté en Croûte. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 97,
-        "teamName": "Antoine et Yaya",
-        "text": "⚽ Coup d'envoi imminent ! Planche 41 vs Pas laid. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 60,
-        "teamName": "Pas laid",
-        "text": "🎯 Premier match en approche ! Planche 41 vs Antoine et Yaya. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 38,
-        "teamName": "Les Métissés",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 42 contre Les Antho. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 37,
         "teamName": "Les Antho",
-        "text": "⚽ Coup d'envoi imminent ! Planche 42 vs Les Métissés. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 58,
-        "teamName": "LPH",
-        "text": "☕ Première partie, planche 43 vs MECABATI. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 52,
-        "teamName": "MECABATI",
-        "text": "☕ Première partie, planche 43 vs LPH. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 43,
-        "teamName": "Juju et camtar",
-        "text": "☕ Première partie, planche 44 vs La clés de 10. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 44,
-        "teamName": "La clés de 10",
-        "text": "🥊 Round 1 ! Dans le coin droit : La clés de 10. Dans le coin gauche : Juju et camtar. Direction la planche 44. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 42,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🎯 Premier match en approche ! Planche 45 vs Les Loosers. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 41,
         "teamName": "Les Loosers",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 45 contre Jeanne d’arc Villemoisan. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 47,
-        "teamName": "Les Fouillons",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 46 contre Les frangins. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 61,
-        "teamName": "Les frangins",
-        "text": "☕ Première partie, planche 46 vs Les Fouillons. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 55,
-        "teamName": "Le comptoir",
-        "text": "⚽ Coup d'envoi imminent ! Planche 47 vs Les fantomettes du sud. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 56,
-        "teamName": "Les fantomettes du sud",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 47 contre Le comptoir. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 46,
-        "teamName": "Les Dauphinois",
-        "text": "⚽ Coup d'envoi imminent ! Planche 48 vs Pistolet à Ô. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 45,
         "teamName": "Pistolet à Ô",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 48 vs Les Dauphinois. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
-        "teamId": 62,
-        "teamName": "Les plombés du SPA",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les plombés du SPA. Dans le coin gauche : MMA 0 tracas 0 blabla. Direction la planche 49. Que le meilleur gagne 🔔"
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 48,
         "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🎯 Premier match en approche ! Planche 49 vs Les plombés du SPA. Pas de pression hein… juste tout le tournoi qui commence 💪"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 63,
         "teamName": "Les merdes",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 50 vs Les voisins. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       },
       {
         "teamId": 64,
         "teamName": "Les voisins",
-        "text": "⚽ Coup d'envoi imminent ! Planche 50 vs Les merdes. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Les gâtés Nantais",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Les chrichri",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Le Clos Martin",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 96,
+        "teamName": "PatBrunne",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 97,
+        "teamName": "Antoine et Yaya",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
+      },
+      {
+        "teamId": 100,
+        "teamName": "Paté en Croûte",
+        "text": "🥰 Mes petits chéris, c'est parti ! N'oubliez pas de bien vous couvrir, de manger à votre faim, et de viser le maître plutôt que vos pieds. Bisous 💋"
       }
     ]
   }
