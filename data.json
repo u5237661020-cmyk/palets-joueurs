@@ -10,20 +10,20 @@
   "headerRoundValue": "1/6",
   "finalProgress": null,
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T06:39:18.397Z",
-  "version": 1777531158397,
+  "updatedAt": "2026-04-30T06:39:51.820Z",
+  "version": 1777531191820,
   "standings": [
     {
       "rank": 1,
       "id": 1,
       "name": "fc Vlp",
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "pour": 0,
+      "pour": 11,
       "contre": 0,
-      "played": 0,
-      "ga": 0
+      "played": 1,
+      "ga": 11
     },
     {
       "rank": 2,
@@ -303,18 +303,6 @@
     },
     {
       "rank": 25,
-      "id": 25,
-      "name": "Roropit",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 26,
       "id": 26,
       "name": "2F",
       "wins": 0,
@@ -326,7 +314,7 @@
       "ga": 0
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 27,
       "name": "Pas d'inspi",
       "wins": 0,
@@ -338,7 +326,7 @@
       "ga": 0
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 28,
       "name": "P’titsBU",
       "wins": 0,
@@ -350,7 +338,7 @@
       "ga": 0
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 29,
       "name": "Les anonymes",
       "wins": 0,
@@ -362,7 +350,7 @@
       "ga": 0
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 30,
       "name": "La grosse bite de JOJO",
       "wins": 0,
@@ -374,7 +362,7 @@
       "ga": 0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 31,
       "name": "Les p'tiots",
       "wins": 0,
@@ -386,7 +374,7 @@
       "ga": 0
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 32,
       "name": "73 M",
       "wins": 0,
@@ -398,7 +386,7 @@
       "ga": 0
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 33,
       "name": "Les sombres merdes",
       "wins": 0,
@@ -410,7 +398,7 @@
       "ga": 0
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": 34,
       "name": "Jean Bat Family",
       "wins": 0,
@@ -422,7 +410,7 @@
       "ga": 0
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": 35,
       "name": "Les Sorinièrois",
       "wins": 0,
@@ -434,7 +422,7 @@
       "ga": 0
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": 36,
       "name": "Association Domi",
       "wins": 0,
@@ -446,7 +434,7 @@
       "ga": 0
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": 37,
       "name": "Les Antho",
       "wins": 0,
@@ -458,7 +446,7 @@
       "ga": 0
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": 38,
       "name": "Les Métissés",
       "wins": 0,
@@ -470,7 +458,7 @@
       "ga": 0
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": 39,
       "name": "Team Laiton",
       "wins": 0,
@@ -482,7 +470,7 @@
       "ga": 0
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": 40,
       "name": "Les Winners",
       "wins": 0,
@@ -494,7 +482,7 @@
       "ga": 0
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": 41,
       "name": "Les Loosers",
       "wins": 0,
@@ -506,7 +494,7 @@
       "ga": 0
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": 42,
       "name": "Jeanne d’arc Villemoisan",
       "wins": 0,
@@ -518,7 +506,7 @@
       "ga": 0
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": 43,
       "name": "Juju et camtar",
       "wins": 0,
@@ -530,7 +518,7 @@
       "ga": 0
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": 44,
       "name": "La clés de 10",
       "wins": 0,
@@ -542,7 +530,7 @@
       "ga": 0
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": 45,
       "name": "Pistolet à Ô",
       "wins": 0,
@@ -554,7 +542,7 @@
       "ga": 0
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": 46,
       "name": "Les Dauphinois",
       "wins": 0,
@@ -566,7 +554,7 @@
       "ga": 0
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": 47,
       "name": "Les Fouillons",
       "wins": 0,
@@ -578,7 +566,7 @@
       "ga": 0
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": 48,
       "name": "MMA 0 tracas 0 blabla",
       "wins": 0,
@@ -590,7 +578,7 @@
       "ga": 0
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": 49,
       "name": "Tif et Mario",
       "wins": 0,
@@ -602,7 +590,7 @@
       "ga": 0
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": 50,
       "name": "Les pongistes",
       "wins": 0,
@@ -614,7 +602,7 @@
       "ga": 0
     },
     {
-      "rank": 51,
+      "rank": 50,
       "id": 51,
       "name": "Duo du plomb",
       "wins": 0,
@@ -626,7 +614,7 @@
       "ga": 0
     },
     {
-      "rank": 52,
+      "rank": 51,
       "id": 52,
       "name": "MECABATI",
       "wins": 0,
@@ -638,7 +626,7 @@
       "ga": 0
     },
     {
-      "rank": 53,
+      "rank": 52,
       "id": 53,
       "name": "Les double A",
       "wins": 0,
@@ -650,7 +638,7 @@
       "ga": 0
     },
     {
-      "rank": 54,
+      "rank": 53,
       "id": 54,
       "name": "On est inscrit c'est déjà bien",
       "wins": 0,
@@ -662,7 +650,7 @@
       "ga": 0
     },
     {
-      "rank": 55,
+      "rank": 54,
       "id": 55,
       "name": "Le comptoir",
       "wins": 0,
@@ -674,7 +662,7 @@
       "ga": 0
     },
     {
-      "rank": 56,
+      "rank": 55,
       "id": 56,
       "name": "Les fantomettes du sud",
       "wins": 0,
@@ -686,7 +674,7 @@
       "ga": 0
     },
     {
-      "rank": 57,
+      "rank": 56,
       "id": 57,
       "name": "Fc Patrick Fouchard",
       "wins": 0,
@@ -698,7 +686,7 @@
       "ga": 0
     },
     {
-      "rank": 58,
+      "rank": 57,
       "id": 58,
       "name": "LPH",
       "wins": 0,
@@ -710,7 +698,7 @@
       "ga": 0
     },
     {
-      "rank": 59,
+      "rank": 58,
       "id": 59,
       "name": "Les zizigoto’s",
       "wins": 0,
@@ -722,7 +710,7 @@
       "ga": 0
     },
     {
-      "rank": 60,
+      "rank": 59,
       "id": 60,
       "name": "Pas laid",
       "wins": 0,
@@ -734,7 +722,7 @@
       "ga": 0
     },
     {
-      "rank": 61,
+      "rank": 60,
       "id": 61,
       "name": "Les frangins",
       "wins": 0,
@@ -746,7 +734,7 @@
       "ga": 0
     },
     {
-      "rank": 62,
+      "rank": 61,
       "id": 62,
       "name": "Les plombés du SPA",
       "wins": 0,
@@ -758,7 +746,7 @@
       "ga": 0
     },
     {
-      "rank": 63,
+      "rank": 62,
       "id": 63,
       "name": "Les merdes",
       "wins": 0,
@@ -770,7 +758,7 @@
       "ga": 0
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 64,
       "name": "Les voisins",
       "wins": 0,
@@ -782,7 +770,7 @@
       "ga": 0
     },
     {
-      "rank": 65,
+      "rank": 64,
       "id": 65,
       "name": "Classe 74",
       "wins": 0,
@@ -794,7 +782,7 @@
       "ga": 0
     },
     {
-      "rank": 66,
+      "rank": 65,
       "id": 66,
       "name": "Tamtam",
       "wins": 0,
@@ -806,7 +794,7 @@
       "ga": 0
     },
     {
-      "rank": 67,
+      "rank": 66,
       "id": 67,
       "name": "Les salariés de USV",
       "wins": 0,
@@ -818,7 +806,7 @@
       "ga": 0
     },
     {
-      "rank": 68,
+      "rank": 67,
       "id": 68,
       "name": "Palet Laiton Coufféen",
       "wins": 0,
@@ -830,7 +818,7 @@
       "ga": 0
     },
     {
-      "rank": 69,
+      "rank": 68,
       "id": 69,
       "name": "Les bronzés font du ski",
       "wins": 0,
@@ -842,7 +830,7 @@
       "ga": 0
     },
     {
-      "rank": 70,
+      "rank": 69,
       "id": 70,
       "name": "Delta",
       "wins": 0,
@@ -854,7 +842,7 @@
       "ga": 0
     },
     {
-      "rank": 71,
+      "rank": 70,
       "id": 71,
       "name": "Les assoiffés",
       "wins": 0,
@@ -866,7 +854,7 @@
       "ga": 0
     },
     {
-      "rank": 72,
+      "rank": 71,
       "id": 72,
       "name": "Le réveil du carré",
       "wins": 0,
@@ -878,7 +866,7 @@
       "ga": 0
     },
     {
-      "rank": 73,
+      "rank": 72,
       "id": 73,
       "name": "Lamineur",
       "wins": 0,
@@ -890,7 +878,7 @@
       "ga": 0
     },
     {
-      "rank": 74,
+      "rank": 73,
       "id": 74,
       "name": "SPA Magique",
       "wins": 0,
@@ -902,7 +890,7 @@
       "ga": 0
     },
     {
-      "rank": 75,
+      "rank": 74,
       "id": 75,
       "name": "Pile ou face",
       "wins": 0,
@@ -914,7 +902,7 @@
       "ga": 0
     },
     {
-      "rank": 76,
+      "rank": 75,
       "id": 76,
       "name": "Les copains",
       "wins": 0,
@@ -926,7 +914,7 @@
       "ga": 0
     },
     {
-      "rank": 77,
+      "rank": 76,
       "id": 77,
       "name": "Les Bouesiens",
       "wins": 0,
@@ -938,7 +926,7 @@
       "ga": 0
     },
     {
-      "rank": 78,
+      "rank": 77,
       "id": 78,
       "name": "Les beaux frères",
       "wins": 0,
@@ -950,7 +938,7 @@
       "ga": 0
     },
     {
-      "rank": 79,
+      "rank": 78,
       "id": 79,
       "name": "SPA ma faute",
       "wins": 0,
@@ -962,7 +950,7 @@
       "ga": 0
     },
     {
-      "rank": 80,
+      "rank": 79,
       "id": 80,
       "name": "Les SPA Tator",
       "wins": 0,
@@ -974,7 +962,7 @@
       "ga": 0
     },
     {
-      "rank": 81,
+      "rank": 80,
       "id": 81,
       "name": "SPA Sorcier",
       "wins": 0,
@@ -986,7 +974,7 @@
       "ga": 0
     },
     {
-      "rank": 82,
+      "rank": 81,
       "id": 82,
       "name": "Ligérien",
       "wins": 0,
@@ -998,7 +986,7 @@
       "ga": 0
     },
     {
-      "rank": 83,
+      "rank": 82,
       "id": 83,
       "name": "SPA passé loin",
       "wins": 0,
@@ -1010,7 +998,7 @@
       "ga": 0
     },
     {
-      "rank": 84,
+      "rank": 83,
       "id": 84,
       "name": "Eeeeeeeeee",
       "wins": 0,
@@ -1022,7 +1010,7 @@
       "ga": 0
     },
     {
-      "rank": 85,
+      "rank": 84,
       "id": 85,
       "name": "Les gâtés Nantais",
       "wins": 0,
@@ -1034,7 +1022,7 @@
       "ga": 0
     },
     {
-      "rank": 86,
+      "rank": 85,
       "id": 86,
       "name": "N’importe jmen fou",
       "wins": 0,
@@ -1046,7 +1034,7 @@
       "ga": 0
     },
     {
-      "rank": 87,
+      "rank": 86,
       "id": 87,
       "name": "PABIENS",
       "wins": 0,
@@ -1058,7 +1046,7 @@
       "ga": 0
     },
     {
-      "rank": 88,
+      "rank": 87,
       "id": 88,
       "name": "Les patatosses",
       "wins": 0,
@@ -1070,7 +1058,7 @@
       "ga": 0
     },
     {
-      "rank": 89,
+      "rank": 88,
       "id": 89,
       "name": "Les pyramides maudites",
       "wins": 0,
@@ -1082,7 +1070,7 @@
       "ga": 0
     },
     {
-      "rank": 90,
+      "rank": 89,
       "id": 90,
       "name": "Les crottins",
       "wins": 0,
@@ -1094,7 +1082,7 @@
       "ga": 0
     },
     {
-      "rank": 91,
+      "rank": 90,
       "id": 91,
       "name": "tout pour le show",
       "wins": 0,
@@ -1106,7 +1094,7 @@
       "ga": 0
     },
     {
-      "rank": 92,
+      "rank": 91,
       "id": 92,
       "name": "Les Diplomatico",
       "wins": 0,
@@ -1118,7 +1106,7 @@
       "ga": 0
     },
     {
-      "rank": 93,
+      "rank": 92,
       "id": 93,
       "name": "Les chrichri",
       "wins": 0,
@@ -1130,7 +1118,7 @@
       "ga": 0
     },
     {
-      "rank": 94,
+      "rank": 93,
       "id": 94,
       "name": "Pascal Obistro",
       "wins": 0,
@@ -1142,7 +1130,7 @@
       "ga": 0
     },
     {
-      "rank": 95,
+      "rank": 94,
       "id": 95,
       "name": "Le Clos Martin",
       "wins": 0,
@@ -1154,7 +1142,7 @@
       "ga": 0
     },
     {
-      "rank": 96,
+      "rank": 95,
       "id": 96,
       "name": "PatBrunne",
       "wins": 0,
@@ -1166,7 +1154,7 @@
       "ga": 0
     },
     {
-      "rank": 97,
+      "rank": 96,
       "id": 97,
       "name": "Antoine et Yaya",
       "wins": 0,
@@ -1178,7 +1166,7 @@
       "ga": 0
     },
     {
-      "rank": 98,
+      "rank": 97,
       "id": 98,
       "name": "Razmo et Rapido",
       "wins": 0,
@@ -1190,7 +1178,7 @@
       "ga": 0
     },
     {
-      "rank": 99,
+      "rank": 98,
       "id": 99,
       "name": "furafique farke",
       "wins": 0,
@@ -1202,7 +1190,7 @@
       "ga": 0
     },
     {
-      "rank": 100,
+      "rank": 99,
       "id": 100,
       "name": "Paté en Croûte",
       "wins": 0,
@@ -1212,6 +1200,18 @@
       "contre": 0,
       "played": 0,
       "ga": 0
+    },
+    {
+      "rank": 100,
+      "id": 25,
+      "name": "Roropit",
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "pour": 0,
+      "contre": 11,
+      "played": 1,
+      "ga": -11
     }
   ],
   "currentMatches": [
@@ -1221,8 +1221,8 @@
       "planche": 1,
       "t1": "fc Vlp",
       "t2": "Roropit",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "0"
     },
     {
       "round": 1,
@@ -1674,8 +1674,8 @@
       "planche": 1,
       "t1": "fc Vlp",
       "t2": "Roropit",
-      "score1": "",
-      "score2": ""
+      "score1": "11",
+      "score2": "0"
     },
     {
       "round": 1,
@@ -2118,512 +2118,5 @@
       "score1": "",
       "score2": ""
     }
-  ],
-  "notifications": {
-    "type": "prochain",
-    "timestamp": 1777531158396,
-    "round": 1,
-    "messages": [
-      {
-        "teamId": 1,
-        "teamName": "fc Vlp",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 1 contre Roropit. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 25,
-        "teamName": "Roropit",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 1 contre fc Vlp. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 2,
-        "teamName": "C’l’aventure",
-        "text": "🎯 Premier match en approche ! Planche 2 vs Bouses premium. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 20,
-        "teamName": "Bouses premium",
-        "text": "🎯 Premier match en approche ! Planche 2 vs C’l’aventure. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 3,
-        "teamName": "Les caouins",
-        "text": "☕ Première partie, planche 3 vs Bas les pattes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 4,
-        "teamName": "Bas les pattes",
-        "text": "🥊 Round 1 ! Dans le coin droit : Bas les pattes. Dans le coin gauche : Les caouins. Direction la planche 3. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 5,
-        "teamName": "Les Cuss",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 4 vs Café crème. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 17,
-        "teamName": "Café crème",
-        "text": "🎯 Premier match en approche ! Planche 4 vs Les Cuss. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 6,
-        "teamName": "Fc Cochonnerie",
-        "text": "⚽ Coup d'envoi imminent ! Planche 5 vs merguez united. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 7,
-        "teamName": "merguez united",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 5 contre Fc Cochonnerie. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 8,
-        "teamName": "Roméo et Juliette",
-        "text": "🎯 Premier match en approche ! Planche 6 vs P’titsBU. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 28,
-        "teamName": "P’titsBU",
-        "text": "🥊 Round 1 ! Dans le coin droit : P’titsBU. Dans le coin gauche : Roméo et Juliette. Direction la planche 6. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 26,
-        "teamName": "2F",
-        "text": "🎯 Premier match en approche ! Planche 7 vs Les zoukettes. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 18,
-        "teamName": "Les zoukettes",
-        "text": "☕ Première partie, planche 7 vs 2F. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Pas d'inspi",
-        "text": "☕ Première partie, planche 8 vs LesZartistes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 9,
-        "teamName": "LesZartistes",
-        "text": "☕ Première partie, planche 8 vs Pas d'inspi. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 31,
-        "teamName": "Les p'tiots",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les p'tiots. Dans le coin gauche : Wazé. Direction la planche 9. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 15,
-        "teamName": "Wazé",
-        "text": "⚽ Coup d'envoi imminent ! Planche 9 vs Les p'tiots. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 10,
-        "teamName": "Demain brillant",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 10 contre Chicots. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 22,
-        "teamName": "Chicots",
-        "text": "🥊 Round 1 ! Dans le coin droit : Chicots. Dans le coin gauche : Demain brillant. Direction la planche 10. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Jérôme et Mickaël",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 11 vs Les Festi’papeche. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 21,
-        "teamName": "Les Festi’papeche",
-        "text": "☕ Première partie, planche 11 vs Jérôme et Mickaël. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 14,
-        "teamName": "Geant double prince",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 12 vs Les dégarnis. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 13,
-        "teamName": "Les dégarnis",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les dégarnis. Dans le coin gauche : Geant double prince. Direction la planche 12. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 11,
-        "teamName": "La force tranquille",
-        "text": "🎯 Premier match en approche ! Planche 13 vs Thomas et Ethan. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Thomas et Ethan",
-        "text": "⚽ Coup d'envoi imminent ! Planche 13 vs La force tranquille. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 32,
-        "teamName": "73 M",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 14 vs As saint qui tienne. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 16,
-        "teamName": "As saint qui tienne",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 14 contre 73 M. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 12,
-        "teamName": "RCG",
-        "text": "☕ Première partie, planche 15 vs Les kéké. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 19,
-        "teamName": "Les kéké",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les kéké. Dans le coin gauche : RCG. Direction la planche 15. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 29,
-        "teamName": "Les anonymes",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 16 vs La grosse bite de JOJO. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 30,
-        "teamName": "La grosse bite de JOJO",
-        "text": "☕ Première partie, planche 16 vs Les anonymes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 34,
-        "teamName": "Jean Bat Family",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 17 contre Les sombres merdes. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 33,
-        "teamName": "Les sombres merdes",
-        "text": "⚽ Coup d'envoi imminent ! Planche 17 vs Jean Bat Family. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 36,
-        "teamName": "Association Domi",
-        "text": "☕ Première partie, planche 18 vs Les Sorinièrois. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 35,
-        "teamName": "Les Sorinièrois",
-        "text": "🎯 Premier match en approche ! Planche 18 vs Association Domi. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 38,
-        "teamName": "Les Métissés",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 19 vs Team Laiton. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 39,
-        "teamName": "Team Laiton",
-        "text": "⚽ Coup d'envoi imminent ! Planche 19 vs Les Métissés. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 37,
-        "teamName": "Les Antho",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les Antho. Dans le coin gauche : Les Winners. Direction la planche 20. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 40,
-        "teamName": "Les Winners",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les Winners. Dans le coin gauche : Les Antho. Direction la planche 20. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 47,
-        "teamName": "Les Fouillons",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 21 vs Les Dauphinois. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 46,
-        "teamName": "Les Dauphinois",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les Dauphinois. Dans le coin gauche : Les Fouillons. Direction la planche 21. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 42,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "⚽ Coup d'envoi imminent ! Planche 22 vs Pistolet à Ô. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 45,
-        "teamName": "Pistolet à Ô",
-        "text": "☕ Première partie, planche 22 vs Jeanne d’arc Villemoisan. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 48,
-        "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 23 contre Les Loosers. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 41,
-        "teamName": "Les Loosers",
-        "text": "⚽ Coup d'envoi imminent ! Planche 23 vs MMA 0 tracas 0 blabla. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 43,
-        "teamName": "Juju et camtar",
-        "text": "🎯 Premier match en approche ! Planche 24 vs La clés de 10. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 44,
-        "teamName": "La clés de 10",
-        "text": "☕ Première partie, planche 24 vs Juju et camtar. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 53,
-        "teamName": "Les double A",
-        "text": "☕ Première partie, planche 25 vs Le comptoir. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 55,
-        "teamName": "Le comptoir",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 25 vs Les double A. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Duo du plomb",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 26 contre Tif et Mario. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Tif et Mario",
-        "text": "🎯 Premier match en approche ! Planche 26 vs Duo du plomb. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 54,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "🥊 Round 1 ! Dans le coin droit : On est inscrit c'est déjà bien. Dans le coin gauche : Les fantomettes du sud. Direction la planche 27. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 56,
-        "teamName": "Les fantomettes du sud",
-        "text": "⚽ Coup d'envoi imminent ! Planche 27 vs On est inscrit c'est déjà bien. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 50,
-        "teamName": "Les pongistes",
-        "text": "⚽ Coup d'envoi imminent ! Planche 28 vs MECABATI. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 52,
-        "teamName": "MECABATI",
-        "text": "🎯 Premier match en approche ! Planche 28 vs Les pongistes. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 57,
-        "teamName": "Fc Patrick Fouchard",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 29 contre Pas laid. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 60,
-        "teamName": "Pas laid",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 29 contre Fc Patrick Fouchard. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 58,
-        "teamName": "LPH",
-        "text": "🎯 Premier match en approche ! Planche 30 vs Les zizigoto’s. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les zizigoto’s",
-        "text": "☕ Première partie, planche 30 vs LPH. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 61,
-        "teamName": "Les frangins",
-        "text": "🎯 Premier match en approche ! Planche 31 vs Les voisins. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 64,
-        "teamName": "Les voisins",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 31 vs Les frangins. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 63,
-        "teamName": "Les merdes",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les merdes. Dans le coin gauche : Les plombés du SPA. Direction la planche 32. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 62,
-        "teamName": "Les plombés du SPA",
-        "text": "☕ Première partie, planche 32 vs Les merdes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 71,
-        "teamName": "Les assoiffés",
-        "text": "☕ Première partie, planche 33 vs Les salariés de USV. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les salariés de USV",
-        "text": "🎯 Premier match en approche ! Planche 33 vs Les assoiffés. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 70,
-        "teamName": "Delta",
-        "text": "🎯 Premier match en approche ! Planche 34 vs Tamtam. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 66,
-        "teamName": "Tamtam",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 34 contre Delta. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 65,
-        "teamName": "Classe 74",
-        "text": "⚽ Coup d'envoi imminent ! Planche 35 vs Palet Laiton Coufféen. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 68,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "☕ Première partie, planche 35 vs Classe 74. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 69,
-        "teamName": "Les bronzés font du ski",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les bronzés font du ski. Dans le coin gauche : Le réveil du carré. Direction la planche 36. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 72,
-        "teamName": "Le réveil du carré",
-        "text": "🥊 Round 1 ! Dans le coin droit : Le réveil du carré. Dans le coin gauche : Les bronzés font du ski. Direction la planche 36. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 74,
-        "teamName": "SPA Magique",
-        "text": "⚽ Coup d'envoi imminent ! Planche 37 vs Lamineur. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 73,
-        "teamName": "Lamineur",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 37 vs SPA Magique. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 75,
-        "teamName": "Pile ou face",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 38 contre Les copains. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 76,
-        "teamName": "Les copains",
-        "text": "🎯 Premier match en approche ! Planche 38 vs Pile ou face. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 78,
-        "teamName": "Les beaux frères",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les beaux frères. Dans le coin gauche : Les Bouesiens. Direction la planche 39. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 77,
-        "teamName": "Les Bouesiens",
-        "text": "☕ Première partie, planche 39 vs Les beaux frères. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 79,
-        "teamName": "SPA ma faute",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 40 vs Les SPA Tator. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 80,
-        "teamName": "Les SPA Tator",
-        "text": "☕ Première partie, planche 40 vs SPA ma faute. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 83,
-        "teamName": "SPA passé loin",
-        "text": "⚽ Coup d'envoi imminent ! Planche 41 vs Eeeeeeeeee. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 84,
-        "teamName": "Eeeeeeeeee",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 41 contre SPA passé loin. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 81,
-        "teamName": "SPA Sorcier",
-        "text": "🥊 Round 1 ! Dans le coin droit : SPA Sorcier. Dans le coin gauche : Ligérien. Direction la planche 42. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 82,
-        "teamName": "Ligérien",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 42 vs SPA Sorcier. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 87,
-        "teamName": "PABIENS",
-        "text": "🥊 Round 1 ! Dans le coin droit : PABIENS. Dans le coin gauche : Les gâtés Nantais. Direction la planche 43. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 85,
-        "teamName": "Les gâtés Nantais",
-        "text": "🎯 Premier match en approche ! Planche 43 vs PABIENS. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 86,
-        "teamName": "N’importe jmen fou",
-        "text": "☕ Première partie, planche 44 vs Les patatosses. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 88,
-        "teamName": "Les patatosses",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 44 vs N’importe jmen fou. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 91,
-        "teamName": "tout pour le show",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 45 vs Les pyramides maudites. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 89,
-        "teamName": "Les pyramides maudites",
-        "text": "⚽ Coup d'envoi imminent ! Planche 45 vs tout pour le show. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 90,
-        "teamName": "Les crottins",
-        "text": "🥊 Round 1 ! Dans le coin droit : Les crottins. Dans le coin gauche : Les Diplomatico. Direction la planche 46. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 92,
-        "teamName": "Les Diplomatico",
-        "text": "⚽ Coup d'envoi imminent ! Planche 46 vs Les crottins. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 93,
-        "teamName": "Les chrichri",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 47 contre Pascal Obistro. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 94,
-        "teamName": "Pascal Obistro",
-        "text": "🎯 Premier match en approche ! Planche 47 vs Les chrichri. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      },
-      {
-        "teamId": 95,
-        "teamName": "Le Clos Martin",
-        "text": "☕ Première partie, planche 48 vs PatBrunne. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
-      },
-      {
-        "teamId": 96,
-        "teamName": "PatBrunne",
-        "text": "🥊 Round 1 ! Dans le coin droit : PatBrunne. Dans le coin gauche : Le Clos Martin. Direction la planche 48. Que le meilleur gagne 🔔"
-      },
-      {
-        "teamId": 99,
-        "teamName": "furafique farke",
-        "text": "🥏 C'est LE grand moment ! Première manche, planche 49 contre Antoine et Yaya. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
-      },
-      {
-        "teamId": 97,
-        "teamName": "Antoine et Yaya",
-        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 49 vs furafique farke. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
-      },
-      {
-        "teamId": 98,
-        "teamName": "Razmo et Rapido",
-        "text": "⚽ Coup d'envoi imminent ! Planche 50 vs Paté en Croûte. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
-      },
-      {
-        "teamId": 100,
-        "teamName": "Paté en Croûte",
-        "text": "🎯 Premier match en approche ! Planche 50 vs Razmo et Rapido. Pas de pression hein… juste tout le tournoi qui commence 💪"
-      }
-    ]
-  }
+  ]
 }
