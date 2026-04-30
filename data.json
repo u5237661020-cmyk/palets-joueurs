@@ -10,8 +10,8 @@
   "headerRoundValue": "3/6",
   "finalProgress": null,
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T19:48:54.796Z",
-  "version": 1777578534796,
+  "updatedAt": "2026-04-30T19:48:57.064Z",
+  "version": 1777578537064,
   "standings": [
     {
       "rank": 1,
@@ -1214,9 +1214,910 @@
       "ga": -22
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 1,
+      "t1": "Les bronzés font du ski",
+      "t2": "Les anonymes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 2,
+      "t1": "Les Bouesiens",
+      "t2": "Antoine et Yaya",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 3,
+      "t1": "furafique farke",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 4,
+      "t1": "SPA passé loin",
+      "t2": "Les pongistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 5,
+      "t1": "Les Doubles A",
+      "t2": "Tom et Melvine",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 6,
+      "t1": "N’importe jmen fou",
+      "t2": "LesZartistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 7,
+      "t1": "Les kéké",
+      "t2": "Les plombés du SPA",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 8,
+      "t1": "Lamineur",
+      "t2": "LPH",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 9,
+      "t1": "Les Festi’papeche",
+      "t2": "Roropit",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 10,
+      "t1": "Les Fouillons",
+      "t2": "Team Laiton",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 11,
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 12,
+      "t1": "RCG",
+      "t2": "Le réveil du carré",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 13,
+      "t1": "Les assoiffés",
+      "t2": "Les caouins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 14,
+      "t1": "Les beaux frères",
+      "t2": "Les petites bites",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 15,
+      "t1": "SPA ma faute",
+      "t2": "Roméo et Juliette",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 16,
+      "t1": "Les zizigoto’s",
+      "t2": "Les Loosers",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 17,
+      "t1": "Duo du plomb",
+      "t2": "Les copains",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 18,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 19,
+      "t1": "Les SPA Tator",
+      "t2": "Eeeeeeeeee",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 20,
+      "t1": "Les double A",
+      "t2": "Les patatosses",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 21,
+      "t1": "PABIENS",
+      "t2": "Ligérien",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 22,
+      "t1": "Fc Cochonnerie",
+      "t2": "Pas d'inspi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 23,
+      "t1": "Les voisins",
+      "t2": "Razmo et Rapido",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 24,
+      "t1": "Le Clos Martin",
+      "t2": "Les Sorinièrois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 25,
+      "t1": "Wazé",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 26,
+      "t1": "Les Dauphinois",
+      "t2": "Delta",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 27,
+      "t1": "Jean Bat Family",
+      "t2": "Chicots",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 28,
+      "t1": "Les salariés de USV",
+      "t2": "SPA Magique",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 29,
+      "t1": "Pile ou face",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 30,
+      "t1": "Demain brillant",
+      "t2": "Paté en Croûte",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 31,
+      "t1": "Les dégarnis",
+      "t2": "Jérôme et Mickaël",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 32,
+      "t1": "73 M",
+      "t2": "Tif et Mario",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 33,
+      "t1": "PatBrunne",
+      "t2": "Fc Palets Fouchard",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 34,
+      "t1": "Les crottins",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 35,
+      "t1": "2F",
+      "t2": "Geant double prince",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 36,
+      "t1": "Les Winners",
+      "t2": "La force tranquille",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 37,
+      "t1": "tout pour le show",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 38,
+      "t1": "Les merdes",
+      "t2": "Les frangins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 39,
+      "t1": "MMA 0 tracas 0 blabla",
+      "t2": "merguez united",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 40,
+      "t1": "Bouses premium",
+      "t2": "fc Vlp",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 41,
+      "t1": "Juju et camtar",
+      "t2": "Les Cuss",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 42,
+      "t1": "As saint qui tienne",
+      "t2": "Les chrichri",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 43,
+      "t1": "Les p'tiots",
+      "t2": "MECABATI",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 44,
+      "t1": "P’titsBU",
+      "t2": "Classe 74",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 45,
+      "t1": "Tamtam",
+      "t2": "SPA Sorcier",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 46,
+      "t1": "Bas les pattes",
+      "t2": "Les pyramides maudites",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 47,
+      "t1": "Pascal Obistro",
+      "t2": "Association Domi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 48,
+      "t1": "Le comptoir",
+      "t2": "C’l’aventure",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 49,
+      "t1": "Les Métissés",
+      "t2": "La clés de 10",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 50,
+      "t1": "Thomas et Ethan",
+      "t2": "Les fantomettes du sud",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 1,
+      "t1": "Les bronzés font du ski",
+      "t2": "Les anonymes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 2,
+      "t1": "Les Bouesiens",
+      "t2": "Antoine et Yaya",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 3,
+      "t1": "furafique farke",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 4,
+      "t1": "SPA passé loin",
+      "t2": "Les pongistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 5,
+      "t1": "Les Doubles A",
+      "t2": "Tom et Melvine",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 6,
+      "t1": "N’importe jmen fou",
+      "t2": "LesZartistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 7,
+      "t1": "Les kéké",
+      "t2": "Les plombés du SPA",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 8,
+      "t1": "Lamineur",
+      "t2": "LPH",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 9,
+      "t1": "Les Festi’papeche",
+      "t2": "Roropit",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 10,
+      "t1": "Les Fouillons",
+      "t2": "Team Laiton",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 11,
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 12,
+      "t1": "RCG",
+      "t2": "Le réveil du carré",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 13,
+      "t1": "Les assoiffés",
+      "t2": "Les caouins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 14,
+      "t1": "Les beaux frères",
+      "t2": "Les petites bites",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 15,
+      "t1": "SPA ma faute",
+      "t2": "Roméo et Juliette",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 16,
+      "t1": "Les zizigoto’s",
+      "t2": "Les Loosers",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 17,
+      "t1": "Duo du plomb",
+      "t2": "Les copains",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 18,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 19,
+      "t1": "Les SPA Tator",
+      "t2": "Eeeeeeeeee",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 20,
+      "t1": "Les double A",
+      "t2": "Les patatosses",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 21,
+      "t1": "PABIENS",
+      "t2": "Ligérien",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 22,
+      "t1": "Fc Cochonnerie",
+      "t2": "Pas d'inspi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 23,
+      "t1": "Les voisins",
+      "t2": "Razmo et Rapido",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 24,
+      "t1": "Le Clos Martin",
+      "t2": "Les Sorinièrois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 25,
+      "t1": "Wazé",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 26,
+      "t1": "Les Dauphinois",
+      "t2": "Delta",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 27,
+      "t1": "Jean Bat Family",
+      "t2": "Chicots",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 28,
+      "t1": "Les salariés de USV",
+      "t2": "SPA Magique",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 29,
+      "t1": "Pile ou face",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 30,
+      "t1": "Demain brillant",
+      "t2": "Paté en Croûte",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 31,
+      "t1": "Les dégarnis",
+      "t2": "Jérôme et Mickaël",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 32,
+      "t1": "73 M",
+      "t2": "Tif et Mario",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 33,
+      "t1": "PatBrunne",
+      "t2": "Fc Palets Fouchard",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 34,
+      "t1": "Les crottins",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 35,
+      "t1": "2F",
+      "t2": "Geant double prince",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 36,
+      "t1": "Les Winners",
+      "t2": "La force tranquille",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 37,
+      "t1": "tout pour le show",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 38,
+      "t1": "Les merdes",
+      "t2": "Les frangins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 39,
+      "t1": "MMA 0 tracas 0 blabla",
+      "t2": "merguez united",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 40,
+      "t1": "Bouses premium",
+      "t2": "fc Vlp",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 41,
+      "t1": "Juju et camtar",
+      "t2": "Les Cuss",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 42,
+      "t1": "As saint qui tienne",
+      "t2": "Les chrichri",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 43,
+      "t1": "Les p'tiots",
+      "t2": "MECABATI",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 44,
+      "t1": "P’titsBU",
+      "t2": "Classe 74",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 45,
+      "t1": "Tamtam",
+      "t2": "SPA Sorcier",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 46,
+      "t1": "Bas les pattes",
+      "t2": "Les pyramides maudites",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 47,
+      "t1": "Pascal Obistro",
+      "t2": "Association Domi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 48,
+      "t1": "Le comptoir",
+      "t2": "C’l’aventure",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 49,
+      "t1": "Les Métissés",
+      "t2": "La clés de 10",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 50,
+      "t1": "Thomas et Ethan",
+      "t2": "Les fantomettes du sud",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 2,
       "roundLabel": "Partie 2",
@@ -2119,509 +3020,509 @@
     }
   ],
   "notifications": {
-    "type": "classement",
-    "timestamp": 1777578534796,
-    "round": 2,
+    "type": "prochain",
+    "timestamp": 1777578537063,
+    "round": 3,
     "messages": [
       {
-        "teamId": 1,
-        "teamName": "fc Vlp",
-        "text": "🥲 Manche pas fofolle, 80e avec 11 points. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 2,
-        "teamName": "C’l’aventure",
-        "text": "😅 C'était un échauffement disons. 96e avec 3 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
-      },
-      {
-        "teamId": 3,
-        "teamName": "Les caouins",
-        "text": "🌱 Ça pousse ! 26e avec 21 points. Une victoire après l'autre, on construit 🥏"
-      },
-      {
-        "teamId": 4,
-        "teamName": "Bas les pattes",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 91e avec 7 points 📚"
-      },
-      {
-        "teamId": 5,
-        "teamName": "Les Cuss",
-        "text": "🥲 Manche pas fofolle, 82e avec 10 points. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 6,
-        "teamName": "Fc Cochonnerie",
-        "text": "🥅 On a pris un palet dans la lucarne. 43e avec 17 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 7,
-        "teamName": "merguez united",
-        "text": "😅 C'était un échauffement disons. 78e avec 13 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
-      },
-      {
-        "teamId": 8,
-        "teamName": "Roméo et Juliette",
-        "text": "⚽ Défaite à domicile, ça pique. 30e avec 18 points. Mais la saison est longue, on relève la tête ! 💪"
-      },
-      {
-        "teamId": 9,
-        "teamName": "LesZartistes",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 12e avec 22 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 10,
-        "teamName": "Demain brillant",
-        "text": "🥅 On a pris un palet dans la lucarne. 59e avec 12 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 11,
-        "teamName": "La force tranquille",
-        "text": "🔥 Bien joué ! 72e avec 11 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
-      },
-      {
-        "teamId": 12,
-        "teamName": "RCG",
-        "text": "🎢 Quel match ! 23e avec 22 points. Crise cardiaque collective évitée de peu ❤️"
-      },
-      {
-        "teamId": 13,
-        "teamName": "Les dégarnis",
-        "text": "🚂 Le train de la remontée est en marche ! 61e avec 15 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 14,
-        "teamName": "Geant double prince",
-        "text": "🎟️ Maintien assuré, et même mieux ! 70e avec 12 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 15,
-        "teamName": "Wazé",
-        "text": "😰 Ouf, ça s'est joué à un palet près ! 49e avec 21 points. Le suspense version palet 💆"
-      },
-      {
-        "teamId": 16,
-        "teamName": "As saint qui tienne",
-        "text": "🤷 Ça arrive aux meilleurs. 83e avec 10 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 17,
-        "teamName": "Café crème",
-        "text": "⚽ Défaite à domicile, ça pique. 68e avec 12 points. Mais la saison est longue, on relève la tête ! 💪"
-      },
-      {
-        "teamId": 18,
-        "teamName": "Les zoukettes",
-        "text": "🚂 Le train de la remontée est en marche ! 36e avec 17 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 19,
-        "teamName": "Les kéké",
-        "text": "🚂 Le train de la remontée est en marche ! 13e avec 22 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 20,
-        "teamName": "Bouses premium",
-        "text": "💔 Pas de bol cette fois. 79e avec 12 points. On boit un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 21,
-        "teamName": "Les Festi’papeche",
-        "text": "🎟️ Maintien assuré, et même mieux ! 17e avec 22 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 22,
-        "teamName": "Chicots",
-        "text": "🔥 Bien joué ! 54e avec 11 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Jérôme et Mickaël",
-        "text": "🎟️ Maintien assuré, et même mieux ! 62e avec 15 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Thomas et Ethan",
-        "text": "⚽ Ce score… on dirait un PSG-Le Havre version palet. 99e avec 0 points. Allez, on se remobilise ! 🥲"
-      },
-      {
-        "teamId": 25,
-        "teamName": "Roropit",
-        "text": "🎟️ Maintien assuré, et même mieux ! 18e avec 22 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 26,
-        "teamName": "2F",
-        "text": "⚽ Ce score… on dirait un PSG-Le Havre version palet. 69e avec 11 points. Allez, on se remobilise ! 🥲"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Pas d'inspi",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 44e avec 17 points 📚"
-      },
-      {
-        "teamId": 28,
-        "teamName": "P’titsBU",
-        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 87e avec 8 points. La prochaine on les a 💪"
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 1 vs Les anonymes dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
       },
       {
         "teamId": 29,
         "teamName": "Les anonymes",
-        "text": "👑 Vous régnez sur le tournoi ! 2e avec 22 points. Le maître n'a plus de secrets pour vous 😎"
-      },
-      {
-        "teamId": 30,
-        "teamName": "Les petites bites",
-        "text": "⚽ Défaite à domicile, ça pique. 28e avec 19 points. Mais la saison est longue, on relève la tête ! 💪"
-      },
-      {
-        "teamId": 31,
-        "teamName": "Les p'tiots",
-        "text": "🥲 Manche pas fofolle, 85e avec 9 points. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 32,
-        "teamName": "73 M",
-        "text": "💪 Une victoire dans la poche ! 63e avec 11 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 33,
-        "teamName": "Les sombres merdes",
-        "text": "🔥 Bien joué ! 6e avec 22 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
-      },
-      {
-        "teamId": 34,
-        "teamName": "Jean Bat Family",
-        "text": "🚂 Le train de la remontée est en marche ! 53e avec 14 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 35,
-        "teamName": "Les Sorinièrois",
-        "text": "🥅 On a pris un palet dans la lucarne. 48e avec 12 points. Le coach dit qu'on a \"manqué de réussite\". On va dire ça 😅"
-      },
-      {
-        "teamId": 36,
-        "teamName": "Association Domi",
-        "text": "🤷 Ça arrive aux meilleurs. 94e avec 6 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 37,
-        "teamName": "Les Doubles A",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 9e avec 22 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 38,
-        "teamName": "Les Métissés",
-        "text": "⚽ Défaite à domicile, ça pique. 97e avec 2 points. Mais la saison est longue, on relève la tête ! 💪"
-      },
-      {
-        "teamId": 39,
-        "teamName": "Team Laiton",
-        "text": "🎢 Quel match ! 20e avec 22 points. Crise cardiaque collective évitée de peu ❤️"
-      },
-      {
-        "teamId": 40,
-        "teamName": "Les Winners",
-        "text": "💪 Une victoire dans la poche ! 71e avec 12 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 41,
-        "teamName": "Les Loosers",
-        "text": "😅 C'était un échauffement disons. 32e avec 17 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
-      },
-      {
-        "teamId": 42,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🎢 Quel match ! 35e avec 20 points. Crise cardiaque collective évitée de peu ❤️"
-      },
-      {
-        "teamId": 43,
-        "teamName": "Juju et camtar",
-        "text": "🤷 Ça arrive aux meilleurs. 81e avec 11 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 44,
-        "teamName": "La clés de 10",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 98e avec 2 points 📚"
-      },
-      {
-        "teamId": 45,
-        "teamName": "Pistolet à Ô",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 58e avec 15 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 46,
-        "teamName": "Les Dauphinois",
-        "text": "⚽ Défaite à domicile, ça pique. 51e avec 19 points. Mais la saison est longue, on relève la tête ! 💪"
-      },
-      {
-        "teamId": 47,
-        "teamName": "Les Fouillons",
-        "text": "🚂 Le train de la remontée est en marche ! 19e avec 22 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 48,
-        "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🤷 Ça arrive aux meilleurs. 77e avec 14 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Tif et Mario",
-        "text": "🎟️ Maintien assuré, et même mieux ! 64e avec 11 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 50,
-        "teamName": "Les pongistes",
-        "text": "💪 Une victoire dans la poche ! 8e avec 22 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Duo du plomb",
-        "text": "🤷 Ça arrive aux meilleurs. 33e avec 16 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 52,
-        "teamName": "MECABATI",
-        "text": "🥲 Manche pas fofolle, 86e avec 9 points. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 53,
-        "teamName": "Les double A",
-        "text": "💪 Une victoire dans la poche ! 39e avec 20 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 54,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "🚂 Le train de la remontée est en marche ! 21e avec 22 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 55,
-        "teamName": "Le comptoir",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 95e avec 6 points 📚"
-      },
-      {
-        "teamId": 56,
-        "teamName": "Les fantomettes du sud",
-        "text": "🙈 Aïe aïe aïe… FANNY ! 100e avec 0 points. La blessure d'orgueil par excellence. Direction le bar 🍺"
-      },
-      {
-        "teamId": 57,
-        "teamName": "Fc Palets Fouchard",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 66e avec 12 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 58,
-        "teamName": "LPH",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 16e avec 22 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les zizigoto’s",
-        "text": "😅 C'était un échauffement disons. 31e avec 18 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
-      },
-      {
-        "teamId": 60,
-        "teamName": "Pas laid",
-        "text": "😰 Ouf, ça s'est joué à un palet près ! 74e avec 12 points. Le suspense version palet 💆"
-      },
-      {
-        "teamId": 61,
-        "teamName": "Les frangins",
-        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 76e avec 16 points. La prochaine on les a 💪"
-      },
-      {
-        "teamId": 62,
-        "teamName": "Les plombés du SPA",
-        "text": "🎟️ Maintien assuré, et même mieux ! 14e avec 22 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 63,
-        "teamName": "Les merdes",
-        "text": "🫠 13-0… on appelle ça un nettoyage par le vide. 75e avec 11 points. Petit coup au bar et on oublie 🍻"
-      },
-      {
-        "teamId": 64,
-        "teamName": "Les voisins",
-        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 45e avec 17 points. La prochaine on les a 💪"
-      },
-      {
-        "teamId": 65,
-        "teamName": "Classe 74",
-        "text": "🤷 Ça arrive aux meilleurs. 88e avec 8 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 66,
-        "teamName": "Tamtam",
-        "text": "😅 C'était un échauffement disons. 89e avec 8 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les salariés de USV",
-        "text": "🌱 Ça pousse ! 55e avec 11 points. Une victoire après l'autre, on construit 🥏"
-      },
-      {
-        "teamId": 68,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "⚽ Match digne d'un derby ! 22e avec 22 points. Quel match 🔥"
-      },
-      {
-        "teamId": 69,
-        "teamName": "Les bronzés font du ski",
-        "text": "🚀 BOOM ! 1e avec 22 points. À ce rythme on va devoir vous construire un trophée plus grand 🌭"
-      },
-      {
-        "teamId": 70,
-        "teamName": "Delta",
-        "text": "🚂 Le train de la remontée est en marche ! 52e avec 19 points. Prochain arrêt : podium ? 🚂"
-      },
-      {
-        "teamId": 71,
-        "teamName": "Les assoiffés",
-        "text": "⚖️ Match super accroché ! 25e avec 22 points. Vous faites monter la tension dramatique 🍬"
-      },
-      {
-        "teamId": 72,
-        "teamName": "Le réveil du carré",
-        "text": "⚖️ Match super accroché ! 24e avec 22 points. Vous faites monter la tension dramatique 🍬"
-      },
-      {
-        "teamId": 73,
-        "teamName": "Lamineur",
-        "text": "💪 Une victoire dans la poche ! 15e avec 22 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 74,
-        "teamName": "SPA Magique",
-        "text": "🙈 Aïe aïe aïe… FANNY ! 56e avec 11 points. La blessure d'orgueil par excellence. Direction le bar 🍺"
-      },
-      {
-        "teamId": 75,
-        "teamName": "Pile ou face",
-        "text": "💪 Une victoire dans la poche ! 57e avec 16 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 76,
-        "teamName": "Les copains",
-        "text": "⚖️ Match super accroché ! 34e avec 21 points. Vous faites monter la tension dramatique 🍬"
+        "text": "🚨 Match crucial ! Planche 1 vs Les bronzés font du ski. Le podium se joue maintenant 🥏"
       },
       {
         "teamId": 77,
         "teamName": "Les Bouesiens",
-        "text": "🚀 BOOM ! 3e avec 22 points. À ce rythme on va devoir vous construire un trophée plus grand 🌭"
-      },
-      {
-        "teamId": 78,
-        "teamName": "Les beaux frères",
-        "text": "🎟️ Maintien assuré, et même mieux ! 27e avec 21 points. On vise l'Europe maintenant ? 🌍"
-      },
-      {
-        "teamId": 79,
-        "teamName": "SPA ma faute",
-        "text": "🎯 Et une de plus ! 29e avec 19 points. Le palet vous obéit, c'est beau 🍻"
-      },
-      {
-        "teamId": 80,
-        "teamName": "Les SPA Tator",
-        "text": "🌱 Ça pousse ! 37e avec 17 points. Une victoire après l'autre, on construit 🥏"
-      },
-      {
-        "teamId": 81,
-        "teamName": "SPA Sorcier",
-        "text": "🤔 Comme disait Confucius : \"Perdre une manche, c'est gagner en sagesse\". Bon il a peut-être pas dit ça. 90e avec 8 points 📚"
-      },
-      {
-        "teamId": 82,
-        "teamName": "Ligérien",
-        "text": "⚖️ Match super accroché ! 42e avec 20 points. Vous faites monter la tension dramatique 🍬"
-      },
-      {
-        "teamId": 83,
-        "teamName": "SPA passé loin",
-        "text": "🔥 Bien joué ! 7e avec 22 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
-      },
-      {
-        "teamId": 84,
-        "teamName": "Eeeeeeeeee",
-        "text": "🥲 Manche pas fofolle, 38e avec 16 points. Le palet est un sport d'humilité. La prochaine sera la bonne 🍬"
-      },
-      {
-        "teamId": 85,
-        "teamName": "Tom et Melvine",
-        "text": "🔥 Bien joué ! 10e avec 22 points. Victoire dans la douleur (ou pas, on n'était pas là) 🥪"
-      },
-      {
-        "teamId": 86,
-        "teamName": "N’importe jmen fou",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 11e avec 22 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 87,
-        "teamName": "PABIENS",
-        "text": "😅 C'était un échauffement disons. 41e avec 14 points. Tradition : un coup au bar offert par les vainqueurs 🍺"
-      },
-      {
-        "teamId": 88,
-        "teamName": "Les patatosses",
-        "text": "💪 Une victoire dans la poche ! 40e avec 16 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 89,
-        "teamName": "Les pyramides maudites",
-        "text": "🕵️ Le plomb avait l'air bizarre non ? Le maître a bougé tout seul ? 92e avec 7 points. La prochaine on les a 💪"
-      },
-      {
-        "teamId": 90,
-        "teamName": "Les crottins",
-        "text": "🤷 Ça arrive aux meilleurs. 67e avec 12 points. Au pire, on a inventé la buvette pour ces moments-là 🍺"
-      },
-      {
-        "teamId": 91,
-        "teamName": "tout pour le show",
-        "text": "💪 Une victoire dans la poche ! 73e avec 11 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
-      },
-      {
-        "teamId": 92,
-        "teamName": "Les Diplomatico",
-        "text": "⚽ Match digne d'un derby ! 50e avec 21 points. Quel match 🔥"
-      },
-      {
-        "teamId": 93,
-        "teamName": "Les chrichri",
-        "text": "🎢 Quel match ! 84e avec 10 points. Crise cardiaque collective évitée de peu ❤️"
-      },
-      {
-        "teamId": 94,
-        "teamName": "Pascal Obistro",
-        "text": "⚽ Défaite à domicile, ça pique. 93e avec 7 points. Mais la saison est longue, on relève la tête ! 💪"
-      },
-      {
-        "teamId": 95,
-        "teamName": "Le Clos Martin",
-        "text": "💔 Pas de bol cette fois. 47e avec 13 points. On boit un coup avec les vainqueurs et on revient plus forts 🍻"
-      },
-      {
-        "teamId": 96,
-        "teamName": "PatBrunne",
-        "text": "🫠 13-0… on appelle ça un nettoyage par le vide. 65e avec 11 points. Petit coup au bar et on oublie 🍻"
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 2 contre Antoine et Yaya. On dit qu'ils s'entraînent en cachette… ou pas 😏"
       },
       {
         "teamId": 97,
         "teamName": "Antoine et Yaya",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 4e avec 22 points. Les 3 points sont dans la poche 💪"
-      },
-      {
-        "teamId": 98,
-        "teamName": "Razmo et Rapido",
-        "text": "💪 Une victoire dans la poche ! 46e avec 14 points. La remontada est en marche, Mbappé n'a qu'à bien se tenir 🍔"
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 2, face à la redoutable Les Bouesiens, dès que vous aurez fini de digérer."
       },
       {
         "teamId": 99,
         "teamName": "furafique farke",
-        "text": "🌱 Ça pousse ! 5e avec 22 points. Une victoire après l'autre, on construit 🥏"
+        "text": "🎙️ Et c'est dans quelques instants que furafique farke affrontera Les sombres merdes sur la mythique planche 3 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "🎮 Niveau suivant débloqué ! Boss : furafique farke. Lieu : planche 3. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 4 vs Les pongistes dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 4 vs SPA passé loin. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Doubles A",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 5 contre Tom et Melvine. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Tom et Melvine",
+        "text": "🍻 Petit rappel : planche 5 vs Les Doubles A. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "🎙️ Et c'est dans quelques instants que N’importe jmen fou affrontera LesZartistes sur la mythique planche 6 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 9,
+        "teamName": "LesZartistes",
+        "text": "📋 Compo officielle : LesZartistes vs N’importe jmen fou, planche 6. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 7 contre Les plombés du SPA. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 7 vs Les kéké. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 8 contre LPH. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🍻 Petit rappel : planche 8 vs Lamineur. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "🎯 Prochain défi : planche 9 contre Roropit. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "⚽ Mi-temps terminée ! Retour sur le terrain : planche 9 vs Les Festi’papeche. Causerie courte du coach : \"Lâchez rien, lancez bien.\" 💪"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 10 vs Team Laiton dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 10, face à la redoutable Les Fouillons, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "📋 Compo officielle : On est inscrit c'est déjà bien vs Palet Laiton Coufféen, planche 11. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🎙️ Et c'est dans quelques instants que Palet Laiton Coufféen affrontera On est inscrit c'est déjà bien sur la mythique planche 11 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "🎯 Prochain défi : planche 12 contre Le réveil du carré. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "📋 Compo officielle : Le réveil du carré vs RCG, planche 12. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 13 vs Les caouins. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "🎯 Prochain défi : planche 13 contre Les assoiffés. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "🎯 Prochain défi : planche 14 contre Les petites bites. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 30,
+        "teamName": "Les petites bites",
+        "text": "🎯 Prochain défi : planche 14 contre Les beaux frères. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "☕ Mes chéris, finissez tranquillement votre sandwich, buvez un petit coup, puis allez gentiment lancer vos palets sur la planche 15 contre Roméo et Juliette 🥰"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Roméo et Juliette",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 15 vs SPA ma faute. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "🎙️ Et c'est dans quelques instants que Les zizigoto’s affrontera Les Loosers sur la mythique planche 16 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 16 vs Les zizigoto’s. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les copains. Lieu : planche 17. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "🍻 Petit rappel : planche 17 vs Duo du plomb. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les zoukettes. Lieu : planche 18. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "📋 Compo officielle : Les zoukettes vs Jeanne d’arc Villemoisan, planche 18. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 19 vs Eeeeeeeeee. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 19, face à la redoutable Les SPA Tator, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 20 vs Les patatosses. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "☕ Mes chéris, finissez tranquillement votre sandwich, buvez un petit coup, puis allez gentiment lancer vos palets sur la planche 20 contre Les double A 🥰"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "🎯 Prochain défi : planche 21 contre Ligérien. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 21 contre PABIENS. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "🎮 Niveau suivant débloqué ! Boss : Pas d'inspi. Lieu : planche 22. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "📋 Compo officielle : Pas d'inspi vs Fc Cochonnerie, planche 22. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les voisins",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 23 contre Razmo et Rapido. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 23 vs Les voisins. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Le Clos Martin",
+        "text": "🎙️ Et c'est dans quelques instants que Le Clos Martin affrontera Les Sorinièrois sur la mythique planche 24 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 24 vs Le Clos Martin. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "🎮 Niveau suivant débloqué ! Boss : Les Diplomatico. Lieu : planche 25. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 25 vs Wazé dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 26 contre Delta. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "⚽ Mi-temps terminée ! Retour sur le terrain : planche 26 vs Les Dauphinois. Causerie courte du coach : \"Lâchez rien, lancez bien.\" 💪"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "⚽ Mi-temps terminée ! Retour sur le terrain : planche 27 vs Chicots. Causerie courte du coach : \"Lâchez rien, lancez bien.\" 💪"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "☕ Mes chéris, finissez tranquillement votre sandwich, buvez un petit coup, puis allez gentiment lancer vos palets sur la planche 27 contre Jean Bat Family 🥰"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "🍻 Petit rappel : planche 28 vs SPA Magique. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 28 vs Les salariés de USV dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 29, face à la redoutable Pistolet à Ô, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 45,
+        "teamName": "Pistolet à Ô",
+        "text": "📋 Compo officielle : Pistolet à Ô vs Pile ou face, planche 29. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Demain brillant",
+        "text": "🍻 Petit rappel : planche 30 vs Paté en Croûte. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
       },
       {
         "teamId": 100,
         "teamName": "Paté en Croûte",
-        "text": "⚽ Belle victoire à l'extérieur (enfin, dans la salle) ! 60e avec 16 points. Les 3 points sont dans la poche 💪"
+        "text": "🍻 Petit rappel : planche 30 vs Demain brillant. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "☕ Mes chéris, finissez tranquillement votre sandwich, buvez un petit coup, puis allez gentiment lancer vos palets sur la planche 31 contre Jérôme et Mickaël 🥰"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 31 vs Les dégarnis. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 32,
+        "teamName": "73 M",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 32 vs Tif et Mario. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "🍻 Petit rappel : planche 32 vs 73 M. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 96,
+        "teamName": "PatBrunne",
+        "text": "🎯 Prochain défi : planche 33 contre Fc Palets Fouchard. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Palets Fouchard",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 33, face à la redoutable PatBrunne, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "📋 Compo officielle : Les crottins vs Café crème, planche 34. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 34 vs Les crottins. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 35 vs Geant double prince. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 35 vs 2F. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "☕ Mes chéris, finissez tranquillement votre sandwich, buvez un petit coup, puis allez gentiment lancer vos palets sur la planche 36 contre La force tranquille 🥰"
+      },
+      {
+        "teamId": 11,
+        "teamName": "La force tranquille",
+        "text": "🎙️ Et c'est dans quelques instants que La force tranquille affrontera Les Winners sur la mythique planche 36 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 37 contre Pas laid. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "🎮 Niveau suivant débloqué ! Boss : tout pour le show. Lieu : planche 37. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les merdes",
+        "text": "📋 Compo officielle : Les merdes vs Les frangins, planche 38. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "⚽ Mi-temps terminée ! Retour sur le terrain : planche 38 vs Les merdes. Causerie courte du coach : \"Lâchez rien, lancez bien.\" 💪"
+      },
+      {
+        "teamId": 48,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 39, face à la redoutable merguez united, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "⚽ Mi-temps terminée ! Retour sur le terrain : planche 39 vs MMA 0 tracas 0 blabla. Causerie courte du coach : \"Lâchez rien, lancez bien.\" 💪"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Bouses premium",
+        "text": "🎙️ Et c'est dans quelques instants que Bouses premium affrontera fc Vlp sur la mythique planche 40 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "🍻 Petit rappel : planche 40 vs Bouses premium. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 41 vs Les Cuss. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "🎮 Niveau suivant débloqué ! Boss : Juju et camtar. Lieu : planche 41. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 42 vs Les chrichri. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Les chrichri",
+        "text": "🍻 Petit rappel : planche 42 vs As saint qui tienne. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Les p'tiots",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 43 vs MECABATI. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "🪑 Allez, on quitte le banc des remplaçants ! Planche 43 vs Les p'tiots. Le coach vous fait confiance ⚽"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 44 vs Classe 74 dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 44, face à la redoutable P’titsBU, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "🍻 Petit rappel : planche 45 vs SPA Sorcier. Tradition : gagnant paie un coup au perdant. Vous avez intérêt à gagner ET à perdre 😅"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 45 contre Tamtam. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "🍷 Bon allez les copains, faut y retourner ! Planche 46 vs Les pyramides maudites. Finissez votre verre tranquilou, et roulez jeunesse 🥏"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "🎮 Niveau suivant débloqué ! Boss : Bas les pattes. Lieu : planche 46. Préparation recommandée : sandwich + boisson. GO 🕹️"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "🎙️ Et c'est dans quelques instants que Pascal Obistro affrontera Association Domi sur la mythique planche 47 ! Soufflez, mangez, et hop 🥏"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "🥏 Oh oh oh ! Dès que vous êtes reposés, direction la planche 47 contre Pascal Obistro. On dit qu'ils s'entraînent en cachette… ou pas 😏"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "📣 ALLEZ ALLEZ ALLEZ ! Planche 48 vs C’l’aventure dès que vous êtes prêts ! Échauffement : 3 frites, 1 gorgée au bar, regard intimidant 👀"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "🎯 Prochain défi : planche 48 contre Le comptoir. Visez le maître, tentez le carreau — finissez le sandwich avant 🥖"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 49, face à la redoutable La clés de 10, dès que vous aurez fini de digérer."
+      },
+      {
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "📋 Compo officielle : La clés de 10 vs Les Métissés, planche 49. Système en 1-1 vu qu'on est en doublette 😅 Bonne chance !"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "⚽ Mi-temps terminée ! Retour sur le terrain : planche 50 vs Les fantomettes du sud. Causerie courte du coach : \"Lâchez rien, lancez bien.\" 💪"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "🎩 Votre prochaine apparition est attendue. Planche 50, face à la redoutable Thomas et Ethan, dès que vous aurez fini de digérer."
       }
     ]
   }
