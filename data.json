@@ -4,19 +4,19 @@
   "round": 5,
   "totalRounds": 5,
   "phase": "final",
-  "phaseLabel": "Phase finale · FINALE",
+  "phaseLabel": "Phase finale · PETITE FINALE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "6/6",
   "finalProgress": {
-    "done": 49,
+    "done": 50,
     "total": 52,
-    "current": 50,
-    "currentLabel": "FINALE"
+    "current": 51,
+    "currentLabel": "PETITE FINALE"
   },
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-05-01T09:09:50.497Z",
-  "version": 1777626590497,
+  "updatedAt": "2026-05-01T09:11:02.761Z",
+  "version": 1777626662761,
   "standings": [
     {
       "rank": 1,
@@ -1222,17 +1222,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "FINALE",
-      "planche": "FINALE",
-      "matchId": "finale",
-      "isFinal": true,
-      "t1": "Les anonymes",
-      "t2": "SPA passé loin",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "PETITE FINALE",
       "planche": "PETITE FINALE",
       "matchId": "petite",
@@ -1277,6 +1266,17 @@
       "t2": "Palet Laiton Coufféen",
       "score1": "11",
       "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "FINALE",
+      "planche": "FINALE",
+      "matchId": "finale",
+      "isFinal": true,
+      "t1": "Les anonymes",
+      "t2": "SPA passé loin",
+      "score1": "15",
+      "score2": "1"
     },
     {
       "round": "finale",
@@ -4048,13 +4048,13 @@
   ],
   "notifications": {
     "type": "classement",
-    "timestamp": 1777626590495,
+    "timestamp": 1777626662760,
     "round": 5,
     "messages": [
       {
         "teamId": 1,
         "teamName": "fc Vlp",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 2,
@@ -4069,22 +4069,22 @@
       {
         "teamId": 4,
         "teamName": "Bas les pattes",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 5,
         "teamName": "Les Cuss",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 6,
         "teamName": "Fc Cochonnerie",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 7,
         "teamName": "merguez united",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 8,
@@ -4094,12 +4094,12 @@
       {
         "teamId": 9,
         "teamName": "LesZartistes",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 10,
         "teamName": "Demain brillant",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 11,
@@ -4109,27 +4109,27 @@
       {
         "teamId": 12,
         "teamName": "RCG",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 13,
         "teamName": "Les dégarnis",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 14,
         "teamName": "Geant double prince",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 15,
         "teamName": "Wazé",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 16,
         "teamName": "As saint qui tienne",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 17,
@@ -4139,37 +4139,37 @@
       {
         "teamId": 18,
         "teamName": "Les zoukettes",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 19,
         "teamName": "Les kéké",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 20,
         "teamName": "Bouses premium",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 21,
         "teamName": "Les Festi’papeche",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 22,
         "teamName": "Chicots",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 23,
         "teamName": "Jérôme et Mickaël",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 24,
         "teamName": "Thomas et Ethan",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 25,
@@ -4184,17 +4184,17 @@
       {
         "teamId": 27,
         "teamName": "Pas d'inspi",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 28,
         "teamName": "P’titsBU",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 29,
         "teamName": "Les anonymes",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 30,
@@ -4204,12 +4204,12 @@
       {
         "teamId": 31,
         "teamName": "Les p'tiots",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 32,
         "teamName": "73 M",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 33,
@@ -4219,12 +4219,12 @@
       {
         "teamId": 34,
         "teamName": "Jean Bat Family",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 35,
         "teamName": "Les Sorinièrois",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 36,
@@ -4239,47 +4239,47 @@
       {
         "teamId": 38,
         "teamName": "Les Métissés",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 39,
         "teamName": "Team Laiton",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 40,
         "teamName": "Les Winners",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 41,
         "teamName": "Les Loosers",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 42,
         "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 43,
         "teamName": "Juju et camtar",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 44,
         "teamName": "La clés de 10",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 45,
         "teamName": "Pistolet à Ô",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 46,
         "teamName": "Les Dauphinois",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 47,
@@ -4294,12 +4294,12 @@
       {
         "teamId": 49,
         "teamName": "Tif et Mario",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 50,
         "teamName": "Les pongistes",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 51,
@@ -4309,32 +4309,32 @@
       {
         "teamId": 52,
         "teamName": "MECABATI",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 53,
         "teamName": "Les double A",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 54,
         "teamName": "On est inscrit c'est déjà bien",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 55,
         "teamName": "Le comptoir",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 56,
         "teamName": "Les fantomettes du sud",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 57,
         "teamName": "Fc Palets Fouchard",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 58,
@@ -4344,47 +4344,47 @@
       {
         "teamId": 59,
         "teamName": "Les zizigoto’s",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 60,
         "teamName": "Pas laid",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 61,
         "teamName": "Les frangins",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 62,
         "teamName": "Les plombés du SPA",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 63,
         "teamName": "Les merdes",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 64,
         "teamName": "Les voisins",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 65,
         "teamName": "Classe 74",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 66,
         "teamName": "Tamtam",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 67,
         "teamName": "Les salariés de USV",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 68,
@@ -4399,62 +4399,62 @@
       {
         "teamId": 70,
         "teamName": "Delta",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 71,
         "teamName": "Les assoiffés",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 72,
         "teamName": "Le réveil du carré",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 73,
         "teamName": "Lamineur",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 74,
         "teamName": "SPA Magique",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 75,
         "teamName": "Pile ou face",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 76,
         "teamName": "Les copains",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 77,
         "teamName": "Les Bouesiens",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 78,
         "teamName": "Les beaux frères",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 79,
         "teamName": "SPA ma faute",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 80,
         "teamName": "Les SPA Tator",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 81,
         "teamName": "SPA Sorcier",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 82,
@@ -4464,32 +4464,32 @@
       {
         "teamId": 83,
         "teamName": "SPA passé loin",
-        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 84,
         "teamName": "Eeeeeeeeee",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 85,
         "teamName": "Tom et Melvine",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 86,
         "teamName": "N’importe jmen fou",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 87,
         "teamName": "PABIENS",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 88,
         "teamName": "Les patatosses",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 89,
@@ -4504,22 +4504,22 @@
       {
         "teamId": 91,
         "teamName": "tout pour le show",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 92,
         "teamName": "Les Diplomatico",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 93,
         "teamName": "Les chrichri",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
       },
       {
         "teamId": 94,
         "teamName": "Pascal Obistro",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
       },
       {
         "teamId": 95,
@@ -4529,22 +4529,22 @@
       {
         "teamId": 96,
         "teamName": "PatBrunne",
-        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 97,
         "teamName": "Antoine et Yaya",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 98,
         "teamName": "Razmo et Rapido",
-        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
       },
       {
         "teamId": 99,
         "teamName": "furafique farke",
-        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
       },
       {
         "teamId": 100,
