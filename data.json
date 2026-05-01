@@ -3,15 +3,20 @@
   "date": "2026-04-30",
   "round": 5,
   "totalRounds": 5,
-  "phase": "qualifying",
-  "phaseLabel": "Partie 5",
+  "phase": "final",
+  "phaseLabel": "Phase finale · FINALE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "5/6",
-  "finalProgress": null,
+  "headerRoundValue": "6/6",
+  "finalProgress": {
+    "done": 49,
+    "total": 52,
+    "current": 50,
+    "currentLabel": "FINALE"
+  },
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-04-30T22:20:34.382Z",
-  "version": 1777587634382,
+  "updatedAt": "2026-05-01T09:09:50.497Z",
+  "version": 1777626590497,
   "standings": [
     {
       "rank": 1,
@@ -771,6 +776,18 @@
     },
     {
       "rank": 64,
+      "id": 55,
+      "name": "Le comptoir",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 34,
+      "contre": 39,
+      "played": 5,
+      "ga": -5
+    },
+    {
+      "rank": 65,
       "id": 87,
       "name": "PABIENS",
       "wins": 2,
@@ -782,7 +799,7 @@
       "ga": -5
     },
     {
-      "rank": 65,
+      "rank": 66,
       "id": 8,
       "name": "Roméo et Juliette",
       "wins": 2,
@@ -794,7 +811,7 @@
       "ga": -6
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": 23,
       "name": "Jérôme et Mickaël",
       "wins": 2,
@@ -806,7 +823,7 @@
       "ga": -6
     },
     {
-      "rank": 67,
+      "rank": 68,
       "id": 70,
       "name": "Delta",
       "wins": 2,
@@ -818,7 +835,7 @@
       "ga": -7
     },
     {
-      "rank": 68,
+      "rank": 69,
       "id": 42,
       "name": "Jeanne d’arc Villemoisan",
       "wins": 2,
@@ -830,7 +847,7 @@
       "ga": -8
     },
     {
-      "rank": 69,
+      "rank": 70,
       "id": 34,
       "name": "Jean Bat Family",
       "wins": 2,
@@ -842,7 +859,7 @@
       "ga": -9
     },
     {
-      "rank": 70,
+      "rank": 71,
       "id": 95,
       "name": "Le Clos Martin",
       "wins": 2,
@@ -854,7 +871,7 @@
       "ga": -9
     },
     {
-      "rank": 71,
+      "rank": 72,
       "id": 45,
       "name": "Pistolet à Ô",
       "wins": 2,
@@ -866,7 +883,7 @@
       "ga": -11
     },
     {
-      "rank": 72,
+      "rank": 73,
       "id": 98,
       "name": "Razmo et Rapido",
       "wins": 2,
@@ -878,7 +895,7 @@
       "ga": -11
     },
     {
-      "rank": 73,
+      "rank": 74,
       "id": 71,
       "name": "Les assoiffés",
       "wins": 2,
@@ -890,7 +907,7 @@
       "ga": -12
     },
     {
-      "rank": 74,
+      "rank": 75,
       "id": 90,
       "name": "Les crottins",
       "wins": 2,
@@ -902,7 +919,7 @@
       "ga": -12
     },
     {
-      "rank": 75,
+      "rank": 76,
       "id": 65,
       "name": "Classe 74",
       "wins": 2,
@@ -914,7 +931,7 @@
       "ga": -14
     },
     {
-      "rank": 76,
+      "rank": 77,
       "id": 4,
       "name": "Bas les pattes",
       "wins": 2,
@@ -926,7 +943,7 @@
       "ga": -15
     },
     {
-      "rank": 77,
+      "rank": 78,
       "id": 91,
       "name": "tout pour le show",
       "wins": 2,
@@ -938,7 +955,7 @@
       "ga": -15
     },
     {
-      "rank": 78,
+      "rank": 79,
       "id": 92,
       "name": "Les Diplomatico",
       "wins": 2,
@@ -950,7 +967,7 @@
       "ga": -16
     },
     {
-      "rank": 79,
+      "rank": 80,
       "id": 2,
       "name": "C’l’aventure",
       "wins": 2,
@@ -962,7 +979,7 @@
       "ga": -17
     },
     {
-      "rank": 80,
+      "rank": 81,
       "id": 14,
       "name": "Geant double prince",
       "wins": 2,
@@ -974,31 +991,7 @@
       "ga": -19
     },
     {
-      "rank": 81,
-      "id": 20,
-      "name": "Bouses premium",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 25,
-      "contre": 35,
-      "played": 4,
-      "ga": -10
-    },
-    {
       "rank": 82,
-      "id": 55,
-      "name": "Le comptoir",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 23,
-      "contre": 34,
-      "played": 4,
-      "ga": -11
-    },
-    {
-      "rank": 83,
       "id": 52,
       "name": "MECABATI",
       "wins": 1,
@@ -1010,7 +1003,7 @@
       "ga": -12
     },
     {
-      "rank": 84,
+      "rank": 83,
       "id": 30,
       "name": "Les petites bites",
       "wins": 1,
@@ -1022,7 +1015,7 @@
       "ga": -13
     },
     {
-      "rank": 85,
+      "rank": 84,
       "id": 28,
       "name": "P’titsBU",
       "wins": 1,
@@ -1034,7 +1027,7 @@
       "ga": -14
     },
     {
-      "rank": 86,
+      "rank": 85,
       "id": 16,
       "name": "As saint qui tienne",
       "wins": 1,
@@ -1046,7 +1039,7 @@
       "ga": -15
     },
     {
-      "rank": 87,
+      "rank": 86,
       "id": 7,
       "name": "merguez united",
       "wins": 1,
@@ -1058,7 +1051,7 @@
       "ga": -15
     },
     {
-      "rank": 88,
+      "rank": 87,
       "id": 66,
       "name": "Tamtam",
       "wins": 1,
@@ -1066,6 +1059,18 @@
       "losses": 4,
       "pour": 31,
       "contre": 47,
+      "played": 5,
+      "ga": -16
+    },
+    {
+      "rank": 88,
+      "id": 20,
+      "name": "Bouses premium",
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "pour": 30,
+      "contre": 46,
       "played": 5,
       "ga": -16
     },
@@ -1216,459 +1221,581 @@
   ],
   "currentMatches": [
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 1,
+      "round": "finale",
+      "roundLabel": "FINALE",
+      "planche": "FINALE",
+      "matchId": "finale",
+      "isFinal": true,
       "t1": "Les anonymes",
-      "t2": "Les Bouesiens",
-      "score1": "11",
-      "score2": "4"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 2,
-      "t1": "SPA passé loin",
-      "t2": "Les plombés du SPA",
-      "score1": "11",
-      "score2": "9"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 3,
-      "t1": "Palet Laiton Coufféen",
-      "t2": "Les Festi’papeche",
-      "score1": "11",
-      "score2": "7"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 4,
-      "t1": "SPA ma faute",
-      "t2": "Les pongistes",
-      "score1": "11",
-      "score2": "9"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 5,
-      "t1": "Les zoukettes",
-      "t2": "Les kéké",
-      "score1": "11",
-      "score2": "7"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 6,
-      "t1": "LPH",
-      "t2": "Les Fouillons",
-      "score1": "11",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 7,
-      "t1": "Les sombres merdes",
-      "t2": "Les zizigoto’s",
-      "score1": "11",
-      "score2": "7"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 8,
-      "t1": "Duo du plomb",
-      "t2": "Les beaux frères",
-      "score1": "11",
-      "score2": "1"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 9,
-      "t1": "Les Doubles A",
-      "t2": "Pile ou face",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 10,
-      "t1": "N’importe jmen fou",
-      "t2": "Les Sorinièrois",
-      "score1": "0",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 11,
-      "t1": "LesZartistes",
-      "t2": "Les dégarnis",
-      "score1": "11",
-      "score2": "6"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 12,
-      "t1": "Lamineur",
-      "t2": "Wazé",
-      "score1": "11",
-      "score2": "1"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 13,
-      "t1": "Les caouins",
-      "t2": "La force tranquille",
-      "score1": "11",
-      "score2": "9"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 14,
-      "t1": "RCG",
-      "t2": "Team Laiton",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 15,
-      "t1": "2F",
-      "t2": "Le réveil du carré",
-      "score1": "11",
-      "score2": "3"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 16,
-      "t1": "On est inscrit c'est déjà bien",
-      "t2": "Antoine et Yaya",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 17,
-      "t1": "Les bronzés font du ski",
-      "t2": "Roropit",
-      "score1": "11",
-      "score2": "6"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 18,
-      "t1": "Les frangins",
-      "t2": "Les double A",
-      "score1": "11",
-      "score2": "5"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 19,
-      "t1": "Les copains",
-      "t2": "fc Vlp",
-      "score1": "11",
-      "score2": "1"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 20,
-      "t1": "MMA 0 tracas 0 blabla",
-      "t2": "Les voisins",
-      "score1": "11",
-      "score2": "10"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 21,
-      "t1": "Eeeeeeeeee",
-      "t2": "Delta",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 22,
-      "t1": "Ligérien",
-      "t2": "furafique farke",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 23,
-      "t1": "Les patatosses",
-      "t2": "Tom et Melvine",
-      "score1": "3",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 24,
-      "t1": "SPA Magique",
-      "t2": "Jeanne d’arc Villemoisan",
-      "score1": "11",
-      "score2": "3"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 25,
-      "t1": "Pas d'inspi",
-      "t2": "Le Clos Martin",
-      "score1": "11",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 26,
-      "t1": "Les Cuss",
-      "t2": "Les SPA Tator",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 27,
-      "t1": "Les salariés de USV",
-      "t2": "Café crème",
-      "score1": "11",
-      "score2": "8"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 28,
-      "t1": "Les crottins",
-      "t2": "Paté en Croûte",
-      "score1": "2",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 29,
-      "t1": "Les assoiffés",
-      "t2": "Les Dauphinois",
-      "score1": "3",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 30,
-      "t1": "SPA Sorcier",
-      "t2": "PatBrunne",
-      "score1": "10",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 31,
-      "t1": "Pistolet à Ô",
-      "t2": "Chicots",
-      "score1": "6",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 32,
-      "t1": "Razmo et Rapido",
-      "t2": "Tif et Mario",
-      "score1": "6",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 33,
-      "t1": "tout pour le show",
-      "t2": "Fc Palets Fouchard",
-      "score1": "3",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 34,
-      "t1": "Pas laid",
-      "t2": "Bas les pattes",
-      "score1": "11",
-      "score2": "5"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 35,
-      "t1": "Les merdes",
-      "t2": "P’titsBU",
-      "score1": "11",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 36,
-      "t1": "Les Loosers",
-      "t2": "Les petites bites",
-      "score1": "11",
-      "score2": "4"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 37,
-      "t1": "Fc Cochonnerie",
-      "t2": "Tamtam",
-      "score1": "11",
-      "score2": "3"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 38,
-      "t1": "MECABATI",
-      "t2": "Roméo et Juliette",
-      "score1": "8",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 39,
-      "t1": "Bouses premium",
-      "t2": "Le comptoir",
+      "t2": "SPA passé loin",
       "score1": "",
       "score2": ""
     },
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 40,
-      "t1": "Jean Bat Family",
-      "t2": "As saint qui tienne",
-      "score1": "11",
-      "score2": "8"
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "LPH",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 41,
-      "t1": "73 M",
-      "t2": "Les p'tiots",
-      "score1": "11",
-      "score2": "1"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 42,
-      "t1": "Association Domi",
-      "t2": "PABIENS",
-      "score1": "2",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 43,
-      "t1": "Demain brillant",
-      "t2": "Jérôme et Mickaël",
-      "score1": "1",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 44,
-      "t1": "Pascal Obistro",
-      "t2": "Les Diplomatico",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 45,
-      "t1": "La clés de 10",
-      "t2": "C’l’aventure",
-      "score1": "10",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 46,
-      "t1": "Les Winners",
-      "t2": "Geant double prince",
-      "score1": "9",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 47,
-      "t1": "Thomas et Ethan",
-      "t2": "Classe 74",
-      "score1": "3",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 48,
-      "t1": "Les pyramides maudites",
-      "t2": "Juju et camtar",
-      "score1": "6",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 49,
-      "t1": "merguez united",
-      "t2": "Les chrichri",
-      "score1": "11",
-      "score2": "0"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 50,
-      "t1": "Les Métissés",
-      "t2": "Les fantomettes du sud",
-      "score1": "11",
-      "score2": "5"
+      "round": "finale",
+      "roundLabel": "9ème/10ème PLACE",
+      "planche": "9ème/10ème PLACE",
+      "matchId": "classif_9",
+      "isFinal": true,
+      "t1": "Lamineur",
+      "t2": "SPA ma faute",
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
   "history": [
     {
+      "round": "finale",
+      "roundLabel": "DEMI-FINALE 1",
+      "planche": "DEMI-FINALE 1",
+      "matchId": "demi1",
+      "isFinal": true,
+      "t1": "Les anonymes",
+      "t2": "LPH",
+      "score1": "11",
+      "score2": "3"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "DEMI-FINALE 2",
+      "planche": "DEMI-FINALE 2",
+      "matchId": "demi2",
+      "isFinal": true,
+      "t1": "SPA passé loin",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "11",
+      "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "5ème/6ème PLACE",
+      "planche": "5ème/6ème PLACE",
+      "matchId": "classif_5",
+      "isFinal": true,
+      "t1": "Les Doubles A",
+      "t2": "Duo du plomb",
+      "score1": "3",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "7ème/8ème PLACE",
+      "planche": "7ème/8ème PLACE",
+      "matchId": "classif_7",
+      "isFinal": true,
+      "t1": "Les Sorinièrois",
+      "t2": "Les zoukettes",
+      "score1": "11",
+      "score2": "3"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "11ème/12ème PLACE",
+      "planche": "11ème/12ème PLACE",
+      "matchId": "classif_11",
+      "isFinal": true,
+      "t1": "Les sombres merdes",
+      "t2": "Les Bouesiens",
+      "score1": "5",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "13ème/14ème PLACE",
+      "planche": "13ème/14ème PLACE",
+      "matchId": "classif_13",
+      "isFinal": true,
+      "t1": "LesZartistes",
+      "t2": "RCG",
+      "score1": "11",
+      "score2": "0"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "15ème/16ème PLACE",
+      "planche": "15ème/16ème PLACE",
+      "matchId": "classif_15",
+      "isFinal": true,
+      "t1": "Les plombés du SPA",
+      "t2": "2F",
+      "score1": "3",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "17ème/18ème PLACE",
+      "planche": "17ème/18ème PLACE",
+      "matchId": "classif_17",
+      "isFinal": true,
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Les caouins",
+      "score1": "5",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "19ème/20ème PLACE",
+      "planche": "19ème/20ème PLACE",
+      "matchId": "classif_19",
+      "isFinal": true,
+      "t1": "Les Festi’papeche",
+      "t2": "Les pongistes",
+      "score1": "3",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "21ème/22ème PLACE",
+      "planche": "21ème/22ème PLACE",
+      "matchId": "classif_21",
+      "isFinal": true,
+      "t1": "Les copains",
+      "t2": "Les bronzés font du ski",
+      "score1": "5",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "23ème/24ème PLACE",
+      "planche": "23ème/24ème PLACE",
+      "matchId": "classif_23",
+      "isFinal": true,
+      "t1": "Les kéké",
+      "t2": "Eeeeeeeeee",
+      "score1": "7",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "25ème/26ème PLACE",
+      "planche": "25ème/26ème PLACE",
+      "matchId": "classif_25",
+      "isFinal": true,
+      "t1": "Les frangins",
+      "t2": "Les zizigoto’s",
+      "score1": "4",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "27ème/28ème PLACE",
+      "planche": "27ème/28ème PLACE",
+      "matchId": "classif_27",
+      "isFinal": true,
+      "t1": "Les Fouillons",
+      "t2": "Les dégarnis",
+      "score1": "1",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "29ème/30ème PLACE",
+      "planche": "29ème/30ème PLACE",
+      "matchId": "classif_29",
+      "isFinal": true,
+      "t1": "Tom et Melvine",
+      "t2": "Pas d'inspi",
+      "score1": "3",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "31ème/32ème PLACE",
+      "planche": "31ème/32ème PLACE",
+      "matchId": "classif_31",
+      "isFinal": true,
+      "t1": "SPA Magique",
+      "t2": "La force tranquille",
+      "score1": "11",
+      "score2": "5"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "33ème/34ème PLACE",
+      "planche": "33ème/34ème PLACE",
+      "matchId": "classif_33",
+      "isFinal": true,
+      "t1": "Les beaux frères",
+      "t2": "furafique farke",
+      "score1": "11",
+      "score2": "7"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "35ème/36ème PLACE",
+      "planche": "35ème/36ème PLACE",
+      "matchId": "classif_35",
+      "isFinal": true,
+      "t1": "MMA 0 tracas 0 blabla",
+      "t2": "Paté en Croûte",
+      "score1": "11",
+      "score2": "6"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "37ème/38ème PLACE",
+      "planche": "37ème/38ème PLACE",
+      "matchId": "classif_37",
+      "isFinal": true,
+      "t1": "Pile ou face",
+      "t2": "N’importe jmen fou",
+      "score1": "8",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "39ème/40ème PLACE",
+      "planche": "39ème/40ème PLACE",
+      "matchId": "classif_39",
+      "isFinal": true,
+      "t1": "Les Dauphinois",
+      "t2": "Wazé",
+      "score1": "11",
+      "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "41ème/42ème PLACE",
+      "planche": "41ème/42ème PLACE",
+      "matchId": "classif_41",
+      "isFinal": true,
+      "t1": "Les SPA Tator",
+      "t2": "Les salariés de USV",
+      "score1": "11",
+      "score2": "6"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "43ème/44ème PLACE",
+      "planche": "43ème/44ème PLACE",
+      "matchId": "classif_43",
+      "isFinal": true,
+      "t1": "Fc Palets Fouchard",
+      "t2": "Chicots",
+      "score1": "8",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "45ème/46ème PLACE",
+      "planche": "45ème/46ème PLACE",
+      "matchId": "classif_45",
+      "isFinal": true,
+      "t1": "Tif et Mario",
+      "t2": "Pas laid",
+      "score1": "11",
+      "score2": "7"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "47ème/48ème PLACE",
+      "planche": "47ème/48ème PLACE",
+      "matchId": "classif_47",
+      "isFinal": true,
+      "t1": "Les merdes",
+      "t2": "PatBrunne",
+      "score1": "11",
+      "score2": "8"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "49ème/50ème PLACE",
+      "planche": "49ème/50ème PLACE",
+      "matchId": "classif_49",
+      "isFinal": true,
+      "t1": "Le réveil du carré",
+      "t2": "Team Laiton",
+      "score1": "11",
+      "score2": "9"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "51ème/52ème PLACE",
+      "planche": "51ème/52ème PLACE",
+      "matchId": "classif_51",
+      "isFinal": true,
+      "t1": "Roropit",
+      "t2": "Les voisins",
+      "score1": "11",
+      "score2": "4"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "53ème/54ème PLACE",
+      "planche": "53ème/54ème PLACE",
+      "matchId": "classif_53",
+      "isFinal": true,
+      "t1": "Antoine et Yaya",
+      "t2": "Les double A",
+      "score1": "11",
+      "score2": "8"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "55ème/56ème PLACE",
+      "planche": "55ème/56ème PLACE",
+      "matchId": "classif_55",
+      "isFinal": true,
+      "t1": "Les Loosers",
+      "t2": "Ligérien",
+      "score1": "10",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "57ème/58ème PLACE",
+      "planche": "57ème/58ème PLACE",
+      "matchId": "classif_57",
+      "isFinal": true,
+      "t1": "Fc Cochonnerie",
+      "t2": "73 M",
+      "score1": "11",
+      "score2": "3"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "59ème/60ème PLACE",
+      "planche": "59ème/60ème PLACE",
+      "matchId": "classif_59",
+      "isFinal": true,
+      "t1": "fc Vlp",
+      "t2": "Les Cuss",
+      "score1": "7",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "61ème/62ème PLACE",
+      "planche": "61ème/62ème PLACE",
+      "matchId": "classif_61",
+      "isFinal": true,
+      "t1": "Café crème",
+      "t2": "SPA Sorcier",
+      "score1": "11",
+      "score2": "8"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "63ème/64ème PLACE",
+      "planche": "63ème/64ème PLACE",
+      "matchId": "classif_63",
+      "isFinal": true,
+      "t1": "Les patatosses",
+      "t2": "Le comptoir",
+      "score1": "7",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "65ème/66ème PLACE",
+      "planche": "65ème/66ème PLACE",
+      "matchId": "classif_65",
+      "isFinal": true,
+      "t1": "PABIENS",
+      "t2": "Roméo et Juliette",
+      "score1": "6",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "67ème/68ème PLACE",
+      "planche": "67ème/68ème PLACE",
+      "matchId": "classif_67",
+      "isFinal": true,
+      "t1": "Jérôme et Mickaël",
+      "t2": "Delta",
+      "score1": "11",
+      "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "69ème/70ème PLACE",
+      "planche": "69ème/70ème PLACE",
+      "matchId": "classif_69",
+      "isFinal": true,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Jean Bat Family",
+      "score1": "9",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "71ème/72ème PLACE",
+      "planche": "71ème/72ème PLACE",
+      "matchId": "classif_71",
+      "isFinal": true,
+      "t1": "Le Clos Martin",
+      "t2": "Pistolet à Ô",
+      "score1": "2",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "73ème/74ème PLACE",
+      "planche": "73ème/74ème PLACE",
+      "matchId": "classif_73",
+      "isFinal": true,
+      "t1": "Razmo et Rapido",
+      "t2": "Les assoiffés",
+      "score1": "0",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "75ème/76ème PLACE",
+      "planche": "75ème/76ème PLACE",
+      "matchId": "classif_75",
+      "isFinal": true,
+      "t1": "Les crottins",
+      "t2": "Classe 74",
+      "score1": "7",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "77ème/78ème PLACE",
+      "planche": "77ème/78ème PLACE",
+      "matchId": "classif_77",
+      "isFinal": true,
+      "t1": "Bas les pattes",
+      "t2": "tout pour le show",
+      "score1": "11",
+      "score2": "10"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "79ème/80ème PLACE",
+      "planche": "79ème/80ème PLACE",
+      "matchId": "classif_79",
+      "isFinal": true,
+      "t1": "Les Diplomatico",
+      "t2": "C’l’aventure",
+      "score1": "3",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "81ème/82ème PLACE",
+      "planche": "81ème/82ème PLACE",
+      "matchId": "classif_81",
+      "isFinal": true,
+      "t1": "Geant double prince",
+      "t2": "MECABATI",
+      "score1": "8",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "83ème/84ème PLACE",
+      "planche": "83ème/84ème PLACE",
+      "matchId": "classif_83",
+      "isFinal": true,
+      "t1": "Les petites bites",
+      "t2": "P’titsBU",
+      "score1": "1",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "85ème/86ème PLACE",
+      "planche": "85ème/86ème PLACE",
+      "matchId": "classif_85",
+      "isFinal": true,
+      "t1": "As saint qui tienne",
+      "t2": "merguez united",
+      "score1": "9",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "87ème/88ème PLACE",
+      "planche": "87ème/88ème PLACE",
+      "matchId": "classif_87",
+      "isFinal": true,
+      "t1": "Tamtam",
+      "t2": "Bouses premium",
+      "score1": "11",
+      "score2": "2"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "89ème/90ème PLACE",
+      "planche": "89ème/90ème PLACE",
+      "matchId": "classif_89",
+      "isFinal": true,
+      "t1": "Pascal Obistro",
+      "t2": "La clés de 10",
+      "score1": "11",
+      "score2": "4"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "91ème/92ème PLACE",
+      "planche": "91ème/92ème PLACE",
+      "matchId": "classif_91",
+      "isFinal": true,
+      "t1": "Juju et camtar",
+      "t2": "Les p'tiots",
+      "score1": "11",
+      "score2": "7"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "93ème/94ème PLACE",
+      "planche": "93ème/94ème PLACE",
+      "matchId": "classif_93",
+      "isFinal": true,
+      "t1": "Les Winners",
+      "t2": "Association Domi",
+      "score1": "11",
+      "score2": "5"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "95ème/96ème PLACE",
+      "planche": "95ème/96ème PLACE",
+      "matchId": "classif_95",
+      "isFinal": true,
+      "t1": "Demain brillant",
+      "t2": "Thomas et Ethan",
+      "score1": "11",
+      "score2": "8"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "97ème/98ème PLACE",
+      "planche": "97ème/98ème PLACE",
+      "matchId": "classif_97",
+      "isFinal": true,
+      "t1": "Les Métissés",
+      "t2": "Les pyramides maudites",
+      "score1": "4",
+      "score2": "11"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "99ème/100ème PLACE",
+      "planche": "99ème/100ème PLACE",
+      "matchId": "classif_99",
+      "isFinal": true,
+      "t1": "Les chrichri",
+      "t2": "Les fantomettes du sud",
+      "score1": "11",
+      "score2": "8"
+    },
+    {
       "round": 5,
       "roundLabel": "Partie 5",
       "planche": 1,
@@ -2016,8 +2143,8 @@
       "planche": 39,
       "t1": "Bouses premium",
       "t2": "Le comptoir",
-      "score1": "",
-      "score2": ""
+      "score1": "5",
+      "score2": "11"
     },
     {
       "round": 5,
@@ -3918,5 +4045,512 @@
       "score1": "0",
       "score2": "11"
     }
-  ]
+  ],
+  "notifications": {
+    "type": "classement",
+    "timestamp": 1777626590495,
+    "round": 5,
+    "messages": [
+      {
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Roméo et Juliette",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 9,
+        "teamName": "LesZartistes",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Demain brillant",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 11,
+        "teamName": "La force tranquille",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Bouses premium",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les anonymes",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 30,
+        "teamName": "Les petites bites",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Les p'tiots",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 32,
+        "teamName": "73 M",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Doubles A",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Pistolet à Ô",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 48,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Palets Fouchard",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les merdes",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les voisins",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "🥁 C'est plié ! Le classement final tombe bientôt… le suspense est insoutenable 😅"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Tom et Melvine",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Les chrichri",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Le Clos Martin",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 96,
+        "teamName": "PatBrunne",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      },
+      {
+        "teamId": 97,
+        "teamName": "Antoine et Yaya",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "🎬 Coupez ! C'est dans la boîte. Plus qu'à attendre le verdict du jury 📊"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "⏳ Manche finale terminée ! On compile, le verdict arrive. Petite gorgée pour le stress 🍻"
+      },
+      {
+        "teamId": 100,
+        "teamName": "Paté en Croûte",
+        "text": "⚽ Coup de sifflet final ! On attend le classement comme les résultats du week-end. Suspense ! 📺"
+      }
+    ]
+  }
 }
