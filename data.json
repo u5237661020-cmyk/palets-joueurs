@@ -15,8 +15,8 @@
     "currentLabel": "9ème/10ème PLACE"
   },
   "rulesText": "Bienvenue au tournoi de palets du Réveil ! 💿🏆\n\nCe tournoi est organisé dans un esprit familial, convivial et fair-play. L’objectif est de jouer sérieusement, mais sans se prendre trop au sérieux. On vient pour tenter de gagner, mais aussi pour passer un bon moment ensemble.\n\nChaque joueur s’engage à respecter les adversaires, les bénévoles, les organisateurs et les décisions prises pendant le tournoi.\n\n─────────────────────────────────────\n\n 👥 1. COMPOSITION DES ÉQUIPES\n- Le tournoi se joue en équipe de 2 joueurs (Doublette).\n- Chaque joueur dispose de 3 palets en laiton.\n- Chaque équipe joue donc avec 6 palets au total.\n- Les équipes restent les mêmes du début à la fin du tournoi.\n- L’ordre des joueurs peut être modifié librement au cours d’une partie.\n\n─────────────────────────────────────\n\n 🎯 2. BUT DU JEU\n- Le but est de placer ses palets le plus près possible du maître, aussi appelé le petit.\n- À la fin d’une mène, l’équipe qui a le ou les palets les plus proches du maître marque des points.\n- Une équipe peut marquer de 1 à 6 points dans une même mène.\n\n─────────────────────────────────────\n\n 💿 3. DÉROULEMENT D’UNE PARTIE\n- Avant chaque partie, les deux équipes se rendent à la plaque indiquée dans l’application.\n- Les joueurs se saluent obligatoirement avant de commencer 🤝.\n- L’équipe désignée par le sort (pile ou face) lance le maître, puis joue son premier palet.\n- Ensuite, l’équipe qui n’a pas le point joue jusqu’à reprendre le point, ou jusqu’à ne plus avoir de palets.\n- Quand tous les palets sont joués, les équipes vérifient les points ensemble avant de les ramasser.\n\n─────────────────────────────────────\n\n ⚪ 4. LE MAÎTRE (LE PETIT)\n- Le joueur a droit à 2 lancers pour placer le maître sur la plaque.\n- Si le maître n'est pas sur la plaque après 2 essais, il passe à l'équipe adverse.\n- Si le maître sort de la plaque pendant la mène, il revient à l'équipe qui avait l'avantage du point.\n- Pour garder un tournoi fluide, en cas de doute persistant, on appelle l’organisation.\n\n─────────────────────────────────────\n\n ✅ 5. PALET VALABLE OU NON\n- Un palet est valable uniquement s’il arrive directement sur la plaque ou sur un palet déjà présent.\n- Un palet qui touche le sol avant d’arriver sur la plaque est nul (\"mort\").\n- Un palet qui tape le sol puis remonte sur la plaque doit être retiré.\n- Les palets ne doivent jamais être ramassés avant que les points soient validés par les deux camps.\n\n─────────────────────────────────────\n\n 📏 6. POSITION DE JEU\n- Pour le laiton, la distance de lancer est de 2,80 m du bord avant de la plaque.\n- Le pied peut toucher la ligne de jeu, mais ne doit absolument pas la dépasser (\"mordre\").\n- Un joueur peut se reculer derrière la ligne jusqu'à 10 cm maximum.\n- Pendant qu’un joueur lance, les autres doivent rester calmes et ne pas le gêner.\n\n─────────────────────────────────────\n\n 🔢 7. SCORE DES PARTIES\n- Les parties qualificatives se jouent en 11 points.\n- La première équipe à 11 gagne la partie.\n- Pour la phase finale, l’organisation peut décider de jouer en 15 points.\n- Le score saisi par l’organisation dans l’application fait foi.\n\n─────────────────────────────────────\n\n 📊 8. CLASSEMENT\n- Les équipes sont classées automatiquement selon :\n- 1. Le nombre de victoires ✅.\n- 2. Le goal-average (différence entre points marqués et encaissés) ⚖️.\n- 3. Les points marqués en dernier recours 🎯.\n\n─────────────────────────────────────\n\n 🔥 9. DÉROULEMENT DU TOURNOI ET FINALES\n- Chaque équipe dispute 5 matchs en système montée / descente.\n- À l'issue de ces matchs, les 4 premières équipes jouent les demi-finales et la finale.\n- Toutes les autres équipes jouent un 6ème match de classement pour finir en beauté.\n\n─────────────────────────────────────\n\n 🔍 10. MESURE DES POINTS\n- En cas de doute, les équipes mesurent avec un compas à palets ou un mètre.\n- On peut utiliser la lampe d'un téléphone pour vérifier si le palet touche le maître.\n- Si le maître est déplacé accidentellement pendant la mesure, le point est annulé.\n- Une fois les palets ramassés, aucune contestation n'est possible.\n\n─────────────────────────────────────\n\n ⚖️ 11. CAS PARTICULIERS (ATOUT ET CHAPEAU)\n- S'il y a égalité parfaite (atout), c'est au dernier joueur ayant provoqué l'atout de rejouer.\n- Un palet en chevauchement sur le maître (chapeau) gagne le point sur un palet qui touche le côté.\n- Si un palet ou le maître est déplacé par un élément extérieur, le joueur peut rejouer son coup.\n\n─────────────────────────────────────\n\n 🤝 12. FAIR-PLAY ET ESPRIT RSG\n- Le palet est un jeu d'adresse, mais surtout de convivialité.\n- On accepte les mesures et les décisions avec le sourire.\n- Les débutants sont les bienvenus et les confirmés donnent volontiers des conseils.\n- Les bénévoles ont toujours raison 😄\n\n─────────────────────────────────────\n\n 🏆 13. FIN DU TOURNOI\n- Le classement final sera affiché dans l’application après la remise des récompenses.\n- Merci à tous d'avoir fait vivre cette tradition ensemble.\n\nBonne chance à tous, et que le meilleur gagne ! 💿💛🖤\n",
-  "updatedAt": "2026-05-01T09:16:37.185Z",
-  "version": 1777626997185,
+  "updatedAt": "2026-05-01T09:18:46.490Z",
+  "version": 1777627126490,
   "standings": [
     {
       "rank": 1,
@@ -4047,508 +4047,608 @@
     }
   ],
   "notifications": {
-    "type": "classement",
-    "timestamp": 1777626997185,
+    "type": "fin",
+    "timestamp": 1777627126489,
     "messages": [
       {
         "teamId": 1,
         "teamName": "fc Vlp",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 2,
         "teamName": "C’l’aventure",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 3,
         "teamName": "Les caouins",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 4,
         "teamName": "Bas les pattes",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 5,
         "teamName": "Les Cuss",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 6,
         "teamName": "Fc Cochonnerie",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 7,
         "teamName": "merguez united",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 8,
         "teamName": "Roméo et Juliette",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 9,
         "teamName": "LesZartistes",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 10,
         "teamName": "Demain brillant",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 11,
         "teamName": "La force tranquille",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 12,
         "teamName": "RCG",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 13,
         "teamName": "Les dégarnis",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 14,
         "teamName": "Geant double prince",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 15,
         "teamName": "Wazé",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 16,
         "teamName": "As saint qui tienne",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 17,
         "teamName": "Café crème",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 18,
         "teamName": "Les zoukettes",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 19,
         "teamName": "Les kéké",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 20,
         "teamName": "Bouses premium",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 21,
         "teamName": "Les Festi’papeche",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 22,
         "teamName": "Chicots",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 23,
         "teamName": "Jérôme et Mickaël",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 24,
         "teamName": "Thomas et Ethan",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 25,
         "teamName": "Roropit",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 26,
         "teamName": "2F",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 27,
         "teamName": "Pas d'inspi",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 28,
         "teamName": "P’titsBU",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 29,
         "teamName": "Les anonymes",
-        "text": "⚽ Champions de Saint-Géréon… mais champions quand même ! 🏆 BRAVO !"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 30,
         "teamName": "Les petites bites",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 31,
         "teamName": "Les p'tiots",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 32,
         "teamName": "73 M",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 33,
         "teamName": "Les sombres merdes",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 34,
         "teamName": "Jean Bat Family",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 35,
         "teamName": "Les Sorinièrois",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 36,
         "teamName": "Association Domi",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 37,
         "teamName": "Les Doubles A",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 38,
         "teamName": "Les Métissés",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 39,
         "teamName": "Team Laiton",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 40,
         "teamName": "Les Winners",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 41,
         "teamName": "Les Loosers",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 42,
         "teamName": "Jeanne d’arc Villemoisan",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 43,
         "teamName": "Juju et camtar",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 44,
         "teamName": "La clés de 10",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 45,
         "teamName": "Pistolet à Ô",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 46,
         "teamName": "Les Dauphinois",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 47,
         "teamName": "Les Fouillons",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 48,
         "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 49,
         "teamName": "Tif et Mario",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 50,
         "teamName": "Les pongistes",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 51,
         "teamName": "Duo du plomb",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 52,
         "teamName": "MECABATI",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 53,
         "teamName": "Les double A",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 54,
         "teamName": "On est inscrit c'est déjà bien",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 55,
         "teamName": "Le comptoir",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 56,
         "teamName": "Les fantomettes du sud",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 57,
         "teamName": "Fc Palets Fouchard",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 58,
         "teamName": "LPH",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 59,
         "teamName": "Les zizigoto’s",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 60,
         "teamName": "Pas laid",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 61,
         "teamName": "Les frangins",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 62,
         "teamName": "Les plombés du SPA",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 63,
         "teamName": "Les merdes",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 64,
         "teamName": "Les voisins",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 65,
         "teamName": "Classe 74",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 66,
         "teamName": "Tamtam",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 67,
         "teamName": "Les salariés de USV",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 68,
         "teamName": "Palet Laiton Coufféen",
-        "text": "🥉 Top 3 ! Vous montez sur la boîte ! Mission accomplie. Bravo !💪"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 69,
         "teamName": "Les bronzés font du ski",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 70,
         "teamName": "Delta",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 71,
         "teamName": "Les assoiffés",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 72,
         "teamName": "Le réveil du carré",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 73,
         "teamName": "Lamineur",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 74,
         "teamName": "SPA Magique",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 75,
         "teamName": "Pile ou face",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 76,
         "teamName": "Les copains",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 77,
         "teamName": "Les Bouesiens",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 78,
         "teamName": "Les beaux frères",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 79,
         "teamName": "SPA ma faute",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 80,
         "teamName": "Les SPA Tator",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 81,
         "teamName": "SPA Sorcier",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 82,
         "teamName": "Ligérien",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 83,
         "teamName": "SPA passé loin",
-        "text": "🥈 Vice-champions ! À un palet près, vous étiez tout en haut. Sacré parcours. Bravo !💪"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 84,
         "teamName": "Eeeeeeeeee",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 85,
         "teamName": "Tom et Melvine",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 86,
         "teamName": "N’importe jmen fou",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 87,
         "teamName": "PABIENS",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 88,
         "teamName": "Les patatosses",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 89,
         "teamName": "Les pyramides maudites",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 90,
         "teamName": "Les crottins",
-        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 91,
         "teamName": "tout pour le show",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 92,
         "teamName": "Les Diplomatico",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 93,
         "teamName": "Les chrichri",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 94,
         "teamName": "Pascal Obistro",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 95,
         "teamName": "Le Clos Martin",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 96,
         "teamName": "PatBrunne",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 97,
         "teamName": "Antoine et Yaya",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 98,
         "teamName": "Razmo et Rapido",
-        "text": "🎉 Fin du tournoi RSG ! Merci d'avoir fait vivre cette journée 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 99,
         "teamName": "furafique farke",
-        "text": "🙌 Tournoi terminé ! Merci d'avoir joué avec nous 💛🖤 "
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       },
       {
         "teamId": 100,
         "teamName": "Paté en Croûte",
-        "text": "⚽ Coup de sifflet final ! Direction la troisième mi-temps 💛🖤"
+        "text": "🍻 Tournoi bouclé ! La vraie victoire c'était l'amitié (et les frites). 💛🖤",
+        "long": "🙌 Et voilà, c'est terminé !\n\nQue vous soyez sur le podium ou pas, vous êtes venus, vous avez lancé du palet, vous avez (peut-être) bu un coup, vous avez ri. C'est ÇA gagner. Bravo à toutes et à tous, et chapeau spécial aux équipes qui ont fait monter le niveau ! 🏆\n\nAu Réveil, on aime dire : Plus qu'un club, une famille. Du foot pour tous, des éducateurs diplômés, et surtout une équipe de bénévoles en or qui rend tout ça possible — y compris ce tournoi. 💛🖤 \n\n🤝 Envie de jouer avec nous ou de filer un coup de main comme bénévole prochainement ? Contactez nous. On vous accueille à bras ouverts !\n\n⚽ Merci d'avoir fait vivre ce tournoi  👋"
       }
     ]
   }
