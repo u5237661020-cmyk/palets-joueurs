@@ -10,8 +10,8 @@
   "headerRoundValue": "1/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
-  "updatedAt": "2026-06-03T11:48:25.181Z",
-  "version": 1780487305181,
+  "updatedAt": "2026-06-03T11:48:31.794Z",
+  "version": 1780487311794,
   "standings": [
     {
       "rank": 1,
@@ -2120,509 +2120,509 @@
     }
   ],
   "notifications": {
-    "type": "debut",
-    "timestamp": 1780487305179,
+    "type": "prochain",
+    "timestamp": 1780487311794,
     "round": 1,
     "messages": [
       {
-        "teamId": 1,
-        "teamName": "fc Vlp",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 2,
-        "teamName": "C’l’aventure",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 3,
-        "teamName": "Les caouins",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 4,
-        "teamName": "Bas les pattes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 5,
-        "teamName": "Les Cuss",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 6,
-        "teamName": "Fc Cochonnerie",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 7,
-        "teamName": "merguez united",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 8,
-        "teamName": "Roméo et Juliette",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "☕ Première partie, planche 1 vs LesZartistes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
       },
       {
         "teamId": 9,
         "teamName": "LesZartistes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 10,
-        "teamName": "Demain brillant",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 11,
-        "teamName": "La force tranquille",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 12,
-        "teamName": "RCG",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 13,
-        "teamName": "Les dégarnis",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 14,
-        "teamName": "Geant double prince",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 15,
-        "teamName": "Wazé",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 16,
-        "teamName": "As saint qui tienne",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 17,
-        "teamName": "Café crème",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 18,
-        "teamName": "Les zoukettes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 19,
-        "teamName": "Les kéké",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 1 contre SPA Magique. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
         "teamId": 20,
         "teamName": "Bouses premium",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 2 contre Les zoukettes. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
-        "teamId": 21,
-        "teamName": "Les Festi’papeche",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 22,
-        "teamName": "Chicots",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 23,
-        "teamName": "Jérôme et Mickaël",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 24,
-        "teamName": "Thomas et Ethan",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 25,
-        "teamName": "Roropit",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 26,
-        "teamName": "2F",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 27,
-        "teamName": "Pas d'inspi",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 28,
-        "teamName": "P’titsBU",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 29,
-        "teamName": "Les anonymes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 30,
-        "teamName": "La grosse bite de JOJO",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 31,
-        "teamName": "Les p'tiots",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 32,
-        "teamName": "73 M",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 33,
-        "teamName": "Les sombres merdes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 34,
-        "teamName": "Jean Bat Family",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 35,
-        "teamName": "Les Sorinièrois",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 36,
-        "teamName": "Association Domi",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 37,
-        "teamName": "Les Antho",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 38,
-        "teamName": "Les Métissés",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 39,
-        "teamName": "Team Laiton",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 40,
-        "teamName": "Les Winners",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 41,
-        "teamName": "Les Loosers",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 42,
-        "teamName": "Jeanne d’arc Villemoisan",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 43,
-        "teamName": "Juju et camtar",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 44,
-        "teamName": "La clés de 10",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 45,
-        "teamName": "Pistolet à Ô",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 46,
-        "teamName": "Les Dauphinois",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 47,
-        "teamName": "Les Fouillons",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 48,
-        "teamName": "MMA 0 tracas 0 blabla",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 49,
-        "teamName": "Tif et Mario",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 50,
-        "teamName": "Les pongistes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 51,
-        "teamName": "Duo du plomb",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 52,
-        "teamName": "MECABATI",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 53,
-        "teamName": "Les double A",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 54,
-        "teamName": "On est inscrit c'est déjà bien",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 55,
-        "teamName": "Le comptoir",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 56,
-        "teamName": "Les fantomettes du sud",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 57,
-        "teamName": "Fc Patrick Fouchard",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 58,
-        "teamName": "LPH",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 59,
-        "teamName": "Les zizigoto’s",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 60,
-        "teamName": "Pas laid",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 61,
-        "teamName": "Les frangins",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 62,
-        "teamName": "Les plombés du SPA",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 63,
-        "teamName": "Les merdes",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 64,
-        "teamName": "Les voisins",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 65,
-        "teamName": "Classe 74",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 66,
-        "teamName": "Tamtam",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 67,
-        "teamName": "Les salariés de USV",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 68,
-        "teamName": "Palet Laiton Coufféen",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "🎯 Premier match en approche ! Planche 2 vs Bouses premium. Pas de pression hein… juste tout le tournoi qui commence 💪"
       },
       {
         "teamId": 69,
         "teamName": "Les bronzés font du ski",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🎯 Premier match en approche ! Planche 3 vs Palet Laiton Coufféen. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 3 contre Les bronzés font du ski. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
         "teamId": 70,
         "teamName": "Delta",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 71,
-        "teamName": "Les assoiffés",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "⚽ Coup d'envoi imminent ! Planche 4 vs Le réveil du carré. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
       },
       {
         "teamId": 72,
         "teamName": "Le réveil du carré",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🎯 Premier match en approche ! Planche 4 vs Delta. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 5 vs Les kéké. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "☕ Première partie, planche 5 vs Tamtam. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Demain brillant",
+        "text": "⚽ Coup d'envoi imminent ! Planche 6 vs Lamineur. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
       },
       {
         "teamId": 73,
         "teamName": "Lamineur",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "☕ Première partie, planche 6 vs Demain brillant. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
       },
       {
-        "teamId": 74,
-        "teamName": "SPA Magique",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "⚽ Coup d'envoi imminent ! Planche 7 vs Association Domi. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "🎯 Premier match en approche ! Planche 7 vs Jean Bat Family. Pas de pression hein… juste tout le tournoi qui commence 💪"
       },
       {
         "teamId": 75,
         "teamName": "Pile ou face",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 8 vs Les caouins. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "🎯 Premier match en approche ! Planche 8 vs Pile ou face. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 11,
+        "teamName": "La force tranquille",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 9 contre Les Festi’papeche. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "🎯 Premier match en approche ! Planche 9 vs La force tranquille. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "🥊 Round 1 ! Dans le coin droit : Jérôme et Mickaël. Dans le coin gauche : Les copains. Direction la planche 10. Que le meilleur gagne 🔔"
       },
       {
         "teamId": 76,
         "teamName": "Les copains",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "⚽ Coup d'envoi imminent ! Planche 10 vs Jérôme et Mickaël. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
       },
       {
-        "teamId": 77,
-        "teamName": "Les Bouesiens",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 11 contre Thomas et Ethan. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 11 vs Les Sorinièrois. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "☕ Première partie, planche 12 vs RCG. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "🎯 Premier match en approche ! Planche 12 vs Les Winners. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Antho",
+        "text": "☕ Première partie, planche 13 vs Les sombres merdes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 13 vs Les Antho. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 14 contre Chicots. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "☕ Première partie, planche 14 vs C’l’aventure. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 15 contre Les beaux frères. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
         "teamId": 78,
         "teamName": "Les beaux frères",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🎯 Premier match en approche ! Planche 15 vs Les assoiffés. Pas de pression hein… juste tout le tournoi qui commence 💪"
       },
       {
-        "teamId": 79,
-        "teamName": "SPA ma faute",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "⚽ Coup d'envoi imminent ! Planche 16 vs Les Métissés. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les Métissés. Dans le coin gauche : fc Vlp. Direction la planche 16. Que le meilleur gagne 🔔"
       },
       {
         "teamId": 80,
         "teamName": "Les SPA Tator",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 17 contre Team Laiton. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
-        "teamId": 81,
-        "teamName": "SPA Sorcier",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 17 vs Les SPA Tator. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
       },
       {
-        "teamId": 82,
-        "teamName": "Ligérien",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "🥊 Round 1 ! Dans le coin droit : Classe 74. Dans le coin gauche : Les Bouesiens. Direction la planche 18. Que le meilleur gagne 🔔"
       },
       {
-        "teamId": 83,
-        "teamName": "SPA passé loin",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 18 contre Classe 74. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
-        "teamId": 84,
-        "teamName": "Eeeeeeeeee",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 19 vs Les salariés de USV. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
       },
       {
-        "teamId": 85,
-        "teamName": "Les gâtés Nantais",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "⚽ Coup d'envoi imminent ! Planche 19 vs Jeanne d’arc Villemoisan. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
       },
       {
-        "teamId": 86,
-        "teamName": "N’importe jmen fou",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 87,
-        "teamName": "PABIENS",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 88,
-        "teamName": "Les patatosses",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 89,
-        "teamName": "Les pyramides maudites",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "☕ Première partie, planche 20 vs Les crottins. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
       },
       {
         "teamId": 90,
         "teamName": "Les crottins",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🎯 Premier match en approche ! Planche 20 vs SPA ma faute. Pas de pression hein… juste tout le tournoi qui commence 💪"
       },
       {
-        "teamId": 91,
-        "teamName": "tout pour le show",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "⚽ Coup d'envoi imminent ! Planche 21 vs La clés de 10. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
       },
       {
-        "teamId": 92,
-        "teamName": "Les Diplomatico",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 21 contre Juju et camtar. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "🥊 Round 1 ! Dans le coin droit : Bas les pattes. Dans le coin gauche : Café crème. Direction la planche 22. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "🎯 Premier match en approche ! Planche 22 vs Bas les pattes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 23 vs Geant double prince. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 23 vs Les Loosers. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "🥊 Round 1 ! Dans le coin droit : Ligérien. Dans le coin gauche : Les Dauphinois. Direction la planche 24. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les Dauphinois. Dans le coin gauche : Ligérien. Direction la planche 24. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 25 contre Les chrichri. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
         "teamId": 93,
         "teamName": "Les chrichri",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "⚽ Coup d'envoi imminent ! Planche 25 vs merguez united. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 30,
+        "teamName": "La grosse bite de JOJO",
+        "text": "☕ Première partie, planche 26 vs SPA Sorcier. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "☕ Première partie, planche 26 vs La grosse bite de JOJO. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 27 vs Pistolet à Ô. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Pistolet à Ô",
+        "text": "☕ Première partie, planche 27 vs SPA passé loin. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
       },
       {
         "teamId": 94,
         "teamName": "Pascal Obistro",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 28 contre PABIENS. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "☕ Première partie, planche 28 vs Pascal Obistro. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 29 vs Pas d'inspi. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "☕ Première partie, planche 29 vs Les Fouillons. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "⚽ Coup d'envoi imminent ! Planche 30 vs N’importe jmen fou. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "🎯 Premier match en approche ! Planche 30 vs Fc Cochonnerie. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "⚽ Coup d'envoi imminent ! Planche 31 vs MMA 0 tracas 0 blabla. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 48,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "⚽ Coup d'envoi imminent ! Planche 31 vs Eeeeeeeeee. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Les gâtés Nantais",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 32 contre tout pour le show. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🥊 Round 1 ! Dans le coin droit : tout pour le show. Dans le coin gauche : Les gâtés Nantais. Direction la planche 32. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les patatosses. Dans le coin gauche : Les pongistes. Direction la planche 33. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 33 vs Les patatosses. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les dégarnis. Dans le coin gauche : Les pyramides maudites. Direction la planche 34. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 34 vs Les dégarnis. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
       },
       {
         "teamId": 95,
         "teamName": "Le Clos Martin",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🎯 Premier match en approche ! Planche 35 vs Les Diplomatico. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 35 vs Le Clos Martin. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
       },
       {
         "teamId": 96,
         "teamName": "PatBrunne",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "☕ Première partie, planche 36 vs Tif et Mario. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 36 contre PatBrunne. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
       },
       {
         "teamId": 97,
         "teamName": "Antoine et Yaya",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🥊 Round 1 ! Dans le coin droit : Antoine et Yaya. Dans le coin gauche : Razmo et Rapido. Direction la planche 37. Que le meilleur gagne 🔔"
       },
       {
         "teamId": 98,
         "teamName": "Razmo et Rapido",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
-      },
-      {
-        "teamId": 99,
-        "teamName": "furafique farke",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 37 vs Antoine et Yaya. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
       },
       {
         "teamId": 100,
         "teamName": "Paté en Croûte",
-        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 38 contre Duo du plomb. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "⚽ Coup d'envoi imminent ! Planche 38 vs Paté en Croûte. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "⚽ Coup d'envoi imminent ! Planche 39 vs Wazé. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "⚽ Coup d'envoi imminent ! Planche 39 vs furafique farke. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 40 contre 2F. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "🎯 Premier match en approche ! Planche 40 vs Roropit. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 41 vs MECABATI. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 41 contre Les Cuss. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les anonymes",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 42 vs Les double A. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "🎯 Premier match en approche ! Planche 42 vs Les anonymes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "🥊 Round 1 ! Dans le coin droit : P’titsBU. Dans le coin gauche : Les p'tiots. Direction la planche 43. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Les p'tiots",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les p'tiots. Dans le coin gauche : P’titsBU. Direction la planche 43. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Roméo et Juliette",
+        "text": "🎯 Premier match en approche ! Planche 44 vs On est inscrit c'est déjà bien. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "☕ Première partie, planche 44 vs Roméo et Juliette. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "🥊 Round 1 ! Dans le coin droit : Le comptoir. Dans le coin gauche : Les fantomettes du sud. Direction la planche 45. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 45 vs Le comptoir. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "🎯 Premier match en approche ! Planche 46 vs As saint qui tienne. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 46 contre Les zizigoto’s. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "⚽ Coup d'envoi imminent ! Planche 47 vs LPH. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 47 contre Fc Patrick Fouchard. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 32,
+        "teamName": "73 M",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 48 vs Pas laid. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "⚽ Coup d'envoi imminent ! Planche 48 vs 73 M. Comme au RSG le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "🎯 Premier match en approche ! Planche 49 vs Les merdes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les merdes",
+        "text": "☕ Première partie, planche 49 vs Les plombés du SPA. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 50 contre Les voisins. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les voisins",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les voisins. Dans le coin gauche : Les frangins. Direction la planche 50. Que le meilleur gagne 🔔"
       }
     ]
   }
