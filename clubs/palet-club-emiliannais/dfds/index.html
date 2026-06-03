@@ -117,21 +117,28 @@ window.addEventListener('error', (event) => {
   if (el) el.innerHTML = '<div class="empty" style="color:#ef4444">Erreur de chargement<br>' + String(event.message || 'Erreur inconnue') + '</div>';
 });
 
+function ensureVisibleContent(){
+  const el = document.getElementById('content');
+  if (!el) return;
+  if (el.innerHTML.trim()) return;
+  el.innerHTML = '<div class="empty"><div style="font-size:34px;margin-bottom:10px">⭐</div><div style="font-family:Bebas Neue,cursive;font-size:22px;color:#eab308;margin-bottom:8px">Choisir mon equipe</div><div style="margin-bottom:16px">Les resultats sont disponibles. Selectionnez votre equipe ou consultez les onglets Matchs / Classement.</div><button class="btn" style="max-width:260px;margin:0 auto 8px" onclick="openPicker()">Choisir mon equipe</button><button class="btn btn-mut" style="max-width:260px;margin:0 auto" onclick="manualRefresh()">Actualiser</button></div>';
+}
+
 function bootPlayer(){
   if (booted) return;
   booted = true;
   try {
+    updateHeader();
+    render();
     if (!myTeam && data && data.standings && data.standings.length > 0) {
       openPicker();
-    } else {
-      render();
-      updateHeader();
     }
     if (FETCH_URL) {
       loadData();
       setInterval(loadData, 30000);
     }
     if (myTeam) updateMyTeamBtn();
+    setTimeout(ensureVisibleContent, 400);
   } catch(e) {
     const el = document.getElementById('content');
     if (el) el.innerHTML = '<div class="empty" style="color:#ef4444">Erreur de chargement<br>' + String(e.message || e) + '</div>';
@@ -158,6 +165,7 @@ async function loadData() {
       updateHeader();
       checkNotification();
     }
+    setTimeout(ensureVisibleContent, 100);
   } catch(e) {
     if (!data) document.getElementById('content').innerHTML = '<div class="empty" style="color:#ef4444">Impossible de charger les resultats.</div>';
   }
