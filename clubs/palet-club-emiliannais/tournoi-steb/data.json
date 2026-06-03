@@ -10,8 +10,8 @@
   "headerRoundValue": "1/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
-  "updatedAt": "2026-06-03T11:48:20.944Z",
-  "version": 1780487300944,
+  "updatedAt": "2026-06-03T11:48:25.181Z",
+  "version": 1780487305181,
   "standings": [
     {
       "rank": 1,
@@ -1214,7 +1214,1416 @@
       "ga": 0
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "SPA Magique",
+      "t2": "LesZartistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "Bouses premium",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "Les bronzés font du ski",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Delta",
+      "t2": "Le réveil du carré",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "Tamtam",
+      "t2": "Les kéké",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "Demain brillant",
+      "t2": "Lamineur",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Jean Bat Family",
+      "t2": "Association Domi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Pile ou face",
+      "t2": "Les caouins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "La force tranquille",
+      "t2": "Les Festi’papeche",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Jérôme et Mickaël",
+      "t2": "Les copains",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "Les Sorinièrois",
+      "t2": "Thomas et Ethan",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
+      "t1": "Les Winners",
+      "t2": "RCG",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 13,
+      "t1": "Les Antho",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 14,
+      "t1": "C’l’aventure",
+      "t2": "Chicots",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 15,
+      "t1": "Les assoiffés",
+      "t2": "Les beaux frères",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 16,
+      "t1": "fc Vlp",
+      "t2": "Les Métissés",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 17,
+      "t1": "Les SPA Tator",
+      "t2": "Team Laiton",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 18,
+      "t1": "Classe 74",
+      "t2": "Les Bouesiens",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 19,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Les salariés de USV",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 20,
+      "t1": "SPA ma faute",
+      "t2": "Les crottins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Juju et camtar",
+      "t2": "La clés de 10",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Bas les pattes",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 23,
+      "t1": "Les Loosers",
+      "t2": "Geant double prince",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 24,
+      "t1": "Ligérien",
+      "t2": "Les Dauphinois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 25,
+      "t1": "merguez united",
+      "t2": "Les chrichri",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 26,
+      "t1": "La grosse bite de JOJO",
+      "t2": "SPA Sorcier",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 27,
+      "t1": "SPA passé loin",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 28,
+      "t1": "Pascal Obistro",
+      "t2": "PABIENS",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 29,
+      "t1": "Les Fouillons",
+      "t2": "Pas d'inspi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 30,
+      "t1": "Fc Cochonnerie",
+      "t2": "N’importe jmen fou",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 31,
+      "t1": "Eeeeeeeeee",
+      "t2": "MMA 0 tracas 0 blabla",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 32,
+      "t1": "Les gâtés Nantais",
+      "t2": "tout pour le show",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 33,
+      "t1": "Les patatosses",
+      "t2": "Les pongistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 34,
+      "t1": "Les dégarnis",
+      "t2": "Les pyramides maudites",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 35,
+      "t1": "Le Clos Martin",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 36,
+      "t1": "PatBrunne",
+      "t2": "Tif et Mario",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 37,
+      "t1": "Antoine et Yaya",
+      "t2": "Razmo et Rapido",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 38,
+      "t1": "Paté en Croûte",
+      "t2": "Duo du plomb",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 39,
+      "t1": "furafique farke",
+      "t2": "Wazé",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 40,
+      "t1": "Roropit",
+      "t2": "2F",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 41,
+      "t1": "Les Cuss",
+      "t2": "MECABATI",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 42,
+      "t1": "Les anonymes",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 43,
+      "t1": "P’titsBU",
+      "t2": "Les p'tiots",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 44,
+      "t1": "Roméo et Juliette",
+      "t2": "On est inscrit c'est déjà bien",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 45,
+      "t1": "Le comptoir",
+      "t2": "Les fantomettes du sud",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 46,
+      "t1": "Les zizigoto’s",
+      "t2": "As saint qui tienne",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 47,
+      "t1": "Fc Patrick Fouchard",
+      "t2": "LPH",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 48,
+      "t1": "73 M",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 49,
+      "t1": "Les plombés du SPA",
+      "t2": "Les merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 50,
+      "t1": "Les frangins",
+      "t2": "Les voisins",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
-  "history": []
+  "history": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "SPA Magique",
+      "t2": "LesZartistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "Bouses premium",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "Les bronzés font du ski",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Delta",
+      "t2": "Le réveil du carré",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "Tamtam",
+      "t2": "Les kéké",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "Demain brillant",
+      "t2": "Lamineur",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Jean Bat Family",
+      "t2": "Association Domi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Pile ou face",
+      "t2": "Les caouins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "La force tranquille",
+      "t2": "Les Festi’papeche",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Jérôme et Mickaël",
+      "t2": "Les copains",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "Les Sorinièrois",
+      "t2": "Thomas et Ethan",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
+      "t1": "Les Winners",
+      "t2": "RCG",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 13,
+      "t1": "Les Antho",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 14,
+      "t1": "C’l’aventure",
+      "t2": "Chicots",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 15,
+      "t1": "Les assoiffés",
+      "t2": "Les beaux frères",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 16,
+      "t1": "fc Vlp",
+      "t2": "Les Métissés",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 17,
+      "t1": "Les SPA Tator",
+      "t2": "Team Laiton",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 18,
+      "t1": "Classe 74",
+      "t2": "Les Bouesiens",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 19,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "Les salariés de USV",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 20,
+      "t1": "SPA ma faute",
+      "t2": "Les crottins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Juju et camtar",
+      "t2": "La clés de 10",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Bas les pattes",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 23,
+      "t1": "Les Loosers",
+      "t2": "Geant double prince",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 24,
+      "t1": "Ligérien",
+      "t2": "Les Dauphinois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 25,
+      "t1": "merguez united",
+      "t2": "Les chrichri",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 26,
+      "t1": "La grosse bite de JOJO",
+      "t2": "SPA Sorcier",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 27,
+      "t1": "SPA passé loin",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 28,
+      "t1": "Pascal Obistro",
+      "t2": "PABIENS",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 29,
+      "t1": "Les Fouillons",
+      "t2": "Pas d'inspi",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 30,
+      "t1": "Fc Cochonnerie",
+      "t2": "N’importe jmen fou",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 31,
+      "t1": "Eeeeeeeeee",
+      "t2": "MMA 0 tracas 0 blabla",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 32,
+      "t1": "Les gâtés Nantais",
+      "t2": "tout pour le show",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 33,
+      "t1": "Les patatosses",
+      "t2": "Les pongistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 34,
+      "t1": "Les dégarnis",
+      "t2": "Les pyramides maudites",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 35,
+      "t1": "Le Clos Martin",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 36,
+      "t1": "PatBrunne",
+      "t2": "Tif et Mario",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 37,
+      "t1": "Antoine et Yaya",
+      "t2": "Razmo et Rapido",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 38,
+      "t1": "Paté en Croûte",
+      "t2": "Duo du plomb",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 39,
+      "t1": "furafique farke",
+      "t2": "Wazé",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 40,
+      "t1": "Roropit",
+      "t2": "2F",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 41,
+      "t1": "Les Cuss",
+      "t2": "MECABATI",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 42,
+      "t1": "Les anonymes",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 43,
+      "t1": "P’titsBU",
+      "t2": "Les p'tiots",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 44,
+      "t1": "Roméo et Juliette",
+      "t2": "On est inscrit c'est déjà bien",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 45,
+      "t1": "Le comptoir",
+      "t2": "Les fantomettes du sud",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 46,
+      "t1": "Les zizigoto’s",
+      "t2": "As saint qui tienne",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 47,
+      "t1": "Fc Patrick Fouchard",
+      "t2": "LPH",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 48,
+      "t1": "73 M",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 49,
+      "t1": "Les plombés du SPA",
+      "t2": "Les merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 50,
+      "t1": "Les frangins",
+      "t2": "Les voisins",
+      "score1": "",
+      "score2": ""
+    }
+  ],
+  "notifications": {
+    "type": "debut",
+    "timestamp": 1780487305179,
+    "round": 1,
+    "messages": [
+      {
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Roméo et Juliette",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 9,
+        "teamName": "LesZartistes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Demain brillant",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 11,
+        "teamName": "La force tranquille",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Bouses premium",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les anonymes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 30,
+        "teamName": "La grosse bite de JOJO",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Les p'tiots",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 32,
+        "teamName": "73 M",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Antho",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Pistolet à Ô",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 48,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les merdes",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les voisins",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Les gâtés Nantais",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Les chrichri",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Le Clos Martin",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 96,
+        "teamName": "PatBrunne",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 97,
+        "teamName": "Antoine et Yaya",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      },
+      {
+        "teamId": 100,
+        "teamName": "Paté en Croûte",
+        "text": "🎙️ Allez les gars, les filles, on est concentrés ! On joue notre jeu, on prend match par match, et surtout on s'amuse. Bon tournoi ! ⚽🥏"
+      }
+    ]
+  }
 }
