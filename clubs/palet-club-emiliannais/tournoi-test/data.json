@@ -1,6 +1,6 @@
 {
   "tournoi": "Tournoi test",
-  "date": "0198-08-03",
+  "date": "0004-08-03",
   "round": 1,
   "totalRounds": 7,
   "phase": "qualifying",
@@ -10,8 +10,8 @@
   "headerRoundValue": "1/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
-  "updatedAt": "2026-06-03T06:53:49.733Z",
-  "version": 1780469629733,
+  "updatedAt": "2026-06-03T06:53:58.596Z",
+  "version": 1780469638596,
   "standings": [],
   "currentMatches": [],
   "nextMatches": [],
