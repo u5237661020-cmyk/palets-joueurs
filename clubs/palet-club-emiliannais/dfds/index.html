@@ -8,7 +8,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Palets RSG">
 <meta name="theme-color" content="#090e18">
-<title>Tournoi de Palets - Palet Club Émiliannais</title>
+<title>Tournoi Palets</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
@@ -107,30 +107,49 @@ let myTeam = localStorage.getItem('palets-my-team') || null;
 let myTeamName = localStorage.getItem('palets-my-team-name') || null;
 let currentTab = 'my';
 let lastMatchKey = localStorage.getItem('palets-last-match') || null;
-let notifGranted = Notification?.permission === 'granted';
+let notifGranted = ('Notification' in window) && Notification.permission === 'granted';
 let refreshing = false;
+let booted = false;
 
 // ── Init ──
-window.addEventListener('load', () => {
-  if (!myTeam && data && data.standings && data.standings.length > 0) {
-    openPicker();
-  } else {
-    render();
-    updateHeader();
-  }
-  if (FETCH_URL) {
-    loadData();
-    setInterval(loadData, 30000);
-  }
-  if (myTeam) updateMyTeamBtn();
+window.addEventListener('error', (event) => {
+  const el = document.getElementById('content');
+  if (el) el.innerHTML = '<div class="empty" style="color:#ef4444">Erreur de chargement<br>' + String(event.message || 'Erreur inconnue') + '</div>';
 });
+
+function bootPlayer(){
+  if (booted) return;
+  booted = true;
+  try {
+    if (!myTeam && data && data.standings && data.standings.length > 0) {
+      openPicker();
+    } else {
+      render();
+      updateHeader();
+    }
+    if (FETCH_URL) {
+      loadData();
+      setInterval(loadData, 30000);
+    }
+    if (myTeam) updateMyTeamBtn();
+  } catch(e) {
+    const el = document.getElementById('content');
+    if (el) el.innerHTML = '<div class="empty" style="color:#ef4444">Erreur de chargement<br>' + String(e.message || e) + '</div>';
+  }
+}
+
+if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', bootPlayer);
+else bootPlayer();
 
 // ── Fetch ──
 async function loadData() {
   if (!FETCH_URL) return;
   try {
     const r = await fetch(FETCH_URL + '?_=' + Date.now());
-    if (!r.ok) return;
+    if (!r.ok) {
+      if (!data) document.getElementById('content').innerHTML = '<div class="empty">Resultats non disponibles pour le moment.</div>';
+      return;
+    }
     const fresh = await r.json();
     const changed = JSON.stringify(fresh) !== JSON.stringify(data);
     data = fresh;
@@ -139,7 +158,9 @@ async function loadData() {
       updateHeader();
       checkNotification();
     }
-  } catch(e) {}
+  } catch(e) {
+    if (!data) document.getElementById('content').innerHTML = '<div class="empty" style="color:#ef4444">Impossible de charger les resultats.</div>';
+  }
 }
 
 async function manualRefresh() {
@@ -279,6 +300,10 @@ function showTab(tab) {
 
 function render() {
   const el = document.getElementById('content');
+  if (!data) {
+    el.innerHTML = '<div class="empty"><span class="spinner"></span><br>Chargement des resultats...</div>';
+    return;
+  }
   el.classList.remove('fade');
   void el.offsetWidth;
   el.classList.add('fade');
