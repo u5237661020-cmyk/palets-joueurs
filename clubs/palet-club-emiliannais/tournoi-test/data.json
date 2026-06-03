@@ -10,8 +10,8 @@
   "headerRoundValue": "1/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
-  "updatedAt": "2026-06-03T06:55:06.105Z",
-  "version": 1780469706105,
+  "updatedAt": "2026-06-03T06:55:09.932Z",
+  "version": 1780469709932,
   "standings": [
     {
       "rank": 1,
@@ -1740,5 +1740,302 @@
       "score1": "",
       "score2": ""
     }
-  ]
+  ],
+  "notifications": {
+    "type": "prochain",
+    "timestamp": 1780469709932,
+    "round": 1,
+    "messages": [
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 1 vs Les salariés de USV. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "☕ Première partie, planche 1 vs Le réveil du carré. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "🥊 Round 1 ! Dans le coin droit : C’l’aventure. Dans le coin gauche : 2F. Direction la planche 2. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "🥊 Round 1 ! Dans le coin droit : 2F. Dans le coin gauche : C’l’aventure. Direction la planche 2. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 3 contre Fc Patrick Fouchard. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "🎯 Premier match en approche ! Planche 3 vs Razmo et Rapido. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 97,
+        "teamName": "Antoine et Yaya",
+        "text": "⚽ Coup d'envoi imminent ! Planche 4 vs SPA Magique. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 4 contre Antoine et Yaya. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "🎯 Premier match en approche ! Planche 5 vs Les sombres merdes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "🎯 Premier match en approche ! Planche 5 vs Wazé. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "☕ Première partie, planche 6 vs furafique farke. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "🎯 Premier match en approche ! Planche 6 vs MECABATI. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 100,
+        "teamName": "Paté en Croûte",
+        "text": "☕ Première partie, planche 7 vs Les zoukettes. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 7 vs Paté en Croûte. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 8 contre Pile ou face. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "🎯 Premier match en approche ! Planche 8 vs Geant double prince. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "☕ Première partie, planche 9 vs La grosse bite de JOJO. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 30,
+        "teamName": "La grosse bite de JOJO",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 9 vs Les copains. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 10 vs Les bronzés font du ski. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 10 vs Les caouins. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "🎯 Premier match en approche ! Planche 11 vs Lamineur. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "⚽ Coup d'envoi imminent ! Planche 11 vs Pas laid. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "☕ Première partie, planche 12 vs Les beaux frères. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 12 vs As saint qui tienne. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les assoiffés. Dans le coin gauche : Café crème. Direction la planche 13. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "🥊 Round 1 ! Dans le coin droit : Café crème. Dans le coin gauche : Les assoiffés. Direction la planche 13. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "☕ Première partie, planche 14 vs SPA ma faute. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 14 contre Jeanne d’arc Villemoisan. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "🥊 Round 1 ! Dans le coin droit : fc Vlp. Dans le coin gauche : Les double A. Direction la planche 15. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 15 vs fc Vlp. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 16 contre Les Loosers. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "🎯 Premier match en approche ! Planche 16 vs Bas les pattes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 17 vs merguez united. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "🥊 Round 1 ! Dans le coin droit : merguez united. Dans le coin gauche : Les zizigoto’s. Direction la planche 17. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "🥊 Round 1 ! Dans le coin droit : Jean Bat Family. Dans le coin gauche : Les SPA Tator. Direction la planche 18. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 18 vs Jean Bat Family. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "🥊 Round 1 ! Dans le coin droit : Delta. Dans le coin gauche : Les Bouesiens. Direction la planche 19. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 19 vs Delta. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "⚽ Coup d'envoi imminent ! Planche 20 vs Les Sorinièrois. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 20 vs Association Domi. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 21 contre Les Antho. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Antho",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 21 contre Les dégarnis. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "☕ Première partie, planche 22 vs LPH. On se salue avant, on se félicite après. Bonne chance les paletistes 🥏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🥊 Round 1 ! Dans le coin droit : LPH. Dans le coin gauche : Tamtam. Direction la planche 22. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "🎯 Premier match en approche ! Planche 23 vs Les pongistes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "🎯 Premier match en approche ! Planche 23 vs Les Cuss. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "🎯 Premier match en approche ! Planche 24 vs Palet Laiton Coufféen. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "😬 Bon, première partie, c'est toujours un peu stressant. Planche 24 vs Classe 74. Respirez, vous gérez. Et sinon… y'a le bar 🍻"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "🎯 Premier match en approche ! Planche 25 vs LesZartistes. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 9,
+        "teamName": "LesZartistes",
+        "text": "⚽ Coup d'envoi imminent ! Planche 25 vs Les pyramides maudites. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "🥊 Round 1 ! Dans le coin droit : Juju et camtar. Dans le coin gauche : Les frangins. Direction la planche 26. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "🥊 Round 1 ! Dans le coin droit : Les frangins. Dans le coin gauche : Juju et camtar. Direction la planche 26. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 27 contre Les Diplomatico. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "🎯 Premier match en approche ! Planche 27 vs tout pour le show. Pas de pression hein… juste tout le tournoi qui commence 💪"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "🥏 C'est LE grand moment ! Première manche, planche 28 contre Les crottins. Petite respiration, on visualise le maître, et c'est parti pour la gloire !"
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "⚽ Coup d'envoi imminent ! Planche 28 vs Les kéké. Comme au Réveil le dimanche : on rentre concentrés, on ressort avec le sourire 🥏"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "🥊 Round 1 ! Dans le coin droit : Roropit. Dans le coin gauche : Pascal Obistro. Direction la planche 29. Que le meilleur gagne 🔔"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "🥊 Round 1 ! Dans le coin droit : Pascal Obistro. Dans le coin gauche : Roropit. Direction la planche 29. Que le meilleur gagne 🔔"
+      }
+    ]
+  }
 }
