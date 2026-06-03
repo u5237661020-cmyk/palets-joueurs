@@ -10,8 +10,8 @@
   "headerRoundValue": "1/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
-  "updatedAt": "2026-06-03T06:54:47.227Z",
-  "version": 1780469687227,
+  "updatedAt": "2026-06-03T06:55:03.404Z",
+  "version": 1780469703405,
   "standings": [
     {
       "rank": 1,
@@ -1214,7 +1214,1038 @@
       "ga": 0
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "Le réveil du carré",
+      "t2": "Les salariés de USV",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "C’l’aventure",
+      "t2": "2F",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "Razmo et Rapido",
+      "t2": "Fc Patrick Fouchard",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Antoine et Yaya",
+      "t2": "SPA Magique",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "Wazé",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "MECABATI",
+      "t2": "furafique farke",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Paté en Croûte",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Geant double prince",
+      "t2": "Pile ou face",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "Les copains",
+      "t2": "La grosse bite de JOJO",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Les caouins",
+      "t2": "Les bronzés font du ski",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "Pas laid",
+      "t2": "Lamineur",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
+      "t1": "As saint qui tienne",
+      "t2": "Les beaux frères",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 13,
+      "t1": "Les assoiffés",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 14,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "SPA ma faute",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 15,
+      "t1": "fc Vlp",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 16,
+      "t1": "Bas les pattes",
+      "t2": "Les Loosers",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 17,
+      "t1": "Les zizigoto’s",
+      "t2": "merguez united",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 18,
+      "t1": "Jean Bat Family",
+      "t2": "Les SPA Tator",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 19,
+      "t1": "Delta",
+      "t2": "Les Bouesiens",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 20,
+      "t1": "Association Domi",
+      "t2": "Les Sorinièrois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Les dégarnis",
+      "t2": "Les Antho",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Tamtam",
+      "t2": "LPH",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 23,
+      "t1": "Les Cuss",
+      "t2": "Les pongistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 24,
+      "t1": "Classe 74",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 25,
+      "t1": "Les pyramides maudites",
+      "t2": "LesZartistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 26,
+      "t1": "Juju et camtar",
+      "t2": "Les frangins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 27,
+      "t1": "tout pour le show",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 28,
+      "t1": "Les kéké",
+      "t2": "Les crottins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 29,
+      "t1": "Roropit",
+      "t2": "Pascal Obistro",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
-  "history": []
+  "history": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "Le réveil du carré",
+      "t2": "Les salariés de USV",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "C’l’aventure",
+      "t2": "2F",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "Razmo et Rapido",
+      "t2": "Fc Patrick Fouchard",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Antoine et Yaya",
+      "t2": "SPA Magique",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "Wazé",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "MECABATI",
+      "t2": "furafique farke",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Paté en Croûte",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Geant double prince",
+      "t2": "Pile ou face",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "Les copains",
+      "t2": "La grosse bite de JOJO",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Les caouins",
+      "t2": "Les bronzés font du ski",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "Pas laid",
+      "t2": "Lamineur",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
+      "t1": "As saint qui tienne",
+      "t2": "Les beaux frères",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 13,
+      "t1": "Les assoiffés",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 14,
+      "t1": "Jeanne d’arc Villemoisan",
+      "t2": "SPA ma faute",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 15,
+      "t1": "fc Vlp",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 16,
+      "t1": "Bas les pattes",
+      "t2": "Les Loosers",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 17,
+      "t1": "Les zizigoto’s",
+      "t2": "merguez united",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 18,
+      "t1": "Jean Bat Family",
+      "t2": "Les SPA Tator",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 19,
+      "t1": "Delta",
+      "t2": "Les Bouesiens",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 20,
+      "t1": "Association Domi",
+      "t2": "Les Sorinièrois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Les dégarnis",
+      "t2": "Les Antho",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Tamtam",
+      "t2": "LPH",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 23,
+      "t1": "Les Cuss",
+      "t2": "Les pongistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 24,
+      "t1": "Classe 74",
+      "t2": "Palet Laiton Coufféen",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 25,
+      "t1": "Les pyramides maudites",
+      "t2": "LesZartistes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 26,
+      "t1": "Juju et camtar",
+      "t2": "Les frangins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 27,
+      "t1": "tout pour le show",
+      "t2": "Les Diplomatico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 28,
+      "t1": "Les kéké",
+      "t2": "Les crottins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 29,
+      "t1": "Roropit",
+      "t2": "Pascal Obistro",
+      "score1": "",
+      "score2": ""
+    }
+  ],
+  "notifications": {
+    "type": "debut",
+    "timestamp": 1780469703403,
+    "round": 1,
+    "messages": [
+      {
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Roméo et Juliette",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 9,
+        "teamName": "LesZartistes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Demain brillant",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 11,
+        "teamName": "La force tranquille",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Bouses premium",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les anonymes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 30,
+        "teamName": "La grosse bite de JOJO",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Les p'tiots",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 32,
+        "teamName": "73 M",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Antho",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Pistolet à Ô",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 48,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les merdes",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les voisins",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Les gâtés Nantais",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Les chrichri",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Le Clos Martin",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 96,
+        "teamName": "PatBrunne",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 97,
+        "teamName": "Antoine et Yaya",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      },
+      {
+        "teamId": 100,
+        "teamName": "Paté en Croûte",
+        "text": "📺 Et c'est le coup d'envoi du tournoi de palets du Réveil ! Pas de VAR aujourd'hui, juste vous, le maître, et la planche en plomb. Bonne chance à toutes les équipes ⚽🥏💛🖤"
+      }
+    ]
+  }
 }
