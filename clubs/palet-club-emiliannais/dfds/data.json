@@ -10,8 +10,8 @@
   "headerRoundValue": "1/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
-  "updatedAt": "2026-06-03T07:08:40.865Z",
-  "version": 1780470520865,
+  "updatedAt": "2026-06-03T07:08:45.627Z",
+  "version": 1780470525627,
   "standings": [
     {
       "rank": 1,
@@ -1214,7 +1214,1038 @@
       "ga": 0
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "Association Domi",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "Les Sorinièrois",
+      "t2": "Demain brillant",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "Jean Bat Family",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Bouses premium",
+      "t2": "Team Laiton",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "Les Antho",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "Les Métissés",
+      "t2": "Fc Cochonnerie",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Les Winners",
+      "t2": "Les Loosers",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Juju et camtar",
+      "t2": "Les caouins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "Les kéké",
+      "t2": "Jeanne d’arc Villemoisan",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Chicots",
+      "t2": "Les Festi’papeche",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "La clés de 10",
+      "t2": "MMA 0 tracas 0 blabla",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
+      "t1": "Jérôme et Mickaël",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 13,
+      "t1": "Les Fouillons",
+      "t2": "Les Dauphinois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 14,
+      "t1": "Les Cuss",
+      "t2": "Duo du plomb",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 15,
+      "t1": "LesZartistes",
+      "t2": "Thomas et Ethan",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 16,
+      "t1": "2F",
+      "t2": "RCG",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 17,
+      "t1": "Les pongistes",
+      "t2": "Tif et Mario",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 18,
+      "t1": "Pas d'inspi",
+      "t2": "Roropit",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 19,
+      "t1": "fc Vlp",
+      "t2": "MECABATI",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 20,
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Le comptoir",
+      "t2": "Wazé",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Les fantomettes du sud",
+      "t2": "merguez united",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 23,
+      "t1": "Les zizigoto’s",
+      "t2": "Les frangins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 24,
+      "t1": "Les dégarnis",
+      "t2": "La grosse bite de JOJO",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 25,
+      "t1": "C’l’aventure",
+      "t2": "Fc Patrick Fouchard",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 26,
+      "t1": "Les plombés du SPA",
+      "t2": "Les voisins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 27,
+      "t1": "Les merdes",
+      "t2": "Les anonymes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 28,
+      "t1": "LPH",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 29,
+      "t1": "Roméo et Juliette",
+      "t2": "Geant double prince",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
-  "history": []
+  "history": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "Association Domi",
+      "t2": "Les zoukettes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "Les Sorinièrois",
+      "t2": "Demain brillant",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "Jean Bat Family",
+      "t2": "Les sombres merdes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "Bouses premium",
+      "t2": "Team Laiton",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 5,
+      "t1": "Les Antho",
+      "t2": "Café crème",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 6,
+      "t1": "Les Métissés",
+      "t2": "Fc Cochonnerie",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 7,
+      "t1": "Les Winners",
+      "t2": "Les Loosers",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 8,
+      "t1": "Juju et camtar",
+      "t2": "Les caouins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 9,
+      "t1": "Les kéké",
+      "t2": "Jeanne d’arc Villemoisan",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 10,
+      "t1": "Chicots",
+      "t2": "Les Festi’papeche",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 11,
+      "t1": "La clés de 10",
+      "t2": "MMA 0 tracas 0 blabla",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 12,
+      "t1": "Jérôme et Mickaël",
+      "t2": "Pistolet à Ô",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 13,
+      "t1": "Les Fouillons",
+      "t2": "Les Dauphinois",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 14,
+      "t1": "Les Cuss",
+      "t2": "Duo du plomb",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 15,
+      "t1": "LesZartistes",
+      "t2": "Thomas et Ethan",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 16,
+      "t1": "2F",
+      "t2": "RCG",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 17,
+      "t1": "Les pongistes",
+      "t2": "Tif et Mario",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 18,
+      "t1": "Pas d'inspi",
+      "t2": "Roropit",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 19,
+      "t1": "fc Vlp",
+      "t2": "MECABATI",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 20,
+      "t1": "On est inscrit c'est déjà bien",
+      "t2": "Les double A",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 21,
+      "t1": "Le comptoir",
+      "t2": "Wazé",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 22,
+      "t1": "Les fantomettes du sud",
+      "t2": "merguez united",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 23,
+      "t1": "Les zizigoto’s",
+      "t2": "Les frangins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 24,
+      "t1": "Les dégarnis",
+      "t2": "La grosse bite de JOJO",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 25,
+      "t1": "C’l’aventure",
+      "t2": "Fc Patrick Fouchard",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 26,
+      "t1": "Les plombés du SPA",
+      "t2": "Les voisins",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 27,
+      "t1": "Les merdes",
+      "t2": "Les anonymes",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 28,
+      "t1": "LPH",
+      "t2": "Pas laid",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 29,
+      "t1": "Roméo et Juliette",
+      "t2": "Geant double prince",
+      "score1": "",
+      "score2": ""
+    }
+  ],
+  "notifications": {
+    "type": "debut",
+    "timestamp": 1780470525626,
+    "round": 1,
+    "messages": [
+      {
+        "teamId": 1,
+        "teamName": "fc Vlp",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 2,
+        "teamName": "C’l’aventure",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 3,
+        "teamName": "Les caouins",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 4,
+        "teamName": "Bas les pattes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 5,
+        "teamName": "Les Cuss",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 6,
+        "teamName": "Fc Cochonnerie",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 7,
+        "teamName": "merguez united",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 8,
+        "teamName": "Roméo et Juliette",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 9,
+        "teamName": "LesZartistes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 10,
+        "teamName": "Demain brillant",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 11,
+        "teamName": "La force tranquille",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 12,
+        "teamName": "RCG",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 13,
+        "teamName": "Les dégarnis",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 14,
+        "teamName": "Geant double prince",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 15,
+        "teamName": "Wazé",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 16,
+        "teamName": "As saint qui tienne",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 17,
+        "teamName": "Café crème",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 18,
+        "teamName": "Les zoukettes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 19,
+        "teamName": "Les kéké",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 20,
+        "teamName": "Bouses premium",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 21,
+        "teamName": "Les Festi’papeche",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 22,
+        "teamName": "Chicots",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 23,
+        "teamName": "Jérôme et Mickaël",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 24,
+        "teamName": "Thomas et Ethan",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 25,
+        "teamName": "Roropit",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 26,
+        "teamName": "2F",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 27,
+        "teamName": "Pas d'inspi",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 28,
+        "teamName": "P’titsBU",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 29,
+        "teamName": "Les anonymes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 30,
+        "teamName": "La grosse bite de JOJO",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 31,
+        "teamName": "Les p'tiots",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 32,
+        "teamName": "73 M",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 33,
+        "teamName": "Les sombres merdes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 34,
+        "teamName": "Jean Bat Family",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 35,
+        "teamName": "Les Sorinièrois",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 36,
+        "teamName": "Association Domi",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 37,
+        "teamName": "Les Antho",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 38,
+        "teamName": "Les Métissés",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 39,
+        "teamName": "Team Laiton",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 40,
+        "teamName": "Les Winners",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Les Loosers",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 42,
+        "teamName": "Jeanne d’arc Villemoisan",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 43,
+        "teamName": "Juju et camtar",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 44,
+        "teamName": "La clés de 10",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 45,
+        "teamName": "Pistolet à Ô",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 46,
+        "teamName": "Les Dauphinois",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 47,
+        "teamName": "Les Fouillons",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 48,
+        "teamName": "MMA 0 tracas 0 blabla",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 49,
+        "teamName": "Tif et Mario",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 50,
+        "teamName": "Les pongistes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 51,
+        "teamName": "Duo du plomb",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 52,
+        "teamName": "MECABATI",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 53,
+        "teamName": "Les double A",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 54,
+        "teamName": "On est inscrit c'est déjà bien",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 55,
+        "teamName": "Le comptoir",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 56,
+        "teamName": "Les fantomettes du sud",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 57,
+        "teamName": "Fc Patrick Fouchard",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 58,
+        "teamName": "LPH",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Les zizigoto’s",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 60,
+        "teamName": "Pas laid",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Les frangins",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Les plombés du SPA",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Les merdes",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Les voisins",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Classe 74",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 66,
+        "teamName": "Tamtam",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 67,
+        "teamName": "Les salariés de USV",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 68,
+        "teamName": "Palet Laiton Coufféen",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 69,
+        "teamName": "Les bronzés font du ski",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 70,
+        "teamName": "Delta",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 71,
+        "teamName": "Les assoiffés",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 72,
+        "teamName": "Le réveil du carré",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 73,
+        "teamName": "Lamineur",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 74,
+        "teamName": "SPA Magique",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 75,
+        "teamName": "Pile ou face",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 76,
+        "teamName": "Les copains",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 77,
+        "teamName": "Les Bouesiens",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 78,
+        "teamName": "Les beaux frères",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 79,
+        "teamName": "SPA ma faute",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 80,
+        "teamName": "Les SPA Tator",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 81,
+        "teamName": "SPA Sorcier",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Ligérien",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 83,
+        "teamName": "SPA passé loin",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 84,
+        "teamName": "Eeeeeeeeee",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 85,
+        "teamName": "Les gâtés Nantais",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 86,
+        "teamName": "N’importe jmen fou",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 87,
+        "teamName": "PABIENS",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 88,
+        "teamName": "Les patatosses",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 89,
+        "teamName": "Les pyramides maudites",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 90,
+        "teamName": "Les crottins",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 91,
+        "teamName": "tout pour le show",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Les Diplomatico",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Les chrichri",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 94,
+        "teamName": "Pascal Obistro",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Le Clos Martin",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 96,
+        "teamName": "PatBrunne",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 97,
+        "teamName": "Antoine et Yaya",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 98,
+        "teamName": "Razmo et Rapido",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 99,
+        "teamName": "furafique farke",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      },
+      {
+        "teamId": 100,
+        "teamName": "Paté en Croûte",
+        "text": "🔮 Les astres sont alignés, le plomb est tendre, le laiton brille. Le tournoi RSG peut commencer. Que le meilleur paletiste gagne (et que le moins bon paie sa tournée) 🥏"
+      }
+    ]
+  }
 }
