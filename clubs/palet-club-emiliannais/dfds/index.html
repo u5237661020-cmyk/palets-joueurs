@@ -94,7 +94,13 @@ tr.rank3 td{background:#92400e11!important}
 
 <script>
 const FETCH_URL = "https://u5237661020-cmyk.github.io/palets-joueurs/clubs/palet-club-emiliannais/dfds/data.json";
-const INITIAL_DATA = {"tournoi":"dfds","date":"","round":1,"totalRounds":7,"phase":"qualifying","phaseLabel":"Partie 1","finalComplete":false,"headerRoundLabel":"PARTIE","headerRoundValue":"1/8","finalProgress":null,"rulesText":"🏁 RÈGLEMENT DU TOURNOI\\n\\n• Chaque doublette joue les parties prévues en phase qualificative.\\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\\n• Les points marqués et encaissés servent au goal-average si nécessaire.\\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\\n• Tout score saisi et publié devient visible dans l'application joueurs.\\n\\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !","updatedAt":"2026-06-03T07:07:03.696Z","version":1780470423696,"standings":[],"currentMatches":[],"nextMatches":[],"history":[]};
+const INITIAL_DATA_B64 = "eyJ0b3Vybm9pIjoiZGZkcyIsImRhdGUiOiIxOTg0LTA4LTAzIiwicm91bmQiOjEsInRvdGFsUm91bmRzIjo3LCJwaGFzZSI6InF1YWxpZnlpbmciLCJwaGFzZUxhYmVsIjoiUGFydGllIDEiLCJmaW5hbENvbXBsZXRlIjpmYWxzZSwiaGVhZGVyUm91bmRMYWJlbCI6IlBBUlRJRSIsImhlYWRlclJvdW5kVmFsdWUiOiIxLzgiLCJmaW5hbFByb2dyZXNzIjpudWxsLCJydWxlc1RleHQiOiLwn4+BIFLDiEdMRU1FTlQgRFUgVE9VUk5PSVxuXG7igKIgQ2hhcXVlIGRvdWJsZXR0ZSBqb3VlIGxlcyBwYXJ0aWVzIHByw6l2dWVzIGVuIHBoYXNlIHF1YWxpZmljYXRpdmUuXG7igKIgVW5lIHZpY3RvaXJlIHJhcHBvcnRlIDEgdmljdG9pcmUgYXUgY2xhc3NlbWVudCA7IGxlcyBkw6lwYXJ0YWdlcyBzZSBmb250IHNlbG9uIGxlIGNyaXTDqHJlIGNob2lzaSBkYW5zIGxhIGNvbmZpZ3VyYXRpb24uXG7igKIgTGVzIHBvaW50cyBtYXJxdcOpcyBldCBlbmNhaXNzw6lzIHNlcnZlbnQgYXUgZ29hbC1hdmVyYWdlIHNpIG7DqWNlc3NhaXJlLlxu4oCiIEVuIGNhcyBkZSBwaGFzZSBmaW5hbGUsIGxlcyDDqXF1aXBlcyBxdWFsaWZpw6llcyBkaXNwdXRlbnQgbGVzIGRlbWktZmluYWxlcyAvIGZpbmFsZSBvdSBmaW5hbGUgZGlyZWN0ZSBzZWxvbiBsZSBmb3JtYXQgcmV0ZW51Llxu4oCiIFNpIGxlcyBtYXRjaHMgZGUgY2xhc3NlbWVudCBzb250IGFjdGl2w6lzLCBpbHMgZMOpdGVybWluZW50IGxlcyBwbGFjZXMgNS82LCA3LzgsIGV0Yy5cbuKAoiBUb3V0IHNjb3JlIHNhaXNpIGV0IHB1Ymxpw6kgZGV2aWVudCB2aXNpYmxlIGRhbnMgbCdhcHBsaWNhdGlvbiBqb3VldXJzLlxuXG5NZXJjaSBkZSByZXNwZWN0ZXIgbGUgZmFpci1wbGF5LCBsZXMgYWR2ZXJzYWlyZXMgZXQgbGVzIGLDqW7DqXZvbGVzLiBCb24gdG91cm5vaSDDoCB0b3V0ZXMgZXQgw6AgdG91cyAhIiwidXBkYXRlZEF0IjoiMjAyNi0wNi0wM1QwNzowODoxMC4xMDBaIiwidmVyc2lvbiI6MTc4MDQ3MDQ5MDEwMCwic3RhbmRpbmdzIjpbXSwiY3VycmVudE1hdGNoZXMiOltdLCJuZXh0TWF0Y2hlcyI6W10sImhpc3RvcnkiOltdfQ==";
+function parseInitialData(){
+  if(!INITIAL_DATA_B64)return null;
+  try{return JSON.parse(decodeURIComponent(escape(atob(INITIAL_DATA_B64))));}
+  catch(e){return null;}
+}
+const INITIAL_DATA = parseInitialData();
 
 let data = INITIAL_DATA;
 let myTeam = localStorage.getItem('palets-my-team') || null;
@@ -375,7 +381,7 @@ function renderMy() {
 // ── Tous les matchs ──
 function renderMatchs() {
   const matches = data?.currentMatches || [];
-  if (!matches.length) { document.getElementById('content').innerHTML = '<div class="empty">🎲<br>Le tirage n'a pas encore été effectué.</div>'; return; }
+  if (!matches.length) { document.getElementById('content').innerHTML = '<div class="empty">🎲<br>Le tirage n\'a pas encore été effectué.</div>'; return; }
   let h = `<div style="font-family:'Bebas Neue',cursive;color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${data.round} — MATCHS EN COURS</div>`;
   matches.sort((a,b)=>a.planche-b.planche).forEach(m => {
     const isMe = m.t1 === myTeamName || m.t2 === myTeamName;
