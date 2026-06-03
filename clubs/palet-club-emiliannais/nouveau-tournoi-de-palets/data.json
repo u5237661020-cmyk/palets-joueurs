@@ -1,0 +1,19 @@
+{
+  "tournoi": "Nouveau tournoi de palets",
+  "date": "",
+  "round": 1,
+  "totalRounds": 7,
+  "phase": "qualifying",
+  "phaseLabel": "Partie 1",
+  "finalComplete": false,
+  "headerRoundLabel": "PARTIE",
+  "headerRoundValue": "1/8",
+  "finalProgress": null,
+  "rulesText": "ðŸ RÃˆGLEMENT DU TOURNOI\n\nâ€¢ Chaque doublette joue les parties prÃ©vues en phase qualificative.\nâ€¢ Une victoire rapporte 1 victoire au classement ; les dÃ©partages se font selon le critÃ¨re choisi dans la configuration.\nâ€¢ Les points marquÃ©s et encaissÃ©s servent au goal-average si nÃ©cessaire.\nâ€¢ En cas de phase finale, les Ã©quipes qualifiÃ©es disputent les demi-finales / finale ou finale directe selon le format retenu.\nâ€¢ Si les matchs de classement sont activÃ©s, ils dÃ©terminent les places 5/6, 7/8, etc.\nâ€¢ Tout score saisi et publiÃ© devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bÃ©nÃ©voles. Bon tournoi Ã  toutes et Ã  tous !",
+  "updatedAt": "2026-06-03T06:33:07.257Z",
+  "version": 1780468387257,
+  "standings": [],
+  "currentMatches": [],
+  "nextMatches": [],
+  "history": []
+}
