@@ -1,18 +1,18 @@
 {
   "tournoi": "tournoi st emeilien",
   "date": "2026-10-17",
-  "round": 2,
+  "round": 3,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 2",
+  "phaseLabel": "Partie 3",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "2/8",
+  "headerRoundValue": "3/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-03T20:59:35.683Z",
-  "version": 1780520375683,
+  "updatedAt": "2026-06-03T20:59:44.071Z",
+  "version": 1780520384071,
   "standings": [
     {
       "rank": 1,
@@ -87,35 +87,7 @@
       "ga": -25
     }
   ],
-  "currentMatches": [
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 1,
-      "t1": "pp",
-      "t2": "kk",
-      "score1": "13",
-      "score2": "4"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 2,
-      "t1": "mm",
-      "t2": "ll",
-      "score1": "13",
-      "score2": "3"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 3,
-      "t1": "qq",
-      "t2": "nul",
-      "score1": "13",
-      "score2": "0"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
