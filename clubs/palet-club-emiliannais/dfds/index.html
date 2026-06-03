@@ -255,6 +255,15 @@ function closePicker() {
   render();
 }
 
+function clearTeam() {
+  myTeam = null;
+  myTeamName = null;
+  localStorage.removeItem('palets-my-team');
+  localStorage.removeItem('palets-my-team-name');
+  updateMyTeamBtn();
+  openPicker();
+}
+
 function filterTeams(q) {
   if (!data) return;
   const filtered = q ? data.standings.filter(t => t.name.toLowerCase().includes(q.toLowerCase())) : data.standings;
@@ -263,16 +272,25 @@ function filterTeams(q) {
 
 function renderTeamList(teams) {
   const el = document.getElementById('team-list');
-  el.innerHTML = teams.map(t => `
-    <div onclick="selectTeam('${t.id}',${JSON.stringify(t.name).replace(/'/g,"\'")})" style="background:${String(t.id)===myTeam?'#2a1a4a':'#172438'};border:1px solid ${String(t.id)===myTeam?'#a855f7':'#1e3a5a'};border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;align-items:center;gap:12px">
-      <span style="font-family:'Bebas Neue',cursive;color:#eab308;font-size:20px;min-width:32px">${String(t.rank).padStart(2,'0')}</span>
-      <div>
-        <div style="font-family:'Bebas Neue',cursive;font-size:18px;color:${String(t.id)===myTeam?'#a855f7':'#e2eaff'}">${t.name}</div>
-        <div style="font-size:12px;color:#4a7090">${t.wins}V · ${t.losses}D · GA ${t.pour-t.contre>0?'+':''}${t.pour-t.contre}</div>
-      </div>
-      ${String(t.id)===myTeam?'<span class="badge-me" style="margin-left:auto">Mon équipe</span>':''}
-    </div>
-  `).join('');
+  el.innerHTML = teams.map(t => {
+    const isMine = String(t.id) === String(myTeam);
+    const diff = t.pour - t.contre;
+    return '<button type="button" data-team-id="' + String(t.id).replace(/"/g,'&quot;') + '" style="width:100%;text-align:left;background:' + (isMine ? '#2a1a4a' : '#172438') + ';border:1px solid ' + (isMine ? '#a855f7' : '#1e3a5a') + ';border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;align-items:center;gap:12px;color:#e2eaff">' +
+      '<span style="font-family:' + "'Bebas Neue'" + ',cursive;color:#eab308;font-size:20px;min-width:32px">' + String(t.rank).padStart(2,'0') + '</span>' +
+      '<span style="display:block">' +
+        '<span style="display:block;font-family:' + "'Bebas Neue'" + ',cursive;font-size:18px;color:' + (isMine ? '#a855f7' : '#e2eaff') + '">' + t.name + '</span>' +
+        '<span style="display:block;font-size:12px;color:#4a7090">' + t.wins + 'V - ' + t.losses + 'D - GA ' + (diff > 0 ? '+' : '') + diff + '</span>' +
+      '</span>' +
+      (isMine ? '<span class="badge-me" style="margin-left:auto">Mon equipe</span>' : '') +
+    '</button>';
+  }).join('');
+  el.querySelectorAll('[data-team-id]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.getAttribute('data-team-id');
+      const team = (data?.standings || []).find(t => String(t.id) === String(id));
+      if (team) selectTeam(team.id, team.name);
+    });
+  });
 }
 
 function selectTeam(id, name) {
@@ -340,7 +358,7 @@ function renderMy() {
 
   let h = `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;flex-wrap:wrap;gap:8px">
     <div style="font-family:'Bebas Neue',cursive;color:#a855f7;font-size:22px">${myTeamName}</div>
-    <button onclick="openPicker()" style="background:#172438;border:1px solid #1e3a5a;border-radius:7px;padding:5px 10px;color:#4a7090;font-size:12px;cursor:pointer;font-family:'Barlow Condensed',sans-serif">Changer d'équipe</button>
+    <button onclick="clearTeam()" style="background:#172438;border:1px solid #1e3a5a;border-radius:7px;padding:5px 10px;color:#eab308;font-size:12px;cursor:pointer;font-family:Barlow Condensed,sans-serif">Changer d equipe</button>
   </div>`;
 
   // Notif permission
