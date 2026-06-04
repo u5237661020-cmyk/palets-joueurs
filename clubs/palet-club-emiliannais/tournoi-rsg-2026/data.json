@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAALP0lEQVR4AdxWaVgT1xo+k5lJAiRAWEQkFSmgoFA2FZRFi6gUFVuwVNtS3LBVAbGKZVUUJKAoigvuiiJW64ZVqxYVK1VcQASNgqAoi+whZM9kMvcMVB/RtpbeP/e587zvnG+b77xzZnIyDPA/cvxfCMG5I02GYfOsfLAwKx8WtOHi4pD/Cv1akRXJkfyvc75JthWMThiw3CmS9Bloi1BAjDMwFeVuOhxEj1jw9Y7g78MPhCSCL60s+6PonwkJBGbxJyKyvUb7zshbeDAZM9C9zMRQoVYkMwT6eDz1sLtVve3RKR09VnsHQ126e/axVCsnC5/hq8dmWgTZ8P+JoPcKGbvZN9TN3XlJWvDWqMCAzzaNz5mUgGuoVdKXErly/7M8oNI2KW+3PAMAIIp2iYeb0aCm2TtnfE50aaqFq24sHxngOjMlLzEcvOf4WyF+62ckUy1UU2lCefzyI/OT6V7KF7IGnImKWHw9L+gj+IOudXCkQQETvZflrY3TOnHt1AZByS06WFB5/2engQ7lp8/8KKD9v+JfCjGcMyyxvKrqZ5yP8z22uVbq6Om1bj2/6bA1ny9UcpAsFEFI3Ui7OI0LL5T5ne0K1sJhMSyNVtVBqEtkutRaq6zx6x2SvdOcOCamgX4zK7Woan/Kkfi0fgnhTrOZrmpTPG7fU1nKNuHGtT3qTL1TVVLcKK9PaVOLQ4knXaym1HsZ8i2P09TZT9apdzxZp8qpWq/KqNjMx3TlmBzMbZOrc1EDVo3JIKNhWQWCzUFTwqofk8/Pjd84KezPxPzZirBxFuarsGAKXbb4X24tejRTqkEffmD+gZdKovC+tPRCVPXq0uI/a0bHflp8uvzi3FOxRlpgJ+2Wo6ZmvDK0g5X/y42C+07gQ9DGkNG/JiO69k2+I8Qi3G1l5/HH3+sQaLZcIisr3y4s51voeFfWVj3bOGf77jcv/jv7RdKN4wYos/Lh06ejTK0NR3VKOi6LDGUpD6N/X2Od4h7/9rVvC8HZPBYTFpFMFrpTJVc1TTsebKdWIOySVZW/wHi/UJZYVOJkbq1c9Xv6WaYezu24L1pON+hqkdBzGNL2K/YR4rZnYlhr6fNddFKcI/ypLvV2VpdIGVWZVplFx/4N80JzD4aNCIn63Cs0fFfC/jIcx11NXEwX631qsRP2GwbZgz5CZNWdBpLLjSKY0YVkGJtz7EvOVdz23DZaAn1zyLdB31WfHm8UYNCmrxnSer81d3dR1tGkGysKHbM988lO9QJ8hNE407Ahp2CNPiR41QR1Oeh3lec2IFh3kdMa5lfWXTpJH8mMNo65M2PN1P1aAqmCxS8hgWv6qPVD14w5a7nW46ROputNfLblbBYAQ5kOBl8w5w4V8BJcD5qu9yqyyPC667r3k8agi6HVI4Oco7VKDcYbYDhBzkXqSYlyjJbUSvQGsu1xvn4ae4Thx71C+BwvSZfSGLc2HCO/+qJOizFaFCkVJrJHHbNubP3N92b0rZFQhBnkEIpChqMctIZigsl4N9GpZaHN5JqPiskQ6x8RDu6pZiDjAJfliXNYYlWz9G5LW9dNLUc78/bt0ntARUoG8wf4qjjoLJQCNlqJupxo6I4gOcy4XiEN0mIExxzbrtTnsKZapjNyn//AmmzujRBaR/spjqv8Dnws/rLAv9l3nccenqV+AMJh8ckm+Qk4sS01yjibebU5mVJplASPyaWkRKtcohSRugwfFGUYD+QZ+nSLpE8dPOzni0TiwurLNUvFR2s9QLVoxYvtT0ezJw46CgiyoFcIAGT7wjtOCg7uo0URoFnwwWEkwPycDoetEIukxjgL12dRaClAQBuipu6xOcwJSoyyQ1AGAXRQa8LZKJpBATaqInmaNsVDSqw8rS1umV0Rey3gxJRDvEiXWOuOVtHOFK/MoLqU0mxZqahGjTCQkavsnupyURFR1rHtlRAgArIKmVQxDNR3F+KPxFOVS8pQzFxvKiYj1SiD1W5gZOA6wHJAIANnOZEilZCFobe1zYo92Fcl9kTWYx9NWgVCpFcMUec9mS1PLV3QuLciFz7KOkiOkZ7eRBQgztFnF+VNPPlZg2W2h5xlb7hIuK82qPNk/XewBtBCUOZI3iz9aYNXaxEGRhyujVZdbz9HJ1V14mdSseKSskm2ZpNPvu2PIWc4v351Hr2/+Ipnk6A8onv9wx0MgPHxGYOnY/Ns0/EI+3x0meM1PMH1iVmGp8w1N0D5ZeG8+qTrKy4NGWbuBhCKrLv+bMXzqBIE6VTvlNcTd8AfBwNzNzlOUcAAcTBZSTbK5GjQkBVYgFmajsDhGMnGg+/FF8UVLr1yaPT0oR+FHgha75877bLzbr8GiywPSn//2CbVr+N+1Uw036G15Pyg5WBT4OPDgUJdpGmQxD3dXuab77fXsPV209gr+dfnbZqSE/YkqzyfnluLITx6fEUGgySPUabsOfKypgjpyarJDC2l0VpxZgEzprusvvtM4Kmw6nlFc0Rzsr446eA9fJmJnZkvzmFZUAqyjqqXHsSuvfxO99tbLtqV9zAyvdKAzKwcS2x8EN6xpSK761bzVTiRWIwq5x3K+vkatHvAdeOaACba2eP8cWKo74qOaC68dCcuNm/TvFAWo83KWiCSHQAGTAtDt4Hf6A3Ut+UZ8wBTyQbSWulF4U/C0Duzzuk3xd+xkqysCCNShTtlAJQDAEjIdxC4NXhuQ2v74TcTOhOtFos2COmd9XWY8dqCBvzydSE+1IvR8rnJlB6CIloAlCIZeFFUdzA/7fyklEmb/Msyb+TBUnqnhUMfINCj++kzx5o58CKdpwxf6x3ZUN+kcybhHL0yMN0DXIdCjKFF7+Bw6AV9Ya8FwGAq1LqM0sEMEQrAtxgBiipR8amAfQbHIk+GBc/wHxoeFxYYcjg0wDFr/GKzJSMSOQmOicycsQnMZcPjmVF2sczZNjF4qE0osDG0pmq7GoUJ1/MH2gxwhhPoQPbAJcNL8DzjfnKP88bptRDcx2wZ1anYggq7vmVIiSuaqs4LjRvKvGFtNyRY9GnStqETbORM+DpXLi3Kadn8MFW6tjJVvfDGWvUGYZo6+7FAXdW6mzhUc1h9sKqg63wd/bg6zocXhH9/agH9R4pPz5k+WU/DEMJ+fd4P6MMbp8+QxG8tS8hzTVHEzdZdZE7dBHYVeYEbYu0JU68R45dU2AakuW4ZE2NeBwH8nYDeAzfTt8HmD53X6wEjOGKQYONnu0IFF6J2AInGsTjht3107G2+XpG3E93bn2w2HmzoYxc3ZuqbuYvhx6+LVdKSQUudYuk4fmLSQlaaazRtU3x9X6xNTd8td9BKD0+rRPdv6TjNOP/s+cYfGthBmw35Dv5SCF1Zl1kq4A8epBtzNCYF+ghkD2pW3rymRskSg+UjfiCCL21XxZdtohOIQtNOcjEU2mq1TLngWeqtbdB+BWrfjPz5Htnjc2CACdkHfyuErixceOKY9Kl045nCk4KzF89EwlhPk/bMB0VaC24x64jfchjrAbG3eg+RV7MHOqr2DeXT4EiDvgGa+t7L3IeTDCRvyNpRDwAA8OuBTvfyvULospy4HFGgX1Dso4qyo7HnU5Y6b/WPGxTnFstmYFxgwNIwkxxXszI9P9GJdIxghlgnsiGN59sn2MSNjB+33T924emv41KKIsJsxlnbtt1v6ahLuOMG+6ogX+MfCXlVHROT3JoekJRRHnFB0CQoTe8+X1fDkCpvUVdfntEW171UbKk8pD5Wm6qE7NjzaG2N4G7atUUXBDmf5qUljd+6ZX9gfkHdbmE5AOCdfahfQmCDPlBdbKhRhFy+SRS3lxKnG+kJxH0K+uH8V0L6Mc97S/8DAAD//0cdEoEAAAAGSURBVAMAD07JgRSCBEMAAAAASUVORK5CYII=",
-  "updatedAt": "2026-06-04T15:04:44.540Z",
-  "version": 1780585484540,
+  "updatedAt": "2026-06-04T15:05:07.462Z",
+  "version": 1780585507462,
   "standings": [
     {
       "rank": 1,
@@ -111,9 +111,82 @@
       "ga": -35
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 1,
+      "t1": "nico c",
+      "t2": "lolo",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 2,
+      "t1": "isaac",
+      "t2": "jp",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 3,
+      "t1": "vv",
+      "t2": "rico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 4,
+      "t1": "micka",
+      "t2": "nico g",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 1,
+      "t1": "nico c",
+      "t2": "lolo",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 2,
+      "t1": "isaac",
+      "t2": "jp",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 3,
+      "t1": "vv",
+      "t2": "rico",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 4,
+      "t1": "micka",
+      "t2": "nico g",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 3,
       "roundLabel": "Partie 3",
