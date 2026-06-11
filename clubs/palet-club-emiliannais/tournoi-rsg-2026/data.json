@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T13:53:53.533Z",
-  "version": 1781186033533,
+  "updatedAt": "2026-06-11T13:53:59.313Z",
+  "version": 1781186039313,
   "standings": [
     {
       "rank": 1,
@@ -183,9 +183,136 @@
       "ga": -13
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 1,
+      "t1": "CREVETTES",
+      "t2": "PATOCHE",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 2,
+      "t1": "LOLO G",
+      "t2": "JP",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 3,
+      "t1": "JC",
+      "t2": "RONAN",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 4,
+      "t1": "YVOS",
+      "t2": "JUJU",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 5,
+      "t1": "ESTELLE",
+      "t2": "MICKA",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 6,
+      "t1": "NINIE",
+      "t2": "KEKE",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 7,
+      "t1": "VV",
+      "t2": "LOIC",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 1,
+      "t1": "CREVETTES",
+      "t2": "PATOCHE",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 2,
+      "t1": "LOLO G",
+      "t2": "JP",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 3,
+      "t1": "JC",
+      "t2": "RONAN",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 4,
+      "t1": "YVOS",
+      "t2": "JUJU",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 5,
+      "t1": "ESTELLE",
+      "t2": "MICKA",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 6,
+      "t1": "NINIE",
+      "t2": "KEKE",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 7,
+      "t1": "VV",
+      "t2": "LOIC",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 1,
       "roundLabel": "Partie 1",
