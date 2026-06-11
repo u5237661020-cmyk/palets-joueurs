@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T19:37:23.093Z",
-  "version": 1781206643093,
+  "updatedAt": "2026-06-11T19:37:31.294Z",
+  "version": 1781206651294,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 6,
+      "name": "estelle",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 20,
+      "contre": 14,
+      "played": 2,
+      "ga": 6
+    },
+    {
+      "rank": 5,
       "id": 1,
       "name": "jp",
       "wins": 1,
@@ -63,52 +75,40 @@
       "ga": -5
     },
     {
-      "rank": 5,
-      "id": 6,
-      "name": "estelle",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 7,
-      "contre": 13,
-      "played": 1,
-      "ga": -6
-    },
-    {
       "rank": 6,
-      "id": 5,
-      "name": "micka",
-      "wins": 0,
+      "id": 7,
+      "name": "keke",
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "pour": 2,
-      "contre": 13,
-      "played": 1,
-      "ga": -11
+      "pour": 14,
+      "contre": 21,
+      "played": 2,
+      "ga": -7
     },
     {
       "rank": 7,
-      "id": 7,
-      "name": "keke",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 13,
-      "played": 1,
-      "ga": -12
-    },
-    {
-      "rank": 8,
       "id": 4,
       "name": "ronan",
       "wins": 0,
       "draws": 0,
-      "losses": 1,
-      "pour": 0,
-      "contre": 13,
-      "played": 1,
-      "ga": -13
+      "losses": 2,
+      "pour": 8,
+      "contre": 26,
+      "played": 2,
+      "ga": -18
+    },
+    {
+      "rank": 8,
+      "id": 5,
+      "name": "micka",
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "pour": 3,
+      "contre": 26,
+      "played": 2,
+      "ga": -23
     }
   ],
   "currentMatches": [
@@ -136,8 +136,8 @@
       "planche": 3,
       "t1": "estelle",
       "t2": "micka",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 2,
@@ -145,8 +145,8 @@
       "planche": 4,
       "t1": "keke",
       "t2": "ronan",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "8"
     }
   ],
   "nextMatches": [],
@@ -175,8 +175,8 @@
       "planche": 3,
       "t1": "estelle",
       "t2": "micka",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 2,
@@ -184,8 +184,8 @@
       "planche": 4,
       "t1": "keke",
       "t2": "ronan",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "8"
     },
     {
       "round": 1,
