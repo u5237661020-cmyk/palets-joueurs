@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T17:42:14.452Z",
-  "version": 1781199734452,
+  "updatedAt": "2026-06-11T17:42:25.150Z",
+  "version": 1781199745150,
   "standings": [
     {
       "rank": 1,
@@ -76,6 +76,18 @@
     },
     {
       "rank": 6,
+      "id": 10,
+      "name": "crevette",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 12,
+      "played": 1,
+      "ga": 1
+    },
+    {
+      "rank": 7,
       "id": 7,
       "name": "lolo g",
       "wins": 0,
@@ -87,21 +99,9 @@
       "ga": 0
     },
     {
-      "rank": 7,
-      "id": 8,
-      "name": "loic",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
       "rank": 8,
-      "id": 10,
-      "name": "crevette",
+      "id": 13,
+      "name": "ninie",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -112,15 +112,15 @@
     },
     {
       "rank": 9,
-      "id": 13,
-      "name": "ninie",
+      "id": 8,
+      "name": "loic",
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
+      "losses": 1,
+      "pour": 12,
+      "contre": 13,
+      "played": 1,
+      "ga": -1
     },
     {
       "rank": 10,
@@ -217,8 +217,8 @@
       "planche": 4,
       "t1": "crevette",
       "t2": "loic",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "12"
     },
     {
       "round": 1,
@@ -283,8 +283,8 @@
       "planche": 4,
       "t1": "crevette",
       "t2": "loic",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "12"
     },
     {
       "round": 1,
