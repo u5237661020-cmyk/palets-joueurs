@@ -11,11 +11,23 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T14:01:44.010Z",
-  "version": 1781186504010,
+  "updatedAt": "2026-06-11T14:02:11.019Z",
+  "version": 1781186531019,
   "standings": [
     {
       "rank": 1,
+      "id": 12,
+      "name": "PATOCHE",
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "pour": 26,
+      "contre": 1,
+      "played": 2,
+      "ga": 25
+    },
+    {
+      "rank": 2,
       "id": 14,
       "name": "JP",
       "wins": 2,
@@ -27,7 +39,7 @@
       "ga": 22
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": 4,
       "name": "JC",
       "wins": 2,
@@ -39,31 +51,7 @@
       "ga": 14
     },
     {
-      "rank": 3,
-      "id": 2,
-      "name": "CREVETTES",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 0,
-      "played": 1,
-      "ga": 13
-    },
-    {
       "rank": 4,
-      "id": 12,
-      "name": "PATOCHE",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 1,
-      "played": 1,
-      "ga": 12
-    },
-    {
-      "rank": 5,
       "id": 5,
       "name": "ESTELLE",
       "wins": 1,
@@ -75,7 +63,7 @@
       "ga": 6
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 1,
       "name": "JUJU",
       "wins": 1,
@@ -87,7 +75,7 @@
       "ga": 5
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": 9,
       "name": "KEKE",
       "wins": 1,
@@ -97,6 +85,18 @@
       "contre": 15,
       "played": 2,
       "ga": 2
+    },
+    {
+      "rank": 7,
+      "id": 2,
+      "name": "CREVETTES",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 13,
+      "contre": 13,
+      "played": 2,
+      "ga": 0
     },
     {
       "rank": 8,
@@ -190,8 +190,8 @@
       "planche": 1,
       "t1": "CREVETTES",
       "t2": "PATOCHE",
-      "score1": "",
-      "score2": ""
+      "score1": "0",
+      "score2": "13"
     },
     {
       "round": 2,
@@ -256,8 +256,8 @@
       "planche": 1,
       "t1": "CREVETTES",
       "t2": "PATOCHE",
-      "score1": "",
-      "score2": ""
+      "score1": "0",
+      "score2": "13"
     },
     {
       "round": 2,
