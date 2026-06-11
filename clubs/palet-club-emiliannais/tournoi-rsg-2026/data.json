@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T16:48:31.638Z",
-  "version": 1781196511638,
+  "updatedAt": "2026-06-11T16:48:40.141Z",
+  "version": 1781196520141,
   "standings": [
     {
       "rank": 1,
@@ -138,6 +138,18 @@
       "rank": 11,
       "id": 11,
       "name": "vv",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "pour": 0,
+      "contre": 0,
+      "played": 0,
+      "ga": 0
+    },
+    {
+      "rank": 12,
+      "id": 12,
+      "name": "ronan",
       "wins": 0,
       "draws": 0,
       "losses": 0,
