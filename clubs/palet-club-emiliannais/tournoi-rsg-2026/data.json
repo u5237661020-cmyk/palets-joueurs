@@ -3,16 +3,21 @@
   "date": "",
   "round": 3,
   "totalRounds": 3,
-  "phase": "qualifying",
-  "phaseLabel": "Partie 3",
+  "phase": "final",
+  "phaseLabel": "Phase finale · FINALE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "3/4",
-  "finalProgress": null,
+  "headerRoundValue": "4/4",
+  "finalProgress": {
+    "done": 0,
+    "total": 2,
+    "current": 1,
+    "currentLabel": "FINALE"
+  },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T19:38:08.454Z",
-  "version": 1781206688454,
+  "updatedAt": "2026-06-11T19:38:11.328Z",
+  "version": 1781206691328,
   "standings": [
     {
       "rank": 1,
@@ -113,40 +118,26 @@
   ],
   "currentMatches": [
     {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 1,
+      "round": "finale",
+      "roundLabel": "FINALE",
+      "planche": "FINALE",
+      "matchId": "finale",
+      "isFinal": true,
       "t1": "vv",
-      "t2": "lolo",
-      "score1": "13",
-      "score2": "4"
+      "t2": "nico",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 2,
-      "t1": "nico",
-      "t2": "estelle",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 3,
-      "t1": "jp",
-      "t2": "keke",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 4,
-      "t1": "ronan",
-      "t2": "micka",
-      "score1": "13",
-      "score2": "7"
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "lolo",
+      "t2": "jp",
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
