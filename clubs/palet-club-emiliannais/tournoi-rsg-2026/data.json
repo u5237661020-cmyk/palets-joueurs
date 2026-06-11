@@ -11,35 +11,23 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T19:30:37.404Z",
-  "version": 1781206237404,
+  "updatedAt": "2026-06-11T19:31:30.497Z",
+  "version": 1781206290497,
   "standings": [
     {
       "rank": 1,
-      "id": 2,
-      "name": "estelle",
+      "id": 9,
+      "name": "micka",
       "wins": 1,
       "draws": 0,
       "losses": 0,
       "pour": 13,
-      "contre": 9,
+      "contre": 2,
       "played": 1,
-      "ga": 4
+      "ga": 11
     },
     {
       "rank": 2,
-      "id": 3,
-      "name": "vv",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 5,
-      "played": 1,
-      "ga": 8
-    },
-    {
-      "rank": 3,
       "id": 4,
       "name": "jc",
       "wins": 1,
@@ -49,6 +37,18 @@
       "contre": 3,
       "played": 1,
       "ga": 10
+    },
+    {
+      "rank": 3,
+      "id": 3,
+      "name": "vv",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 5,
+      "played": 1,
+      "ga": 8
     },
     {
       "rank": 4,
@@ -64,30 +64,18 @@
     },
     {
       "rank": 5,
-      "id": 9,
-      "name": "micka",
+      "id": 2,
+      "name": "estelle",
       "wins": 1,
       "draws": 0,
       "losses": 0,
       "pour": 13,
-      "contre": 2,
+      "contre": 9,
       "played": 1,
-      "ga": 11
+      "ga": 4
     },
     {
       "rank": 6,
-      "id": 10,
-      "name": "crevette",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 12,
-      "played": 1,
-      "ga": 1
-    },
-    {
-      "rank": 7,
       "id": 13,
       "name": "ninie",
       "wins": 1,
@@ -97,6 +85,18 @@
       "contre": 10,
       "played": 1,
       "ga": 3
+    },
+    {
+      "rank": 7,
+      "id": 10,
+      "name": "crevette",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 12,
+      "played": 1,
+      "ga": 1
     },
     {
       "rank": 8,
