@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T17:37:15.926Z",
-  "version": 1781199435926,
+  "updatedAt": "2026-06-11T17:37:29.767Z",
+  "version": 1781199449767,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 4,
+      "name": "jc",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 3,
+      "played": 1,
+      "ga": 10
+    },
+    {
+      "rank": 3,
       "id": 5,
       "name": "jp",
       "wins": 1,
@@ -39,7 +51,7 @@
       "ga": 8
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": 1,
       "name": "juju",
       "wins": 0,
@@ -51,7 +63,7 @@
       "ga": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": 2,
       "name": "estelle",
       "wins": 0,
@@ -63,21 +75,9 @@
       "ga": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": 3,
       "name": "vv",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 6,
-      "id": 4,
-      "name": "jc",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -136,18 +136,6 @@
     },
     {
       "rank": 11,
-      "id": 11,
-      "name": "patoche",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 12,
       "id": 13,
       "name": "ninie",
       "wins": 0,
@@ -159,7 +147,7 @@
       "ga": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": 12,
       "name": "ronan",
       "wins": 0,
@@ -169,6 +157,18 @@
       "contre": 13,
       "played": 1,
       "ga": -8
+    },
+    {
+      "rank": 13,
+      "id": 11,
+      "name": "patoche",
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "pour": 3,
+      "contre": 13,
+      "played": 1,
+      "ga": -10
     },
     {
       "rank": 14,
@@ -226,8 +226,8 @@
       "planche": 5,
       "t1": "jc",
       "t2": "patoche",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "3"
     },
     {
       "round": 1,
@@ -292,8 +292,8 @@
       "planche": 5,
       "t1": "jc",
       "t2": "patoche",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "3"
     },
     {
       "round": 1,
