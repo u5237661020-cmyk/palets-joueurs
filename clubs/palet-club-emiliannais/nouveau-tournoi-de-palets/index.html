@@ -6,9 +6,9 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Palets RSG">
+<meta name="apple-mobile-web-app-title" content="Palets">
 <meta name="theme-color" content="#090e18">
-<title>Tournoi Palets</title>
+<title>Tournoi de Palets - Palet Club Émiliannais</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
@@ -55,14 +55,14 @@ tr.rank3 td{background:#92400e11!important}
 </head>
 <body>
 
-<!-- Overlay choix Ã©quipe -->
+<!-- Overlay choix équipe -->
 <div id="team-picker" style="display:none;position:fixed;inset:0;background:#090e18;z-index:500;overflow-y:auto;padding:20px">
   <div style="max-width:500px;margin:0 auto">
     <div class="gf" style="color:#eab308;font-size:28px;margin-bottom:4px">CHOISIR MON EQUIPE</div>
-    <div style="color:#4a7090;font-size:13px;font-family:'Barlow Condensed',sans-serif;margin-bottom:16px">Votre Ã©quipe sera mÃ©morisÃ©e. Vous recevrez une notification Ã  chaque nouveau match.</div>
-    <input id="team-search" class="input" placeholder="Rechercher mon Ã©quipe..." oninput="filterTeams(this.value)" style="margin-bottom:12px"/>
+    <div style="color:#4a7090;font-size:13px;font-family:'Barlow Condensed',sans-serif;margin-bottom:16px">Votre équipe sera mémorisée. Vous recevrez une notification à chaque nouveau match.</div>
+    <input id="team-search" class="input" placeholder="Rechercher mon équipe..." oninput="filterTeams(this.value)" style="margin-bottom:12px"/>
     <div id="team-list" style="display:flex;flex-direction:column;gap:8px"></div>
-    <button class="btn btn-mut" style="margin-top:16px" onclick="closePicker()">Continuer sans Ã©quipe</button>
+    <button class="btn btn-mut" style="margin-top:16px" onclick="closePicker()">Continuer sans équipe</button>
   </div>
 </div>
 
@@ -83,48 +83,81 @@ tr.rank3 td{background:#92400e11!important}
 
 <!-- Nav -->
 <nav>
-  <button class="active" onclick="showTab('my')" id="tab-my">â­ MON MATCH</button>
-  <button onclick="showTab('matchs')" id="tab-matchs">âš”ï¸ MATCHS</button>
-  <button onclick="showTab('classement')" id="tab-classement">ðŸ† CLASSEMENT</button>
-  <button onclick="showTab('prochains')" id="tab-prochains">ðŸŽ¯ PROCHAINS</button>
+  <button class="active" onclick="showTab('my')" id="tab-my">⭐ MON MATCH</button>
+  <button onclick="showTab('matchs')" id="tab-matchs">⚔️ MATCHS</button>
+  <button onclick="showTab('classement')" id="tab-classement">🏆 CLASSEMENT</button>
+  <button onclick="showTab('prochains')" id="tab-prochains">🎯 PROCHAINS</button>
 </nav>
 
 <div id="content" style="padding:12px 12px 80px;max-width:600px;margin:0 auto"></div>
-<button id="refresh-btn" onclick="manualRefresh()">ðŸ”„</button>
+<button id="refresh-btn" onclick="manualRefresh()">🔄</button>
 
 <script>
 const FETCH_URL = "https://u5237661020-cmyk.github.io/palets-joueurs/clubs/palet-club-emiliannais/nouveau-tournoi-de-palets/data.json";
-const INITIAL_DATA = {"tournoi":"Nouveau tournoi de palets","date":"","round":1,"totalRounds":7,"phase":"qualifying","phaseLabel":"Partie 1","finalComplete":false,"headerRoundLabel":"PARTIE","headerRoundValue":"1/8","finalProgress":null,"rulesText":"ðŸ RÃˆGLEMENT DU TOURNOI\\n\\nâ€¢ Chaque doublette joue les parties prÃ©vues en phase qualificative.\\nâ€¢ Une victoire rapporte 1 victoire au classement ; les dÃ©partages se font selon le critÃ¨re choisi dans la configuration.\\nâ€¢ Les points marquÃ©s et encaissÃ©s servent au goal-average si nÃ©cessaire.\\nâ€¢ En cas de phase finale, les Ã©quipes qualifiÃ©es disputent les demi-finales / finale ou finale directe selon le format retenu.\\nâ€¢ Si les matchs de classement sont activÃ©s, ils dÃ©terminent les places 5/6, 7/8, etc.\\nâ€¢ Tout score saisi et publiÃ© devient visible dans l'application joueurs.\\n\\nMerci de respecter le fair-play, les adversaires et les bÃ©nÃ©voles. Bon tournoi Ã  toutes et Ã  tous !","updatedAt":"2026-06-03T06:33:07.257Z","version":1780468387257,"standings":[],"currentMatches":[],"nextMatches":[],"history":[]};
+const INITIAL_DATA_B64 = "eyJ0b3Vybm9pIjoiTm91dmVhdSB0b3Vybm9pIGRlIHBhbGV0cyIsImRhdGUiOiIiLCJyb3VuZCI6MSwidG90YWxSb3VuZHMiOjcsInBoYXNlIjoicXVhbGlmeWluZyIsInBoYXNlTGFiZWwiOiJQYXJ0aWUgMSIsImZpbmFsQ29tcGxldGUiOmZhbHNlLCJoZWFkZXJSb3VuZExhYmVsIjoiUEFSVElFIiwiaGVhZGVyUm91bmRWYWx1ZSI6IjEvOCIsImZpbmFsUHJvZ3Jlc3MiOm51bGwsInJ1bGVzVGV4dCI6IvCfj4EgUsOIR0xFTUVOVCBEVSBUT1VSTk9JXG5cbuKAoiBDaGFxdWUgZG91YmxldHRlIGpvdWUgbGVzIHBhcnRpZXMgcHLDqXZ1ZXMgZW4gcGhhc2UgcXVhbGlmaWNhdGl2ZS5cbuKAoiBVbmUgdmljdG9pcmUgcmFwcG9ydGUgMSB2aWN0b2lyZSBhdSBjbGFzc2VtZW50IDsgbGVzIGTDqXBhcnRhZ2VzIHNlIGZvbnQgc2Vsb24gbGUgY3JpdMOocmUgY2hvaXNpIGRhbnMgbGEgY29uZmlndXJhdGlvbi5cbuKAoiBMZXMgcG9pbnRzIG1hcnF1w6lzIGV0IGVuY2Fpc3PDqXMgc2VydmVudCBhdSBnb2FsLWF2ZXJhZ2Ugc2kgbsOpY2Vzc2FpcmUuXG7igKIgRW4gY2FzIGRlIHBoYXNlIGZpbmFsZSwgbGVzIMOpcXVpcGVzIHF1YWxpZmnDqWVzIGRpc3B1dGVudCBsZXMgZGVtaS1maW5hbGVzIC8gZmluYWxlIG91IGZpbmFsZSBkaXJlY3RlIHNlbG9uIGxlIGZvcm1hdCByZXRlbnUuXG7igKIgU2kgbGVzIG1hdGNocyBkZSBjbGFzc2VtZW50IHNvbnQgYWN0aXbDqXMsIGlscyBkw6l0ZXJtaW5lbnQgbGVzIHBsYWNlcyA1LzYsIDcvOCwgZXRjLlxu4oCiIFRvdXQgc2NvcmUgc2Fpc2kgZXQgcHVibGnDqSBkZXZpZW50IHZpc2libGUgZGFucyBsJ2FwcGxpY2F0aW9uIGpvdWV1cnMuXG5cbk1lcmNpIGRlIHJlc3BlY3RlciBsZSBmYWlyLXBsYXksIGxlcyBhZHZlcnNhaXJlcyBldCBsZXMgYsOpbsOpdm9sZXMuIEJvbiB0b3Vybm9pIMOgIHRvdXRlcyBldCDDoCB0b3VzICEiLCJub3RpZmljYXRpb25Mb2dvIjoiIiwidXBkYXRlZEF0IjoiMjAyNi0wNi0xMVQxMzoxODozNC40MTFaIiwidmVyc2lvbiI6MTc4MTE4MzkxNDQxMSwic3RhbmRpbmdzIjpbXSwiY3VycmVudE1hdGNoZXMiOltdLCJuZXh0TWF0Y2hlcyI6W10sImhpc3RvcnkiOltdfQ==";
+const DEFAULT_NOTIFICATION_ICON = "";
+function parseInitialData(){
+  if(!INITIAL_DATA_B64)return null;
+  try{return JSON.parse(decodeURIComponent(escape(atob(INITIAL_DATA_B64))));}
+  catch(e){return null;}
+}
+const INITIAL_DATA = parseInitialData();
 
 let data = INITIAL_DATA;
 let myTeam = localStorage.getItem('palets-my-team') || null;
 let myTeamName = localStorage.getItem('palets-my-team-name') || null;
 let currentTab = 'my';
 let lastMatchKey = localStorage.getItem('palets-last-match') || null;
-let notifGranted = Notification?.permission === 'granted';
+let notifGranted = ('Notification' in window) && Notification.permission === 'granted';
 let refreshing = false;
+let booted = false;
 
-// â”€â”€ Init â”€â”€
-window.addEventListener('load', () => {
-  if (!myTeam && data && data.standings && data.standings.length > 0) {
-    openPicker();
-  } else {
-    render();
-    updateHeader();
-  }
-  if (FETCH_URL) {
-    loadData();
-    setInterval(loadData, 30000);
-  }
-  if (myTeam) updateMyTeamBtn();
+// ── Init ──
+window.addEventListener('error', (event) => {
+  const el = document.getElementById('content');
+  if (el) el.innerHTML = '<div class="empty" style="color:#ef4444">Erreur de chargement<br>' + String(event.message || 'Erreur inconnue') + '</div>';
 });
 
-// â”€â”€ Fetch â”€â”€
+function ensureVisibleContent(){
+  const el = document.getElementById('content');
+  if (!el) return;
+  if (el.innerHTML.trim()) return;
+  el.innerHTML = '<div class="empty"><div style="font-size:34px;margin-bottom:10px">⭐</div><div style="font-family:Bebas Neue,cursive;font-size:22px;color:#eab308;margin-bottom:8px">Choisir mon equipe</div><div style="margin-bottom:16px">Les resultats sont disponibles. Selectionnez votre equipe ou consultez les onglets Matchs / Classement.</div><button class="btn" style="max-width:260px;margin:0 auto 8px" onclick="openPicker()">Choisir mon equipe</button><button class="btn btn-mut" style="max-width:260px;margin:0 auto" onclick="manualRefresh()">Actualiser</button></div>';
+}
+
+function bootPlayer(){
+  if (booted) return;
+  booted = true;
+  try {
+    updateHeader();
+    render();
+    if (!myTeam && data && data.standings && data.standings.length > 0) {
+      openPicker();
+    }
+    if (FETCH_URL) {
+      loadData();
+      setInterval(loadData, 30000);
+    }
+    if (myTeam) updateMyTeamBtn();
+    setTimeout(ensureVisibleContent, 400);
+  } catch(e) {
+    const el = document.getElementById('content');
+    if (el) el.innerHTML = '<div class="empty" style="color:#ef4444">Erreur de chargement<br>' + String(e.message || e) + '</div>';
+  }
+}
+
+if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', bootPlayer);
+else bootPlayer();
+
+// ── Fetch ──
 async function loadData() {
   if (!FETCH_URL) return;
   try {
     const r = await fetch(FETCH_URL + '?_=' + Date.now());
-    if (!r.ok) return;
+    if (!r.ok) {
+      if (!data) document.getElementById('content').innerHTML = '<div class="empty">Resultats non disponibles pour le moment.</div>';
+      return;
+    }
     const fresh = await r.json();
     const changed = JSON.stringify(fresh) !== JSON.stringify(data);
     data = fresh;
@@ -133,7 +166,10 @@ async function loadData() {
       updateHeader();
       checkNotification();
     }
-  } catch(e) {}
+    setTimeout(ensureVisibleContent, 100);
+  } catch(e) {
+    if (!data) document.getElementById('content').innerHTML = '<div class="empty" style="color:#ef4444">Impossible de charger les resultats.</div>';
+  }
 }
 
 async function manualRefresh() {
@@ -141,10 +177,10 @@ async function manualRefresh() {
   btn.innerHTML = '<span class="spinner"></span>';
   btn.disabled = true;
   await loadData();
-  setTimeout(() => { btn.innerHTML = 'ðŸ”„'; btn.disabled = false; }, 600);
+  setTimeout(() => { btn.innerHTML = '🔄'; btn.disabled = false; }, 600);
 }
 
-// â”€â”€ Notifications push â”€â”€
+// ── Notifications push ──
 async function requestNotif() {
   if (!('Notification' in window)) return false;
   if (Notification.permission === 'granted') { notifGranted = true; return true; }
@@ -158,14 +194,15 @@ async function requestNotif() {
 function sendNotif(title, body) {
   if (!notifGranted) return;
   try {
-    const n = new Notification(title, { body, icon: '', badge: '', tag: 'palets-match' });
+    const icon = (data && data.notificationLogo) || DEFAULT_NOTIFICATION_ICON || '';
+    const n = new Notification(title, { body, icon, badge: icon, tag: 'palets-match' });
     setTimeout(() => n.close(), 8000);
   } catch(e) {}
 }
 
 function checkNotification() {
   if (!myTeam || !data) return;
-  // VÃ©rifier match en cours
+  // Vérifier match en cours
   const m = getCurrentMyMatch();
   if (m) {
     const key = 'p' + data.round + '-' + m.planche;
@@ -175,7 +212,7 @@ function checkNotification() {
       sendNotif('Nouveau match - ' + myTeamName, 'Partie ' + data.round + ' - Planche ' + m.planche + ' vs ' + (m.t1 === myTeamName ? m.t2 : m.t1));
     }
   }
-  // VÃ©rifier prochain match
+  // Vérifier prochain match
   const n = getNextMyMatch();
   if (n) {
     const key2 = 'next-p' + (parseInt(data.round)+1) + '-' + n.planche;
@@ -197,16 +234,16 @@ function getNextMyMatch() {
   return (data.nextMatches || []).find(m => m.t1 === myTeamName || m.t2 === myTeamName);
 }
 
-// â”€â”€ Header â”€â”€
+// ── Header ──
 function updateHeader() {
   if (!data) return;
   document.getElementById('h-name').textContent = data.tournoi || 'Tournoi de Palets';
   const upd = data.updatedAt ? new Date(data.updatedAt).toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'}) : '-';
-  document.getElementById('h-info').textContent = (data.standings?.length||0) + ' Ã©quipes Â· ' + data.totalRounds + ' parties Â· ' + upd;
+  document.getElementById('h-info').textContent = (data.standings?.length||0) + ' équipes · ' + data.totalRounds + ' parties · ' + upd;
   document.getElementById('h-round-num').textContent = (data.round||'-') + '/' + (data.totalRounds||'-');
 }
 
-// â”€â”€ Team picker â”€â”€
+// ── Team picker ──
 function openPicker() {
   if (!data || !data.standings || !data.standings.length) return;
   document.getElementById('team-picker').style.display = 'block';
@@ -220,6 +257,15 @@ function closePicker() {
   render();
 }
 
+function clearTeam() {
+  myTeam = null;
+  myTeamName = null;
+  localStorage.removeItem('palets-my-team');
+  localStorage.removeItem('palets-my-team-name');
+  updateMyTeamBtn();
+  openPicker();
+}
+
 function filterTeams(q) {
   if (!data) return;
   const filtered = q ? data.standings.filter(t => t.name.toLowerCase().includes(q.toLowerCase())) : data.standings;
@@ -228,16 +274,25 @@ function filterTeams(q) {
 
 function renderTeamList(teams) {
   const el = document.getElementById('team-list');
-  el.innerHTML = teams.map(t => `
-    <div onclick="selectTeam('${t.id}',${JSON.stringify(t.name).replace(/'/g,"\'")})" style="background:${String(t.id)===myTeam?'#2a1a4a':'#172438'};border:1px solid ${String(t.id)===myTeam?'#a855f7':'#1e3a5a'};border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;align-items:center;gap:12px">
-      <span style="font-family:'Bebas Neue',cursive;color:#eab308;font-size:20px;min-width:32px">${String(t.rank).padStart(2,'0')}</span>
-      <div>
-        <div style="font-family:'Bebas Neue',cursive;font-size:18px;color:${String(t.id)===myTeam?'#a855f7':'#e2eaff'}">${t.name}</div>
-        <div style="font-size:12px;color:#4a7090">${t.wins}V Â· ${t.losses}D Â· GA ${t.pour-t.contre>0?'+':''}${t.pour-t.contre}</div>
-      </div>
-      ${String(t.id)===myTeam?'<span class="badge-me" style="margin-left:auto">Mon Ã©quipe</span>':''}
-    </div>
-  `).join('');
+  el.innerHTML = teams.map(t => {
+    const isMine = String(t.id) === String(myTeam);
+    const diff = t.pour - t.contre;
+    return '<button type="button" data-team-id="' + String(t.id).replace(/"/g,'&quot;') + '" style="width:100%;text-align:left;background:' + (isMine ? '#2a1a4a' : '#172438') + ';border:1px solid ' + (isMine ? '#a855f7' : '#1e3a5a') + ';border-radius:10px;padding:12px 14px;cursor:pointer;display:flex;align-items:center;gap:12px;color:#e2eaff">' +
+      '<span style="font-family:' + "'Bebas Neue'" + ',cursive;color:#eab308;font-size:20px;min-width:32px">' + String(t.rank).padStart(2,'0') + '</span>' +
+      '<span style="display:block">' +
+        '<span style="display:block;font-family:' + "'Bebas Neue'" + ',cursive;font-size:18px;color:' + (isMine ? '#a855f7' : '#e2eaff') + '">' + t.name + '</span>' +
+        '<span style="display:block;font-size:12px;color:#4a7090">' + t.wins + 'V - ' + t.losses + 'D - GA ' + (diff > 0 ? '+' : '') + diff + '</span>' +
+      '</span>' +
+      (isMine ? '<span class="badge-me" style="margin-left:auto">Mon equipe</span>' : '') +
+    '</button>';
+  }).join('');
+  el.querySelectorAll('[data-team-id]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.getAttribute('data-team-id');
+      const team = (data?.standings || []).find(t => String(t.id) === String(id));
+      if (team) selectTeam(team.id, team.name);
+    });
+  });
 }
 
 function selectTeam(id, name) {
@@ -262,7 +317,7 @@ function updateMyTeamBtn() {
   }
 }
 
-// â”€â”€ Tabs â”€â”€
+// ── Tabs ──
 function showTab(tab) {
   currentTab = tab;
   document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
@@ -273,6 +328,10 @@ function showTab(tab) {
 
 function render() {
   const el = document.getElementById('content');
+  if (!data) {
+    el.innerHTML = '<div class="empty"><span class="spinner"></span><br>Chargement des resultats...</div>';
+    return;
+  }
   el.classList.remove('fade');
   void el.offsetWidth;
   el.classList.add('fade');
@@ -282,15 +341,15 @@ function render() {
   else renderProchains();
 }
 
-// â”€â”€ Mon match â”€â”€
+// ── Mon match ──
 function renderMy() {
   const el = document.getElementById('content');
   if (!myTeam || !myTeamName) {
     el.innerHTML = `<div class="empty">
-      <div style="font-size:40px;margin-bottom:12px">â­</div>
+      <div style="font-size:40px;margin-bottom:12px">⭐</div>
       <div style="font-family:'Bebas Neue',cursive;font-size:22px;color:#eab308;margin-bottom:8px">CHOISIR MON EQUIPE</div>
-      <div style="margin-bottom:20px">SÃ©lectionnez votre Ã©quipe pour voir vos matchs et recevoir des notifications.</div>
-      <button class="btn" style="max-width:280px;margin:0 auto" onclick="openPicker()">Choisir mon Ã©quipe</button>
+      <div style="margin-bottom:20px">Sélectionnez votre équipe pour voir vos matchs et recevoir des notifications.</div>
+      <button class="btn" style="max-width:280px;margin:0 auto" onclick="openPicker()">Choisir mon équipe</button>
     </div>`;
     return;
   }
@@ -301,19 +360,19 @@ function renderMy() {
 
   let h = `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;flex-wrap:wrap;gap:8px">
     <div style="font-family:'Bebas Neue',cursive;color:#a855f7;font-size:22px">${myTeamName}</div>
-    <button onclick="openPicker()" style="background:#172438;border:1px solid #1e3a5a;border-radius:7px;padding:5px 10px;color:#4a7090;font-size:12px;cursor:pointer;font-family:'Barlow Condensed',sans-serif">Changer d'Ã©quipe</button>
+    <button onclick="clearTeam()" style="background:#172438;border:1px solid #1e3a5a;border-radius:7px;padding:5px 10px;color:#eab308;font-size:12px;cursor:pointer;font-family:Barlow Condensed,sans-serif">Changer d equipe</button>
   </div>`;
 
   // Notif permission
   if ('Notification' in window && Notification.permission === 'default') {
     h += `<div class="notif-bar">
-      <span style="font-size:24px">ðŸ””</span>
-      <div style="flex:1"><div style="color:#a855f7;font-weight:700">Activer les notifications</div><div style="color:#4a7090">Soyez alertÃ© Ã  chaque nouveau match</div></div>
+      <span style="font-size:24px">🔔</span>
+      <div style="flex:1"><div style="color:#a855f7;font-weight:700">Activer les notifications</div><div style="color:#4a7090">Soyez alerté à chaque nouveau match</div></div>
       <button onclick="requestNotif()" style="background:#a855f7;border:none;border-radius:7px;padding:7px 12px;color:#fff;font-family:'Bebas Neue',cursive;font-size:13px;cursor:pointer">ACTIVER</button>
     </div>`;
   } else if (notifGranted) {
     h += `<div style="background:#22c55e11;border:1px solid #22c55e33;border-radius:8px;padding:8px 12px;margin-bottom:10px;font-size:12px;color:#22c55e;font-family:'Barlow Condensed',sans-serif">
-      ðŸ”” Notifications activÃ©es â€” vous serez alertÃ© Ã  chaque nouveau match
+      🔔 Notifications activées — vous serez alerté à chaque nouveau match
     </div>`;
   }
 
@@ -341,7 +400,7 @@ function renderMy() {
     h += `<div class="card" style="border-color:#eab30866">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
         <span class="badge-gold">PARTIE ${data.round} - PLANCHE ${myMatch.planche}</span>
-        ${hasScore ? `<span class="badge" style="font-size:14px">${myScore} â€” ${oppScore}</span>` : '<span style="font-size:11px;color:#4a7090">En cours</span>'}
+        ${hasScore ? `<span class="badge" style="font-size:14px">${myScore} — ${oppScore}</span>` : '<span style="font-size:11px;color:#4a7090">En cours</span>'}
       </div>
       <div class="vs-row">
         <div class="team-box me"><div style="font-size:11px;color:#a855f7;margin-bottom:2px">MON EQUIPE</div>${myTeamName}</div>
@@ -351,7 +410,7 @@ function renderMy() {
     </div>`;
   } else {
     h += `<div class="card" style="text-align:center;padding:20px">
-      <div style="color:#4a7090;font-family:'Barlow Condensed',sans-serif">Aucun match en cours Ã  la partie ${data?.round||'-'}</div>
+      <div style="color:#4a7090;font-family:'Barlow Condensed',sans-serif">Aucun match en cours à la partie ${data?.round||'-'}</div>
     </div>`;
   }
 
@@ -372,19 +431,19 @@ function renderMy() {
   el.innerHTML = h;
 }
 
-// â”€â”€ Tous les matchs â”€â”€
+// ── Tous les matchs ──
 function renderMatchs() {
   const matches = data?.currentMatches || [];
-  if (!matches.length) { document.getElementById('content').innerHTML = '<div class="empty">ðŸŽ²<br>Le tirage n'a pas encore Ã©tÃ© effectuÃ©.</div>'; return; }
-  let h = `<div style="font-family:'Bebas Neue',cursive;color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${data.round} â€” MATCHS EN COURS</div>`;
+  if (!matches.length) { document.getElementById('content').innerHTML = '<div class="empty">🎲<br>Le tirage n\'a pas encore été effectué.</div>'; return; }
+  let h = `<div style="font-family:'Bebas Neue',cursive;color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${data.round} — MATCHS EN COURS</div>`;
   matches.sort((a,b)=>a.planche-b.planche).forEach(m => {
     const isMe = m.t1 === myTeamName || m.t2 === myTeamName;
     const hasScore = (m.score1 !== '' && m.score1 != null) && (m.score2 !== '' && m.score2 != null);
     h += `<div class="${isMe?'card-my':'card'}">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
         <span class="badge-gold">PLANCHE ${m.planche}</span>
-        ${isMe ? '<span class="badge-me">Mon Ã©quipe</span>' : ''}
-        ${hasScore ? `<span class="badge">${m.score1} â€” ${m.score2}</span>` : '<span style="font-size:11px;color:#4a7090">En cours</span>'}
+        ${isMe ? '<span class="badge-me">Mon équipe</span>' : ''}
+        ${hasScore ? `<span class="badge">${m.score1} — ${m.score2}</span>` : '<span style="font-size:11px;color:#4a7090">En cours</span>'}
       </div>
       <div class="vs-row">
         <div class="team-box ${m.t1===myTeamName?'me':''}">${m.t1}</div>
@@ -396,12 +455,12 @@ function renderMatchs() {
   document.getElementById('content').innerHTML = h;
 }
 
-// â”€â”€ Classement â”€â”€
+// ── Classement ──
 function renderClassement() {
   const st = data?.standings || [];
-  if (!st.length) { document.getElementById('content').innerHTML = '<div class="empty">ðŸ†<br>Le classement sera disponible aprÃ¨s la premiÃ¨re partie.</div>'; return; }
-  const medal = ['ðŸ¥‡','ðŸ¥ˆ','ðŸ¥‰'];
-  let h = '<div class="card" style="padding:0;overflow:hidden"><table><thead><tr><th style="width:36px">Rg</th><th style="text-align:left">Ã‰quipe</th><th>V</th><th>D</th><th>G.A.</th></tr></thead><tbody>';
+  if (!st.length) { document.getElementById('content').innerHTML = '<div class="empty">🏆<br>Le classement sera disponible après la première partie.</div>'; return; }
+  const medal = ['🥇','🥈','🥉'];
+  let h = '<div class="card" style="padding:0;overflow:hidden"><table><thead><tr><th style="width:36px">Rg</th><th style="text-align:left">Équipe</th><th>V</th><th>D</th><th>G.A.</th></tr></thead><tbody>';
   st.forEach((t,i) => {
     const ga = t.pour - t.contre;
     const isMe = String(t.id) === myTeam;
@@ -420,17 +479,17 @@ function renderClassement() {
   document.getElementById('content').innerHTML = h;
 }
 
-// â”€â”€ Prochains matchs â”€â”€
+// ── Prochains matchs ──
 function renderProchains() {
   const matches = data?.nextMatches || [];
-  if (!matches.length) { document.getElementById('content').innerHTML = '<div class="empty">ðŸŽ¯<br>Les prochains matchs ne sont pas encore disponibles.<br>Ils apparaÃ®tront aprÃ¨s le tirage de la prochaine partie.</div>'; return; }
-  let h = `<div style="font-family:'Bebas Neue',cursive;color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${parseInt(data.round)+1} â€” PROCHAINS MATCHS</div>`;
+  if (!matches.length) { document.getElementById('content').innerHTML = '<div class="empty">🎯<br>Les prochains matchs ne sont pas encore disponibles.<br>Ils apparaîtront après le tirage de la prochaine partie.</div>'; return; }
+  let h = `<div style="font-family:'Bebas Neue',cursive;color:#4a7090;font-size:12px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.1em">PARTIE ${parseInt(data.round)+1} — PROCHAINS MATCHS</div>`;
   matches.sort((a,b)=>a.planche-b.planche).forEach(m => {
     const isMe = m.t1 === myTeamName || m.t2 === myTeamName;
     h += `<div class="${isMe?'card-my':'card'}">
       <div style="margin-bottom:8px;display:flex;justify-content:space-between;align-items:center">
         <span class="badge-blue">PLANCHE ${m.planche}</span>
-        ${isMe ? '<span class="badge-me">Mon Ã©quipe</span>' : ''}
+        ${isMe ? '<span class="badge-me">Mon équipe</span>' : ''}
       </div>
       <div class="vs-row">
         <div class="team-box ${m.t1===myTeamName?'me':''}">${m.t1}</div>
