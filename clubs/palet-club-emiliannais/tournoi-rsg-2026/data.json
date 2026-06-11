@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 1,
+  "round": 2,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 1",
+  "phaseLabel": "Partie 2",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "1/8",
+  "headerRoundValue": "2/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T13:53:45.571Z",
-  "version": 1781186025571,
+  "updatedAt": "2026-06-11T13:53:53.533Z",
+  "version": 1781186033533,
   "standings": [
     {
       "rank": 1,
@@ -88,27 +88,27 @@
     },
     {
       "rank": 7,
+      "id": 3,
+      "name": "YVOS",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 11,
+      "contre": 7,
+      "played": 1,
+      "ga": 4
+    },
+    {
+      "rank": 8,
       "id": 1,
       "name": "JUJU",
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 8,
-      "id": 3,
-      "name": "YVOS",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
+      "losses": 1,
+      "pour": 7,
+      "contre": 11,
+      "played": 1,
+      "ga": -4
     },
     {
       "rank": 9,
@@ -183,71 +183,7 @@
       "ga": -13
     }
   ],
-  "currentMatches": [
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 1,
-      "t1": "RONAN",
-      "t2": "ESTELLE",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 2,
-      "t1": "NINIE",
-      "t2": "JP",
-      "score1": "4",
-      "score2": "13"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 3,
-      "t1": "JC",
-      "t2": "MICKA",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 4,
-      "t1": "PATOCHE",
-      "t2": "VV",
-      "score1": "13",
-      "score2": "1"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 5,
-      "t1": "LOLO G",
-      "t2": "KEKE",
-      "score1": "13",
-      "score2": "4"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 6,
-      "t1": "CREVETTES",
-      "t2": "LOIC",
-      "score1": "13",
-      "score2": "0"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 7,
-      "t1": "JUJU",
-      "t2": "YVOS",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -310,8 +246,8 @@
       "planche": 7,
       "t1": "JUJU",
       "t2": "YVOS",
-      "score1": "",
-      "score2": ""
+      "score1": "7",
+      "score2": "11"
     }
   ]
 }
