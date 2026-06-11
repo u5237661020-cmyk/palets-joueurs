@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T17:44:10.901Z",
-  "version": 1781199850901,
+  "updatedAt": "2026-06-11T17:45:14.896Z",
+  "version": 1781199914896,
   "standings": [
     {
       "rank": 1,
@@ -248,7 +248,57 @@
       "score2": "5"
     }
   ],
-  "nextMatches": [],
+  "nextMatches": [
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 1,
+      "t1": "micka",
+      "t2": "jc"
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 2,
+      "t1": "vv",
+      "t2": "jp"
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 3,
+      "t1": "estelle",
+      "t2": "ninie"
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 4,
+      "t1": "crevette",
+      "t2": "loic"
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 5,
+      "t1": "lolo g",
+      "t2": "juju"
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 6,
+      "t1": "keke",
+      "t2": "ronan"
+    },
+    {
+      "round": 2,
+      "roundLabel": "Partie 2",
+      "planche": 7,
+      "t1": "patoche",
+      "t2": "yvos"
+    }
+  ],
   "history": [
     {
       "round": 1,
