@@ -11,44 +11,44 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T19:37:05.921Z",
-  "version": 1781206625921,
+  "updatedAt": "2026-06-11T19:37:23.093Z",
+  "version": 1781206643093,
   "standings": [
     {
       "rank": 1,
-      "id": 8,
-      "name": "lolo",
-      "wins": 1,
+      "id": 2,
+      "name": "vv",
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "pour": 13,
-      "contre": 0,
-      "played": 1,
-      "ga": 13
+      "pour": 26,
+      "contre": 4,
+      "played": 2,
+      "ga": 22
     },
     {
       "rank": 2,
+      "id": 8,
+      "name": "lolo",
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "pour": 26,
+      "contre": 9,
+      "played": 2,
+      "ga": 17
+    },
+    {
+      "rank": 3,
       "id": 3,
       "name": "nico",
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 1,
-      "played": 1,
-      "ga": 12
-    },
-    {
-      "rank": 3,
-      "id": 2,
-      "name": "vv",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 2,
-      "played": 1,
-      "ga": 11
+      "losses": 1,
+      "pour": 22,
+      "contre": 14,
+      "played": 2,
+      "ga": 8
     },
     {
       "rank": 4,
@@ -56,11 +56,11 @@
       "name": "jp",
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 7,
-      "played": 1,
-      "ga": 6
+      "losses": 1,
+      "pour": 15,
+      "contre": 20,
+      "played": 2,
+      "ga": -5
     },
     {
       "rank": 5,
@@ -118,8 +118,8 @@
       "planche": 1,
       "t1": "lolo",
       "t2": "nico",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "9"
     },
     {
       "round": 2,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "vv",
       "t2": "jp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 2,
@@ -157,8 +157,8 @@
       "planche": 1,
       "t1": "lolo",
       "t2": "nico",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "9"
     },
     {
       "round": 2,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "vv",
       "t2": "jp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 2,
