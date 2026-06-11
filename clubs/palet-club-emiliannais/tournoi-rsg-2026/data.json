@@ -4,20 +4,20 @@
   "round": 3,
   "totalRounds": 3,
   "phase": "final",
-  "phaseLabel": "Phase finale · PETITE FINALE",
-  "finalComplete": false,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "4/4",
   "finalProgress": {
-    "done": 1,
+    "done": 2,
     "total": 2,
     "current": 2,
-    "currentLabel": "PETITE FINALE"
+    "currentLabel": ""
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T19:38:24.080Z",
-  "version": 1781206704080,
+  "updatedAt": "2026-06-11T19:38:28.621Z",
+  "version": 1781206708621,
   "standings": [
     {
       "rank": 1,
@@ -47,13 +47,13 @@
       "rank": 3,
       "id": 8,
       "name": "lolo",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 1,
-      "pour": 30,
-      "contre": 22,
-      "played": 3,
-      "ga": 8
+      "pour": 43,
+      "contre": 29,
+      "played": 4,
+      "ga": 14
     },
     {
       "rank": 4,
@@ -61,11 +61,11 @@
       "name": "jp",
       "wins": 2,
       "draws": 0,
-      "losses": 1,
-      "pour": 28,
-      "contre": 22,
-      "played": 3,
-      "ga": 6
+      "losses": 2,
+      "pour": 35,
+      "contre": 35,
+      "played": 4,
+      "ga": 0
     },
     {
       "rank": 5,
@@ -116,19 +116,7 @@
       "ga": -29
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "lolo",
-      "t2": "jp",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -141,6 +129,17 @@
       "t2": "nico",
       "score1": "13",
       "score2": "2"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "lolo",
+      "t2": "jp",
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 3,
