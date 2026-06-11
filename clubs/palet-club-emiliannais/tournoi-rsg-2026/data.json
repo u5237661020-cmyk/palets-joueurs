@@ -4,32 +4,32 @@
   "round": 3,
   "totalRounds": 3,
   "phase": "final",
-  "phaseLabel": "Phase finale · FINALE",
+  "phaseLabel": "Phase finale · PETITE FINALE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "4/4",
   "finalProgress": {
-    "done": 0,
+    "done": 1,
     "total": 2,
-    "current": 1,
-    "currentLabel": "FINALE"
+    "current": 2,
+    "currentLabel": "PETITE FINALE"
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-11T19:38:11.328Z",
-  "version": 1781206691328,
+  "updatedAt": "2026-06-11T19:38:24.080Z",
+  "version": 1781206704080,
   "standings": [
     {
       "rank": 1,
       "id": 2,
       "name": "vv",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "pour": 39,
-      "contre": 8,
-      "played": 3,
-      "ga": 31
+      "pour": 52,
+      "contre": 10,
+      "played": 4,
+      "ga": 42
     },
     {
       "rank": 2,
@@ -37,11 +37,11 @@
       "name": "nico",
       "wins": 2,
       "draws": 0,
-      "losses": 1,
-      "pour": 35,
-      "contre": 21,
-      "played": 3,
-      "ga": 14
+      "losses": 2,
+      "pour": 37,
+      "contre": 34,
+      "played": 4,
+      "ga": 3
     },
     {
       "rank": 3,
@@ -119,17 +119,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "FINALE",
-      "planche": "FINALE",
-      "matchId": "finale",
-      "isFinal": true,
-      "t1": "vv",
-      "t2": "nico",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "PETITE FINALE",
       "planche": "PETITE FINALE",
       "matchId": "petite",
@@ -142,6 +131,17 @@
   ],
   "nextMatches": [],
   "history": [
+    {
+      "round": "finale",
+      "roundLabel": "FINALE",
+      "planche": "FINALE",
+      "matchId": "finale",
+      "isFinal": true,
+      "t1": "vv",
+      "t2": "nico",
+      "score1": "13",
+      "score2": "2"
+    },
     {
       "round": 3,
       "roundLabel": "Partie 3",
