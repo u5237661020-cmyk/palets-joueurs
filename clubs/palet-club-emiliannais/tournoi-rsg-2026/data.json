@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-16T14:22:34.048Z",
-  "version": 1781619754048,
+  "updatedAt": "2026-06-16T14:22:38.394Z",
+  "version": 1781619758394,
   "standings": [
     {
       "rank": 1,
@@ -102,13 +102,13 @@
       "rank": 8,
       "id": 8,
       "name": "i",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 3,
-      "pour": 36,
-      "contre": 49,
-      "played": 5,
-      "ga": -13
+      "pour": 49,
+      "contre": 58,
+      "played": 6,
+      "ga": -9
     },
     {
       "rank": 9,
@@ -128,11 +128,11 @@
       "name": "o",
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "pour": 37,
-      "contre": 56,
-      "played": 5,
-      "ga": -19
+      "losses": 4,
+      "pour": 46,
+      "contre": 69,
+      "played": 6,
+      "ga": -23
     },
     {
       "rank": 11,
@@ -202,8 +202,8 @@
       "planche": 5,
       "t1": "i",
       "t2": "o",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "9"
     },
     {
       "round": 6,
@@ -259,8 +259,8 @@
       "planche": 5,
       "t1": "i",
       "t2": "o",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "9"
     },
     {
       "round": 6,
