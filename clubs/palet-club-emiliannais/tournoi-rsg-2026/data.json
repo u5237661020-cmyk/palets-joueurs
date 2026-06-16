@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 6,
+  "round": 7,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 6",
+  "phaseLabel": "Partie 7",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "6/8",
+  "headerRoundValue": "7/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-16T14:22:42.337Z",
-  "version": 1781619762337,
+  "updatedAt": "2026-06-16T14:22:47.951Z",
+  "version": 1781619767951,
   "standings": [
     {
       "rank": 1,
@@ -159,62 +159,7 @@
       "ga": -58
     }
   ],
-  "currentMatches": [
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 1,
-      "t1": "a",
-      "t2": "y",
-      "score1": "13",
-      "score2": "1"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 2,
-      "t1": "s",
-      "t2": "p",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 3,
-      "t1": "q",
-      "t2": "t",
-      "score1": "13",
-      "score2": "5"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 4,
-      "t1": "u",
-      "t2": "r",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 5,
-      "t1": "i",
-      "t2": "o",
-      "score1": "13",
-      "score2": "9"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 6,
-      "t1": "z",
-      "t2": "e",
-      "score1": "13",
-      "score2": "1"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
