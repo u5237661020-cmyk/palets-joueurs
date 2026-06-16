@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-16T14:20:49.021Z",
-  "version": 1781619649021,
+  "updatedAt": "2026-06-16T14:21:10.529Z",
+  "version": 1781619670529,
   "standings": [
     {
       "rank": 1,
@@ -159,9 +159,118 @@
       "ga": -30
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 1,
+      "t1": "a",
+      "t2": "y",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 2,
+      "t1": "s",
+      "t2": "q",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 3,
+      "t1": "t",
+      "t2": "o",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 4,
+      "t1": "p",
+      "t2": "r",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 5,
+      "t1": "u",
+      "t2": "z",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 6,
+      "t1": "i",
+      "t2": "e",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 1,
+      "t1": "a",
+      "t2": "y",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 2,
+      "t1": "s",
+      "t2": "q",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 3,
+      "t1": "t",
+      "t2": "o",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 4,
+      "t1": "p",
+      "t2": "r",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 5,
+      "t1": "u",
+      "t2": "z",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 6,
+      "t1": "i",
+      "t2": "e",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 3,
       "roundLabel": "Partie 3",
