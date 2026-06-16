@@ -11,59 +11,47 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-16T14:21:10.529Z",
-  "version": 1781619670529,
+  "updatedAt": "2026-06-16T14:21:22.679Z",
+  "version": 1781619682679,
   "standings": [
     {
       "rank": 1,
       "id": 1,
       "name": "a",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "pour": 39,
-      "contre": 3,
-      "played": 3,
-      "ga": 36
+      "pour": 52,
+      "contre": 4,
+      "played": 4,
+      "ga": 48
     },
     {
       "rank": 2,
+      "id": 12,
+      "name": "s",
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "pour": 41,
+      "contre": 16,
+      "played": 4,
+      "ga": 25
+    },
+    {
+      "rank": 3,
       "id": 6,
       "name": "y",
       "wins": 3,
       "draws": 0,
-      "losses": 0,
-      "pour": 39,
-      "contre": 15,
-      "played": 3,
-      "ga": 24
-    },
-    {
-      "rank": 3,
-      "id": 12,
-      "name": "s",
-      "wins": 2,
-      "draws": 0,
       "losses": 1,
-      "pour": 28,
-      "contre": 14,
-      "played": 3,
-      "ga": 14
+      "pour": 40,
+      "contre": 28,
+      "played": 4,
+      "ga": 12
     },
     {
       "rank": 4,
-      "id": 11,
-      "name": "q",
-      "wins": 2,
-      "draws": 0,
-      "losses": 1,
-      "pour": 27,
-      "contre": 21,
-      "played": 3,
-      "ga": 6
-    },
-    {
-      "rank": 5,
       "id": 5,
       "name": "t",
       "wins": 2,
@@ -75,7 +63,7 @@
       "ga": 5
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 9,
       "name": "o",
       "wins": 2,
@@ -85,6 +73,18 @@
       "contre": 30,
       "played": 3,
       "ga": 3
+    },
+    {
+      "rank": 6,
+      "id": 11,
+      "name": "q",
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "pour": 29,
+      "contre": 34,
+      "played": 4,
+      "ga": -5
     },
     {
       "rank": 7,
@@ -166,8 +166,8 @@
       "planche": 1,
       "t1": "a",
       "t2": "y",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 4,
@@ -175,8 +175,8 @@
       "planche": 2,
       "t1": "s",
       "t2": "q",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 4,
@@ -223,8 +223,8 @@
       "planche": 1,
       "t1": "a",
       "t2": "y",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 4,
@@ -232,8 +232,8 @@
       "planche": 2,
       "t1": "s",
       "t2": "q",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 4,
