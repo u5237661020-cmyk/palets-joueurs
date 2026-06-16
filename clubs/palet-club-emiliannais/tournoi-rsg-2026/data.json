@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 5,
+  "round": 6,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 5",
+  "phaseLabel": "Partie 6",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "5/8",
+  "headerRoundValue": "6/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-16T14:22:09.152Z",
-  "version": 1781619729152,
+  "updatedAt": "2026-06-16T14:22:15.068Z",
+  "version": 1781619735068,
   "standings": [
     {
       "rank": 1,
@@ -161,62 +161,116 @@
   ],
   "currentMatches": [
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
+      "round": 6,
+      "roundLabel": "Partie 6",
       "planche": 1,
       "t1": "a",
-      "t2": "s",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 2,
-      "t1": "t",
       "t2": "y",
-      "score1": "4",
-      "score2": "13"
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 2,
+      "t1": "s",
+      "t2": "p",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
       "planche": 3,
-      "t1": "p",
-      "t2": "u",
-      "score1": "13",
-      "score2": "8"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 4,
       "t1": "q",
-      "t2": "o",
-      "score1": "13",
-      "score2": "1"
+      "t2": "t",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 4,
+      "t1": "u",
+      "t2": "r",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
       "planche": 5,
-      "t1": "r",
-      "t2": "z",
-      "score1": "13",
-      "score2": "7"
+      "t1": "i",
+      "t2": "o",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 5,
-      "roundLabel": "Partie 5",
+      "round": 6,
+      "roundLabel": "Partie 6",
       "planche": 6,
-      "t1": "i",
+      "t1": "z",
       "t2": "e",
-      "score1": "13",
-      "score2": "4"
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 1,
+      "t1": "a",
+      "t2": "y",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 2,
+      "t1": "s",
+      "t2": "p",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 3,
+      "t1": "q",
+      "t2": "t",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 4,
+      "t1": "u",
+      "t2": "r",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 5,
+      "t1": "i",
+      "t2": "o",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 6,
+      "t1": "z",
+      "t2": "e",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 5,
       "roundLabel": "Partie 5",
