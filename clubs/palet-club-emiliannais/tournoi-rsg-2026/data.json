@@ -11,83 +11,59 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-06-16T14:19:01.340Z",
-  "version": 1781619541340,
+  "updatedAt": "2026-06-16T14:20:30.793Z",
+  "version": 1781619630793,
   "standings": [
     {
       "rank": 1,
       "id": 1,
       "name": "a",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "pour": 26,
-      "contre": 1,
-      "played": 2,
-      "ga": 25
+      "pour": 39,
+      "contre": 3,
+      "played": 3,
+      "ga": 36
     },
     {
       "rank": 2,
+      "id": 6,
+      "name": "y",
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "pour": 39,
+      "contre": 15,
+      "played": 3,
+      "ga": 24
+    },
+    {
+      "rank": 3,
       "id": 12,
       "name": "s",
       "wins": 2,
       "draws": 0,
-      "losses": 0,
-      "pour": 26,
-      "contre": 1,
-      "played": 2,
-      "ga": 25
-    },
-    {
-      "rank": 3,
-      "id": 6,
-      "name": "y",
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "pour": 26,
+      "losses": 1,
+      "pour": 28,
       "contre": 14,
-      "played": 2,
-      "ga": 12
+      "played": 3,
+      "ga": 14
     },
     {
       "rank": 4,
-      "id": 10,
-      "name": "p",
-      "wins": 1,
+      "id": 11,
+      "name": "q",
+      "wins": 2,
       "draws": 0,
       "losses": 1,
-      "pour": 22,
-      "contre": 15,
-      "played": 2,
-      "ga": 7
+      "pour": 27,
+      "contre": 21,
+      "played": 3,
+      "ga": 6
     },
     {
       "rank": 5,
-      "id": 11,
-      "name": "q",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 14,
-      "contre": 14,
-      "played": 2,
-      "ga": 0
-    },
-    {
-      "rank": 6,
-      "id": 4,
-      "name": "r",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 17,
-      "contre": 18,
-      "played": 2,
-      "ga": -1
-    },
-    {
-      "rank": 7,
       "id": 9,
       "name": "o",
       "wins": 1,
@@ -99,7 +75,7 @@
       "ga": -2
     },
     {
-      "rank": 8,
+      "rank": 6,
       "id": 2,
       "name": "z",
       "wins": 1,
@@ -109,6 +85,30 @@
       "contre": 17,
       "played": 2,
       "ga": -4
+    },
+    {
+      "rank": 7,
+      "id": 10,
+      "name": "p",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "pour": 23,
+      "contre": 28,
+      "played": 3,
+      "ga": -5
+    },
+    {
+      "rank": 8,
+      "id": 4,
+      "name": "r",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "pour": 24,
+      "contre": 31,
+      "played": 3,
+      "ga": -7
     },
     {
       "rank": 9,
@@ -166,8 +166,8 @@
       "planche": 1,
       "t1": "a",
       "t2": "s",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 3,
@@ -175,8 +175,8 @@
       "planche": 2,
       "t1": "y",
       "t2": "p",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 3,
@@ -184,8 +184,8 @@
       "planche": 3,
       "t1": "q",
       "t2": "r",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 3,
@@ -223,8 +223,8 @@
       "planche": 1,
       "t1": "a",
       "t2": "s",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 3,
@@ -232,8 +232,8 @@
       "planche": 2,
       "t1": "y",
       "t2": "p",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 3,
@@ -241,8 +241,8 @@
       "planche": 3,
       "t1": "q",
       "t2": "r",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 3,
