@@ -11,20 +11,20 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:41:29.798Z",
-  "version": 1784565689798,
+  "updatedAt": "2026-07-20T16:41:59.285Z",
+  "version": 1784565719285,
   "standings": [
     {
       "rank": 1,
       "id": 1,
       "name": "zezette",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
       "losses": 0,
-      "pour": 52,
-      "contre": 19,
-      "played": 4,
-      "ga": 33
+      "pour": 65,
+      "contre": 26,
+      "played": 5,
+      "ga": 39
     },
     {
       "rank": 2,
@@ -32,38 +32,26 @@
       "name": "pp",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 46,
-      "contre": 21,
-      "played": 4,
-      "ga": 25
+      "losses": 2,
+      "pour": 53,
+      "contre": 34,
+      "played": 5,
+      "ga": 19
     },
     {
       "rank": 3,
       "id": 4,
       "name": "ss",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 40,
-      "contre": 31,
-      "played": 4,
-      "ga": 9
+      "pour": 53,
+      "contre": 38,
+      "played": 5,
+      "ga": 15
     },
     {
       "rank": 4,
-      "id": 2,
-      "name": "aa",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 31,
-      "contre": 33,
-      "played": 4,
-      "ga": -2
-    },
-    {
-      "rank": 5,
       "id": 3,
       "name": "qq",
       "wins": 2,
@@ -73,6 +61,18 @@
       "contre": 38,
       "played": 4,
       "ga": -3
+    },
+    {
+      "rank": 5,
+      "id": 2,
+      "name": "aa",
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "pour": 38,
+      "contre": 46,
+      "played": 5,
+      "ga": -8
     },
     {
       "rank": 6,
@@ -118,8 +118,8 @@
       "planche": 1,
       "t1": "zezette",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 5,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "ss",
       "t2": "aa",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 5,
@@ -157,8 +157,8 @@
       "planche": 1,
       "t1": "zezette",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 5,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "ss",
       "t2": "aa",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 5,
