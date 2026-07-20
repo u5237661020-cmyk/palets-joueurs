@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:43:04.830Z",
-  "version": 1784565784830,
+  "updatedAt": "2026-07-20T16:43:09.084Z",
+  "version": 1784565789084,
   "standings": [
     {
       "rank": 1,
@@ -40,27 +40,27 @@
     },
     {
       "rank": 3,
+      "id": 4,
+      "name": "ss",
+      "wins": 4,
+      "draws": 0,
+      "losses": 3,
+      "pour": 68,
+      "contre": 52,
+      "played": 7,
+      "ga": 16
+    },
+    {
+      "rank": 4,
       "id": 3,
       "name": "qq",
       "wins": 4,
       "draws": 0,
-      "losses": 2,
-      "pour": 61,
-      "contre": 42,
-      "played": 6,
-      "ga": 19
-    },
-    {
-      "rank": 4,
-      "id": 4,
-      "name": "ss",
-      "wins": 3,
-      "draws": 0,
       "losses": 3,
-      "pour": 55,
-      "contre": 51,
-      "played": 6,
-      "ga": 4
+      "pour": 62,
+      "contre": 55,
+      "played": 7,
+      "ga": 7
     },
     {
       "rank": 5,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "qq",
       "t2": "ss",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "13"
     },
     {
       "round": 7,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "qq",
       "t2": "ss",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "13"
     },
     {
       "round": 7,
