@@ -1,18 +1,18 @@
 {
   "tournoi": "pcsemb",
   "date": "2027-02-13",
-  "round": 1,
+  "round": 2,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 1",
+  "phaseLabel": "Partie 2",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "1/8",
+  "headerRoundValue": "2/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:39:11.501Z",
-  "version": 1784565551501,
+  "updatedAt": "2026-07-20T16:39:13.719Z",
+  "version": 1784565553719,
   "standings": [
     {
       "rank": 1,
@@ -111,44 +111,7 @@
       "ga": -13
     }
   ],
-  "currentMatches": [
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 1,
-      "t1": "zezette",
-      "t2": "cc",
-      "score1": "13",
-      "score2": "4"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 2,
-      "t1": "ss",
-      "t2": "qs",
-      "score1": "13",
-      "score2": "3"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 3,
-      "t1": "aa",
-      "t2": "qq",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 4,
-      "t1": "pp",
-      "t2": "ggg",
-      "score1": "13",
-      "score2": "0"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
