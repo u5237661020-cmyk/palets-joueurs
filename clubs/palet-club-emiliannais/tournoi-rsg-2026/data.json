@@ -1,18 +1,18 @@
 {
   "tournoi": "pcsemb",
   "date": "2027-02-13",
-  "round": 4,
+  "round": 5,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 4",
+  "phaseLabel": "Partie 5",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "4/8",
+  "headerRoundValue": "5/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:41:24.558Z",
-  "version": 1784565684558,
+  "updatedAt": "2026-07-20T16:41:29.798Z",
+  "version": 1784565689798,
   "standings": [
     {
       "rank": 1,
@@ -113,44 +113,80 @@
   ],
   "currentMatches": [
     {
-      "round": 4,
-      "roundLabel": "Partie 4",
+      "round": 5,
+      "roundLabel": "Partie 5",
       "planche": 1,
       "t1": "zezette",
-      "t2": "ss",
-      "score1": "13",
-      "score2": "7"
+      "t2": "pp",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 4,
-      "roundLabel": "Partie 4",
+      "round": 5,
+      "roundLabel": "Partie 5",
       "planche": 2,
-      "t1": "pp",
-      "t2": "qs",
-      "score1": "13",
-      "score2": "1"
+      "t1": "ss",
+      "t2": "aa",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 4,
-      "roundLabel": "Partie 4",
+      "round": 5,
+      "roundLabel": "Partie 5",
       "planche": 3,
       "t1": "qq",
-      "t2": "ggg",
-      "score1": "13",
-      "score2": "7"
+      "t2": "qs",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 4,
-      "roundLabel": "Partie 4",
+      "round": 5,
+      "roundLabel": "Partie 5",
       "planche": 4,
-      "t1": "aa",
+      "t1": "ggg",
       "t2": "cc",
-      "score1": "13",
-      "score2": "0"
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 1,
+      "t1": "zezette",
+      "t2": "pp",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 2,
+      "t1": "ss",
+      "t2": "aa",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 3,
+      "t1": "qq",
+      "t2": "qs",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 4,
+      "t1": "ggg",
+      "t2": "cc",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 4,
       "roundLabel": "Partie 4",
