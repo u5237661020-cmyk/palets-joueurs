@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:41:18.364Z",
-  "version": 1784565678364,
+  "updatedAt": "2026-07-20T16:41:24.558Z",
+  "version": 1784565684558,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 2,
+      "name": "aa",
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "pour": 31,
+      "contre": 33,
+      "played": 4,
+      "ga": -2
+    },
+    {
+      "rank": 5,
       "id": 3,
       "name": "qq",
       "wins": 2,
@@ -63,7 +75,7 @@
       "ga": -3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": 8,
       "name": "qs",
       "wins": 2,
@@ -73,18 +85,6 @@
       "contre": 39,
       "played": 4,
       "ga": -9
-    },
-    {
-      "rank": 6,
-      "id": 2,
-      "name": "aa",
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "pour": 18,
-      "contre": 33,
-      "played": 3,
-      "ga": -15
     },
     {
       "rank": 7,
@@ -104,11 +104,11 @@
       "name": "cc",
       "wins": 0,
       "draws": 0,
-      "losses": 3,
+      "losses": 4,
       "pour": 18,
-      "contre": 39,
-      "played": 3,
-      "ga": -21
+      "contre": 52,
+      "played": 4,
+      "ga": -34
     }
   ],
   "currentMatches": [
@@ -145,8 +145,8 @@
       "planche": 4,
       "t1": "aa",
       "t2": "cc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     }
   ],
   "nextMatches": [],
@@ -184,8 +184,8 @@
       "planche": 4,
       "t1": "aa",
       "t2": "cc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     },
     {
       "round": 3,
