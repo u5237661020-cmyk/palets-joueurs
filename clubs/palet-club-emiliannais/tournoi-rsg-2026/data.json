@@ -1,18 +1,18 @@
 {
   "tournoi": "pcsemb",
   "date": "2027-02-13",
-  "round": 6,
+  "round": 7,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 6",
+  "phaseLabel": "Partie 7",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "6/8",
+  "headerRoundValue": "7/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:42:43.057Z",
-  "version": 1784565763057,
+  "updatedAt": "2026-07-20T16:42:49.984Z",
+  "version": 1784565769984,
   "standings": [
     {
       "rank": 1,
@@ -92,63 +92,26 @@
       "name": "qs",
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "pour": 32,
-      "contre": 52,
-      "played": 5,
-      "ga": -20
+      "losses": 4,
+      "pour": 40,
+      "contre": 65,
+      "played": 6,
+      "ga": -25
     },
     {
       "rank": 8,
       "id": 6,
       "name": "cc",
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 5,
-      "pour": 27,
-      "contre": 65,
-      "played": 5,
-      "ga": -38
+      "pour": 40,
+      "contre": 73,
+      "played": 6,
+      "ga": -33
     }
   ],
-  "currentMatches": [
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 1,
-      "t1": "zezette",
-      "t2": "pp",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 2,
-      "t1": "ss",
-      "t2": "qq",
-      "score1": "2",
-      "score2": "13"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 3,
-      "t1": "aa",
-      "t2": "ggg",
-      "score1": "4",
-      "score2": "13"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 4,
-      "t1": "qs",
-      "t2": "cc",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -184,8 +147,8 @@
       "planche": 4,
       "t1": "qs",
       "t2": "cc",
-      "score1": "",
-      "score2": ""
+      "score1": "8",
+      "score2": "13"
     },
     {
       "round": 5,
