@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:38:19.812Z",
-  "version": 1784565499812,
+  "updatedAt": "2026-07-20T16:38:38.443Z",
+  "version": 1784565518443,
   "standings": [
     {
       "rank": 1,
@@ -111,7 +111,81 @@
       "ga": 0
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "zezette",
+      "t2": "cc",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "ss",
+      "t2": "qs",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "aa",
+      "t2": "qq",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "pp",
+      "t2": "ggg",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
-  "history": []
+  "history": [
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 1,
+      "t1": "zezette",
+      "t2": "cc",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 2,
+      "t1": "ss",
+      "t2": "qs",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 3,
+      "t1": "aa",
+      "t2": "qq",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 1,
+      "roundLabel": "Partie 1",
+      "planche": 4,
+      "t1": "pp",
+      "t2": "ggg",
+      "score1": "",
+      "score2": ""
+    }
+  ]
 }
