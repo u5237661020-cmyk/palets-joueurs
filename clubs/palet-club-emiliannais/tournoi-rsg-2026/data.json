@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:42:13.917Z",
-  "version": 1784565733917,
+  "updatedAt": "2026-07-20T16:42:28.207Z",
+  "version": 1784565748207,
   "standings": [
     {
       "rank": 1,
@@ -20,23 +20,23 @@
       "name": "zezette",
       "wins": 5,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "pour": 65,
-      "contre": 26,
-      "played": 5,
-      "ga": 39
+      "contre": 30,
+      "played": 6,
+      "ga": 35
     },
     {
       "rank": 2,
       "id": 7,
       "name": "pp",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 2,
-      "pour": 53,
+      "pour": 57,
       "contre": 34,
-      "played": 5,
-      "ga": 19
+      "played": 6,
+      "ga": 23
     },
     {
       "rank": 3,
@@ -118,8 +118,8 @@
       "planche": 1,
       "t1": "zezette",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "0",
+      "score2": "4"
     },
     {
       "round": 6,
@@ -157,8 +157,8 @@
       "planche": 1,
       "t1": "zezette",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "0",
+      "score2": "4"
     },
     {
       "round": 6,
