@@ -1,18 +1,18 @@
 {
   "tournoi": "pcsemb",
   "date": "2027-02-13",
-  "round": 3,
+  "round": 4,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 3",
+  "phaseLabel": "Partie 4",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "3/8",
+  "headerRoundValue": "4/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-20T16:40:31.970Z",
-  "version": 1784565631970,
+  "updatedAt": "2026-07-20T16:40:39.092Z",
+  "version": 1784565639092,
   "standings": [
     {
       "rank": 1,
@@ -76,6 +76,18 @@
     },
     {
       "rank": 6,
+      "id": 5,
+      "name": "ggg",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "pour": 22,
+      "contre": 35,
+      "played": 3,
+      "ga": -13
+    },
+    {
+      "rank": 7,
       "id": 2,
       "name": "aa",
       "wins": 1,
@@ -87,68 +99,19 @@
       "ga": -15
     },
     {
-      "rank": 7,
-      "id": 5,
-      "name": "ggg",
-      "wins": 0,
-      "draws": 0,
-      "losses": 2,
-      "pour": 9,
-      "contre": 26,
-      "played": 2,
-      "ga": -17
-    },
-    {
       "rank": 8,
       "id": 6,
       "name": "cc",
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "pour": 9,
-      "contre": 26,
-      "played": 2,
-      "ga": -17
+      "losses": 3,
+      "pour": 18,
+      "contre": 39,
+      "played": 3,
+      "ga": -21
     }
   ],
-  "currentMatches": [
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 1,
-      "t1": "zezette",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 2,
-      "t1": "ss",
-      "t2": "qq",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 3,
-      "t1": "qs",
-      "t2": "aa",
-      "score1": "13",
-      "score2": "4"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 4,
-      "t1": "ggg",
-      "t2": "cc",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -184,8 +147,8 @@
       "planche": 4,
       "t1": "ggg",
       "t2": "cc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "9"
     },
     {
       "round": 2,
