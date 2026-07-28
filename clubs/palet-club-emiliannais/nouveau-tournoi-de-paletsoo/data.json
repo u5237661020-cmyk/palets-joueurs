@@ -11,32 +11,32 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:34:45.449Z",
-  "version": 1785245685449,
+  "updatedAt": "2026-07-28T13:34:51.683Z",
+  "version": 1785245691683,
   "standings": [
     {
       "rank": 1,
+      "id": 4,
+      "name": "ee",
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "pour": 26.13,
+      "contre": 15.1,
+      "played": 3,
+      "ga": 11.03
+    },
+    {
+      "rank": 2,
       "id": 2,
       "name": "oo",
       "wins": 2,
       "draws": 0,
-      "losses": 0,
-      "pour": 26,
-      "contre": 5,
-      "played": 2,
-      "ga": 21
-    },
-    {
-      "rank": 2,
-      "id": 4,
-      "name": "ee",
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "pour": 26,
-      "contre": 15,
-      "played": 2,
-      "ga": 11
+      "losses": 1,
+      "pour": 26.1,
+      "contre": 5.13,
+      "played": 3,
+      "ga": 20.970000000000002
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "oo",
       "t2": "ee",
-      "score1": "",
-      "score2": ""
+      "score1": ".1",
+      "score2": ".13"
     },
     {
       "round": 3,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "oo",
       "t2": "ee",
-      "score1": "",
-      "score2": ""
+      "score1": ".1",
+      "score2": ".13"
     },
     {
       "round": 3,
