@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:33:51.414Z",
-  "version": 1785245631414,
+  "updatedAt": "2026-07-28T13:33:55.632Z",
+  "version": 1785245635632,
   "standings": [
     {
       "rank": 1,
@@ -40,6 +40,18 @@
     },
     {
       "rank": 3,
+      "id": 6,
+      "name": "qq",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 81,
+      "contre": 16,
+      "played": 2,
+      "ga": 65
+    },
+    {
+      "rank": 4,
       "id": 3,
       "name": "yy",
       "wins": 1,
@@ -49,18 +61,6 @@
       "contre": 20,
       "played": 2,
       "ga": -3
-    },
-    {
-      "rank": 4,
-      "id": 1,
-      "name": "pp",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 7,
-      "contre": 13,
-      "played": 1,
-      "ga": -6
     },
     {
       "rank": 5,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 6,
-      "id": 6,
-      "name": "qq",
+      "id": 1,
+      "name": "pp",
       "wins": 0,
       "draws": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 13,
-      "played": 1,
-      "ga": -12
+      "losses": 2,
+      "pour": 10,
+      "contre": 93,
+      "played": 2,
+      "ga": -83
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "pp",
       "t2": "qq",
-      "score1": "",
-      "score2": ""
+      "score1": "3",
+      "score2": "80.0"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "pp",
       "t2": "qq",
-      "score1": "",
-      "score2": ""
+      "score1": "3",
+      "score2": "80.0"
     },
     {
       "round": 1,
