@@ -11,20 +11,20 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:44:50.291Z",
-  "version": 1785246290291,
+  "updatedAt": "2026-07-28T13:45:00.667Z",
+  "version": 1785246300667,
   "standings": [
     {
       "rank": 1,
       "id": 4,
       "name": "jc",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
       "losses": 1,
-      "pour": 59,
-      "contre": 34,
-      "played": 5,
-      "ga": 25
+      "pour": 72,
+      "contre": 46,
+      "played": 6,
+      "ga": 26
     },
     {
       "rank": 2,
@@ -32,11 +32,11 @@
       "name": "jp",
       "wins": 4,
       "draws": 0,
-      "losses": 1,
-      "pour": 56,
-      "contre": 32,
-      "played": 5,
-      "ga": 24
+      "losses": 2,
+      "pour": 68,
+      "contre": 45,
+      "played": 6,
+      "ga": 23
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "jc",
       "t2": "jp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "12"
     },
     {
       "round": 6,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "jc",
       "t2": "jp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "12"
     },
     {
       "round": 6,
