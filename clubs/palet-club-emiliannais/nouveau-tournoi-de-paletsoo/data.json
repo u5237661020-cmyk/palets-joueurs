@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:37:50.434Z",
-  "version": 1785245870434,
+  "updatedAt": "2026-07-28T13:38:36.170Z",
+  "version": 1785245916170,
   "standings": [
     {
       "rank": 1,
@@ -40,39 +40,39 @@
     },
     {
       "rank": 3,
+      "id": 1,
+      "name": "pp",
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "pour": 10.4,
+      "contre": 13.930000000000001,
+      "played": 3,
+      "ga": -3.530000000000001
+    },
+    {
+      "rank": 4,
       "id": 3,
       "name": "yy",
       "wins": 1,
       "draws": 0,
-      "losses": 1,
-      "pour": 17,
-      "contre": 20,
-      "played": 2,
-      "ga": -3
-    },
-    {
-      "rank": 4,
-      "id": 1,
-      "name": "pp",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 10,
-      "contre": 13.8,
-      "played": 2,
-      "ga": -3.8000000000000007
+      "losses": 2,
+      "pour": 17.13,
+      "contre": 20.4,
+      "played": 3,
+      "ga": -3.2699999999999996
     },
     {
       "rank": 5,
       "id": 5,
       "name": "aa",
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 2,
-      "pour": 15,
-      "contre": 26,
-      "played": 2,
-      "ga": -11
+      "pour": 15.4,
+      "contre": 26.13,
+      "played": 3,
+      "ga": -10.729999999999999
     },
     {
       "rank": 6,
@@ -80,11 +80,11 @@
       "name": "qq",
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "pour": 1.8,
-      "contre": 16,
-      "played": 2,
-      "ga": -14.2
+      "losses": 3,
+      "pour": 1.9300000000000002,
+      "contre": 16.4,
+      "played": 3,
+      "ga": -14.469999999999999
     }
   ],
   "currentMatches": [
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "yy",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": ".13",
+      "score2": ".4"
     },
     {
       "round": 3,
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "aa",
       "t2": "qq",
-      "score1": "",
-      "score2": ""
+      "score1": ".4",
+      "score2": ".13"
     }
   ],
   "nextMatches": [],
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "yy",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": ".13",
+      "score2": ".4"
     },
     {
       "round": 3,
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "aa",
       "t2": "qq",
-      "score1": "",
-      "score2": ""
+      "score1": ".4",
+      "score2": ".13"
     },
     {
       "round": 2,
