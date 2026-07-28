@@ -1,18 +1,18 @@
 {
   "tournoi": "Nouveau tournoi de paletsoo",
   "date": "",
-  "round": 3,
+  "round": 4,
   "totalRounds": 4,
   "phase": "qualifying",
-  "phaseLabel": "Partie 3",
+  "phaseLabel": "Partie 4",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "3/5",
+  "headerRoundValue": "4/5",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:38:36.170Z",
-  "version": 1785245916170,
+  "updatedAt": "2026-07-28T13:38:39.707Z",
+  "version": 1785245919707,
   "standings": [
     {
       "rank": 1,
@@ -89,35 +89,62 @@
   ],
   "currentMatches": [
     {
-      "round": 3,
-      "roundLabel": "Partie 3",
+      "round": 4,
+      "roundLabel": "Partie 4",
       "planche": 1,
-      "t1": "oo",
-      "t2": "ee",
-      "score1": ".1",
-      "score2": ".13"
+      "t1": "ee",
+      "t2": "oo",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 3,
-      "roundLabel": "Partie 3",
+      "round": 4,
+      "roundLabel": "Partie 4",
       "planche": 2,
-      "t1": "yy",
-      "t2": "pp",
-      "score1": ".13",
-      "score2": ".4"
+      "t1": "pp",
+      "t2": "yy",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 3,
-      "roundLabel": "Partie 3",
+      "round": 4,
+      "roundLabel": "Partie 4",
       "planche": 3,
       "t1": "aa",
       "t2": "qq",
-      "score1": ".4",
-      "score2": ".13"
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 1,
+      "t1": "ee",
+      "t2": "oo",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 2,
+      "t1": "pp",
+      "t2": "yy",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 4,
+      "roundLabel": "Partie 4",
+      "planche": 3,
+      "t1": "aa",
+      "t2": "qq",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 3,
       "roundLabel": "Partie 3",
