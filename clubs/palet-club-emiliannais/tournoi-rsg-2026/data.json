@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:44:07.281Z",
-  "version": 1785246247281,
+  "updatedAt": "2026-07-28T13:44:12.203Z",
+  "version": 1785246252203,
   "standings": [
     {
       "rank": 1,
@@ -54,13 +54,13 @@
       "rank": 4,
       "id": 3,
       "name": "jv",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 2,
-      "pour": 14,
-      "contre": 33,
-      "played": 3,
-      "ga": -19
+      "pour": 27,
+      "contre": 40,
+      "played": 4,
+      "ga": -13
     },
     {
       "rank": 5,
@@ -80,11 +80,11 @@
       "name": "nn",
       "wins": 0,
       "draws": 0,
-      "losses": 3,
-      "pour": 22,
-      "contre": 39,
-      "played": 3,
-      "ga": -17
+      "losses": 4,
+      "pour": 29,
+      "contre": 52,
+      "played": 4,
+      "ga": -23
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "jv",
       "t2": "nn",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "jv",
       "t2": "nn",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 3,
