@@ -11,44 +11,44 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:45:11.555Z",
-  "version": 1785246311555,
+  "updatedAt": "2026-07-28T13:45:25.431Z",
+  "version": 1785246325431,
   "standings": [
     {
       "rank": 1,
       "id": 4,
       "name": "jc",
-      "wins": 5,
+      "wins": 6,
       "draws": 0,
       "losses": 1,
-      "pour": 72,
-      "contre": 46,
-      "played": 6,
-      "ga": 26
+      "pour": 85,
+      "contre": 53,
+      "played": 7,
+      "ga": 32
     },
     {
       "rank": 2,
+      "id": 6,
+      "name": "vv",
+      "wins": 5,
+      "draws": 0,
+      "losses": 2,
+      "pour": 80,
+      "contre": 55,
+      "played": 7,
+      "ga": 25
+    },
+    {
+      "rank": 3,
       "id": 5,
       "name": "jp",
       "wins": 4,
       "draws": 0,
-      "losses": 2,
-      "pour": 68,
-      "contre": 45,
-      "played": 6,
-      "ga": 23
-    },
-    {
-      "rank": 3,
-      "id": 6,
-      "name": "vv",
-      "wins": 4,
-      "draws": 0,
-      "losses": 2,
-      "pour": 67,
-      "contre": 47,
-      "played": 6,
-      "ga": 20
+      "losses": 3,
+      "pour": 75,
+      "contre": 58,
+      "played": 7,
+      "ga": 17
     },
     {
       "rank": 4,
@@ -56,11 +56,11 @@
       "name": "jv",
       "wins": 3,
       "draws": 0,
-      "losses": 3,
-      "pour": 47,
-      "contre": 57,
-      "played": 6,
-      "ga": -10
+      "losses": 4,
+      "pour": 55,
+      "contre": 70,
+      "played": 7,
+      "ga": -15
     },
     {
       "rank": 5,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "jc",
       "t2": "jp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 7,
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "vv",
       "t2": "jv",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "8"
     },
     {
       "round": 7,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "jc",
       "t2": "jp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 7,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "vv",
       "t2": "jv",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "8"
     },
     {
       "round": 7,
