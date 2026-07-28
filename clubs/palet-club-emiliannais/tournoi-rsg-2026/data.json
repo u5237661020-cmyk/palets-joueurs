@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 2,
+  "round": 3,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 2",
+  "phaseLabel": "Partie 3",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "2/8",
+  "headerRoundValue": "3/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-07-28T13:43:27.501Z",
-  "version": 1785246207501,
+  "updatedAt": "2026-07-28T13:43:34.475Z",
+  "version": 1785246214475,
   "standings": [
     {
       "rank": 1,
@@ -40,6 +40,18 @@
     },
     {
       "rank": 3,
+      "id": 6,
+      "name": "vv",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 20,
+      "contre": 14,
+      "played": 2,
+      "ga": 6
+    },
+    {
+      "rank": 4,
       "id": 1,
       "name": "pp",
       "wins": 1,
@@ -49,18 +61,6 @@
       "contre": 20,
       "played": 2,
       "ga": -3
-    },
-    {
-      "rank": 4,
-      "id": 6,
-      "name": "vv",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 7,
-      "contre": 13,
-      "played": 1,
-      "ga": -6
     },
     {
       "rank": 5,
@@ -80,37 +80,37 @@
       "name": "jv",
       "wins": 0,
       "draws": 0,
-      "losses": 1,
-      "pour": 0,
-      "contre": 13,
-      "played": 1,
-      "ga": -13
+      "losses": 2,
+      "pour": 1,
+      "contre": 26,
+      "played": 2,
+      "ga": -25
     }
   ],
   "currentMatches": [
     {
-      "round": 2,
-      "roundLabel": "Partie 2",
+      "round": 3,
+      "roundLabel": "Partie 3",
       "planche": 1,
       "t1": "jp",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "4"
+      "t2": "jc",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 2,
-      "roundLabel": "Partie 2",
+      "round": 3,
+      "roundLabel": "Partie 3",
       "planche": 2,
-      "t1": "jc",
-      "t2": "nn",
-      "score1": "13",
-      "score2": "8"
+      "t1": "vv",
+      "t2": "pp",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 2,
-      "roundLabel": "Partie 2",
+      "round": 3,
+      "roundLabel": "Partie 3",
       "planche": 3,
-      "t1": "vv",
+      "t1": "nn",
       "t2": "jv",
       "score1": "",
       "score2": ""
@@ -119,6 +119,33 @@
   "nextMatches": [],
   "history": [
     {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 1,
+      "t1": "jp",
+      "t2": "jc",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 2,
+      "t1": "vv",
+      "t2": "pp",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 3,
+      "roundLabel": "Partie 3",
+      "planche": 3,
+      "t1": "nn",
+      "t2": "jv",
+      "score1": "",
+      "score2": ""
+    },
+    {
       "round": 2,
       "roundLabel": "Partie 2",
       "planche": 1,
@@ -142,8 +169,8 @@
       "planche": 3,
       "t1": "vv",
       "t2": "jv",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 1,
