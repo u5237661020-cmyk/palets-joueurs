@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:53:02.982Z",
-  "version": 1788803582982,
+  "updatedAt": "2026-09-07T17:53:08.008Z",
+  "version": 1788803588008,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 6,
+      "name": "RCA",
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "pour": 42,
+      "contre": 44,
+      "played": 5,
+      "ga": -2
+    },
+    {
+      "rank": 5,
       "id": 5,
       "name": "ZOUZOUS",
       "wins": 2,
@@ -63,28 +75,16 @@
       "ga": 0
     },
     {
-      "rank": 5,
-      "id": 6,
-      "name": "RCA",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "pour": 29,
-      "contre": 36,
-      "played": 4,
-      "ga": -7
-    },
-    {
       "rank": 6,
       "id": 3,
       "name": "COUFFE",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 34,
-      "contre": 42,
-      "played": 4,
-      "ga": -8
+      "losses": 3,
+      "pour": 42,
+      "contre": 55,
+      "played": 5,
+      "ga": -13
     },
     {
       "rank": 7,
@@ -136,8 +136,8 @@
       "planche": 3,
       "t1": "RCA",
       "t2": "COUFFE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "8"
     },
     {
       "round": 5,
@@ -175,8 +175,8 @@
       "planche": 3,
       "t1": "RCA",
       "t2": "COUFFE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "8"
     },
     {
       "round": 5,
