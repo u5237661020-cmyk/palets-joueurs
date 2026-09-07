@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:46:26.271Z",
-  "version": 1788803186271,
+  "updatedAt": "2026-09-07T17:48:21.510Z",
+  "version": 1788803301510,
   "standings": [
     {
       "rank": 1,
@@ -28,27 +28,27 @@
     },
     {
       "rank": 2,
+      "id": 7,
+      "name": "REZE",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 11,
+      "contre": 1,
+      "played": 1,
+      "ga": 10
+    },
+    {
+      "rank": 3,
       "id": 3,
       "name": "COUFFE",
       "wins": 1,
       "draws": 0,
       "losses": 0,
-      "pour": 10,
+      "pour": 13,
       "contre": 4,
       "played": 1,
-      "ga": 6
-    },
-    {
-      "rank": 3,
-      "id": 1,
-      "name": "LES BOULETS",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
+      "ga": 9
     },
     {
       "rank": 4,
@@ -76,27 +76,27 @@
     },
     {
       "rank": 6,
-      "id": 7,
-      "name": "REZE",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 7,
       "id": 8,
       "name": "ANCENIS",
       "wins": 0,
       "draws": 0,
       "losses": 1,
       "pour": 4,
-      "contre": 10,
+      "contre": 13,
       "played": 1,
-      "ga": -6
+      "ga": -9
+    },
+    {
+      "rank": 7,
+      "id": 1,
+      "name": "LES BOULETS",
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "pour": 1,
+      "contre": 11,
+      "played": 1,
+      "ga": -10
     },
     {
       "rank": 8,
@@ -128,7 +128,7 @@
       "t1": "ANCENIS",
       "t2": "COUFFE",
       "score1": "4",
-      "score2": "10"
+      "score2": "13"
     },
     {
       "round": 1,
@@ -136,8 +136,8 @@
       "planche": 3,
       "t1": "LES BOULETS",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "11"
     },
     {
       "round": 1,
@@ -167,7 +167,7 @@
       "t1": "ANCENIS",
       "t2": "COUFFE",
       "score1": "4",
-      "score2": "10"
+      "score2": "13"
     },
     {
       "round": 1,
@@ -175,8 +175,8 @@
       "planche": 3,
       "t1": "LES BOULETS",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "11"
     },
     {
       "round": 1,
