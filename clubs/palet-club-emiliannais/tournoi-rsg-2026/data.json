@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:51:21.494Z",
-  "version": 1788803481494,
+  "updatedAt": "2026-09-07T17:51:26.230Z",
+  "version": 1788803486230,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 4,
+      "name": "ZEZETTES",
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "pour": 38,
+      "contre": 25,
+      "played": 3,
+      "ga": 13
+    },
+    {
+      "rank": 3,
       "id": 3,
       "name": "COUFFE",
       "wins": 2,
@@ -39,31 +51,7 @@
       "ga": 4
     },
     {
-      "rank": 3,
-      "id": 4,
-      "name": "ZEZETTES",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 25,
-      "contre": 21,
-      "played": 2,
-      "ga": 4
-    },
-    {
       "rank": 4,
-      "id": 5,
-      "name": "ZOUZOUS",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 21,
-      "contre": 17,
-      "played": 2,
-      "ga": 4
-    },
-    {
-      "rank": 5,
       "id": 7,
       "name": "REZE",
       "wins": 1,
@@ -75,7 +63,7 @@
       "ga": 4
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 6,
       "name": "RCA",
       "wins": 1,
@@ -85,6 +73,18 @@
       "contre": 14,
       "played": 2,
       "ga": -1
+    },
+    {
+      "rank": 6,
+      "id": 5,
+      "name": "ZOUZOUS",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "pour": 25,
+      "contre": 30,
+      "played": 3,
+      "ga": -5
     },
     {
       "rank": 7,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "ZEZETTES",
       "t2": "ZOUZOUS",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "4"
     },
     {
       "round": 3,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "ZEZETTES",
       "t2": "ZOUZOUS",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "4"
     },
     {
       "round": 3,
