@@ -11,20 +11,20 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:54:16.513Z",
-  "version": 1788803656513,
+  "updatedAt": "2026-09-07T17:54:51.102Z",
+  "version": 1788803691102,
   "standings": [
     {
       "rank": 1,
       "id": 2,
       "name": "MIMILIEN",
-      "wins": 6,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
-      "pour": 78,
-      "contre": 31,
-      "played": 6,
-      "ga": 47
+      "pour": 91,
+      "contre": 38,
+      "played": 7,
+      "ga": 53
     },
     {
       "rank": 2,
@@ -32,11 +32,11 @@
       "name": "REZE",
       "wins": 4,
       "draws": 0,
-      "losses": 2,
-      "pour": 64,
-      "contre": 44,
-      "played": 6,
-      "ga": 20
+      "losses": 3,
+      "pour": 71,
+      "contre": 57,
+      "played": 7,
+      "ga": 14
     },
     {
       "rank": 3,
@@ -118,8 +118,8 @@
       "planche": 1,
       "t1": "MIMILIEN",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 7,
@@ -157,8 +157,8 @@
       "planche": 1,
       "t1": "MIMILIEN",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 7,
