@@ -3,16 +3,21 @@
   "date": "",
   "round": 7,
   "totalRounds": 7,
-  "phase": "qualifying",
-  "phaseLabel": "Partie 7",
+  "phase": "final",
+  "phaseLabel": "Phase finale · FINALE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "7/8",
-  "finalProgress": null,
+  "headerRoundValue": "8/8",
+  "finalProgress": {
+    "done": 0,
+    "total": 4,
+    "current": 1,
+    "currentLabel": "FINALE"
+  },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:55:05.565Z",
-  "version": 1788803705565,
+  "updatedAt": "2026-09-07T17:55:08.626Z",
+  "version": 1788803708626,
   "standings": [
     {
       "rank": 1,
@@ -113,40 +118,48 @@
   ],
   "currentMatches": [
     {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 1,
+      "round": "finale",
+      "roundLabel": "FINALE",
+      "planche": "FINALE",
+      "matchId": "finale",
+      "isFinal": true,
       "t1": "MIMILIEN",
-      "t2": "REZE",
-      "score1": "13",
-      "score2": "7"
+      "t2": "ZEZETTES",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 2,
-      "t1": "ZEZETTES",
-      "t2": "ZOUZOUS",
-      "score1": "13",
-      "score2": "2"
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "REZE",
+      "t2": "COUFFE",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 3,
-      "t1": "COUFFE",
-      "t2": "RCA",
-      "score1": "13",
-      "score2": "1"
+      "round": "finale",
+      "roundLabel": "5ème/6ème PLACE",
+      "planche": "5ème/6ème PLACE",
+      "matchId": "classif_5",
+      "isFinal": true,
+      "t1": "ZOUZOUS",
+      "t2": "ANCENIS",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 4,
-      "t1": "ANCENIS",
+      "round": "finale",
+      "roundLabel": "7ème/8ème PLACE",
+      "planche": "7ème/8ème PLACE",
+      "matchId": "classif_7",
+      "isFinal": true,
+      "t1": "RCA",
       "t2": "LES BOULETS",
-      "score1": "13",
-      "score2": "5"
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
