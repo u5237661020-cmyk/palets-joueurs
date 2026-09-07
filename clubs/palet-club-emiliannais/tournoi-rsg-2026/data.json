@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:52:59.129Z",
-  "version": 1788803579129,
+  "updatedAt": "2026-09-07T17:53:02.982Z",
+  "version": 1788803582982,
   "standings": [
     {
       "rank": 1,
@@ -42,13 +42,13 @@
       "rank": 3,
       "id": 7,
       "name": "REZE",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 2,
-      "pour": 38,
-      "contre": 30,
-      "played": 4,
-      "ga": 8
+      "pour": 51,
+      "contre": 37,
+      "played": 5,
+      "ga": 14
     },
     {
       "rank": 4,
@@ -56,11 +56,11 @@
       "name": "ZOUZOUS",
       "wins": 2,
       "draws": 0,
-      "losses": 2,
-      "pour": 38,
-      "contre": 32,
-      "played": 4,
-      "ga": 6
+      "losses": 3,
+      "pour": 45,
+      "contre": 45,
+      "played": 5,
+      "ga": 0
     },
     {
       "rank": 5,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "REZE",
       "t2": "ZOUZOUS",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 5,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "REZE",
       "t2": "ZOUZOUS",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 5,
