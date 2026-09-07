@@ -11,44 +11,44 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:49:00.747Z",
-  "version": 1788803340747,
+  "updatedAt": "2026-09-07T17:50:29.209Z",
+  "version": 1788803429209,
   "standings": [
     {
       "rank": 1,
-      "id": 2,
-      "name": "MIMILIEN",
-      "wins": 1,
+      "id": 3,
+      "name": "COUFFE",
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "pour": 13,
-      "contre": 1,
-      "played": 1,
-      "ga": 12
+      "pour": 26,
+      "contre": 5,
+      "played": 2,
+      "ga": 21
     },
     {
       "rank": 2,
+      "id": 2,
+      "name": "MIMILIEN",
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "pour": 26,
+      "contre": 8,
+      "played": 2,
+      "ga": 18
+    },
+    {
+      "rank": 3,
       "id": 7,
       "name": "REZE",
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "pour": 11,
-      "contre": 1,
-      "played": 1,
-      "ga": 10
-    },
-    {
-      "rank": 3,
-      "id": 3,
-      "name": "COUFFE",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 4,
-      "played": 1,
-      "ga": 9
+      "losses": 1,
+      "pour": 18,
+      "contre": 14,
+      "played": 2,
+      "ga": 4
     },
     {
       "rank": 4,
@@ -56,11 +56,11 @@
       "name": "ZEZETTES",
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 8,
-      "played": 1,
-      "ga": 5
+      "losses": 1,
+      "pour": 14,
+      "contre": 21,
+      "played": 2,
+      "ga": -7
     },
     {
       "rank": 5,
@@ -118,8 +118,8 @@
       "planche": 1,
       "t1": "MIMILIEN",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 2,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "COUFFE",
       "t2": "ZEZETTES",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 2,
@@ -157,8 +157,8 @@
       "planche": 1,
       "t1": "MIMILIEN",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 2,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "COUFFE",
       "t2": "ZEZETTES",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 2,
