@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:50:37.754Z",
-  "version": 1788803437754,
+  "updatedAt": "2026-09-07T17:50:42.451Z",
+  "version": 1788803442451,
   "standings": [
     {
       "rank": 1,
@@ -76,30 +76,18 @@
     },
     {
       "rank": 6,
-      "id": 1,
-      "name": "LES BOULETS",
-      "wins": 0,
+      "id": 6,
+      "name": "RCA",
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "pour": 1,
-      "contre": 11,
-      "played": 1,
-      "ga": -10
+      "pour": 14,
+      "contre": 14,
+      "played": 2,
+      "ga": 0
     },
     {
       "rank": 7,
-      "id": 6,
-      "name": "RCA",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 13,
-      "played": 1,
-      "ga": -12
-    },
-    {
-      "rank": 8,
       "id": 8,
       "name": "ANCENIS",
       "wins": 0,
@@ -109,6 +97,18 @@
       "contre": 26,
       "played": 2,
       "ga": -18
+    },
+    {
+      "rank": 8,
+      "id": 1,
+      "name": "LES BOULETS",
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "pour": 2,
+      "contre": 24,
+      "played": 2,
+      "ga": -22
     }
   ],
   "currentMatches": [
@@ -145,8 +145,8 @@
       "planche": 4,
       "t1": "LES BOULETS",
       "t2": "RCA",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "13"
     }
   ],
   "nextMatches": [],
@@ -184,8 +184,8 @@
       "planche": 4,
       "t1": "LES BOULETS",
       "t2": "RCA",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "13"
     },
     {
       "round": 1,
