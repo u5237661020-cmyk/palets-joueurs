@@ -11,83 +11,71 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-07T17:51:44.053Z",
-  "version": 1788803504053,
+  "updatedAt": "2026-09-07T17:52:01.455Z",
+  "version": 1788803521455,
   "standings": [
     {
       "rank": 1,
       "id": 2,
       "name": "MIMILIEN",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "pour": 39,
-      "contre": 15,
-      "played": 3,
-      "ga": 24
+      "pour": 52,
+      "contre": 22,
+      "played": 4,
+      "ga": 30
     },
     {
       "rank": 2,
+      "id": 4,
+      "name": "ZEZETTES",
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "pour": 51,
+      "contre": 26,
+      "played": 4,
+      "ga": 25
+    },
+    {
+      "rank": 3,
       "id": 7,
       "name": "REZE",
       "wins": 2,
       "draws": 0,
-      "losses": 1,
-      "pour": 31,
-      "contre": 17,
-      "played": 3,
-      "ga": 14
-    },
-    {
-      "rank": 3,
-      "id": 4,
-      "name": "ZEZETTES",
-      "wins": 2,
-      "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "pour": 38,
-      "contre": 25,
-      "played": 3,
-      "ga": 13
+      "contre": 30,
+      "played": 4,
+      "ga": 8
     },
     {
       "rank": 4,
+      "id": 5,
+      "name": "ZOUZOUS",
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "pour": 38,
+      "contre": 32,
+      "played": 4,
+      "ga": 6
+    },
+    {
+      "rank": 5,
       "id": 3,
       "name": "COUFFE",
       "wins": 2,
       "draws": 0,
-      "losses": 1,
-      "pour": 33,
-      "contre": 29,
-      "played": 3,
-      "ga": 4
-    },
-    {
-      "rank": 5,
-      "id": 5,
-      "name": "ZOUZOUS",
-      "wins": 1,
-      "draws": 0,
       "losses": 2,
-      "pour": 25,
-      "contre": 30,
-      "played": 3,
-      "ga": -5
+      "pour": 34,
+      "contre": 42,
+      "played": 4,
+      "ga": -8
     },
     {
       "rank": 6,
-      "id": 8,
-      "name": "ANCENIS",
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "pour": 21,
-      "contre": 30,
-      "played": 3,
-      "ga": -9
-    },
-    {
-      "rank": 7,
       "id": 6,
       "name": "RCA",
       "wins": 1,
@@ -97,6 +85,18 @@
       "contre": 27,
       "played": 3,
       "ga": -11
+    },
+    {
+      "rank": 7,
+      "id": 8,
+      "name": "ANCENIS",
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "pour": 23,
+      "contre": 43,
+      "played": 4,
+      "ga": -20
     },
     {
       "rank": 8,
@@ -118,8 +118,8 @@
       "planche": 1,
       "t1": "MIMILIEN",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 4,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "ZEZETTES",
       "t2": "COUFFE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 4,
@@ -136,8 +136,8 @@
       "planche": 3,
       "t1": "ZOUZOUS",
       "t2": "ANCENIS",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 4,
@@ -157,8 +157,8 @@
       "planche": 1,
       "t1": "MIMILIEN",
       "t2": "REZE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 4,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "ZEZETTES",
       "t2": "COUFFE",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 4,
@@ -175,8 +175,8 @@
       "planche": 3,
       "t1": "ZOUZOUS",
       "t2": "ANCENIS",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 4,
