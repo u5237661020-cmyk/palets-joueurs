@@ -4,32 +4,32 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · FINALE",
-  "finalComplete": false,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 0,
+    "done": 3,
     "total": 3,
-    "current": 1,
-    "currentLabel": "FINALE"
+    "current": 3,
+    "currentLabel": ""
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T10:04:01.415Z",
-  "version": 1788861841415,
+  "updatedAt": "2026-09-08T10:05:39.802Z",
+  "version": 1788861939802,
   "standings": [
     {
       "rank": 1,
       "id": 2,
       "name": "nico jp",
-      "wins": 6,
+      "wins": 7,
       "draws": 0,
       "losses": 1,
-      "pour": 80,
-      "contre": 35,
-      "played": 7,
-      "ga": 45
+      "pour": 93,
+      "contre": 36,
+      "played": 8,
+      "ga": 57
     },
     {
       "rank": 2,
@@ -37,23 +37,23 @@
       "name": "keke yvos",
       "wins": 4,
       "draws": 0,
-      "losses": 3,
-      "pour": 66,
-      "contre": 53,
-      "played": 7,
-      "ga": 13
+      "losses": 4,
+      "pour": 67,
+      "contre": 66,
+      "played": 8,
+      "ga": 1
     },
     {
       "rank": 3,
       "id": 3,
       "name": "zacou jc",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
       "losses": 3,
-      "pour": 57,
+      "pour": 70,
       "contre": 50,
-      "played": 7,
-      "ga": 7
+      "played": 8,
+      "ga": 20
     },
     {
       "rank": 4,
@@ -61,23 +61,23 @@
       "name": "vv micka",
       "wins": 3,
       "draws": 0,
-      "losses": 4,
+      "losses": 5,
       "pour": 53,
-      "contre": 58,
-      "played": 7,
-      "ga": -5
+      "contre": 71,
+      "played": 8,
+      "ga": -18
     },
     {
       "rank": 5,
       "id": 4,
       "name": "herver nini",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 4,
-      "pour": 56,
+      "pour": 69,
       "contre": 64,
-      "played": 7,
-      "ga": -8
+      "played": 8,
+      "ga": 5
     },
     {
       "rank": 6,
@@ -85,14 +85,16 @@
       "name": "lolo kev",
       "wins": 1,
       "draws": 0,
-      "losses": 6,
+      "losses": 7,
       "pour": 31,
-      "contre": 83,
-      "played": 7,
-      "ga": -52
+      "contre": 96,
+      "played": 8,
+      "ga": -65
     }
   ],
-  "currentMatches": [
+  "currentMatches": [],
+  "nextMatches": [],
+  "history": [
     {
       "round": "finale",
       "roundLabel": "FINALE",
@@ -101,8 +103,8 @@
       "isFinal": true,
       "t1": "nico jp",
       "t2": "keke yvos",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": "finale",
@@ -112,8 +114,8 @@
       "isFinal": true,
       "t1": "zacou jc",
       "t2": "vv micka",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     },
     {
       "round": "finale",
@@ -123,12 +125,9 @@
       "isFinal": true,
       "t1": "herver nini",
       "t2": "lolo kev",
-      "score1": "",
-      "score2": ""
-    }
-  ],
-  "nextMatches": [],
-  "history": [
+      "score1": "13",
+      "score2": "0"
+    },
     {
       "round": 7,
       "roundLabel": "Partie 7",
