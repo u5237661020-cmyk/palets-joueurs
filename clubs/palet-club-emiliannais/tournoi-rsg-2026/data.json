@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:35:13.215Z",
-  "version": 1788860113215,
+  "updatedAt": "2026-09-08T09:35:30.194Z",
+  "version": 1788860130194,
   "standings": [
     {
       "rank": 1,
@@ -87,9 +87,64 @@
       "ga": -38
     }
   ],
-  "currentMatches": [],
+  "currentMatches": [
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 1,
+      "t1": "lolo toni",
+      "t2": "keke kev",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 2,
+      "t1": "vv loic",
+      "t2": "vv micka",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 3,
+      "t1": "zacou jc",
+      "t2": "jp nico",
+      "score1": "",
+      "score2": ""
+    }
+  ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 1,
+      "t1": "lolo toni",
+      "t2": "keke kev",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 2,
+      "t1": "vv loic",
+      "t2": "vv micka",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 5,
+      "roundLabel": "Partie 5",
+      "planche": 3,
+      "t1": "zacou jc",
+      "t2": "jp nico",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 4,
       "roundLabel": "Partie 4",
