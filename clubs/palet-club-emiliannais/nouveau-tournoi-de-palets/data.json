@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:55:52.442Z",
-  "version": 1788861352442,
+  "updatedAt": "2026-09-08T09:55:58.378Z",
+  "version": 1788861358378,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 4,
+      "name": "herver nini",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "pour": 18,
+      "contre": 26,
+      "played": 3,
+      "ga": -8
+    },
+    {
+      "rank": 5,
       "id": 1,
       "name": "vv micka",
       "wins": 1,
@@ -63,28 +75,16 @@
       "ga": -9
     },
     {
-      "rank": 5,
-      "id": 4,
-      "name": "herver nini",
-      "wins": 0,
-      "draws": 0,
-      "losses": 2,
-      "pour": 5,
-      "contre": 26,
-      "played": 2,
-      "ga": -21
-    },
-    {
       "rank": 6,
       "id": 5,
       "name": "lolo kev",
       "wins": 0,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "pour": 5,
-      "contre": 26,
-      "played": 2,
-      "ga": -21
+      "contre": 39,
+      "played": 3,
+      "ga": -34
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "herver nini",
       "t2": "lolo kev",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "herver nini",
       "t2": "lolo kev",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     },
     {
       "round": 2,
