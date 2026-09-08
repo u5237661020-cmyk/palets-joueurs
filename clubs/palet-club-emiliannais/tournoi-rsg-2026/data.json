@@ -11,44 +11,44 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:31:14.569Z",
-  "version": 1788859874569,
+  "updatedAt": "2026-09-08T09:35:05.987Z",
+  "version": 1788860105987,
   "standings": [
     {
       "rank": 1,
       "id": 4,
       "name": "lolo toni",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "pour": 39,
-      "contre": 8,
-      "played": 3,
-      "ga": 31
+      "pour": 52,
+      "contre": 15,
+      "played": 4,
+      "ga": 37
     },
     {
       "rank": 2,
+      "id": 6,
+      "name": "keke kev",
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "pour": 41,
+      "contre": 30,
+      "played": 4,
+      "ga": 11
+    },
+    {
+      "rank": 3,
       "id": 5,
       "name": "vv loic",
       "wins": 2,
       "draws": 0,
-      "losses": 1,
-      "pour": 31,
-      "contre": 14,
-      "played": 3,
-      "ga": 17
-    },
-    {
-      "rank": 3,
-      "id": 6,
-      "name": "keke kev",
-      "wins": 2,
-      "draws": 0,
-      "losses": 1,
-      "pour": 28,
-      "contre": 28,
-      "played": 3,
-      "ga": 0
+      "losses": 2,
+      "pour": 38,
+      "contre": 27,
+      "played": 4,
+      "ga": 11
     },
     {
       "rank": 4,
@@ -56,11 +56,11 @@
       "name": "zacou jc",
       "wins": 1,
       "draws": 0,
-      "losses": 2,
-      "pour": 28,
-      "contre": 31,
-      "played": 3,
-      "ga": -3
+      "losses": 3,
+      "pour": 30,
+      "contre": 44,
+      "played": 4,
+      "ga": -14
     },
     {
       "rank": 5,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "lolo toni",
       "t2": "vv loic",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 4,
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "keke kev",
       "t2": "zacou jc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 4,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "lolo toni",
       "t2": "vv loic",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 4,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "keke kev",
       "t2": "zacou jc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 4,
