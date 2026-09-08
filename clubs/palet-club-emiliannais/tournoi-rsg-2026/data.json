@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 4,
+  "round": 5,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 4",
+  "phaseLabel": "Partie 5",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "4/8",
+  "headerRoundValue": "5/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:35:05.987Z",
-  "version": 1788860105987,
+  "updatedAt": "2026-09-08T09:35:13.215Z",
+  "version": 1788860113215,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 1,
+      "name": "vv micka",
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "pour": 28,
+      "contre": 35,
+      "played": 4,
+      "ga": -7
+    },
+    {
+      "rank": 5,
       "id": 3,
       "name": "zacou jc",
       "wins": 1,
@@ -63,59 +75,19 @@
       "ga": -14
     },
     {
-      "rank": 5,
-      "id": 1,
-      "name": "vv micka",
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "pour": 15,
-      "contre": 31,
-      "played": 3,
-      "ga": -16
-    },
-    {
       "rank": 6,
       "id": 2,
       "name": "jp nico",
       "wins": 0,
       "draws": 0,
-      "losses": 3,
-      "pour": 10,
-      "contre": 39,
-      "played": 3,
-      "ga": -29
+      "losses": 4,
+      "pour": 14,
+      "contre": 52,
+      "played": 4,
+      "ga": -38
     }
   ],
-  "currentMatches": [
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 1,
-      "t1": "lolo toni",
-      "t2": "vv loic",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 2,
-      "t1": "keke kev",
-      "t2": "zacou jc",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 3,
-      "t1": "vv micka",
-      "t2": "jp nico",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -142,8 +114,8 @@
       "planche": 3,
       "t1": "vv micka",
       "t2": "jp nico",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "4"
     },
     {
       "round": 3,
