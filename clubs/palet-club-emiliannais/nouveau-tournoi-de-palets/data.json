@@ -16,20 +16,20 @@
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T10:07:54.346Z",
-  "version": 1788862074346,
+  "updatedAt": "2026-09-08T10:08:11.154Z",
+  "version": 1788862091154,
   "standings": [
     {
       "rank": 1,
       "id": 2,
       "name": "nico jp",
-      "wins": 7,
+      "wins": 6,
       "draws": 0,
-      "losses": 1,
-      "pour": 99,
+      "losses": 2,
+      "pour": 81,
       "contre": 36,
       "played": 8,
-      "ga": 63
+      "ga": 45
     },
     {
       "rank": 2,
@@ -71,13 +71,13 @@
       "rank": 5,
       "id": 4,
       "name": "herver nini",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
-      "losses": 4,
+      "losses": 3,
       "pour": 69,
-      "contre": 70,
+      "contre": 52,
       "played": 8,
-      "ga": -1
+      "ga": 17
     },
     {
       "rank": 6,
@@ -305,7 +305,7 @@
       "planche": 2,
       "t1": "nico jp",
       "t2": "herver nini",
-      "score1": "19",
+      "score1": "1",
       "score2": "2"
     },
     {
