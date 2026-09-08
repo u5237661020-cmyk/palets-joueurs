@@ -1,18 +1,18 @@
 {
   "tournoi": "Nouveau tournoi de palets",
   "date": "",
-  "round": 3,
+  "round": 4,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 3",
+  "phaseLabel": "Partie 4",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "3/8",
+  "headerRoundValue": "4/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:55:58.378Z",
-  "version": 1788861358378,
+  "updatedAt": "2026-09-08T09:56:02.969Z",
+  "version": 1788861362969,
   "standings": [
     {
       "rank": 1,
@@ -87,35 +87,7 @@
       "ga": -34
     }
   ],
-  "currentMatches": [
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 1,
-      "t1": "zacou jc",
-      "t2": "nico jp",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 2,
-      "t1": "keke yvos",
-      "t2": "vv micka",
-      "score1": "13",
-      "score2": "5"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 3,
-      "t1": "herver nini",
-      "t2": "lolo kev",
-      "score1": "13",
-      "score2": "0"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
