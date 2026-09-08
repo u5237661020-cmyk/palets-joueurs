@@ -11,20 +11,20 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:35:33.995Z",
-  "version": 1788860133995,
+  "updatedAt": "2026-09-08T09:35:42.127Z",
+  "version": 1788860142127,
   "standings": [
     {
       "rank": 1,
       "id": 4,
       "name": "lolo toni",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
       "losses": 0,
-      "pour": 52,
-      "contre": 15,
-      "played": 4,
-      "ga": 37
+      "pour": 65,
+      "contre": 17,
+      "played": 5,
+      "ga": 48
     },
     {
       "rank": 2,
@@ -32,11 +32,11 @@
       "name": "keke kev",
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "pour": 41,
-      "contre": 30,
-      "played": 4,
-      "ga": 11
+      "losses": 2,
+      "pour": 43,
+      "contre": 43,
+      "played": 5,
+      "ga": 0
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "lolo toni",
       "t2": "keke kev",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 5,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "lolo toni",
       "t2": "keke kev",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 5,
