@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:29:59.814Z",
-  "version": 1788859799814,
+  "updatedAt": "2026-09-08T09:30:03.894Z",
+  "version": 1788859803894,
   "standings": [
     {
       "rank": 1,
@@ -30,13 +30,13 @@
       "rank": 2,
       "id": 6,
       "name": "keke kev",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "pour": 13,
-      "contre": 8,
-      "played": 1,
-      "ga": 5
+      "pour": 26,
+      "contre": 15,
+      "played": 2,
+      "ga": 11
     },
     {
       "rank": 3,
@@ -52,18 +52,6 @@
     },
     {
       "rank": 4,
-      "id": 3,
-      "name": "zacou jc",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 8,
-      "contre": 13,
-      "played": 1,
-      "ga": -5
-    },
-    {
-      "rank": 5,
       "id": 5,
       "name": "vv loic",
       "wins": 0,
@@ -75,7 +63,7 @@
       "ga": -8
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 2,
       "name": "jp nico",
       "wins": 0,
@@ -85,6 +73,18 @@
       "contre": 13,
       "played": 1,
       "ga": -9
+    },
+    {
+      "rank": 6,
+      "id": 3,
+      "name": "zacou jc",
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "pour": 15,
+      "contre": 26,
+      "played": 2,
+      "ga": -11
     }
   ],
   "currentMatches": [
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "keke kev",
       "t2": "zacou jc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 2,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "keke kev",
       "t2": "zacou jc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 2,
