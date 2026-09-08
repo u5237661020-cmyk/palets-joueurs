@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:37:32.181Z",
-  "version": 1788860252181,
+  "updatedAt": "2026-09-08T09:37:39.253Z",
+  "version": 1788860259253,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 2,
+      "name": "jp nico",
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "pour": 53,
+      "contre": 54,
+      "played": 7,
+      "ga": -1
+    },
+    {
+      "rank": 5,
       "id": 1,
       "name": "vv micka",
       "wins": 3,
@@ -63,28 +75,16 @@
       "ga": -20
     },
     {
-      "rank": 5,
-      "id": 2,
-      "name": "jp nico",
-      "wins": 2,
-      "draws": 0,
-      "losses": 4,
-      "pour": 40,
-      "contre": 54,
-      "played": 6,
-      "ga": -14
-    },
-    {
       "rank": 6,
       "id": 3,
       "name": "zacou jc",
       "wins": 1,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "pour": 32,
-      "contre": 70,
-      "played": 6,
-      "ga": -38
+      "contre": 83,
+      "played": 7,
+      "ga": -51
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "jp nico",
       "t2": "zacou jc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "jp nico",
       "t2": "zacou jc",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "0"
     },
     {
       "round": 6,
