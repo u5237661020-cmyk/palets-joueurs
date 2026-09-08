@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:55:47.479Z",
-  "version": 1788861347479,
+  "updatedAt": "2026-09-08T09:55:52.442Z",
+  "version": 1788861352442,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 6,
+      "name": "keke yvos",
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "pour": 34,
+      "contre": 20,
+      "played": 3,
+      "ga": 14
+    },
+    {
+      "rank": 3,
       "id": 2,
       "name": "nico jp",
       "wins": 2,
@@ -39,28 +51,16 @@
       "ga": 5
     },
     {
-      "rank": 3,
-      "id": 6,
-      "name": "keke yvos",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 21,
-      "contre": 15,
-      "played": 2,
-      "ga": 6
-    },
-    {
       "rank": 4,
       "id": 1,
       "name": "vv micka",
       "wins": 1,
       "draws": 0,
-      "losses": 1,
-      "pour": 15,
-      "contre": 16,
-      "played": 2,
-      "ga": -1
+      "losses": 2,
+      "pour": 20,
+      "contre": 29,
+      "played": 3,
+      "ga": -9
     },
     {
       "rank": 5,
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "keke yvos",
       "t2": "vv micka",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     },
     {
       "round": 3,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "keke yvos",
       "t2": "vv micka",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     },
     {
       "round": 3,
