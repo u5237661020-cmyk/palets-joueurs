@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 6,
+  "round": 7,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 6",
+  "phaseLabel": "Partie 7",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "6/8",
+  "headerRoundValue": "7/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:36:37.834Z",
-  "version": 1788860197834,
+  "updatedAt": "2026-09-08T09:36:41.936Z",
+  "version": 1788860201936,
   "standings": [
     {
       "rank": 1,
@@ -89,35 +89,62 @@
   ],
   "currentMatches": [
     {
-      "round": 6,
-      "roundLabel": "Partie 6",
+      "round": 7,
+      "roundLabel": "Partie 7",
       "planche": 1,
       "t1": "lolo toni",
       "t2": "vv loic",
-      "score1": "0",
-      "score2": "13"
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 6,
-      "roundLabel": "Partie 6",
+      "round": 7,
+      "roundLabel": "Partie 7",
       "planche": 2,
-      "t1": "keke kev",
-      "t2": "vv micka",
-      "score1": "2",
-      "score2": "13"
+      "t1": "vv micka",
+      "t2": "keke kev",
+      "score1": "",
+      "score2": ""
     },
     {
-      "round": 6,
-      "roundLabel": "Partie 6",
+      "round": 7,
+      "roundLabel": "Partie 7",
       "planche": 3,
       "t1": "jp nico",
       "t2": "zacou jc",
-      "score1": "13",
-      "score2": "2"
+      "score1": "",
+      "score2": ""
     }
   ],
   "nextMatches": [],
   "history": [
+    {
+      "round": 7,
+      "roundLabel": "Partie 7",
+      "planche": 1,
+      "t1": "lolo toni",
+      "t2": "vv loic",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 7,
+      "roundLabel": "Partie 7",
+      "planche": 2,
+      "t1": "vv micka",
+      "t2": "keke kev",
+      "score1": "",
+      "score2": ""
+    },
+    {
+      "round": 7,
+      "roundLabel": "Partie 7",
+      "planche": 3,
+      "t1": "jp nico",
+      "t2": "zacou jc",
+      "score1": "",
+      "score2": ""
+    },
     {
       "round": 6,
       "roundLabel": "Partie 6",
