@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · PETITE FINALE",
-  "finalComplete": false,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 1,
+    "done": 2,
     "total": 2,
     "current": 2,
-    "currentLabel": "PETITE FINALE"
+    "currentLabel": ""
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:40:25.032Z",
-  "version": 1788860425032,
+  "updatedAt": "2026-09-08T09:40:39.527Z",
+  "version": 1788860439527,
   "standings": [
     {
       "rank": 1,
@@ -45,27 +45,27 @@
     },
     {
       "rank": 3,
+      "id": 2,
+      "name": "jp nico",
+      "wins": 4,
+      "draws": 0,
+      "losses": 4,
+      "pour": 63,
+      "contre": 56,
+      "played": 8,
+      "ga": 7
+    },
+    {
+      "rank": 4,
       "id": 6,
       "name": "keke kev",
       "wins": 4,
       "draws": 0,
-      "losses": 3,
-      "pour": 58,
-      "contre": 58,
-      "played": 7,
-      "ga": 0
-    },
-    {
-      "rank": 4,
-      "id": 2,
-      "name": "jp nico",
-      "wins": 3,
-      "draws": 0,
       "losses": 4,
-      "pour": 53,
-      "contre": 54,
-      "played": 7,
-      "ga": -1
+      "pour": 60,
+      "contre": 68,
+      "played": 8,
+      "ga": -8
     },
     {
       "rank": 5,
@@ -92,19 +92,7 @@
       "ga": -51
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "keke kev",
-      "t2": "jp nico",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -117,6 +105,17 @@
       "t2": "vv loic",
       "score1": "13",
       "score2": "0"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "keke kev",
+      "t2": "jp nico",
+      "score1": "2",
+      "score2": "10"
     },
     {
       "round": 7,
