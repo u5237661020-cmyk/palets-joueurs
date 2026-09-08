@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:35:48.597Z",
-  "version": 1788860148597,
+  "updatedAt": "2026-09-08T09:35:56.630Z",
+  "version": 1788860156630,
   "standings": [
     {
       "rank": 1,
@@ -64,27 +64,27 @@
     },
     {
       "rank": 5,
+      "id": 2,
+      "name": "jp nico",
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "pour": 27,
+      "contre": 52,
+      "played": 5,
+      "ga": -25
+    },
+    {
+      "rank": 6,
       "id": 3,
       "name": "zacou jc",
       "wins": 1,
       "draws": 0,
-      "losses": 3,
-      "pour": 30,
-      "contre": 44,
-      "played": 4,
-      "ga": -14
-    },
-    {
-      "rank": 6,
-      "id": 2,
-      "name": "jp nico",
-      "wins": 0,
-      "draws": 0,
       "losses": 4,
-      "pour": 14,
-      "contre": 52,
-      "played": 4,
-      "ga": -38
+      "pour": 30,
+      "contre": 57,
+      "played": 5,
+      "ga": -27
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "zacou jc",
       "t2": "jp nico",
-      "score1": "",
-      "score2": ""
+      "score1": "0",
+      "score2": "13"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "zacou jc",
       "t2": "jp nico",
-      "score1": "",
-      "score2": ""
+      "score1": "0",
+      "score2": "13"
     },
     {
       "round": 4,
