@@ -11,32 +11,32 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T10:00:35.435Z",
-  "version": 1788861635435,
+  "updatedAt": "2026-09-08T10:01:49.664Z",
+  "version": 1788861709664,
   "standings": [
     {
       "rank": 1,
+      "id": 2,
+      "name": "nico jp",
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "pour": 67,
+      "contre": 33,
+      "played": 6,
+      "ga": 34
+    },
+    {
+      "rank": 2,
       "id": 3,
       "name": "zacou jc",
       "wins": 4,
       "draws": 0,
-      "losses": 1,
-      "pour": 53,
-      "contre": 24,
-      "played": 5,
-      "ga": 29
-    },
-    {
-      "rank": 2,
-      "id": 2,
-      "name": "nico jp",
-      "wins": 4,
-      "draws": 0,
-      "losses": 1,
-      "pour": 54,
-      "contre": 31,
-      "played": 5,
-      "ga": 23
+      "losses": 2,
+      "pour": 55,
+      "contre": 37,
+      "played": 6,
+      "ga": 18
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "zacou jc",
       "t2": "nico jp",
-      "score1": "",
-      "score2": ""
+      "score1": "2",
+      "score2": "13"
     },
     {
       "round": 6,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "zacou jc",
       "t2": "nico jp",
-      "score1": "",
-      "score2": ""
+      "score1": "2",
+      "score2": "13"
     },
     {
       "round": 6,
