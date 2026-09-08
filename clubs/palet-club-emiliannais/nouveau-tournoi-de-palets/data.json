@@ -16,8 +16,8 @@
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T10:06:35.257Z",
-  "version": 1788861995257,
+  "updatedAt": "2026-09-08T10:07:07.638Z",
+  "version": 1788862027638,
   "standings": [
     {
       "rank": 1,
@@ -35,13 +35,13 @@
       "rank": 2,
       "id": 6,
       "name": "keke yvos",
-      "wins": 4,
-      "draws": 0,
+      "wins": 3,
+      "draws": 1,
       "losses": 4,
       "pour": 67,
-      "contre": 67,
+      "contre": 77,
       "played": 8,
-      "ga": 0
+      "ga": -10
     },
     {
       "rank": 3,
@@ -60,12 +60,12 @@
       "id": 1,
       "name": "vv micka",
       "wins": 3,
-      "draws": 0,
-      "losses": 5,
-      "pour": 54,
+      "draws": 1,
+      "losses": 4,
+      "pour": 64,
       "contre": 71,
       "played": 8,
-      "ga": -17
+      "ga": -7
     },
     {
       "rank": 5,
@@ -297,7 +297,7 @@
       "t1": "keke yvos",
       "t2": "vv micka",
       "score1": "13",
-      "score2": "3"
+      "score2": "13"
     },
     {
       "round": 1,
