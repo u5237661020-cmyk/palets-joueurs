@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · PETITE FINALE",
-  "finalComplete": false,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 1,
+    "done": 3,
     "total": 3,
-    "current": 2,
-    "currentLabel": "PETITE FINALE"
+    "current": 3,
+    "currentLabel": ""
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T10:05:29.218Z",
-  "version": 1788861929218,
+  "updatedAt": "2026-09-08T10:06:35.257Z",
+  "version": 1788861995257,
   "standings": [
     {
       "rank": 1,
@@ -39,21 +39,21 @@
       "draws": 0,
       "losses": 4,
       "pour": 67,
-      "contre": 66,
+      "contre": 67,
       "played": 8,
-      "ga": 1
+      "ga": 0
     },
     {
       "rank": 3,
       "id": 3,
       "name": "zacou jc",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
       "losses": 3,
-      "pour": 57,
+      "pour": 70,
       "contre": 50,
-      "played": 7,
-      "ga": 7
+      "played": 8,
+      "ga": 20
     },
     {
       "rank": 4,
@@ -61,23 +61,23 @@
       "name": "vv micka",
       "wins": 3,
       "draws": 0,
-      "losses": 4,
-      "pour": 53,
-      "contre": 58,
-      "played": 7,
-      "ga": -5
+      "losses": 5,
+      "pour": 54,
+      "contre": 71,
+      "played": 8,
+      "ga": -17
     },
     {
       "rank": 5,
       "id": 4,
       "name": "herver nini",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 4,
-      "pour": 56,
+      "pour": 69,
       "contre": 64,
-      "played": 7,
-      "ga": -8
+      "played": 8,
+      "ga": 5
     },
     {
       "rank": 6,
@@ -85,37 +85,14 @@
       "name": "lolo kev",
       "wins": 1,
       "draws": 0,
-      "losses": 6,
+      "losses": 7,
       "pour": 31,
-      "contre": 83,
-      "played": 7,
-      "ga": -52
+      "contre": 96,
+      "played": 8,
+      "ga": -65
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "zacou jc",
-      "t2": "vv micka",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
-      "roundLabel": "5ème/6ème PLACE",
-      "planche": "5ème/6ème PLACE",
-      "matchId": "classif_5",
-      "isFinal": true,
-      "t1": "herver nini",
-      "t2": "lolo kev",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -128,6 +105,28 @@
       "t2": "keke yvos",
       "score1": "13",
       "score2": "1"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "zacou jc",
+      "t2": "vv micka",
+      "score1": "13",
+      "score2": "0"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "5ème/6ème PLACE",
+      "planche": "5ème/6ème PLACE",
+      "matchId": "classif_5",
+      "isFinal": true,
+      "t1": "herver nini",
+      "t2": "lolo kev",
+      "score1": "13",
+      "score2": "0"
     },
     {
       "round": 7,
@@ -298,7 +297,7 @@
       "t1": "keke yvos",
       "t2": "vv micka",
       "score1": "13",
-      "score2": "2"
+      "score2": "3"
     },
     {
       "round": 1,
