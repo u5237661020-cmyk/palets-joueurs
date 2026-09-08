@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-09-08T09:30:03.894Z",
-  "version": 1788859803894,
+  "updatedAt": "2026-09-08T09:30:10.409Z",
+  "version": 1788859810409,
   "standings": [
     {
       "rank": 1,
@@ -40,6 +40,18 @@
     },
     {
       "rank": 3,
+      "id": 5,
+      "name": "vv loic",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 18,
+      "contre": 14,
+      "played": 2,
+      "ga": 4
+    },
+    {
+      "rank": 4,
       "id": 1,
       "name": "vv micka",
       "wins": 1,
@@ -51,31 +63,7 @@
       "ga": -3
     },
     {
-      "rank": 4,
-      "id": 5,
-      "name": "vv loic",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 5,
-      "contre": 13,
-      "played": 1,
-      "ga": -8
-    },
-    {
       "rank": 5,
-      "id": 2,
-      "name": "jp nico",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 4,
-      "contre": 13,
-      "played": 1,
-      "ga": -9
-    },
-    {
-      "rank": 6,
       "id": 3,
       "name": "zacou jc",
       "wins": 0,
@@ -85,6 +73,18 @@
       "contre": 26,
       "played": 2,
       "ga": -11
+    },
+    {
+      "rank": 6,
+      "id": 2,
+      "name": "jp nico",
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "pour": 5,
+      "contre": 26,
+      "played": 2,
+      "ga": -21
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "vv loic",
       "t2": "jp nico",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "vv loic",
       "t2": "jp nico",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 1,
