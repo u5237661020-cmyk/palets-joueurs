@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-08T20:30:40.999Z",
-  "version": 1791491440999,
+  "updatedAt": "2026-10-08T20:30:45.413Z",
+  "version": 1791491445413,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 1,
+      "name": "vv",
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "pour": 57,
+      "contre": 38,
+      "played": 6,
+      "ga": 19
+    },
+    {
+      "rank": 3,
       "id": 3,
       "name": "coach",
       "wins": 4,
@@ -39,28 +51,16 @@
       "ga": 15
     },
     {
-      "rank": 3,
-      "id": 1,
-      "name": "vv",
-      "wins": 3,
-      "draws": 0,
-      "losses": 2,
-      "pour": 44,
-      "contre": 31,
-      "played": 5,
-      "ga": 13
-    },
-    {
       "rank": 4,
       "id": 6,
       "name": "zz",
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "pour": 38,
-      "contre": 43,
-      "played": 5,
-      "ga": -5
+      "losses": 4,
+      "pour": 45,
+      "contre": 56,
+      "played": 6,
+      "ga": -11
     },
     {
       "rank": 5,
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "vv",
       "t2": "zz",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 6,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "vv",
       "t2": "zz",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "7"
     },
     {
       "round": 6,
