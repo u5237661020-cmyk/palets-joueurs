@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · 5ème/6ème PLACE",
-  "finalComplete": false,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 2,
+    "done": 3,
     "total": 3,
     "current": 3,
-    "currentLabel": "5ème/6ème PLACE"
+    "currentLabel": ""
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-08T20:31:49.161Z",
-  "version": 1791491509161,
+  "updatedAt": "2026-10-08T20:31:54.364Z",
+  "version": 1791491514364,
   "standings": [
     {
       "rank": 1,
@@ -69,42 +69,30 @@
     },
     {
       "rank": 5,
+      "id": 4,
+      "name": "nini",
+      "wins": 2,
+      "draws": 0,
+      "losses": 6,
+      "pour": 32,
+      "contre": 83,
+      "played": 8,
+      "ga": -51
+    },
+    {
+      "rank": 6,
       "id": 5,
       "name": "roro",
       "wins": 3,
       "draws": 0,
-      "losses": 4,
-      "pour": 46,
-      "contre": 53,
-      "played": 7,
-      "ga": -7
-    },
-    {
-      "rank": 6,
-      "id": 4,
-      "name": "nini",
-      "wins": 1,
-      "draws": 0,
-      "losses": 6,
-      "pour": 19,
-      "contre": 79,
-      "played": 7,
-      "ga": -60
+      "losses": 5,
+      "pour": 50,
+      "contre": 66,
+      "played": 8,
+      "ga": -16
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "5ème/6ème PLACE",
-      "planche": "5ème/6ème PLACE",
-      "matchId": "classif_5",
-      "isFinal": true,
-      "t1": "roro",
-      "t2": "nini",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -128,6 +116,17 @@
       "t2": "zz",
       "score1": "13",
       "score2": "3"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "5ème/6ème PLACE",
+      "planche": "5ème/6ème PLACE",
+      "matchId": "classif_5",
+      "isFinal": true,
+      "t1": "roro",
+      "t2": "nini",
+      "score1": "4",
+      "score2": "13"
     },
     {
       "round": 7,
