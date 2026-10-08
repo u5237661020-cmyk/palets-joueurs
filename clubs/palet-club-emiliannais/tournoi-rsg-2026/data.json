@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-08T20:26:16.999Z",
-  "version": 1791491176999,
+  "updatedAt": "2026-10-08T20:26:22.582Z",
+  "version": 1791491182582,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 6,
+      "name": "zz",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 2,
+      "played": 1,
+      "ga": 11
+    },
+    {
+      "rank": 3,
       "id": 1,
       "name": "vv",
       "wins": 0,
@@ -39,7 +51,7 @@
       "ga": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": 3,
       "name": "coach",
       "wins": 0,
@@ -51,28 +63,16 @@
       "ga": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": 5,
       "name": "roro",
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 5,
-      "id": 6,
-      "name": "zz",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
+      "losses": 1,
+      "pour": 2,
+      "contre": 13,
+      "played": 1,
+      "ga": -11
     },
     {
       "rank": 6,
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "zz",
       "t2": "roro",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 1,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "zz",
       "t2": "roro",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 1,
