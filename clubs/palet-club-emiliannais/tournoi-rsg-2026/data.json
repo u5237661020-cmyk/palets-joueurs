@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · 7ème/8ème PLACE",
-  "finalComplete": false,
+  "phaseLabel": "Tournoi terminé",
+  "finalComplete": true,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 3,
+    "done": 4,
     "total": 4,
     "current": 4,
-    "currentLabel": "7ème/8ème PLACE"
+    "currentLabel": ""
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:18:55.734Z",
-  "version": 1792441135734,
+  "updatedAt": "2026-10-19T20:19:12.911Z",
+  "version": 1792441152911,
   "standings": [
     {
       "rank": 1,
@@ -93,42 +93,30 @@
     },
     {
       "rank": 7,
+      "id": 5,
+      "name": "qq",
+      "wins": 2,
+      "draws": 0,
+      "losses": 6,
+      "pour": 42,
+      "contre": 84,
+      "played": 8,
+      "ga": -42
+    },
+    {
+      "rank": 8,
       "id": 8,
       "name": "pds",
       "wins": 2,
       "draws": 0,
-      "losses": 5,
-      "pour": 32,
-      "contre": 70,
-      "played": 7,
-      "ga": -38
-    },
-    {
-      "rank": 8,
-      "id": 5,
-      "name": "qq",
-      "wins": 1,
-      "draws": 0,
       "losses": 6,
-      "pour": 29,
-      "contre": 78,
-      "played": 7,
-      "ga": -49
+      "pour": 38,
+      "contre": 83,
+      "played": 8,
+      "ga": -45
     }
   ],
-  "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "7ème/8ème PLACE",
-      "planche": "7ème/8ème PLACE",
-      "matchId": "classif_7",
-      "isFinal": true,
-      "t1": "pds",
-      "t2": "qq",
-      "score1": "",
-      "score2": ""
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -162,6 +150,17 @@
       "t1": "zizi",
       "t2": "zezeete",
       "score1": "1",
+      "score2": "13"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "7ème/8ème PLACE",
+      "planche": "7ème/8ème PLACE",
+      "matchId": "classif_7",
+      "isFinal": true,
+      "t1": "pds",
+      "t2": "qq",
+      "score1": "6",
       "score2": "13"
     },
     {
