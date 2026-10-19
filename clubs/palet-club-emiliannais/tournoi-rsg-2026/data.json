@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · PETITE FINALE",
+  "phaseLabel": "Phase finale · 5ème/6ème PLACE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 1,
+    "done": 2,
     "total": 4,
-    "current": 2,
-    "currentLabel": "PETITE FINALE"
+    "current": 3,
+    "currentLabel": "5ème/6ème PLACE"
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:18:42.243Z",
-  "version": 1792441122243,
+  "updatedAt": "2026-10-19T20:18:48.685Z",
+  "version": 1792441128685,
   "standings": [
     {
       "rank": 1,
@@ -45,27 +45,27 @@
     },
     {
       "rank": 3,
+      "id": 6,
+      "name": "les booss",
+      "wins": 5,
+      "draws": 0,
+      "losses": 3,
+      "pour": 69,
+      "contre": 45,
+      "played": 8,
+      "ga": 24
+    },
+    {
+      "rank": 4,
       "id": 2,
       "name": "les boulets",
       "wins": 5,
       "draws": 0,
-      "losses": 2,
-      "pour": 66,
-      "contre": 35,
-      "played": 7,
-      "ga": 31
-    },
-    {
-      "rank": 4,
-      "id": 6,
-      "name": "les booss",
-      "wins": 4,
-      "draws": 0,
       "losses": 3,
-      "pour": 56,
-      "contre": 45,
-      "played": 7,
-      "ga": 11
+      "pour": 66,
+      "contre": 48,
+      "played": 8,
+      "ga": 18
     },
     {
       "rank": 5,
@@ -119,17 +119,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "les boulets",
-      "t2": "les booss",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "5ème/6ème PLACE",
       "planche": "5ème/6ème PLACE",
       "matchId": "classif_5",
@@ -161,6 +150,17 @@
       "isFinal": true,
       "t1": "les nuls",
       "t2": "foutage",
+      "score1": "0",
+      "score2": "13"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "les boulets",
+      "t2": "les booss",
       "score1": "0",
       "score2": "13"
     },
