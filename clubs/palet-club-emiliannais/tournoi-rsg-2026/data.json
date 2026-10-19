@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · PETITE FINALE",
+  "phaseLabel": "Phase finale · 5ème/6ème PLACE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 1,
+    "done": 2,
     "total": 3,
-    "current": 2,
-    "currentLabel": "PETITE FINALE"
+    "current": 3,
+    "currentLabel": "5ème/6ème PLACE"
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:54:21.629Z",
-  "version": 1792443261629,
+  "updatedAt": "2026-10-19T20:54:27.931Z",
+  "version": 1792443267931,
   "standings": [
     {
       "rank": 1,
@@ -47,13 +47,13 @@
       "rank": 3,
       "id": 1,
       "name": "qq",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
       "losses": 3,
-      "pour": 55,
-      "contre": 52,
-      "played": 7,
-      "ga": 3
+      "pour": 68,
+      "contre": 58,
+      "played": 8,
+      "ga": 10
     },
     {
       "rank": 4,
@@ -61,11 +61,11 @@
       "name": "dd",
       "wins": 3,
       "draws": 0,
-      "losses": 4,
-      "pour": 51,
-      "contre": 54,
-      "played": 7,
-      "ga": -3
+      "losses": 5,
+      "pour": 57,
+      "contre": 67,
+      "played": 8,
+      "ga": -10
     },
     {
       "rank": 5,
@@ -95,17 +95,6 @@
   "currentMatches": [
     {
       "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "qq",
-      "t2": "dd",
-      "score1": "",
-      "score2": ""
-    },
-    {
-      "round": "finale",
       "roundLabel": "5ème/6ème PLACE",
       "planche": "5ème/6ème PLACE",
       "matchId": "classif_5",
@@ -128,6 +117,17 @@
       "t2": "gg",
       "score1": "13",
       "score2": "2"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "PETITE FINALE",
+      "planche": "PETITE FINALE",
+      "matchId": "petite",
+      "isFinal": true,
+      "t1": "qq",
+      "t2": "dd",
+      "score1": "13",
+      "score2": "6"
     },
     {
       "round": 7,
