@@ -4,20 +4,20 @@
   "round": 7,
   "totalRounds": 7,
   "phase": "final",
-  "phaseLabel": "Phase finale · 5ème/6ème PLACE",
+  "phaseLabel": "Phase finale · 7ème/8ème PLACE",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
   "headerRoundValue": "8/8",
   "finalProgress": {
-    "done": 2,
+    "done": 3,
     "total": 4,
-    "current": 3,
-    "currentLabel": "5ème/6ème PLACE"
+    "current": 4,
+    "currentLabel": "7ème/8ème PLACE"
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:18:48.685Z",
-  "version": 1792441128685,
+  "updatedAt": "2026-10-19T20:18:55.734Z",
+  "version": 1792441135734,
   "standings": [
     {
       "rank": 1,
@@ -69,27 +69,27 @@
     },
     {
       "rank": 5,
+      "id": 3,
+      "name": "zezeete",
+      "wins": 4,
+      "draws": 0,
+      "losses": 4,
+      "pour": 57,
+      "contre": 70,
+      "played": 8,
+      "ga": -13
+    },
+    {
+      "rank": 6,
       "id": 4,
       "name": "zizi",
       "wins": 3,
       "draws": 0,
-      "losses": 4,
-      "pour": 56,
-      "contre": 57,
-      "played": 7,
-      "ga": -1
-    },
-    {
-      "rank": 6,
-      "id": 3,
-      "name": "zezeete",
-      "wins": 3,
-      "draws": 0,
-      "losses": 4,
-      "pour": 44,
-      "contre": 69,
-      "played": 7,
-      "ga": -25
+      "losses": 5,
+      "pour": 57,
+      "contre": 70,
+      "played": 8,
+      "ga": -13
     },
     {
       "rank": 7,
@@ -117,17 +117,6 @@
     }
   ],
   "currentMatches": [
-    {
-      "round": "finale",
-      "roundLabel": "5ème/6ème PLACE",
-      "planche": "5ème/6ème PLACE",
-      "matchId": "classif_5",
-      "isFinal": true,
-      "t1": "zizi",
-      "t2": "zezeete",
-      "score1": "",
-      "score2": ""
-    },
     {
       "round": "finale",
       "roundLabel": "7ème/8ème PLACE",
@@ -162,6 +151,17 @@
       "t1": "les boulets",
       "t2": "les booss",
       "score1": "0",
+      "score2": "13"
+    },
+    {
+      "round": "finale",
+      "roundLabel": "5ème/6ème PLACE",
+      "planche": "5ème/6ème PLACE",
+      "matchId": "classif_5",
+      "isFinal": true,
+      "t1": "zizi",
+      "t2": "zezeete",
+      "score1": "1",
       "score2": "13"
     },
     {
