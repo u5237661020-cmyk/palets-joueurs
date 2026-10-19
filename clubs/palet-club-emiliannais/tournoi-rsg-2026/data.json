@@ -11,11 +11,23 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:34:38.540Z",
-  "version": 1792442078540,
+  "updatedAt": "2026-10-19T20:34:45.089Z",
+  "version": 1792442085089,
   "standings": [
     {
       "rank": 1,
+      "id": 6,
+      "name": "ll",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 1,
+      "played": 1,
+      "ga": 12
+    },
+    {
+      "rank": 2,
       "id": 1,
       "name": "qq",
       "wins": 1,
@@ -27,7 +39,7 @@
       "ga": 11
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": 2,
       "name": "dd",
       "wins": 0,
@@ -39,7 +51,7 @@
       "ga": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": 4,
       "name": "zz",
       "wins": 0,
@@ -51,31 +63,7 @@
       "ga": 0
     },
     {
-      "rank": 4,
-      "id": 5,
-      "name": "pp",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
       "rank": 5,
-      "id": 6,
-      "name": "ll",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 6,
       "id": 3,
       "name": "gg",
       "wins": 0,
@@ -85,6 +73,18 @@
       "contre": 13,
       "played": 1,
       "ga": -11
+    },
+    {
+      "rank": 6,
+      "id": 5,
+      "name": "pp",
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "pour": 1,
+      "contre": 13,
+      "played": 1,
+      "ga": -12
     }
   ],
   "currentMatches": [
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "ll",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 1,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "ll",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 1,
