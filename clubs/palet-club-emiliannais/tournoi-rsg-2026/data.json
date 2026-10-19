@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:09:47.038Z",
-  "version": 1792440587038,
+  "updatedAt": "2026-10-19T20:09:53.649Z",
+  "version": 1792440593649,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 1,
+      "name": "les nuls",
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "pour": 30,
+      "contre": 15,
+      "played": 3,
+      "ga": 15
+    },
+    {
+      "rank": 3,
       "id": 6,
       "name": "les booss",
       "wins": 2,
@@ -39,31 +51,7 @@
       "ga": 11
     },
     {
-      "rank": 3,
-      "id": 1,
-      "name": "les nuls",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 17,
-      "contre": 13,
-      "played": 2,
-      "ga": 4
-    },
-    {
       "rank": 4,
-      "id": 4,
-      "name": "zizi",
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "pour": 15,
-      "contre": 14,
-      "played": 2,
-      "ga": 1
-    },
-    {
-      "rank": 5,
       "id": 8,
       "name": "pds",
       "wins": 1,
@@ -75,7 +63,7 @@
       "ga": -2
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 3,
       "name": "zezeete",
       "wins": 1,
@@ -85,6 +73,18 @@
       "contre": 18,
       "played": 2,
       "ga": -4
+    },
+    {
+      "rank": 6,
+      "id": 4,
+      "name": "zizi",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "pour": 17,
+      "contre": 27,
+      "played": 3,
+      "ga": -10
     },
     {
       "rank": 7,
@@ -127,8 +127,8 @@
       "planche": 2,
       "t1": "les nuls",
       "t2": "zizi",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 3,
@@ -166,8 +166,8 @@
       "planche": 2,
       "t1": "les nuls",
       "t2": "zizi",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 3,
