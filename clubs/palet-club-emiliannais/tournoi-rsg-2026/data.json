@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 5,
+  "round": 6,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 5",
+  "phaseLabel": "Partie 6",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "5/8",
+  "headerRoundValue": "6/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:16:02.042Z",
-  "version": 1792440962042,
+  "updatedAt": "2026-10-19T20:16:27.153Z",
+  "version": 1792440987153,
   "standings": [
     {
       "rank": 1,
@@ -20,83 +20,83 @@
       "name": "les boulets",
       "wins": 5,
       "draws": 0,
-      "losses": 0,
-      "pour": 65,
-      "contre": 9,
-      "played": 5,
-      "ga": 56
+      "losses": 1,
+      "pour": 66,
+      "contre": 22,
+      "played": 6,
+      "ga": 44
     },
     {
       "rank": 2,
       "id": 1,
       "name": "les nuls",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 2,
-      "pour": 45,
-      "contre": 30,
-      "played": 5,
-      "ga": 15
+      "pour": 58,
+      "contre": 31,
+      "played": 6,
+      "ga": 27
     },
     {
       "rank": 3,
       "id": 6,
       "name": "les booss",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 2,
-      "pour": 43,
-      "contre": 31,
-      "played": 5,
-      "ga": 12
+      "pour": 56,
+      "contre": 32,
+      "played": 6,
+      "ga": 24
     },
     {
       "rank": 4,
       "id": 7,
       "name": "foutage",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 2,
-      "pour": 45,
-      "contre": 39,
-      "played": 5,
-      "ga": 6
+      "pour": 58,
+      "contre": 40,
+      "played": 6,
+      "ga": 18
     },
     {
       "rank": 5,
+      "id": 3,
+      "name": "zezeete",
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
+      "pour": 44,
+      "contre": 56,
+      "played": 6,
+      "ga": -12
+    },
+    {
+      "rank": 6,
       "id": 4,
       "name": "zizi",
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "pour": 39,
-      "contre": 44,
-      "played": 5,
-      "ga": -5
+      "losses": 4,
+      "pour": 43,
+      "contre": 57,
+      "played": 6,
+      "ga": -14
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": 8,
       "name": "pds",
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "pour": 31,
-      "contre": 44,
-      "played": 5,
-      "ga": -13
-    },
-    {
-      "rank": 7,
-      "id": 3,
-      "name": "zezeete",
-      "wins": 2,
-      "draws": 0,
-      "losses": 3,
-      "pour": 31,
-      "contre": 52,
-      "played": 5,
-      "ga": -21
+      "losses": 4,
+      "pour": 32,
+      "contre": 57,
+      "played": 6,
+      "ga": -25
     },
     {
       "rank": 8,
@@ -104,82 +104,89 @@
       "name": "qq",
       "wins": 0,
       "draws": 0,
-      "losses": 5,
-      "pour": 15,
-      "contre": 65,
-      "played": 5,
-      "ga": -50
+      "losses": 6,
+      "pour": 16,
+      "contre": 78,
+      "played": 6,
+      "ga": -62
     }
   ],
   "currentMatches": [
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 1,
-      "t1": "les boulets",
-      "t2": "les booss",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 2,
-      "t1": "les nuls",
-      "t2": "pds",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 3,
-      "t1": "foutage",
-      "t2": "zezeete",
-      "score1": "13",
-      "score2": "3"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 4,
-      "t1": "zizi",
-      "t2": "qq",
-      "score1": "13",
-      "score2": "4"
-    }
-  ],
-  "nextMatches": [
     {
       "round": 6,
       "roundLabel": "Partie 6",
       "planche": 1,
       "t1": "les nuls",
-      "t2": "les boulets"
+      "t2": "les boulets",
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 6,
       "roundLabel": "Partie 6",
       "planche": 2,
       "t1": "zezeete",
-      "t2": "zizi"
+      "t2": "zizi",
+      "score1": "13",
+      "score2": "4"
     },
     {
       "round": 6,
       "roundLabel": "Partie 6",
       "planche": 3,
       "t1": "qq",
-      "t2": "les booss"
+      "t2": "les booss",
+      "score1": "1",
+      "score2": "13"
     },
     {
       "round": 6,
       "roundLabel": "Partie 6",
       "planche": 4,
       "t1": "foutage",
-      "t2": "pds"
+      "t2": "pds",
+      "score1": "13",
+      "score2": "1"
     }
   ],
+  "nextMatches": [],
   "history": [
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 1,
+      "t1": "les nuls",
+      "t2": "les boulets",
+      "score1": "13",
+      "score2": "1"
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 2,
+      "t1": "zezeete",
+      "t2": "zizi",
+      "score1": "13",
+      "score2": "4"
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 3,
+      "t1": "qq",
+      "t2": "les booss",
+      "score1": "1",
+      "score2": "13"
+    },
+    {
+      "round": 6,
+      "roundLabel": "Partie 6",
+      "planche": 4,
+      "t1": "foutage",
+      "t2": "pds",
+      "score1": "13",
+      "score2": "1"
+    },
     {
       "round": 5,
       "roundLabel": "Partie 5",
