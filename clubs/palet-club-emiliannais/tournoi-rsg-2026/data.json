@@ -1,18 +1,18 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 2,
+  "round": 3,
   "totalRounds": 7,
   "phase": "qualifying",
-  "phaseLabel": "Partie 2",
+  "phaseLabel": "Partie 3",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "2/8",
+  "headerRoundValue": "3/8",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:07:44.233Z",
-  "version": 1792440464233,
+  "updatedAt": "2026-10-19T20:07:51.119Z",
+  "version": 1792440471119,
   "standings": [
     {
       "rank": 1,
@@ -111,44 +111,7 @@
       "ga": -24
     }
   ],
-  "currentMatches": [
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 1,
-      "t1": "les boulets",
-      "t2": "zizi",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 2,
-      "t1": "les booss",
-      "t2": "pds",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 3,
-      "t1": "les nuls",
-      "t2": "qq",
-      "score1": "13",
-      "score2": "0"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 4,
-      "t1": "zezeete",
-      "t2": "foutage",
-      "score1": "13",
-      "score2": "5"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
