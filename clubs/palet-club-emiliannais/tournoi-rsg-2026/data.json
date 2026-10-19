@@ -1,7 +1,7 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 7,
+  "round": 1,
   "totalRounds": 7,
   "phase": "final",
   "phaseLabel": "Tournoi terminé",
@@ -16,32 +16,32 @@
   },
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:56:58.260Z",
-  "version": 1792443418260,
+  "updatedAt": "2026-10-19T20:57:10.260Z",
+  "version": 1792443430260,
   "standings": [
     {
       "rank": 1,
       "id": 4,
       "name": "zz",
-      "wins": 7,
+      "wins": 6,
       "draws": 0,
-      "losses": 1,
-      "pour": 91,
-      "contre": 28,
+      "losses": 2,
+      "pour": 79,
+      "contre": 32,
       "played": 8,
-      "ga": 63
+      "ga": 47
     },
     {
       "rank": 2,
       "id": 3,
       "name": "gg",
-      "wins": 4,
+      "wins": 5,
       "draws": 0,
-      "losses": 4,
-      "pour": 58,
-      "contre": 57,
+      "losses": 3,
+      "pour": 69,
+      "contre": 53,
       "played": 8,
-      "ga": 1
+      "ga": 16
     },
     {
       "rank": 3,
@@ -59,25 +59,25 @@
       "rank": 4,
       "id": 2,
       "name": "dd",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
-      "losses": 5,
-      "pour": 57,
-      "contre": 67,
+      "losses": 4,
+      "pour": 61,
+      "contre": 55,
       "played": 8,
-      "ga": -10
+      "ga": 6
     },
     {
       "rank": 5,
       "id": 6,
       "name": "ll",
-      "wins": 4,
+      "wins": 3,
       "draws": 0,
-      "losses": 4,
-      "pour": 62,
-      "contre": 69,
+      "losses": 5,
+      "pour": 51,
+      "contre": 81,
       "played": 8,
-      "ga": -7
+      "ga": -30
     },
     {
       "rank": 6,
@@ -86,10 +86,10 @@
       "wins": 1,
       "draws": 0,
       "losses": 7,
-      "pour": 35,
+      "pour": 43,
       "contre": 92,
       "played": 8,
-      "ga": -57
+      "ga": -49
     }
   ],
   "currentMatches": [],
@@ -129,182 +129,20 @@
       "score2": "2"
     },
     {
-      "round": 7,
-      "roundLabel": "Partie 7",
+      "round": 1,
+      "roundLabel": "Partie 1",
       "planche": 1,
-      "t1": "zz",
-      "t2": "gg",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 2,
       "t1": "qq",
       "t2": "ll",
       "score1": "13",
-      "score2": "9"
-    },
-    {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 3,
-      "t1": "dd",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 1,
-      "t1": "zz",
-      "t2": "qq",
-      "score1": "13",
-      "score2": "0"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 2,
-      "t1": "gg",
-      "t2": "dd",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 3,
-      "t1": "ll",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "11"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 1,
-      "t1": "gg",
-      "t2": "zz",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 2,
-      "t1": "dd",
-      "t2": "qq",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 3,
-      "t1": "ll",
-      "t2": "pp",
-      "score1": "1",
-      "score2": "13"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 1,
-      "t1": "dd",
-      "t2": "gg",
-      "score1": "1",
-      "score2": "13"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 2,
-      "t1": "ll",
-      "t2": "zz",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 3,
-      "t1": "qq",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 1,
-      "t1": "ll",
-      "t2": "dd",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 2,
-      "t1": "qq",
-      "t2": "gg",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 3,
-      "t1": "zz",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 1,
-      "t1": "ll",
-      "t2": "qq",
-      "score1": "13",
-      "score2": "3"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 2,
-      "t1": "zz",
-      "t2": "dd",
-      "score1": "0",
-      "score2": "13"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 3,
-      "t1": "gg",
-      "t2": "pp",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 1,
-      "t1": "qq",
-      "t2": "gg",
-      "score1": "13",
       "score2": "2"
     },
     {
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 2,
-      "t1": "ll",
-      "t2": "pp",
+      "t1": "dd",
+      "t2": "zz",
       "score1": "13",
       "score2": "1"
     },
@@ -312,8 +150,8 @@
       "round": 1,
       "roundLabel": "Partie 1",
       "planche": 3,
-      "t1": "zz",
-      "t2": "dd",
+      "t1": "gg",
+      "t2": "pp",
       "score1": "13",
       "score2": "9"
     }
