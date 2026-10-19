@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-19T20:07:34.292Z",
-  "version": 1792440454292,
+  "updatedAt": "2026-10-19T20:07:44.233Z",
+  "version": 1792440464233,
   "standings": [
     {
       "rank": 1,
@@ -78,13 +78,13 @@
       "rank": 6,
       "id": 3,
       "name": "zezeete",
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "pour": 1,
-      "contre": 13,
-      "played": 1,
-      "ga": -12
+      "pour": 14,
+      "contre": 18,
+      "played": 2,
+      "ga": -4
     },
     {
       "rank": 7,
@@ -92,11 +92,11 @@
       "name": "foutage",
       "wins": 0,
       "draws": 0,
-      "losses": 1,
-      "pour": 1,
-      "contre": 13,
-      "played": 1,
-      "ga": -12
+      "losses": 2,
+      "pour": 6,
+      "contre": 26,
+      "played": 2,
+      "ga": -20
     },
     {
       "rank": 8,
@@ -145,8 +145,8 @@
       "planche": 4,
       "t1": "zezeete",
       "t2": "foutage",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     }
   ],
   "nextMatches": [],
@@ -184,8 +184,8 @@
       "planche": 4,
       "t1": "zezeete",
       "t2": "foutage",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     },
     {
       "round": 1,
