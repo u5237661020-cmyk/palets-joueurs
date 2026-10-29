@@ -1,21 +1,33 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 1,
+  "round": 2,
   "totalRounds": 5,
   "phase": "qualifying",
-  "phaseLabel": "Partie 1",
+  "phaseLabel": "Partie 2",
   "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "1/6",
+  "headerRoundValue": "2/6",
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-29T15:17:48.591Z",
-  "version": 1793287068591,
+  "updatedAt": "2026-10-29T15:17:52.508Z",
+  "version": 1793287072508,
   "standings": [
     {
       "rank": 1,
+      "id": 11,
+      "name": "roro",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 0,
+      "played": 1,
+      "ga": 13
+    },
+    {
+      "rank": 2,
       "id": 7,
       "name": "vv",
       "wins": 1,
@@ -27,21 +39,9 @@
       "ga": 11
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": 10,
       "name": "tetelle",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 2,
-      "played": 1,
-      "ga": 11
-    },
-    {
-      "rank": 3,
-      "id": 11,
-      "name": "roro",
       "wins": 1,
       "draws": 0,
       "losses": 0,
@@ -148,18 +148,6 @@
     },
     {
       "rank": 12,
-      "id": 9,
-      "name": "yvos",
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "pour": 2,
-      "contre": 13,
-      "played": 1,
-      "ga": -11
-    },
-    {
-      "rank": 13,
       "id": 13,
       "name": "crevettes",
       "wins": 0,
@@ -171,7 +159,7 @@
       "ga": -11
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": 14,
       "name": "elouann",
       "wins": 0,
@@ -181,73 +169,21 @@
       "contre": 13,
       "played": 1,
       "ga": -11
+    },
+    {
+      "rank": 14,
+      "id": 9,
+      "name": "yvos",
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "pour": 0,
+      "contre": 13,
+      "played": 1,
+      "ga": -13
     }
   ],
-  "currentMatches": [
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 1,
-      "t1": "kev",
-      "t2": "jc",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 2,
-      "t1": "vv",
-      "t2": "elouann",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 3,
-      "t1": "romain",
-      "t2": "keke l",
-      "score1": "9",
-      "score2": "7"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 4,
-      "t1": "tetelle",
-      "t2": "crevettes",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 5,
-      "t1": "lolo g",
-      "t2": "keke",
-      "score1": "7",
-      "score2": "13"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 6,
-      "t1": "math",
-      "t2": "jp",
-      "score1": "13",
-      "score2": "7"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 7,
-      "t1": "roro",
-      "t2": "yvos",
-      "score1": "13",
-      "score2": "2"
-    }
-  ],
+  "currentMatches": [],
   "nextMatches": [],
   "history": [
     {
@@ -311,7 +247,7 @@
       "t1": "roro",
       "t2": "yvos",
       "score1": "13",
-      "score2": "2"
+      "score2": "0"
     }
   ]
 }
