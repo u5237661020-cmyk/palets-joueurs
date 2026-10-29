@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-29T15:17:43.463Z",
-  "version": 1793287063463,
+  "updatedAt": "2026-10-29T15:17:48.591Z",
+  "version": 1793287068591,
   "standings": [
     {
       "rank": 1,
@@ -40,6 +40,18 @@
     },
     {
       "rank": 3,
+      "id": 11,
+      "name": "roro",
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "pour": 13,
+      "contre": 2,
+      "played": 1,
+      "ga": 11
+    },
+    {
+      "rank": 4,
       "id": 1,
       "name": "kev",
       "wins": 1,
@@ -51,7 +63,7 @@
       "ga": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": 2,
       "name": "keke",
       "wins": 1,
@@ -63,7 +75,7 @@
       "ga": 6
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": 5,
       "name": "math",
       "wins": 1,
@@ -75,7 +87,7 @@
       "ga": 6
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": 8,
       "name": "romain",
       "wins": 1,
@@ -87,31 +99,7 @@
       "ga": 2
     },
     {
-      "rank": 7,
-      "id": 9,
-      "name": "yvos",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
       "rank": 8,
-      "id": 11,
-      "name": "roro",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "pour": 0,
-      "contre": 0,
-      "played": 0,
-      "ga": 0
-    },
-    {
-      "rank": 9,
       "id": 12,
       "name": "keke l",
       "wins": 0,
@@ -123,7 +111,7 @@
       "ga": -2
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": 3,
       "name": "jp",
       "wins": 0,
@@ -135,7 +123,7 @@
       "ga": -6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": 4,
       "name": "lolo g",
       "wins": 0,
@@ -147,7 +135,7 @@
       "ga": -6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": 6,
       "name": "jc",
       "wins": 0,
@@ -157,6 +145,18 @@
       "contre": 13,
       "played": 1,
       "ga": -6
+    },
+    {
+      "rank": 12,
+      "id": 9,
+      "name": "yvos",
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "pour": 2,
+      "contre": 13,
+      "played": 1,
+      "ga": -11
     },
     {
       "rank": 13,
@@ -244,8 +244,8 @@
       "planche": 7,
       "t1": "roro",
       "t2": "yvos",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     }
   ],
   "nextMatches": [],
@@ -310,8 +310,8 @@
       "planche": 7,
       "t1": "roro",
       "t2": "yvos",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     }
   ]
 }
