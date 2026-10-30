@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-30T17:12:01.358Z",
-  "version": 1793380321358,
+  "updatedAt": "2026-10-30T17:12:04.228Z",
+  "version": 1793380324228,
   "standings": [
     {
       "rank": 1,
@@ -64,25 +64,25 @@
     },
     {
       "rank": 5,
-      "id": 5,
-      "name": "gg",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "pour": 20,
-      "contre": 41,
-      "played": 4,
-      "ga": -21
-    },
-    {
-      "rank": 6,
       "id": 3,
       "name": "nico",
       "wins": 1,
       "draws": 0,
       "losses": 3,
       "pour": 19,
-      "contre": 42,
+      "contre": 40,
+      "played": 4,
+      "ga": -21
+    },
+    {
+      "rank": 6,
+      "id": 5,
+      "name": "gg",
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "pour": 18,
+      "contre": 41,
       "played": 4,
       "ga": -23
     }
@@ -113,7 +113,7 @@
       "t1": "nico",
       "t2": "gg",
       "score1": "2",
-      "score2": "13"
+      "score2": "11"
     }
   ],
   "nextMatches": [],
@@ -143,7 +143,7 @@
       "t1": "nico",
       "t2": "gg",
       "score1": "2",
-      "score2": "13"
+      "score2": "11"
     },
     {
       "round": 3,
