@@ -11,32 +11,32 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-30T17:11:23.523Z",
-  "version": 1793380283523,
+  "updatedAt": "2026-10-30T17:11:49.010Z",
+  "version": 1793380309010,
   "standings": [
     {
       "rank": 1,
+      "id": 4,
+      "name": "tetelle",
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "pour": 42,
+      "contre": 18,
+      "played": 4,
+      "ga": 24
+    },
+    {
+      "rank": 2,
       "id": 6,
       "name": "lolo",
       "wins": 3,
       "draws": 0,
-      "losses": 0,
-      "pour": 39,
-      "contre": 14,
-      "played": 3,
-      "ga": 25
-    },
-    {
-      "rank": 2,
-      "id": 4,
-      "name": "tetelle",
-      "wins": 2,
-      "draws": 0,
       "losses": 1,
-      "pour": 29,
-      "contre": 17,
-      "played": 3,
-      "ga": 12
+      "pour": 40,
+      "contre": 27,
+      "played": 4,
+      "ga": 13
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "lolo",
       "t2": "tetelle",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "13"
     },
     {
       "round": 4,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "lolo",
       "t2": "tetelle",
-      "score1": "",
-      "score2": ""
+      "score1": "1",
+      "score2": "13"
     },
     {
       "round": 4,
