@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-30T17:14:23.884Z",
-  "version": 1793380463884,
+  "updatedAt": "2026-10-30T17:14:30.499Z",
+  "version": 1793380470499,
   "standings": [
     {
       "rank": 1,
@@ -52,6 +52,18 @@
     },
     {
       "rank": 4,
+      "id": 3,
+      "name": "nico",
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "pour": 50,
+      "contre": 62,
+      "played": 7,
+      "ga": -12
+    },
+    {
+      "rank": 5,
       "id": 6,
       "name": "lolo",
       "wins": 3,
@@ -63,28 +75,16 @@
       "ga": -21
     },
     {
-      "rank": 5,
-      "id": 3,
-      "name": "nico",
-      "wins": 2,
-      "draws": 0,
-      "losses": 4,
-      "pour": 37,
-      "contre": 57,
-      "played": 6,
-      "ga": -20
-    },
-    {
       "rank": 6,
       "id": 5,
       "name": "gg",
       "wins": 2,
       "draws": 0,
-      "losses": 4,
-      "pour": 35,
-      "contre": 59,
-      "played": 6,
-      "ga": -24
+      "losses": 5,
+      "pour": 40,
+      "contre": 72,
+      "played": 7,
+      "ga": -32
     }
   ],
   "currentMatches": [
@@ -112,8 +112,8 @@
       "planche": 3,
       "t1": "nico",
       "t2": "gg",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     }
   ],
   "nextMatches": [],
@@ -142,8 +142,8 @@
       "planche": 3,
       "t1": "nico",
       "t2": "gg",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     },
     {
       "round": 6,
