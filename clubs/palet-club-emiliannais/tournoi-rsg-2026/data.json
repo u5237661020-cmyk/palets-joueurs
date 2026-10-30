@@ -11,35 +11,23 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-30T17:09:37.955Z",
-  "version": 1793380177955,
+  "updatedAt": "2026-10-30T17:09:49.055Z",
+  "version": 1793380189055,
   "standings": [
     {
       "rank": 1,
       "id": 4,
       "name": "tetelle",
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "pour": 13,
-      "contre": 2,
-      "played": 1,
-      "ga": 11
+      "pour": 26,
+      "contre": 4,
+      "played": 2,
+      "ga": 22
     },
     {
       "rank": 2,
-      "id": 1,
-      "name": "vv",
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "pour": 13,
-      "contre": 3,
-      "played": 1,
-      "ga": 10
-    },
-    {
-      "rank": 3,
       "id": 6,
       "name": "lolo",
       "wins": 1,
@@ -49,6 +37,18 @@
       "contre": 9,
       "played": 1,
       "ga": 4
+    },
+    {
+      "rank": 3,
+      "id": 1,
+      "name": "vv",
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "pour": 15,
+      "contre": 16,
+      "played": 2,
+      "ga": -1
     },
     {
       "rank": 4,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "tetelle",
       "t2": "vv",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 2,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "tetelle",
       "t2": "vv",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "2"
     },
     {
       "round": 2,
