@@ -11,8 +11,8 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-11-25T17:09:56.241Z",
-  "version": 1795626596241,
+  "updatedAt": "2026-11-25T17:10:01.160Z",
+  "version": 1795626601160,
   "standings": [
     {
       "rank": 1,
@@ -28,6 +28,18 @@
     },
     {
       "rank": 2,
+      "id": 1,
+      "name": "pp",
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
+      "pour": 52,
+      "contre": 44,
+      "played": 6,
+      "ga": 8
+    },
+    {
+      "rank": 3,
       "id": 2,
       "name": "oo",
       "wins": 3,
@@ -39,28 +51,16 @@
       "ga": 5
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": 5,
       "name": "aa",
       "wins": 3,
       "draws": 0,
-      "losses": 2,
-      "pour": 44,
-      "contre": 44,
-      "played": 5,
-      "ga": 0
-    },
-    {
-      "rank": 4,
-      "id": 1,
-      "name": "pp",
-      "wins": 2,
-      "draws": 0,
       "losses": 3,
-      "pour": 42,
-      "contre": 42,
-      "played": 5,
-      "ga": 0
+      "pour": 46,
+      "contre": 54,
+      "played": 6,
+      "ga": -8
     },
     {
       "rank": 5,
@@ -103,8 +103,8 @@
       "planche": 2,
       "t1": "aa",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "2",
+      "score2": "10"
     },
     {
       "round": 6,
@@ -133,8 +133,8 @@
       "planche": 2,
       "t1": "aa",
       "t2": "pp",
-      "score1": "",
-      "score2": ""
+      "score1": "2",
+      "score2": "10"
     },
     {
       "round": 6,
