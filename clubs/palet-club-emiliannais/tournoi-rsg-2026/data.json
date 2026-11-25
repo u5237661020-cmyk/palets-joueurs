@@ -11,35 +11,23 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-11-25T17:04:16.423Z",
-  "version": 1795626256423,
+  "updatedAt": "2026-11-25T17:05:49.584Z",
+  "version": 1795626349584,
   "standings": [
     {
       "rank": 1,
       "id": 3,
       "name": "uu",
-      "wins": 3,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "pour": 39,
-      "contre": 9,
-      "played": 3,
-      "ga": 30
+      "pour": 52,
+      "contre": 14,
+      "played": 4,
+      "ga": 38
     },
     {
       "rank": 2,
-      "id": 2,
-      "name": "oo",
-      "wins": 2,
-      "draws": 0,
-      "losses": 1,
-      "pour": 28,
-      "contre": 19,
-      "played": 3,
-      "ga": 9
-    },
-    {
-      "rank": 3,
       "id": 5,
       "name": "aa",
       "wins": 2,
@@ -49,6 +37,18 @@
       "contre": 24,
       "played": 3,
       "ga": 3
+    },
+    {
+      "rank": 3,
+      "id": 2,
+      "name": "oo",
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "pour": 33,
+      "contre": 32,
+      "played": 4,
+      "ga": 1
     },
     {
       "rank": 4,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "uu",
       "t2": "oo",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     },
     {
       "round": 4,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "uu",
       "t2": "oo",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "5"
     },
     {
       "round": 4,
