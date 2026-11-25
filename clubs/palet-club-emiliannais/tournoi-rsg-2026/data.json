@@ -1,310 +1,33 @@
 {
   "tournoi": "Tournoi de Palets",
   "date": "",
-  "round": 7,
+  "round": 1,
   "totalRounds": 7,
-  "phase": "final",
-  "phaseLabel": "Tournoi terminé",
-  "finalComplete": true,
+  "phase": "qualifying",
+  "phaseLabel": "Partie 1",
+  "finalComplete": false,
   "headerRoundLabel": "PARTIE",
-  "headerRoundValue": "8/8",
-  "finalProgress": {
-    "done": 2,
-    "total": 2,
-    "current": 2,
-    "currentLabel": ""
-  },
+  "headerRoundValue": "1/8",
+  "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-10-30T17:15:21.062Z",
-  "version": 1793380521062,
+  "updatedAt": "2026-11-25T16:48:14.079Z",
+  "version": 1795625294079,
   "standings": [
     {
       "rank": 1,
-      "id": 2,
-      "name": "jp",
-      "wins": 6,
-      "draws": 0,
-      "losses": 2,
-      "pour": 89,
-      "contre": 40,
-      "played": 8,
-      "ga": 49
-    },
-    {
-      "rank": 2,
-      "id": 4,
-      "name": "tetelle",
-      "wins": 4,
-      "draws": 0,
-      "losses": 4,
-      "pour": 64,
-      "contre": 59,
-      "played": 8,
-      "ga": 5
-    },
-    {
-      "rank": 3,
       "id": 1,
-      "name": "vv",
-      "wins": 5,
+      "name": "pp",
+      "wins": 0,
       "draws": 0,
-      "losses": 3,
-      "pour": 70,
-      "contre": 52,
-      "played": 8,
-      "ga": 18
-    },
-    {
-      "rank": 4,
-      "id": 3,
-      "name": "nico",
-      "wins": 3,
-      "draws": 0,
-      "losses": 5,
-      "pour": 56,
-      "contre": 75,
-      "played": 8,
-      "ga": -19
-    },
-    {
-      "rank": 5,
-      "id": 6,
-      "name": "lolo",
-      "wins": 3,
-      "draws": 0,
-      "losses": 4,
-      "pour": 45,
-      "contre": 66,
-      "played": 7,
-      "ga": -21
-    },
-    {
-      "rank": 6,
-      "id": 5,
-      "name": "gg",
-      "wins": 2,
-      "draws": 0,
-      "losses": 5,
-      "pour": 40,
-      "contre": 72,
-      "played": 7,
-      "ga": -32
+      "losses": 0,
+      "pour": 0,
+      "contre": 0,
+      "played": 0,
+      "ga": 0
     }
   ],
   "currentMatches": [],
   "nextMatches": [],
-  "history": [
-    {
-      "round": "finale",
-      "roundLabel": "FINALE",
-      "planche": "FINALE",
-      "matchId": "finale",
-      "isFinal": true,
-      "t1": "jp",
-      "t2": "tetelle",
-      "score1": "13",
-      "score2": "6"
-    },
-    {
-      "round": "finale",
-      "roundLabel": "PETITE FINALE",
-      "planche": "PETITE FINALE",
-      "matchId": "petite",
-      "isFinal": true,
-      "t1": "vv",
-      "t2": "nico",
-      "score1": "13",
-      "score2": "6"
-    },
-    {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 1,
-      "t1": "jp",
-      "t2": "tetelle",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 2,
-      "t1": "vv",
-      "t2": "lolo",
-      "score1": "13",
-      "score2": "1"
-    },
-    {
-      "round": 7,
-      "roundLabel": "Partie 7",
-      "planche": 3,
-      "t1": "nico",
-      "t2": "gg",
-      "score1": "13",
-      "score2": "5"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 1,
-      "t1": "tetelle",
-      "t2": "jp",
-      "score1": "1",
-      "score2": "13"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 2,
-      "t1": "lolo",
-      "t2": "vv",
-      "score1": "2",
-      "score2": "13"
-    },
-    {
-      "round": 6,
-      "roundLabel": "Partie 6",
-      "planche": 3,
-      "t1": "gg",
-      "t2": "nico",
-      "score1": "2",
-      "score2": "13"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 1,
-      "t1": "tetelle",
-      "t2": "lolo",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 2,
-      "t1": "jp",
-      "t2": "vv",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 5,
-      "roundLabel": "Partie 5",
-      "planche": 3,
-      "t1": "gg",
-      "t2": "nico",
-      "score1": "13",
-      "score2": "5"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 1,
-      "t1": "lolo",
-      "t2": "tetelle",
-      "score1": "1",
-      "score2": "13"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 2,
-      "t1": "vv",
-      "t2": "jp",
-      "score1": "1",
-      "score2": "13"
-    },
-    {
-      "round": 4,
-      "roundLabel": "Partie 4",
-      "planche": 3,
-      "t1": "nico",
-      "t2": "gg",
-      "score1": "2",
-      "score2": "13"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 1,
-      "t1": "tetelle",
-      "t2": "lolo",
-      "score1": "3",
-      "score2": "13"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 2,
-      "t1": "nico",
-      "t2": "vv",
-      "score1": "1",
-      "score2": "13"
-    },
-    {
-      "round": 3,
-      "roundLabel": "Partie 3",
-      "planche": 3,
-      "t1": "jp",
-      "t2": "gg",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 1,
-      "t1": "tetelle",
-      "t2": "vv",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 2,
-      "t1": "lolo",
-      "t2": "jp",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 2,
-      "roundLabel": "Partie 2",
-      "planche": 3,
-      "t1": "nico",
-      "t2": "gg",
-      "score1": "13",
-      "score2": "3"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 1,
-      "t1": "tetelle",
-      "t2": "gg",
-      "score1": "13",
-      "score2": "2"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 2,
-      "t1": "lolo",
-      "t2": "jp",
-      "score1": "13",
-      "score2": "9"
-    },
-    {
-      "round": 1,
-      "roundLabel": "Partie 1",
-      "planche": 3,
-      "t1": "vv",
-      "t2": "nico",
-      "score1": "13",
-      "score2": "3"
-    }
-  ]
+  "history": []
 }
