@@ -11,20 +11,20 @@
   "finalProgress": null,
   "rulesText": "🏁 RÈGLEMENT DU TOURNOI\n\n• Chaque doublette joue les parties prévues en phase qualificative.\n• Une victoire rapporte 1 victoire au classement ; les départages se font selon le critère choisi dans la configuration.\n• Les points marqués et encaissés servent au goal-average si nécessaire.\n• En cas de phase finale, les équipes qualifiées disputent les demi-finales / finale ou finale directe selon le format retenu.\n• Si les matchs de classement sont activés, ils déterminent les places 5/6, 7/8, etc.\n• Tout score saisi et publié devient visible dans l'application joueurs.\n\nMerci de respecter le fair-play, les adversaires et les bénévoles. Bon tournoi à toutes et à tous !",
   "notificationLogo": "",
-  "updatedAt": "2026-11-25T17:02:10.337Z",
-  "version": 1795626130337,
+  "updatedAt": "2026-11-25T17:03:53.459Z",
+  "version": 1795626233459,
   "standings": [
     {
       "rank": 1,
       "id": 3,
       "name": "uu",
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "pour": 26,
-      "contre": 8,
-      "played": 2,
-      "ga": 18
+      "pour": 39,
+      "contre": 9,
+      "played": 3,
+      "ga": 30
     },
     {
       "rank": 2,
@@ -32,11 +32,11 @@
       "name": "aa",
       "wins": 2,
       "draws": 0,
-      "losses": 0,
-      "pour": 26,
-      "contre": 11,
-      "played": 2,
-      "ga": 15
+      "losses": 1,
+      "pour": 27,
+      "contre": 24,
+      "played": 3,
+      "ga": 3
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "planche": 1,
       "t1": "uu",
       "t2": "aa",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 3,
@@ -124,8 +124,8 @@
       "planche": 1,
       "t1": "uu",
       "t2": "aa",
-      "score1": "",
-      "score2": ""
+      "score1": "13",
+      "score2": "1"
     },
     {
       "round": 3,
